@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T07:02:56.648085+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-10-26T08:04:34.134284+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：愿在亚洲行期间会见金正恩",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "特朗普叫停美加贸易磋商 加拿大总理：愿在美国“准备好时”重启谈判",
@@ -74,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "伯南克与耶伦领衔 近50位经济学家呼吁美最高法院推翻特朗普关税政策",
@@ -86,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "特朗普玩“军阀剧本”这波绝了!",
@@ -97,19 +97,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普将在前往马来西亚的途中停留，会见卡塔尔埃米尔和卡塔尔首相。",
           "url": "https://flash.jin10.com/detail/20251025185202927800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "泰国总理将于周日在马来西亚与特朗普举行会谈。（彭博）",
@@ -119,19 +120,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-25）",
           "url": "https://flash.jin10.com/detail/20251025183737163800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "泰国政府声明：泰国外长将于周日停火协议签署仪式前与美国总统特朗普举行会晤。",
@@ -149,11 +151,67 @@
           "url": "https://news.ifeng.com/c/8nke38dJpcH",
           "source": "凤凰网",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普：对加拿大再征收10%额外关税",
+          "url": "https://news.ifeng.com/c/8nkgbcKnGsh",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时04分"
+        },
+        {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方征收10%额外关税",
+          "url": "https://flash.jin10.com/detail/20251026075858607800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普称“国际部队”不久将进驻加沙",
+          "url": "https://flash.jin10.com/detail/20251026075818400800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普为何邀高市早苗同乘总统专机",
+          "url": "https://www.toutiao.com/trending/7565296580341829126/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普称“国际部队”不久将进驻加沙",
+          "url": "https://www.toutiao.com/trending/7565087675402272806/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -182,8 +240,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -193,11 +251,12 @@
             12,
             10,
             9,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 08时04分]"
         },
         {
           "title": "美股为何一直在上涨",
