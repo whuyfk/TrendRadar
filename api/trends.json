@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T11:27:22.144395+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-10-27T12:08:18.715116+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -157,7 +157,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -181,9 +181,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时08分]"
         },
         {
           "title": "东盟峰会特朗普又来当主角",
@@ -197,17 +208,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时05分 ~ 10时33分]"
-        },
-        {
-          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
-          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时27分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -253,7 +253,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -264,7 +264,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -280,6 +280,39 @@
           "time_info": "09时31分"
         },
         {
+          "title": "巴西总统卢拉：已与特朗普提及委内瑞拉问题。",
+          "url": "https://flash.jin10.com/detail/20251027113525618800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
+          "url": "https://flash.jin10.com/detail/20251027113517357800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。 将在“几天内”与美国达成最终解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2993966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "美国总统特朗普结束马来西亚之行，将前往日本。",
           "url": "https://flash.jin10.com/detail/20251027095642195800",
           "source": "金十数据",
@@ -289,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
+          "url": "https://flash.jin10.com/detail/20251027113242354800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "德商银行：特朗普亚洲行“成果”或意味着与东盟的更多接触",
@@ -302,15 +346,48 @@
           "time_info": "10时33分"
         },
         {
+          "title": "巴西总统卢拉：（就特朗普在会谈中是否作出任何承诺表示）没有，作出承诺不是总统的职责。",
+          "url": "https://flash.jin10.com/detail/20251027113232713800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "巴西总统卢拉：博索纳罗案情严重，我告诉特朗普，他们曾密谋杀害我。",
+          "url": "https://flash.jin10.com/detail/20251027112719105800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
           "url": "https://flash.jin10.com/detail/20251027104546446800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "巴西总统卢拉：昨天会议上最热情的是美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251027112311246800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "特朗普抵达马来西亚和众人跳舞",
@@ -335,11 +412,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时08分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -360,7 +438,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -432,11 +510,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 11时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 12时08分]"
         }
       ]
     },
