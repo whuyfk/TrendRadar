@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T14:04:43.536006+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2025-11-01T15:04:10.536649+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 15时04分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 15时04分]"
         },
         {
           "title": "美参议院通过终止特朗普全面关税政策决议，这意味着什么？美国全面关税政策最终会取消吗？",
@@ -91,11 +91,23 @@
             18,
             16,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时04分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时04分]"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 15时04分]"
         },
         {
           "title": "美参议院通过终止特朗普关税决议",
@@ -113,15 +125,15 @@
           "time_info": "[03时01分 ~ 07时03分]"
         },
         {
-          "title": "特朗普：加总理道歉了，没用",
-          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
-          "source": "凤凰网",
+          "title": "加拿大总理卡尼：就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://flash.jin10.com/detail/20251101135652852800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 14时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
@@ -138,6 +150,17 @@
           "time_info": "[07时03分 ~ 10时31分]"
         },
         {
+          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
+          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 15时04分]"
+        },
+        {
           "title": "美国总统特朗普：将询问法院，我们如何尽快地为“补充营养援助计划”（SNAP）提供资金。",
           "url": "https://wallstreetcn.com/livenews/2997913",
           "source": "华尔街见闻-快讯",
@@ -150,6 +173,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时03分 ~ 10时31分]"
+        },
+        {
+          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
+          "url": "https://news.ifeng.com/c/8nvMEROArvE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时03分 ~ 15时04分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普正在敦促参议院考虑其他选择。",
@@ -252,17 +286,6 @@
           "time_info": "[09时31分 ~ 10时31分]"
         },
         {
-          "title": "特朗普内阁与高层相继搬家，入住军事基地，白宫：出于安全考虑",
-          "url": "https://news.ifeng.com/c/8nvJX38VYKS",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 14时04分]"
-        },
-        {
           "title": "白宫国家经济委员会主任哈塞特：（即便总统特朗普的美国政府连续31天关门）新增就业岗位和收入增长仍然是正面的。",
           "url": "https://wallstreetcn.com/livenews/2997872",
           "source": "华尔街见闻-快讯",
@@ -274,17 +297,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时03分 ~ 06时02分]"
-        },
-        {
-          "title": "从东南亚到东北亚，特朗普的核心目标是啥",
-          "url": "https://news.ifeng.com/c/8nvMEROArvE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时03分 ~ 14时04分]"
         },
         {
           "title": "特朗普呼吁废除参议院“拖延战术”议事规则，遭共和党内部反对",
@@ -378,6 +390,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大准备与美国谈判更好的贸易协议。 就（关税相关）广告向美国总统特朗普道歉。",
+          "url": "https://wallstreetcn.com/livenews/2997972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "特朗普宣布将尼日利亚列为“特别关注国” 谴责针对基督徒的暴力",
@@ -526,8 +549,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时04分 ~ 14时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 15时04分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -536,11 +559,12 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时03分 ~ 14时04分]"
+          "appearance_count": 13,
+          "time_info": "[07时03分 ~ 15时04分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -555,8 +579,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 14时04分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 15时04分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -696,11 +720,12 @@
             9,
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时02分 ~ 14时04分]"
+          "appearance_count": 14,
+          "time_info": "[06时02分 ~ 15时04分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -830,6 +855,23 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 08时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
+          "url": "https://wallstreetcn.com/articles/3758470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 15时04分]"
         }
       ]
     },
