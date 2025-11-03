@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T16:02:36.204519+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2025-11-03T17:02:59.067337+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -118,6 +118,19 @@
           "time_info": "[11时25分 ~ 14时04分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 17时02分]"
+        },
+        {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
           "url": "https://wallstreetcn.com/livenews/2998163",
           "source": "华尔街见闻-快讯",
@@ -147,18 +160,6 @@
           "time_info": "[00时04分 ~ 07时05分]"
         },
         {
-          "title": "特朗普：中美可以通过合作变得更加强大",
-          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 16时02分]"
-        },
-        {
           "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
           "url": "https://flash.jin10.com/detail/20251102220538929800",
           "source": "金十数据",
@@ -186,15 +187,15 @@
           "time_info": "[15时03分 ~ 16时02分]"
         },
         {
-          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
-          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
           "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时02分]"
         },
         {
           "title": "核武专家都在猜 特朗普这话什么意思",
@@ -212,15 +213,16 @@
           "time_info": "[09时30分 ~ 14时04分]"
         },
         {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
           "source": "凤凰网",
           "ranks": [
-            1
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 17时02分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -247,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美国总统特朗普：我不认为我们会对委内瑞拉发动战争。",
@@ -557,15 +570,37 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美政府停摆特朗普“甩锅”民主党",
+          "url": "https://www.toutiao.com/trending/7567615923956547626/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "特朗普称美将干预内塔尼亚胡受审",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
           "source": "百度热搜",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "特朗普亚洲行成果如何",
+          "url": "https://www.toutiao.com/trending/7568375018833317382/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "特朗普称他不会出席最高法院就关税措施合法性举行的听证会",
@@ -668,7 +703,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -847,6 +882,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金税收新规出台后，招行实体金条价格已含税",
+          "url": "https://wallstreetcn.com/livenews/2998489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
+          "url": "https://flash.jin10.com/detail/20251103162225875800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -857,7 +920,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -874,7 +937,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
