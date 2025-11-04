@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T16:02:52.201447+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2025-11-04T17:03:17.026713+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -54,6 +54,18 @@
           "time_info": "[00时03分 ~ 07时03分]"
         },
         {
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时02分 ~ 17时03分]"
+        },
+        {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
           "url": "https://www.cls.cn/detail/2190068",
           "source": "财联社热门",
@@ -81,20 +93,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时03分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普：美核武可毁灭世界150次",
-          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 16时02分]"
+          "appearance_count": 27,
+          "time_info": "[00时03分 ~ 17时03分]"
         },
         {
           "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
@@ -208,20 +208,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
         {
-          "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
-          "url": "https://wallstreetcn.com/livenews/2999077",
-          "source": "华尔街见闻-快讯",
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
           "ranks": [
-            5
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 17时03分]"
         },
         {
           "title": "美联储理事库克：有理由担心失业人口增加（这种风险）。 担心就业市场，因为它能迅速发生变化。 （企业/总统特朗普的联邦政府）宣布的裁员行动可能还没有实质化，需要通过数据来分析。",
@@ -261,15 +261,16 @@
           "time_info": "[03时03分 ~ 04时03分]"
         },
         {
-          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
-          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
-          "source": "凤凰网",
+          "title": "日本首相高市早苗：将与特朗普举行更多会晤以深化关系。",
+          "url": "https://wallstreetcn.com/livenews/2999077",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时03分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -380,6 +381,17 @@
           "time_info": "[04时03分 ~ 05时04分]"
         },
         {
+          "title": "特朗普对华政策的思路真改变了吗",
+          "url": "https://www.toutiao.com/trending/7568756885680033331/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
+        },
+        {
           "title": "美国大约24个州起诉特朗普政府限制“公共服务贷款豁免”的做法",
           "url": "https://wallstreetcn.com/livenews/2998683",
           "source": "华尔街见闻-快讯",
@@ -442,7 +454,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -464,7 +476,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -494,7 +506,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -504,8 +516,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[09时31分 ~ 17时03分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -555,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/2999122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
@@ -698,6 +721,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "华尔街多位CEO警告 美股可能因估值偏高出现逾10%的回调",
+          "url": "https://wallstreetcn.com/livenews/2999103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
           "url": "https://wallstreetcn.com/livenews/2998634",
           "source": "华尔街见闻-快讯",
@@ -831,8 +865,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时31分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[09时31分 ~ 17时03分]"
         },
         {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
@@ -916,7 +950,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -989,8 +1023,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时02分 ~ 16时02分]"
+          "appearance_count": 18,
+          "time_info": "[06时02分 ~ 17时03分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -1080,8 +1114,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时03分 ~ 16时02分]"
+          "appearance_count": 27,
+          "time_info": "[00时03分 ~ 17时03分]"
         }
       ]
     }
