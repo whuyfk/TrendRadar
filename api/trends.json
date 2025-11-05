@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T07:03:05.530096+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-11-05T08:07:42.537404+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -36,17 +36,6 @@
           "time_info": "[00时04分 ~ 07时03分]"
         },
         {
-          "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
-          "url": "https://flash.jin10.com/detail/20251105064331425800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。",
           "url": "https://wallstreetcn.com/livenews/2999304",
           "source": "华尔街见闻-快讯",
@@ -64,20 +53,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
         {
-          "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
-          "url": "https://flash.jin10.com/detail/20251105062051375800",
+          "title": "特朗普重新提名马斯克盟友为NASA局长",
+          "url": "https://flash.jin10.com/detail/20251105072824412800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时07分"
         },
         {
           "title": "知名银行家：特朗普时代掀并购潮，美国两三年内料有3000家银行被整合",
@@ -103,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "美国总统特朗普：我很高兴提名贾里德·艾萨克曼为美国国家航空航天局的局长。",
+          "url": "https://flash.jin10.com/detail/20251105064331425800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
         },
         {
           "title": "白宫：特朗普正在密切关注尼日利亚。",
@@ -163,6 +164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普：与瑞士代表讨论了贸易及贸易逆差等重要议题",
+          "url": "https://flash.jin10.com/detail/20251105062051375800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
         },
         {
           "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
@@ -309,13 +322,24 @@
           "time_info": "[04时02分 ~ 05时12分]"
         },
         {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 08时07分]"
+        },
+        {
           "title": "特朗普称最高法院关税案关乎美国存亡",
           "url": "https://flash.jin10.com/detail/20251105060423187800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -342,26 +366,37 @@
           "time_info": "04时02分"
         },
         {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
           "title": "据塔斯社援引克里姆林宫的话称，俄罗斯仍在等待美国就特朗普有关恢复核试验的言论作出澄清。",
           "url": "https://flash.jin10.com/detail/20251105055137506800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普的CBS《60分钟》采访吸引约1300万名观众",
+          "url": "https://flash.jin10.com/detail/20251105064332489800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
+          "url": "https://wallstreetcn.com/livenews/2999440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
@@ -378,7 +413,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -402,19 +437,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时07分]"
         },
         {
-          "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
-          "url": "https://flash.jin10.com/detail/20251105062032603800",
-          "source": "金十数据",
+          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
+          "url": "https://wallstreetcn.com/articles/3758628",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2191216",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时07分]"
         },
         {
           "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
@@ -441,15 +488,16 @@
           "time_info": "[06时02分 ~ 07时03分]"
         },
         {
-          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2191216",
-          "source": "财联社热门",
+          "title": "美股AI短线交易员周二救市失败，分析师称周三恐出现另一轮下跌",
+          "url": "https://flash.jin10.com/detail/20251105062032603800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
+          "time_info": "[07时03分 ~ 08时07分]"
         },
         {
           "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
@@ -464,6 +512,30 @@
           "time_info": "[06时02分 ~ 07时03分]"
         },
         {
+          "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
+          "url": "https://wallstreetcn.com/livenews/2999433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
+        },
+        {
+          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
+          "url": "https://flash.jin10.com/detail/20251105061222244800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时03分 ~ 08时07分]"
+        },
+        {
           "title": "半导体ETF收跌超3.6%，与航空业ETF领跌美股行业ETF，标普科技板块跌约2.3%",
           "url": "https://wallstreetcn.com/livenews/2999413",
           "source": "华尔街见闻-快讯",
@@ -476,26 +548,26 @@
           "time_info": "[06时02分 ~ 07时03分]"
         },
         {
-          "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
-          "url": "https://wallstreetcn.com/livenews/2999433",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛、大摩CEO齐发预警：美股估值太高了，可能出现至少10%回调！",
+          "url": "https://wallstreetcn.com/articles/3758633",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时07分"
         },
         {
-          "title": "美股散户指数创特朗普关税日以来的最大跌幅",
-          "url": "https://flash.jin10.com/detail/20251105061222244800",
-          "source": "金十数据",
+          "title": "美股收盘：百度涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
           "ranks": [
-            9
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时03分"
+          "time_info": "08时07分"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -515,7 +587,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         },
@@ -642,60 +714,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D25%26flag%3D1%26cate%3D5001%26realpos%3D25%26c_type%3D31%26stream_entry_id%3D31%26pos%3D25%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762271358%26pre_seqid%3D176227135822509959669&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时03分]"
-        },
-        {
-          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
-          "url": "https://flash.jin10.com/detail/20251105044443775800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
-          "url": "https://wallstreetcn.com/livenews/2999422",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时03分]"
-        },
-        {
-          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968706446079299701",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数4日上涨",
@@ -733,6 +753,17 @@
           "time_info": "[05时12分 ~ 06时02分]"
         },
         {
+          "title": "美元指数突破100大关，为8月1日来首次",
+          "url": "https://wallstreetcn.com/articles/3758608",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
           "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
           "url": "https://wallstreetcn.com/livenews/2999277",
           "source": "华尔街见闻-快讯",
@@ -742,6 +773,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D25%26flag%3D1%26cate%3D5001%26realpos%3D25%26c_type%3D31%26stream_entry_id%3D31%26pos%3D25%26lcate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1762271358%26pre_seqid%3D176227135822509959669&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时07分]"
+        },
+        {
+          "title": "金价跌至4000美元/盎司以下，分析师称其为“修正”",
+          "url": "https://flash.jin10.com/detail/20251105044443775800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "国际金价跌超1.7%，美股盘初一度跌穿3930美元",
+          "url": "https://wallstreetcn.com/livenews/2999422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时03分]"
+        },
+        {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
+          "url": "https://wallstreetcn.com/livenews/2999443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
