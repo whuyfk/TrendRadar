@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T13:03:01.500456+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-11-10T14:03:05.646151+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普宣布一个大消息",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时04分 ~ 14时03分]"
         },
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -46,6 +46,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时04分 ~ 09时30分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 14时03分]"
         },
         {
           "title": "最美词汇：特朗普对关税到底有什么误解？",
@@ -97,17 +111,55 @@
           "time_info": "[00时04分 ~ 06时03分]"
         },
         {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
+          "title": "特朗普被严重警告",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            7,
-            9
+            13,
+            12,
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 14时03分]"
+        },
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时30分 ~ 14时03分]"
+        },
+        {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 14时03分]"
+        },
+        {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 14时03分]"
         },
         {
           "title": "哥伦比亚总统警告特朗普和鲁比奥：你们“小心点”。（澎湃）",
@@ -133,55 +185,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时32分 ~ 11时27分]"
-        },
-        {
-          "title": "特朗普被严重警告",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 13时03分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 13时03分]"
-        },
-        {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 13时03分]"
-        },
-        {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
@@ -308,6 +311,18 @@
           "time_info": "[10时32分 ~ 12时08分]"
         },
         {
+          "title": "专家：特朗普发钱一箭三雕",
+          "url": "https://www.toutiao.com/trending/7570931158150565427/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 14时03分]"
+        },
+        {
           "title": "美国政府停摆 特朗普享乐被痛批",
           "url": "https://www.toutiao.com/trending/7569948276263731251/",
           "source": "今日头条",
@@ -384,15 +399,15 @@
           "time_info": "[05时02分 ~ 06时03分]"
         },
         {
-          "title": "专家：特朗普发钱一箭三雕",
-          "url": "https://www.toutiao.com/trending/7570931158150565427/",
-          "source": "今日头条",
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "特朗普拟向民众发关税红利有何目的",
@@ -404,6 +419,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "如何看待特朗普要给美国民众发钱",
+          "url": "https://www.toutiao.com/trending/7570944913760587274/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "BBC两名高管因特朗普纪录片争议宣布辞职",
@@ -467,8 +493,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 13时03分]"
+          "appearance_count": 20,
+          "time_info": "[00时04分 ~ 14时03分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -476,11 +502,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时32分 ~ 14时03分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -490,8 +517,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 14时03分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -549,11 +576,12 @@
           "source": "微博",
           "ranks": [
             22,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 13时03分]"
+          "appearance_count": 7,
+          "time_info": "[11时26分 ~ 14时03分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
