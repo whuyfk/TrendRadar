@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T07:02:41.072130+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-11-14T08:04:17.577360+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普政府撤回最高法院紧急食品券案",
@@ -127,6 +127,17 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
+          "title": "2万页爱泼斯坦邮件曝光，称特朗普私下里比公开形象更糟糕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31955857",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
           "title": "美国农业部长Rollins承认：特朗普咖啡关税（威胁）已经推高（美国市场的咖啡）价格。",
           "url": "https://wallstreetcn.com/livenews/3004286",
           "source": "华尔街见闻-快讯",
@@ -173,6 +184,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "特朗普政府取消阿拉斯加石油储备开采禁令",
+          "url": "https://flash.jin10.com/detail/20251114071955731800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "美国官员向特朗普提交了对委内瑞拉的军事选项。",
           "url": "https://flash.jin10.com/detail/20251114003644519800",
           "source": "金十数据",
@@ -184,6 +206,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美媒：特朗普政府计划扩大食品关税豁免范围",
+          "url": "https://flash.jin10.com/detail/20251114071440770800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "据福克斯新闻：特朗普领导下的司法部已对加州民主党众议员Eric Swalwell展开调查，指控其涉嫌抵押贷款欺诈。Eric Swalwell表示对特朗普提起诉讼，声称自己因政治原因成为攻击目标。",
           "url": "https://flash.jin10.com/detail/20251114052910202800",
           "source": "金十数据",
@@ -193,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普拉拢华尔街人士 摩根大通、黑石等高管据悉出席白宫晚宴",
+          "url": "https://wallstreetcn.com/livenews/3004438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
@@ -212,9 +256,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国准备实施一定程度上的关税豁免，从而降低食品价格。 其中将包括牛肉和柑橘（类）产品。 然而，总统特朗普尚未做最终的决定。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3004430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "BBC就“拼接”视频向特朗普道歉 但拒付赔偿",
@@ -297,7 +352,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -315,15 +370,16 @@
           "time_info": "[01时03分 ~ 07时02分]"
         },
         {
-          "title": "应用材料美股盘后跌超4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3004422",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时04分]"
         },
         {
           "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
@@ -336,6 +392,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "应用材料美股盘后跌超4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D6%26c_type%3D31%26q%3D%25E7%25BE%258E%25E8%2582%25A1%26dgr%3D0%26cate%3D5001%26pos%3D6%26realpos%3D6%26stream_entry_id%3D31%26display_time%3D1763078521%26pre_seqid%3D17630785216610112969426&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
@@ -362,15 +441,26 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "美股全线下挫 特斯拉跌超6%",
+          "url": "https://www.toutiao.com/trending/7571618548569735174/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -423,7 +513,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -475,7 +565,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -486,8 +576,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 08时04分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -496,33 +586,47 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 08时04分]"
+        },
+        {
+          "title": "法官裁定苹果与OpenAI需回应马斯克的反竞争诉讼",
+          "url": "https://flash.jin10.com/detail/20251114074335819800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国法院：现在，OpenAI与苹果公司必须面临马斯克旗下社交媒体平台X公司（原名推特）的反垄断官司。",
           "url": "https://wallstreetcn.com/livenews/3004415",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
         },
         {
           "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
           "url": "https://flash.jin10.com/detail/20251114061331126800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
         },
         {
           "title": "OpenAI：我们开发了一种新的方法来训练小型人工智能模型，这些模型具有更容易被人类理解的内部机制。 ChatGPT 背后的语言模型具有复杂且有时令人惊讶的结构，我们尚未完全了解它们是如何工作的。 这种方法有助于我们开始缩小这一差距。",
@@ -570,7 +674,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
