@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T16:02:57.518385+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2025-11-14T17:02:59.061633+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时04分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 17时02分]"
         },
         {
           "title": "韩国方面表示，特朗普为事实清单做出了理性的决定。",
@@ -49,7 +49,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
@@ -219,6 +230,17 @@
           "time_info": "[03时02分 ~ 04时02分]"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "美、布两油短线波动不大，此前有报道称，美国高级官员近日向特朗普提交针对委内瑞拉的军事行动方案。",
           "url": "https://flash.jin10.com/detail/20251114004309713800",
           "source": "金十数据",
@@ -324,7 +346,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -589,7 +611,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -911,8 +933,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "黄金价格小幅下跌 但本周涨幅有望超4%",
+          "url": "https://flash.jin10.com/detail/20251114164533149800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
         {
           "title": "金十图示：2025年11月14日（周五）上海金午盘价为951.06元/克，较国际金价(952.99元/克)，低1.93元/克",
           "url": "https://flash.jin10.com/detail/20251114150805305800",
@@ -920,7 +953,35 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
+          "url": "https://flash.jin10.com/detail/20251114165105993800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "英国海事安全公司Ambrey：该油轮正驶向伊朗领海，组织认为此次事件很可能是有针对性的。",
+          "url": "https://flash.jin10.com/detail/20251114151828738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -941,23 +1002,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国海事安全公司Ambrey：该油轮正驶向伊朗领海，组织认为此次事件很可能是有针对性的。",
-          "url": "https://flash.jin10.com/detail/20251114151828738800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         }
       ]
     }
