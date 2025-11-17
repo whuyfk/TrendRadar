@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T14:02:35.045803+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-11-17T15:02:49.983427+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 08时04分]"
+        },
+        {
+          "title": "曝特朗普与昔日得力干将决裂",
+          "url": "https://www.toutiao.com/trending/7573470510160399923/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            20,
+            9,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 15时02分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -44,21 +59,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 06时02分]"
-        },
-        {
-          "title": "曝特朗普与昔日得力干将决裂",
-          "url": "https://www.toutiao.com/trending/7573470510160399923/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            20,
-            9,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 14时02分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -169,6 +169,17 @@
           "time_info": "09时30分"
         },
         {
+          "title": "特朗普支持公布爱泼斯坦文件",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%96%87%E4%BB%B6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%2594%25AF%25E6%258C%2581%25E5%2585%25AC%25E5%25B8%2583%25E7%2588%25B1%25E6%25B3%25BC%25E6%2596%25AF%25E5%259D%25A6%25E6%2596%2587%25E4%25BB%25B6%2523%26realpos%3D19%26band_rank%3D19%26pos%3D20%26dgr%3D0%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26display_time%3D1763362858%26pre_seqid%3D17633628585630280741039&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "特朗普：委内瑞拉希望与美国对话 可能会与马杜罗交谈",
           "url": "https://flash.jin10.com/detail/20251117082522544800",
           "source": "金十数据",
@@ -186,7 +197,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -347,8 +358,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 14时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 15时02分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -372,8 +383,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 14时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时02分]"
         }
       ]
     },
@@ -416,11 +427,12 @@
           "url": "https://wallstreetcn.com/livenews/3005624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时02分]"
         }
       ]
     },
