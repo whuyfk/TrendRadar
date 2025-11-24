@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:02:37.978025+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2025-11-24T16:02:41.096459+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时30分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 16时02分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -177,6 +177,18 @@
           "time_info": "[07时02分 ~ 08时04分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
           "url": "https://flash.jin10.com/detail/20251124040847744800",
           "source": "金十数据",
@@ -237,18 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时30分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
         },
         {
           "title": "特朗普：期待最高法院对关税问题的裁决。",
@@ -344,7 +344,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -363,11 +363,12 @@
             13,
             5,
             9,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 14时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 16时02分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -381,6 +382,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 14时02分]"
+        },
+        {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -419,8 +431,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时02分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
@@ -501,7 +513,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
@@ -514,6 +526,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 12时11分]"
+        },
+        {
+          "title": "Reliance分析师：未来三至五周，金价将呈现持平至负面基调",
+          "url": "https://flash.jin10.com/detail/20251124154725600800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     }
