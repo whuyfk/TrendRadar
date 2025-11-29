@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T13:02:40.739326+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-11-29T14:02:46.290021+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -151,6 +151,22 @@
           "time_info": "[09时29分 ~ 12时03分]"
         },
         {
+          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
+          "url": "https://wallstreetcn.com/livenews/3012411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            11,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 14时02分]"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
           "url": "https://flash.jin10.com/detail/20251129032541398800",
           "source": "金十数据",
@@ -162,21 +178,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时02分 ~ 09时30分]"
-        },
-        {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            11,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -253,6 +254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         }
       ]
     },
@@ -266,11 +278,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 14时02分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -328,6 +341,36 @@
           "time_info": "[04时02分 ~ 12时03分]"
         },
         {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            12,
+            17,
+            21,
+            25,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 14时02分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 14时02分]"
+        },
+        {
           "title": "美股三大指数收涨 英特尔暴涨10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%94%B6%E6%B6%A8+%E8%8B%B1%E7%89%B9%E5%B0%94%E6%9A%B4%E6%B6%A810%25",
           "source": "百度热搜",
@@ -340,35 +383,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时29分 ~ 13时02分]"
-        },
-        {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            12,
-            17,
-            21,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 13时02分]"
-        },
-        {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -538,7 +552,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -548,11 +562,23 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 14时02分]"
+        },
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
@@ -588,11 +614,12 @@
           "url": "https://www.douyin.com/hot/2321048",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 14时02分]"
         }
       ]
     },
@@ -659,8 +686,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时03分 ~ 14时02分]"
         }
       ]
     },
