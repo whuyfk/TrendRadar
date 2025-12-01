@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T16:02:41.192009+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-12-01T17:04:23.180875+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "“特朗普交易”遭重创",
@@ -40,8 +40,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 17时04分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 17时04分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -68,21 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时04分 ~ 15时03分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 16时02分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -193,6 +193,18 @@
           "time_info": "[07时02分 ~ 08时04分]"
         },
         {
+          "title": "特朗普与委总统通话，直接要求对方下台！",
+          "url": "https://wallstreetcn.com/articles/3760404",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时32分 ~ 17时04分]"
+        },
+        {
           "title": "美防长被爆在一次打击行动中下令杀光所有人，特朗普回应",
           "url": "https://news.ifeng.com/c/8ojG5nBjIJr",
           "source": "凤凰网",
@@ -203,18 +215,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普与委总统通话，直接要求对方下台！",
-          "url": "https://wallstreetcn.com/articles/3760404",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 12时21分]"
         },
         {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
@@ -311,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时32分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
@@ -459,11 +470,12 @@
             26,
             18,
             29,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 16时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 17时04分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -498,9 +510,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时04分]"
         }
       ]
     },
@@ -561,6 +573,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 14时02分]"
+        },
+        {
+          "title": "软银CEO：我本不愿抛售任何一份英伟达(NVDA.O)股票，但我急需资金投入OpenAI及我们的新机遇。",
+          "url": "https://flash.jin10.com/detail/20251201161616211800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -571,7 +611,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -582,7 +622,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -632,23 +672,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 09时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 14时02分]"
         }
       ]
     },
