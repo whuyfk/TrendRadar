@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T22:02:39.384226+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-21T23:02:22.886277+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时03分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 23时02分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -63,6 +63,17 @@
           "time_info": "[00时02分 ~ 11时31分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时02分 ~ 23时02分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
           "url": "https://flash.jin10.com/detail/20251220184219205800",
           "source": "金十数据",
@@ -72,17 +83,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 08时04分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时02分 ~ 22时02分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -99,6 +99,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时02分 ~ 20时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时02分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：目前正在关注核心通胀三个月平均为1.6%。 特朗普在美联储主席候选人中寻求数据依赖型人选。",
+          "url": "https://wallstreetcn.com/livenews/3024440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -164,20 +190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 22时02分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -264,6 +276,84 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时30分 ~ 18时02分]"
+        },
+        {
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 17时02分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时09分 ~ 23时02分]"
+        },
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -337,9 +427,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -351,73 +441,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时09分 ~ 21时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时30分 ~ 18时02分]"
-        },
-        {
-          "title": "Gemini数学实力测试",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时02分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 22时02分]"
         }
       ]
     },
@@ -464,8 +487,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时02分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[14时02分 ~ 23时02分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -512,20 +535,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时03分 ~ 22时02分]"
-        },
-        {
-          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
-          "url": "https://flash.jin10.com/detail/20251221203127694800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[13时03分 ~ 23时02分]"
         },
         {
           "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
@@ -533,11 +544,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时02分]"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://flash.jin10.com/detail/20251221203127694800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时02分]"
         },
         {
           "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
@@ -545,11 +570,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 22时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时02分]"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
@@ -621,8 +647,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时09分 ~ 23时02分]"
         }
       ]
     }
