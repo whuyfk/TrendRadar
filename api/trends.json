@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T09:31:25.773668+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-22T10:38:33.822695+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时38分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -98,8 +98,22 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 10时38分]"
+        },
+        {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[02时02分 ~ 09时31分]"
+          "time_info": "[03时02分 ~ 10时38分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -113,20 +127,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时02分 ~ 08时04分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时02分 ~ 09时31分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -176,7 +176,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -184,7 +184,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -252,6 +252,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美媒：以色列或再打伊朗",
+          "url": "https://www.douyin.com/hot/2343367",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "美军为何批量山寨伊朗“小摩托”",
           "url": "https://www.toutiao.com/trending/7585348306629361718/",
           "source": "今日头条",
@@ -274,22 +285,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时38分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 10时38分]"
         }
       ]
     },
@@ -305,11 +318,12 @@
             3,
             4,
             2,
-            1
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 10时38分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -351,7 +365,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
