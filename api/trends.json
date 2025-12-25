@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:02:54.596207+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-25T20:02:37.046772+08:00",
+  "total_titles_processed": 1702,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 20时02分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 20时02分]"
         },
         {
           "title": "特朗普挑战纽约“绿灯法”受挫",
@@ -206,7 +206,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -259,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时03分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时03分 ~ 20时02分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -284,11 +284,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时35分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 20时02分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -476,11 +477,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 20时02分]"
         },
         {
           "title": "金价又创历史新高",
@@ -534,6 +536,18 @@
           "time_info": "[01时02分 ~ 02时03分]"
         },
         {
+          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
+          "url": "https://flash.jin10.com/detail/20251225181314638800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
+        },
+        {
           "title": "伊朗在波斯湾查获一艘走私燃料的船只",
           "url": "https://flash.jin10.com/detail/20251225000525824800",
           "source": "金十数据",
@@ -544,17 +558,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时03分]"
-        },
-        {
-          "title": "以色列公民被控为伊朗间谍 曾侦察前总理住所",
-          "url": "https://flash.jin10.com/detail/20251225181314638800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "市场消息：伊朗拒绝接受对遭轰炸地点的核查，并要求国际原子能机构澄清立场。",
@@ -634,6 +637,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -678,23 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     }
