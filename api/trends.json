@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T17:03:57.091644+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2025-12-25T18:02:27.257190+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -60,11 +60,35 @@
           "url": "https://news.ifeng.com/c/8pNHf17pGd9",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 18时02分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时03分"
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普挑战纽约“绿灯法”受挫",
@@ -76,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -234,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时03分 ~ 17时03分]"
+          "appearance_count": 14,
+          "time_info": "[08时03分 ~ 18时02分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -257,11 +270,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 17时03分]"
+          "appearance_count": 9,
+          "time_info": "[10时35分 ~ 18时02分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
@@ -413,7 +427,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价狂飙 千元内几乎买不到金饰",
@@ -464,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "金十图示：2025年12月25日（周四）上海金早盘价为1002.46元/克，较国际金价(1008.23元/克)，低5.77元/克",
