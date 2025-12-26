@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T08:04:29.505548+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-12-26T09:31:10.039209+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -78,13 +78,25 @@
           "time_info": "[01时02分 ~ 04时02分]"
         },
         {
+          "title": "专家：特朗普或在2026“压榨”美联储",
+          "url": "https://www.toutiao.com/trending/7587727738132270635/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -95,7 +107,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -106,7 +118,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -117,20 +129,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
         {
-          "title": "专家：特朗普或在2026“压榨”美联储",
-          "url": "https://www.toutiao.com/trending/7587727738132270635/",
-          "source": "今日头条",
+          "title": "俄外交部：希望特朗普在委内瑞拉局势问题上“务实和理性”",
+          "url": "https://wallstreetcn.com/livenews/3026898",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         }
       ]
     },
@@ -197,7 +209,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -228,6 +240,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
+          "url": "https://wallstreetcn.com/livenews/3026903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -245,8 +268,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         }
       ]
     },
