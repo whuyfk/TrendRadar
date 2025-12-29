@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:14:54.629425+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-12-29T22:03:07.554681+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -128,6 +128,19 @@
           "time_info": "[09时30分 ~ 14时03分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时05分 ~ 22时03分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
           "url": "https://wallstreetcn.com/livenews/3027672",
           "source": "华尔街见闻-快讯",
@@ -191,19 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时05分 ~ 21时14分]"
         },
         {
           "title": "特朗普与泽连斯基会晤",
@@ -671,6 +671,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯将帮助乌克兰重建。普京曾慷慨地帮助了乌克兰，包括以低价供应能源。",
           "url": "https://flash.jin10.com/detail/20251229061318480800",
           "source": "金十数据",
@@ -1101,7 +1112,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1124,9 +1135,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 22时03分]"
+        },
+        {
+          "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2243270",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -1165,6 +1187,60 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
+          "url": "https://wallstreetcn.com/livenews/3027666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            17,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：周一，大量伊朗电话号码向以色列手机用户发送短信。以色列方面警告收件人不要回复。",
+          "url": "https://flash.jin10.com/detail/20251229213948529800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "伊朗前外长：内塔尼亚胡扼杀每个和平机会",
+          "url": "https://wallstreetcn.com/livenews/3028193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
+          "url": "https://wallstreetcn.com/livenews/3027940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1174,11 +1250,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时14分]"
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 22时03分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
@@ -1187,9 +1264,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 22时03分]"
         }
       ]
     },
@@ -1246,38 +1323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
-          "url": "https://wallstreetcn.com/livenews/3027666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
-          "url": "https://wallstreetcn.com/livenews/3027940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时05分"
         }
       ]
     },
