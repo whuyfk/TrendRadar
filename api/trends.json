@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T16:02:53.789692+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2025-12-31T17:04:14.567218+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -204,6 +204,17 @@
           "time_info": "[11时29分 ~ 11时31分]"
         },
         {
+          "title": "特朗普关于伊朗的强硬表态释放何信号",
+          "url": "https://www.toutiao.com/trending/7589843589102833215/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
           "title": "美国联邦法官告知美国总统特朗普政府，其必须为消费者金融保护局申请资金。",
           "url": "https://flash.jin10.com/detail/20251230232316390800",
           "source": "金十数据",
@@ -328,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时03分 ~ 16时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时03分 ~ 17时04分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -547,6 +558,81 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伊朗外长：伊朗不会放弃和平核技术",
+          "url": "https://wallstreetcn.com/livenews/3028875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时02分]"
+        },
+        {
+          "title": "年末伊朗又起内忧：货币暴跌、三年来最大抗议",
+          "url": "https://news.ifeng.com/c/8pXBVSUicd9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "伊朗外长：伊朗不会放弃和平核技术",
+          "url": "https://flash.jin10.com/detail/20251231010744539800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时03分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗正在恢复弹道导弹生产。",
+          "url": "https://flash.jin10.com/detail/20251231071734858800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
+          "url": "https://flash.jin10.com/detail/20251230230520346800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
+          "url": "https://wallstreetcn.com/livenews/3028833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -594,7 +680,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -604,70 +690,6 @@
           "source": "微博",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://wallstreetcn.com/livenews/3028875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
-        },
-        {
-          "title": "伊朗外长：伊朗不会放弃和平核技术",
-          "url": "https://flash.jin10.com/detail/20251231010744539800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时03分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：伊朗正在恢复弹道导弹生产。",
-          "url": "https://flash.jin10.com/detail/20251231071734858800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
-          "url": "https://flash.jin10.com/detail/20251230230520346800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
-          "url": "https://wallstreetcn.com/livenews/3028833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
