@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T09:31:17.076141+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2025-12-31T10:35:40.523311+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,18 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 10时35分]"
+        },
+        {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
@@ -48,18 +60,6 @@
           "time_info": "[00时02分 ~ 09时31分]"
         },
         {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 09时31分]"
-        },
-        {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
           "url": "https://www.cls.cn/detail/2244733",
           "source": "财联社热门",
@@ -68,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 09时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 10时35分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -236,7 +236,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -417,6 +417,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "特朗普为何称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589509514882891795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
           "url": "https://wallstreetcn.com/livenews/3028915",
           "source": "华尔街见闻-快讯",
@@ -437,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普或已备好关税“B计划”",
+          "url": "https://www.toutiao.com/trending/7589626481093905956/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
@@ -580,7 +602,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -591,7 +613,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -710,6 +732,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     }
