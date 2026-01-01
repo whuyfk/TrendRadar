@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:02:45.124504+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-01-01T21:13:11.569755+08:00",
+  "total_titles_processed": 1510,
   "failed_sources": [],
   "trends": [
     {
@@ -123,6 +123,18 @@
           "time_info": "[00时02分 ~ 02时02分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时13分]"
+        },
+        {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
           "url": "https://flash.jin10.com/detail/20260101024610835800",
           "source": "金十数据",
@@ -207,17 +219,6 @@
           "time_info": "[12时20分 ~ 13时07分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
           "url": "https://flash.jin10.com/detail/20260101045615854800",
           "source": "金十数据",
@@ -258,8 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时03分 ~ 20时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时03分 ~ 21时13分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -374,8 +375,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -385,11 +386,12 @@
             2,
             6,
             9,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时04分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[17时04分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -398,11 +400,12 @@
           "ranks": [
             3,
             8,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 21时13分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -469,6 +472,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "内塔尼亚胡喊话伊朗",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
+          "url": "https://wallstreetcn.com/livenews/3029613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "伊朗总统：伊朗正处于一场全面战争中",
+          "url": "https://flash.jin10.com/detail/20260101195820608800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         }
       ]
     },
@@ -557,24 +600,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内塔尼亚胡喊话伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 08时04分]"
         }
       ]
     }
