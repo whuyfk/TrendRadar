@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T08:04:37.799194+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-01-11T09:31:28.533010+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             5,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 09时31分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -42,19 +43,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
+        },
+        {
+          "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
+          "url": "https://wallstreetcn.com/articles/3763015",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 09时31分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
           "url": "https://www.zhihu.com/question/1993265925231761101",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -66,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -111,19 +127,6 @@
           "time_info": "[00时03分 ~ 08时04分]"
         },
         {
-          "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
-          "url": "https://wallstreetcn.com/articles/3763015",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 08时04分]"
-        },
-        {
           "title": "意大利总理说很多问题上不同意特朗普做法",
           "url": "https://wallstreetcn.com/livenews/3034549",
           "source": "华尔街见闻-快讯",
@@ -147,6 +150,17 @@
           "time_info": "[00时02分 ~ 01时02分]"
         },
         {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
           "title": "特朗普：很快打击墨境内",
           "url": "https://wallstreetcn.com/livenews/3034537",
           "source": "华尔街见闻-快讯",
@@ -158,15 +172,27 @@
           "time_info": "[00时03分 ~ 06时02分]"
         },
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
-          "source": "凤凰网",
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时02分 ~ 09时31分]"
+        },
+        {
+          "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
+          "url": "https://flash.jin10.com/detail/20260111084513676800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时04分"
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普再次威胁干涉伊朗，称准备提供“帮助”",
@@ -175,9 +201,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
+          "url": "https://flash.jin10.com/detail/20260111084158477800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/livenews/3034596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
+          "url": "https://flash.jin10.com/detail/20260111083436451800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -193,16 +252,15 @@
           "time_info": "[00时02分 ~ 03时02分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
+          "title": "特朗普已听取关于打击伊朗的简报，特朗普尚未就是否打击伊朗做出最终决定。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3034594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时02分 ~ 08时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -210,22 +268,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普宣布进入国家紧急状态",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 09时31分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -234,7 +282,18 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普宣布进入国家紧急状态",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -245,9 +304,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普再次威胁干涉伊朗 称准备提供“帮助”",
+          "url": "https://flash.jin10.com/detail/20260111081229064800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普称没必要抓普京",
+          "url": "https://www.douyin.com/hot/2363291",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
+          "url": "https://flash.jin10.com/detail/20260110232001539800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普再次威胁干涉伊朗",
@@ -256,9 +348,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普回应是否抓捕普京：没必要",
+          "url": "https://www.toutiao.com/trending/7593626358950494235/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普再次威胁干涉伊朗",
@@ -267,7 +370,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         }
@@ -275,19 +378,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "伊朗军方：将捍卫国家利益",
-          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时02分]"
-        },
         {
           "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
           "url": "https://www.zhihu.com/question/1993449447351349768",
@@ -300,19 +392,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 08时04分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 09时31分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
           "url": "https://flash.jin10.com/detail/20260110220521103800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 09时31分]"
+        },
+        {
+          "title": "伊朗军方：将捍卫国家利益",
+          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时04分]"
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -349,6 +453,28 @@
           "time_info": "[00时02分 ~ 04时02分]"
         },
         {
+          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
+          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗官员：这是外部势力策划的混合战争，旨在引发内战",
+          "url": "https://news.ifeng.com/c/8poxqz20kTm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "伊朗军方表示将捍卫国家利益",
           "url": "https://www.toutiao.com/trending/7593710160993026067/",
           "source": "今日头条",
@@ -359,6 +485,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "消息人士称以军目前没有对伊朗的进攻意图",
+          "url": "https://wallstreetcn.com/livenews/3034591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "消息人士称以军目前没有对伊朗的进攻意图",
+          "url": "https://flash.jin10.com/detail/20260111081558961800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗人民将坚定支持国家",
+          "url": "https://www.toutiao.com/trending/7593086043964981267/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -375,11 +545,12 @@
             5,
             3,
             17,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -392,8 +563,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -402,11 +573,12 @@
           "ranks": [
             21,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -416,8 +588,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -445,11 +617,12 @@
           "url": "https://wallstreetcn.com/livenews/3034579",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 09时31分]"
         }
       ]
     },
