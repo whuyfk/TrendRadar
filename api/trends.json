@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T19:02:38.327354+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2026-01-24T20:02:45.988036+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -112,8 +112,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时13分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 20时02分]"
         },
         {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
@@ -123,8 +123,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时30分 ~ 19时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时30分 ~ 20时02分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 20时02分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -163,19 +176,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[08时03分 ~ 19时02分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 19时02分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -326,6 +326,22 @@
           "time_info": "[04时02分 ~ 09时31分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 20时02分]"
+        },
+        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
           "url": "https://wallstreetcn.com/livenews/3043204",
           "source": "华尔街见闻-快讯",
@@ -350,6 +366,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 20时02分]"
+        },
+        {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
@@ -394,21 +435,6 @@
           "time_info": "[15时03分 ~ 19时02分]"
         },
         {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时03分 ~ 19时02分]"
-        },
-        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://flash.jin10.com/detail/20260124082538327800",
           "source": "金十数据",
@@ -422,19 +448,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时31分 ~ 13时03分]"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时02分]"
         },
         {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
@@ -538,6 +551,17 @@
           "time_info": "[10时34分 ~ 11时31分]"
         },
         {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 20时02分]"
+        },
+        {
           "title": "英国首相呼吁特朗普就北约言论道歉",
           "url": "https://www.toutiao.com/trending/7598350271315836934/",
           "source": "今日头条",
@@ -589,17 +613,6 @@
           "time_info": "[09时31分 ~ 11时31分]"
         },
         {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 19时02分]"
-        },
-        {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
           "url": "https://www.toutiao.com/trending/7598238497476034602/",
           "source": "今日头条",
@@ -620,6 +633,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 10时35分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
         },
         {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
@@ -643,17 +668,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
-          "url": "https://flash.jin10.com/detail/20260124175804687800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -703,7 +717,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -912,11 +926,12 @@
           "ranks": [
             6,
             13,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时02分 ~ 20时02分]"
         },
         {
           "title": "伊朗方面称，两名与“伊斯兰国”有关联的男子因2023年载有朝圣者的巴士的爆炸案被处决。",
@@ -981,6 +996,17 @@
           "time_info": "[01时06分 ~ 02时03分]"
         },
         {
+          "title": "消息人士：美国正在向玻利维亚施压，要求其驱逐疑似伊朗间谍，并将伊朗伊斯兰革命卫队（IRGC）列为恐怖组织。美国官员也在讨论在智利、秘鲁、巴拿马采取类似举措。",
+          "url": "https://flash.jin10.com/detail/20260124190033665800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "联合国人权理事会通过一项动议，延长对伊朗的调查，并呼吁就抗议活动展开紧急调查。",
           "url": "https://flash.jin10.com/detail/20260124005640006800",
           "source": "金十数据",
@@ -1027,8 +1053,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时03分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时03分 ~ 20时02分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -1037,11 +1063,12 @@
           "ranks": [
             5,
             3,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时03分 ~ 19时02分]"
+          "appearance_count": 16,
+          "time_info": "[08时03分 ~ 20时02分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1356,9 +1383,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时02分]"
         }
       ]
     },
