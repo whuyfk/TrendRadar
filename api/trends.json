@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T05:04:38.057527+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-01-30T06:04:08.968515+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
@@ -27,19 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
-        },
-        {
-          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
-          "url": "https://wallstreetcn.com/livenews/3046673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "特朗普称美方计划重新开放委内瑞拉领空",
@@ -202,6 +191,18 @@
           "time_info": "[04时04分 ~ 05时04分]"
         },
         {
+          "title": "新西兰总理：拒绝加入美国总统特朗普所谓“和平委员会”的邀请。",
+          "url": "https://wallstreetcn.com/livenews/3046673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时04分]"
+        },
+        {
           "title": "特朗普：普京同意停火一周，以便乌方渡过严寒",
           "url": "https://wallstreetcn.com/livenews/3046644",
           "source": "华尔街见闻-快讯",
@@ -322,6 +323,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 03时12分]"
+        },
+        {
+          "title": "美政府关门危机解除？特朗普与舒默接近达成协议，拆分DHS预算并重谈移民执法限制",
+          "url": "https://wallstreetcn.com/articles/3764456",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 06时04分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
@@ -681,18 +693,18 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
-          "title": "2/10年期美债收益率至多跌超1.8个基点",
-          "url": "https://wallstreetcn.com/livenews/3046679",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至1月30日当周外国央行持有美国国债 199.5亿美元，前值98.63亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130053823618800",
+          "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时04分"
+          "time_info": "06时04分"
         },
         {
           "title": "伦交所-理柏（LSEG Lipper）：1月28日当周，美国高评级债券 基金资金流入创最近五年来最大。 短期、中期投资级债券基金流入54亿美元，创2021年2月份以来最大，之前一周流入30.9亿美元。 高收益率债券基金流入2.327亿美元，美国国债基金流入5.009亿美元，美国杠杆贷款基金流入2.342亿美元，抵押贷款相关基金流入2.131亿美元。",
@@ -700,11 +712,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时04分]"
+        },
+        {
+          "title": "2/10年期美债收益率至多跌超1.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3046679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时04分 ~ 05时04分]"
+          "time_info": "[05时04分 ~ 06时04分]"
         },
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.018%（12月24日为3.930%），投标倍数2.45（前次为2.51）。",
@@ -837,8 +862,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时11分 ~ 05时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 06时04分]"
         },
         {
           "title": "银价狂飙 有人一月赚了36万元",
@@ -850,11 +875,12 @@
             17,
             10,
             6,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "金价",
@@ -867,8 +893,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -880,8 +906,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "银价暴涨10倍带火CT废胶片",
@@ -890,11 +916,12 @@
           "ranks": [
             9,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "银价狂飙 有人一月赚了36万元",
@@ -905,8 +932,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -916,8 +943,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -928,8 +955,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -940,8 +967,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -961,17 +988,18 @@
           "source": "抖音",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 05时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 06时04分]"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -981,8 +1009,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -993,8 +1021,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "纳斯达克金龙中国指数跌超1%，彭博数据显示，美股盘初一度涨约2%。",
@@ -1057,6 +1085,39 @@
           "time_info": "[04时04分 ~ 05时04分]"
         },
         {
+          "title": "Sandisk第二财季营收30.3亿美元，增幅31%，高于公司原来所给指引区间。 数据中心营收增长64%，受AI基础设施建设方等强劲应用的驱动。 预计第三财季营收44亿-48亿美元。 Sandisk美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3046691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月29日）），美国科技股七巨头（Magnificent 7）指数跌0.90%，报207.72点，美股盘初持续下跌，北京时间23:55刷新日低至202.72点，随后逐步收复失地。 “超大”市值科技股指数跌0.58%，报396.22点。 成分股Meta收涨10%，创7月以来最大单日涨幅，微软重挫10%，市值蒸发3570亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3046685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "周四（1月29日））美股尾盘，彭博电动汽车价格回报指数跌1.76%，报3646.11点。 该指数全天处于下跌状态，过半时间交投于3680点附近，北京时间22:00过后一度加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3046680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "美股跌势扩大，标普500指数跌超1%，道指跌0.5%，纳指跌2%。",
           "url": "https://flash.jin10.com/detail/20260129233542613800",
           "source": "金十数据",
@@ -1071,7 +1132,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -1085,8 +1146,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
         },
         {
           "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
@@ -1095,7 +1156,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
         },
@@ -1104,11 +1165,12 @@
           "url": "https://wallstreetcn.com/livenews/3046674",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时04分]"
         },
         {
           "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
@@ -1117,9 +1179,51 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            1,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 06时04分]"
+        },
+        {
+          "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
+          "url": "https://flash.jin10.com/detail/20260130053331911800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
@@ -1133,11 +1237,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时04分 ~ 05时04分]"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时04分]"
         },
         {
           "title": "上期所原油期货2503合约夜盘收涨2.98%，报480.90元人民币/桶。 沪金夜盘收跌1.38%，沪银收涨2.10%。",
@@ -1151,25 +1256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌DeepMind登Nature封面",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 05时04分]"
         }
       ]
     },
@@ -1199,11 +1285,12 @@
           "url": "https://wallstreetcn.com/livenews/3046676",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 06时04分]"
         }
       ]
     }
