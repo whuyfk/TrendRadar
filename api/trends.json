@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:13:50.716259+08:00",
-  "total_titles_processed": 2340,
+  "generated_at": "2026-01-29T23:10:46.912710+08:00",
+  "total_titles_processed": 2443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -131,6 +131,20 @@
           "time_info": "[12时29分 ~ 22时13分]"
         },
         {
+          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时10分 ~ 23时10分]"
+        },
+        {
           "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，美元持续下挫",
           "url": "https://wallstreetcn.com/articles/3764423",
           "source": "华尔街见闻",
@@ -144,18 +158,16 @@
           "time_info": "[18时10分 ~ 21时24分]"
         },
         {
-          "title": "释新闻｜特朗普连续第三天施压伊朗再提核计划，美国要开打了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32488307",
-          "source": "澎湃新闻",
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            14,
-            13,
-            11
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时10分 ~ 22时13分]"
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时10分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -221,18 +233,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -437,6 +438,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "美国总统特朗普称赞优步和英特尔为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004214872800",
           "source": "金十数据",
@@ -531,7 +543,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -564,9 +576,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "特朗普被曝正考虑对伊朗发动重大打击",
@@ -688,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
@@ -847,7 +881,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -986,7 +1020,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1108,6 +1142,18 @@
           "time_info": "[15时15分 ~ 16时06分]"
         },
         {
+          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2274635",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时10分]"
+        },
+        {
           "title": "Meta Platforms(META.O)美股盘前涨7.3%，此前该公司预测第一季度收入高于预期，并上调了年度资本支出计划。",
           "url": "https://flash.jin10.com/detail/20260129170125268800",
           "source": "金十数据",
@@ -1147,7 +1193,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1172,6 +1218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
+        },
+        {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "洛克希德马丁四季度净销售额203亿美元，预估198.5亿美元。 四季度每股收益5.8美元，预期5.86美元，上年同期2.22美元。 四季度营业利润为23.3亿美元，预期22.2亿美元。 洛克希德马丁预计2026年的净销售额775亿美元至800亿美元，市场预估778.9亿美元。 洛克希德马丁预计2026年每股收益29.35美元至30.25美元，市场预估29.09美元。 洛克希德马丁预计2026年自由现金流65亿至68亿美元，预期61.6亿美元。 洛克希德马丁美股盘前涨超4%。",
@@ -1205,17 +1262,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
-        },
-        {
-          "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2274635",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "美股涨幅收窄，道指转跌，标普500指数持平，纳斯达克指数涨0.2%。",
@@ -1279,7 +1325,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1304,6 +1350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "洛克希德马丁(LMT.N)美股股价创历史新高，此前公司预测2026年利润和收入将高于预期，现涨7.6%。",
+          "url": "https://flash.jin10.com/detail/20260129224751528800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "A股五粮液触及涨停，成交额98.47亿元。",
@@ -1394,6 +1451,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "开年以来近百家公司冲刺港股IPO，多家公司已在A股上市 “A+H”热潮涌动",
           "url": "https://wallstreetcn.com/livenews/3045863",
           "source": "华尔街见闻-快讯",
@@ -1449,6 +1517,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "金十图示：2026年01月29日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260129223658915800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.90%，报27567点。 恒生科技指数主连夜盘收跌1.36%，报5817点。",
           "url": "https://wallstreetcn.com/livenews/3045768",
           "source": "华尔街见闻-快讯",
@@ -1463,7 +1542,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1564,8 +1643,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 33,
-          "time_info": "[00时06分 ~ 22时13分]"
+          "appearance_count": 34,
+          "time_info": "[00时06分 ~ 23时10分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1593,8 +1672,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时09分 ~ 22时13分]"
+          "appearance_count": 8,
+          "time_info": "[19时09分 ~ 23时10分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -1671,6 +1750,29 @@
           "time_info": "[08时04分 ~ 09时31分]"
         },
         {
+          "title": "金价暴涨第一批受害者出现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时10分]"
+        },
+        {
+          "title": "银价狂飙 有人一月赚了36万元",
+          "url": "https://www.toutiao.com/trending/7600458158296924169/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时10分]"
+        },
+        {
           "title": "有家庭买三金价格越等越高",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%AE%B6%E5%BA%AD%E4%B9%B0%E4%B8%89%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B6%8A%E7%AD%89%E8%B6%8A%E9%AB%98%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1691,17 +1793,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 00时07分]"
-        },
-        {
-          "title": "金价暴涨第一批受害者出现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "印度金银价格延续涨势，再创历史新高",
@@ -1781,17 +1872,6 @@
           "time_info": "05时06分"
         },
         {
-          "title": "银价狂飙 有人一月赚了36万元",
-          "url": "https://www.toutiao.com/trending/7600458158296924169/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "金十图示：2026年01月29日（周四）上海金午盘价为1248.22元/克，较国际金价(1238.82元/克)，高9.4元/克",
           "url": "https://flash.jin10.com/detail/20260129154110171800",
           "source": "金十数据",
@@ -1801,12 +1881,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "金价暴涨对普通人的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -1860,7 +1962,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1945,6 +2047,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "对美国可能对伊朗发动军事袭击的担忧加剧，原油期货价格延续涨势，布伦特原油期货价格一度涨5%，创下2024年8月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260129225811577800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "内盘期货多数收涨，沪银收涨逾8%，沪金涨近8%，国际铜涨7%，沪铜涨逾6%，燃油涨4%，焦煤、原油、沥青、焦炭、低硫燃油涨逾3%；多晶硅收跌逾4%，碳酸锂跌逾3%。",
           "url": "https://wallstreetcn.com/livenews/3046206",
           "source": "华尔街见闻-快讯",
@@ -2011,6 +2124,17 @@
           "time_info": "18时10分"
         },
         {
+          "title": "原油期货主力合约触及涨停，涨幅6.98%。",
+          "url": "https://wallstreetcn.com/livenews/3046546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "消息人士称，雪铁戈石油公司从贸易商托克手中购入约50万桶委内瑞拉重质原油，用于2月交付。",
           "url": "https://flash.jin10.com/detail/20260129052239080800",
           "source": "金十数据",
@@ -2061,7 +2185,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -2075,6 +2199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "纽约银日内涨幅达7.0%，报121.7美元/盎司。 现货白银日内涨幅达4.0%，报121.36美元/盎司。 WTI原油期货涨幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3046537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
@@ -2333,11 +2468,24 @@
             14,
             19,
             17,
-            15
+            15,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时23分 ~ 22时13分]"
+          "appearance_count": 7,
+          "time_info": "[19时23分 ~ 23时10分]"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时10分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -2350,17 +2498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 12时31分]"
-        },
-        {
-          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
-          "url": "https://www.zhihu.com/question/1999888901490304692",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 22时13分]"
         },
         {
           "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
@@ -2496,7 +2633,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -2553,11 +2690,12 @@
             14,
             12,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时11分 ~ 22时13分]"
+          "appearance_count": 10,
+          "time_info": "[17时11分 ~ 23时10分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
