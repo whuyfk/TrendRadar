@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T16:07:57.086702+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-02-03T17:11:11.813989+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -46,6 +46,17 @@
           "time_info": "[09时31分 ~ 16时07分]"
         },
         {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
           "title": "特朗普再次否认关联爱泼斯坦案",
           "url": "https://wallstreetcn.com/livenews/3048603",
           "source": "华尔街见闻-快讯",
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "金十整理：特朗普连环诉讼索赔超700亿美元 一纸诉状告遍政府机构、媒体、银行、大学",
+          "url": "https://flash.jin10.com/detail/20260203170134456800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
           "title": "印度总理莫迪：美国总统特朗普将印度产品关税下调18%，这让人感到欣慰。",
@@ -79,6 +101,18 @@
           "time_info": "09时31分"
         },
         {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 17时11分]"
+        },
+        {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
           "url": "https://www.zhihu.com/question/2001948735127643511",
           "source": "知乎",
@@ -91,6 +125,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时47分 ~ 14时13分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时11分]"
         },
         {
           "title": "特朗普威胁要向哈佛大学索赔10亿美元",
@@ -115,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 08时06分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时07分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
@@ -282,17 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         },
         {
           "title": "美国总统特朗普：如果我们无法就伊朗问题达成协议，可能会发生糟糕的事情。",
@@ -584,7 +607,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -595,8 +618,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 17时11分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -701,6 +724,18 @@
           "time_info": "08时06分"
         },
         {
+          "title": "融资保证金比例上调至100%后，A股影响有多大？",
+          "url": "https://www.cls.cn/detail/2278910",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 17时11分]"
+        },
+        {
           "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260203014220245800",
           "source": "金十数据",
@@ -760,6 +795,17 @@
           "time_info": "[11时47分 ~ 12时32分]"
         },
         {
+          "title": "A股收评：全市场超4800只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时07分 ~ 17时11分]"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至2%，快手跌6%，百度、哔哩哔哩跌超5%，腾讯跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3048744",
           "source": "华尔街见闻-快讯",
@@ -770,6 +816,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时56分 ~ 11时47分]"
+        },
+        {
+          "title": "华泰证券百亿港元转债融资引跌股价，海外募资A股为何敏感了？",
+          "url": "https://www.cls.cn/detail/2278887",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1.1%。百度、哔哩哔哩、快手跌超4%。",
@@ -827,17 +884,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
-        },
-        {
-          "title": "融资保证金比例上调至100%后，A股影响有多大？",
-          "url": "https://www.cls.cn/detail/2278910",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         },
         {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
@@ -928,15 +974,15 @@
           "time_info": "14时13分"
         },
         {
-          "title": "A股收评：全市场超4800只个股上涨",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
+          "title": "国恩科技港股暗盘涨27%，现报45.6港元。",
+          "url": "https://wallstreetcn.com/livenews/3048966",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "17时11分"
         },
         {
           "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
@@ -1003,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "港股收盘：恒生指数震荡收涨0.22%，黄金股反弹",
+          "url": "https://wallstreetcn.com/livenews/3048957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         }
       ]
     },
@@ -1219,7 +1276,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -1263,6 +1320,20 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 17时11分]"
+        },
+        {
           "title": "金银价格暴跌的原因",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E7%9A%84%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
@@ -1283,21 +1354,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 16时07分]"
-        },
-        {
-          "title": "复盘金银价格巨震，倒车接人还是牛市终结？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 16时07分]"
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 17时11分]"
         },
         {
           "title": "散户撤离引爆白银“踩踏” 银价回归1月中旬水位",
@@ -1597,6 +1655,35 @@
       ]
     },
     {
+      "keyword_group": "黄金 白银",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 08时06分]"
+        },
+        {
+          "title": "黄金两日暴跌后强势回升 分析师：当前价格回归合理区间",
+          "url": "https://flash.jin10.com/detail/20260203163759847800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1625,6 +1712,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1638,24 +1742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
-          "url": "https://www.cls.cn/detail/2278016",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时06分]"
         }
       ]
     }
