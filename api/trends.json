@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-03T08:06:34.619510+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-03T09:31:40.762541+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
+          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
+        },
         {
           "title": "特朗普再次否认关联爱泼斯坦案",
           "url": "https://wallstreetcn.com/livenews/3048603",
@@ -14,18 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
-          "url": "https://news.ifeng.com/c/8qQSV7gn6mY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -39,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "美联邦法官阻止特朗普政府终止海地移民临时保护身份",
+          "url": "https://wallstreetcn.com/livenews/3048649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普就伊朗问题表态：将观察事态如何发展",
@@ -88,6 +100,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "在美国总统特朗普宣布印美达成贸易协议后，iShares MSCI印度ETF上涨3.1%。",
           "url": "https://flash.jin10.com/detail/20260203013935873800",
           "source": "金十数据",
@@ -110,6 +133,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "据AXIOS网站：一位美国官员表示，伊斯坦布尔峰会将重点讨论如何达成一揽子协议以避免战争。这位官员强调，特朗普政府希望伊朗方面做好在会上做出必要妥协的准备。",
           "url": "https://flash.jin10.com/detail/20260203013622018800",
           "source": "金十数据",
@@ -127,7 +161,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
@@ -443,7 +477,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -488,11 +522,28 @@
             11,
             12,
             13,
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 09时31分]"
+        },
+        {
+          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
+          "url": "https://www.cls.cn/detail/2278170",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时06分]"
+          "time_info": "[00时09分 ~ 09时31分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -512,9 +563,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "金十图示：2026年02月02日（周一）美股热门股票行情一览（美股盘中）",
@@ -528,19 +590,28 @@
           "time_info": "02时09分"
         },
         {
-          "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
-          "url": "https://www.cls.cn/detail/2278170",
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            11,
             9,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时09分 ~ 08时06分]"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7602410616837377590/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 09时31分]"
         },
         {
           "title": "私募解读A股2月“开门黑”",
@@ -565,37 +636,37 @@
           "time_info": "02时09分"
         },
         {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
           "url": "https://wallstreetcn.com/livenews/3048588",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         },
         {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7602410616837377590/",
-          "source": "今日头条",
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203090434783800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203085518308800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "09时31分"
         },
         {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
@@ -612,7 +683,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.81。 拍卖六个月期国债，得标利率3.525%，投标倍数3.08。",
@@ -682,6 +753,28 @@
           "time_info": "01时13分"
         },
         {
+          "title": "日本10年期国债收益率上升2个基点至2.25%。",
+          "url": "https://flash.jin10.com/detail/20260203091255951800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本5年期国债收益率上行3个基点至1.675%。",
+          "url": "https://wallstreetcn.com/livenews/3048643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国至2月2日3个月国债竞拍-得标利率配置百分比 96.06%，前值86.1%。",
           "url": "https://flash.jin10.com/detail/20260203003203976800",
           "source": "金十数据",
@@ -704,6 +797,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "日本30年期国债收益率上行1个基点至3.65%。",
+          "url": "https://wallstreetcn.com/livenews/3048640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国国债收益率涨幅扩大，数据显示美国1月ISM制造业扩张速度创2022年2月以来最快。",
           "url": "https://wallstreetcn.com/livenews/3048433",
           "source": "华尔街见闻-快讯",
@@ -724,12 +828,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "日本五年期国债收益率上升3个基点，至1.675%。",
+          "url": "https://flash.jin10.com/detail/20260203084404320800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金银价格暴跌的原因",
@@ -739,8 +854,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时07分 ~ 08时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 09时31分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -765,6 +880,17 @@
           "time_info": "[00时07分 ~ 00时09分]"
         },
         {
+          "title": "金银价格大跌 有回收商1天亏百万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E9%93%B6%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%9B%9E%E6%94%B6%E5%95%861%E5%A4%A9%E4%BA%8F%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "周一（2月2日）纽约尾盘，现货黄金跌4.54%，报4671.58美元/盎司，全天处于下跌状态，北京时间14:38跌至4402.95美元。日线图上，金价连续三个交易日下跌，逼近12月31日底部4319.37美元，一度跌穿50日均线、逼近100日均线（这两个技术指标目前分别报4483.43美元和4228.16美元）。 COMEX黄金期货跌0.90%，报4702.60美元/盎司，14:38也曾跌至4423.20美元。",
           "url": "https://wallstreetcn.com/livenews/3048558",
           "source": "华尔街见闻-快讯",
@@ -787,13 +913,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "金价银价反弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "金价累计跌幅约20%",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%B4%AF%E8%AE%A1%E8%B7%8C%E5%B9%85%E7%BA%A620%25%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
         }
@@ -889,6 +1026,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "商品期货开盘，沪银主力合约跌近20%，沪锡跌超11%，原油跌超4%，燃料油、铂跌超3%，LU燃油、沪镍跌超2%。集运欧线、氧化铝涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3048652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，沪银跌近20%，沪锡跌超11%，SC原油跌超4%，燃料油、铂跌超3%，低硫燃料油、沪镍跌超2%。涨幅方面，集运欧线、氧化铝、PVC涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260203090007864800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
