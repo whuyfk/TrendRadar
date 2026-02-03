@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T03:18:06.998041+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-02-04T04:07:33.522280+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
@@ -56,11 +56,12 @@
           "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时07分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -78,11 +79,35 @@
           "url": "https://wallstreetcn.com/livenews/3049277",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时07分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
+          "url": "https://wallstreetcn.com/livenews/3049273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时07分]"
+        },
+        {
+          "title": "美国众议院批准政府融资法案，将结束局部停摆。 后续，法案将移交给总统特朗普签字为法律。 标普500指数跌幅收窄至不足1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3049293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "04时07分"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
@@ -91,7 +116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -118,17 +143,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
-          "url": "https://wallstreetcn.com/livenews/3049273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        },
-        {
           "title": "美国参议员格雷厄姆敦促特朗普向基辅提供战斧导弹。",
           "url": "https://flash.jin10.com/detail/20260203230620098800",
           "source": "金十数据",
@@ -140,13 +154,24 @@
           "time_info": "00时14分"
         },
         {
+          "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
+          "url": "https://flash.jin10.com/detail/20260204031034048800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -168,7 +193,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         },
@@ -187,7 +212,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -197,8 +222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -208,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -219,8 +244,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "A股成交额创年内新低！四大板块降温明显，融资余额同步回落，大额增减持股扫描",
@@ -230,8 +255,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -241,19 +266,42 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
+        },
+        {
+          "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
+          "url": "https://wallstreetcn.com/livenews/3049298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
           "url": "https://flash.jin10.com/detail/20260204030013728800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时07分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.85%，报26590点。 恒生科技指数主连夜盘收跌1.28，报5392点。",
+          "url": "https://wallstreetcn.com/livenews/3049288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时18分"
+          "time_info": "04时07分"
         },
         {
           "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -306,7 +354,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
@@ -314,7 +362,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -326,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
+          "url": "https://wallstreetcn.com/livenews/3049302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
@@ -363,6 +422,28 @@
           "time_info": "[02时15分 ~ 03时18分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
+          "url": "https://flash.jin10.com/detail/20260204033430684800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "OpenAI拟运用AI助力药企研发并从中获利",
+          "url": "https://flash.jin10.com/detail/20260204033311635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我确实担心美国在开源人工智能领域没有处于领先地位。",
           "url": "https://flash.jin10.com/detail/20260204013737107800",
           "source": "金十数据",
@@ -372,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
+          "url": "https://flash.jin10.com/detail/20260204033202172800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：最终目标是实现全面的人工智能业务。",
@@ -420,8 +512,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -429,11 +521,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "金价波动",
@@ -443,11 +536,12 @@
             14,
             17,
             20,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "昨天ICU今天KTV 金银价暴力反弹",
@@ -458,8 +552,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 03时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 04时07分]"
         },
         {
           "title": "纯银价值就超5000万元，2.5吨白银打造的“天下银楼”标价1200万元被拍卖，首拍流产",
@@ -495,11 +589,12 @@
           "url": "https://wallstreetcn.com/livenews/3049274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时07分]"
         },
         {
           "title": "美国至2月3日6周国债竞拍-得标利率配置百分比 21.37%，前值10.26%。",
@@ -538,8 +633,19 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3049301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
         {
           "title": "WTI原油日内涨幅达2.0%，报63.47美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3049246",
@@ -600,8 +706,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 04时07分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
