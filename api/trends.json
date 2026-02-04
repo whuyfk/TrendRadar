@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T01:15:58.704576+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-05T02:12:44.018888+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -60,8 +60,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3050048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -72,19 +83,31 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3050019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时12分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时12分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
@@ -104,7 +127,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -115,20 +138,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
+          "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260205011600614800",
+          "source": "金十数据",
           "ranks": [
-            18
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
+          "url": "https://wallstreetcn.com/livenews/3050036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普有权就美联储货币政策发表意见。",
@@ -137,7 +171,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         },
@@ -156,7 +190,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -166,8 +200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -178,8 +212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -190,8 +224,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -201,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -212,8 +246,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -224,8 +258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -233,11 +267,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 02时12分]"
         },
         {
           "title": "和讯投顾：A股大结构稳 重点看方向",
@@ -251,21 +286,182 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013955939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013948070800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
           "url": "https://wallstreetcn.com/livenews/3050002",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "马斯克团队光伏调研消息引爆A股",
+          "url": "https://www.toutiao.com/trending/7603022960940551734/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
+          "url": "https://flash.jin10.com/detail/20260205014132918800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国财长贝森特：我认为我们可能会继续看到10年期国债收益率小幅下降。",
+          "url": "https://flash.jin10.com/detail/20260205014012306800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "法国两年期国债收益率跌3个基点",
+          "url": "https://wallstreetcn.com/livenews/3050022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时12分]"
+        },
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数2.97。",
+          "url": "https://wallstreetcn.com/livenews/3050014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "英国中长期国债收益率至少涨约3个基点",
+          "url": "https://wallstreetcn.com/livenews/3050033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国至2月4日4个月国债竞拍-得标利率配置百分比 12.58%，前值45.62%。",
+          "url": "https://flash.jin10.com/detail/20260205003256996800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国财长贝森特：抵押贷款与国债之间的利差已降至多年来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260205011620421800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美国至2月4日4个月国债竞拍-投标倍数 2.97，前值2.92。",
+          "url": "https://flash.jin10.com/detail/20260205003235955800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国至2月4日4个月国债竞拍-得标利率 3.595%，前值3.59%。",
+          "url": "https://flash.jin10.com/detail/20260205003228487800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "美国财长贝森特称，抵押贷款与美国国债的利差处于多年来的最低水平。 暗示政府最终将结束对两房（房地美+房利美）的托管。",
+          "url": "https://wallstreetcn.com/livenews/3050035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -326,6 +522,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美、布两油延续涨势，WTI原油突破65美元/桶，日内涨1.64%；布伦特原油向上触及69美元/桶，日内涨1.95%。",
+          "url": "https://flash.jin10.com/detail/20260205013323193800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
           "url": "https://wallstreetcn.com/livenews/3049983",
           "source": "华尔街见闻-快讯",
@@ -372,80 +579,82 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "法国两年期国债收益率跌3个基点",
-          "url": "https://wallstreetcn.com/livenews/3050022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数2.97。",
-          "url": "https://wallstreetcn.com/livenews/3050014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国至2月4日4个月国债竞拍-得标利率配置百分比 12.58%，前值45.62%。",
-          "url": "https://flash.jin10.com/detail/20260205003256996800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国至2月4日4个月国债竞拍-投标倍数 2.97，前值2.92。",
-          "url": "https://flash.jin10.com/detail/20260205003235955800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国至2月4日4个月国债竞拍-得标利率 3.595%，前值3.59%。",
-          "url": "https://flash.jin10.com/detail/20260205003228487800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
           "url": "https://www.cls.cn/detail/2280847",
           "source": "财联社热门",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时12分]"
+        },
+        {
+          "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
+          "url": "https://wallstreetcn.com/livenews/3050028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "WTI原油日内涨幅达2.5%，刷新日高至64.83美元/桶。 纳斯达克综合指数跌幅扩大至2%，AMD跌超17%。标普500指数跌约0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3050039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "02时12分"
         }
       ]
     }
