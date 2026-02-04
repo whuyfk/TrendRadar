@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T08:05:38.240122+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-02-04T09:31:49.220782+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -70,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -103,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -329,6 +329,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "特朗普公布120亿美元“金库计划”",
+          "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普在白宫会见哥伦比亚总统佩特罗。",
           "url": "https://flash.jin10.com/detail/20260204014438637800",
           "source": "金十数据",
@@ -379,9 +390,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "市场消息：美国纽约和新泽西州就美国总统特朗普决定扣留160亿美元隧道项目资金提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260204085800714800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "哥伦比亚总统佩特罗：已请求美国总统特朗普协助抓捕居住在海外的主要毒枭。",
@@ -585,7 +607,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -641,8 +663,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 09时31分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -652,8 +674,55 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 09时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 09时31分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204090715115800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时06分 ~ 08时05分]"
+          "time_info": "[08时05分 ~ 09时31分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -716,18 +785,6 @@
           "time_info": "[06时06分 ~ 07时06分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 08时05分]"
-        },
-        {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
           "url": "https://wallstreetcn.com/livenews/3049298",
           "source": "华尔街见闻-快讯",
@@ -788,15 +845,48 @@
           "time_info": "[06时06分 ~ 07时06分]"
         },
         {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204090330635800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "09时31分"
+        },
+        {
+          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3049421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股爆发AI恐慌性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单发生调整并自2026年02月04日起生效，调入国恩科技。",
+          "url": "https://wallstreetcn.com/livenews/3049420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -838,7 +928,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -876,6 +966,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "险资火力全开 近10亿扫货港股基石 密集调研310家A股公司",
+          "url": "https://wallstreetcn.com/livenews/3049407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美股延续跌势，纳指下跌2.00%。",
           "url": "https://flash.jin10.com/detail/20260204021533895800",
           "source": "金十数据",
@@ -890,7 +991,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
@@ -921,7 +1022,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -1002,9 +1103,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
@@ -1035,7 +1147,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -1293,7 +1405,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.640%，投标倍数2.83。",
@@ -1342,6 +1454,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3049404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国至2月3日6周国债竞拍-投标倍数 2.83，前值2.64。",
           "url": "https://flash.jin10.com/detail/20260204003255589800",
           "source": "金十数据",
@@ -1374,11 +1497,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32521198",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 09时31分]"
         },
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1389,11 +1513,12 @@
             4,
             7,
             6,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 09时31分]"
         },
         {
           "title": "昨天ICU今天KTV 金银价暴力反弹",
@@ -1404,8 +1529,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 08时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时14分 ~ 09时31分]"
         },
         {
           "title": "金价波动",
@@ -1450,8 +1575,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时17分 ~ 08时05分]"
+          "appearance_count": 12,
+          "time_info": "[01时17分 ~ 09时31分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
