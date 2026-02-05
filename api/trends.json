@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T16:09:14.806237+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-02-05T17:14:06.887588+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -217,6 +217,17 @@
           "time_info": "[14时16分 ~ 16时09分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 17时14分]"
+        },
+        {
           "title": "沪指跌幅扩大至1%，创业板指跌超2%，深成指跌1.73%，贵金属、光伏、半导体芯片、电网设备等方向跌幅居前，沪深京三市下跌个股近3500只。",
           "url": "https://wallstreetcn.com/livenews/3050276",
           "source": "华尔街见闻-快讯",
@@ -227,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 11时46分]"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
@@ -274,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时04分]"
+        },
+        {
+          "title": "A股全天缩量调整 大消费板块逆势爆发",
+          "url": "https://www.toutiao.com/trending/7602993698846621750/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "和讯投顾：A股大结构稳 重点看方向",
@@ -678,8 +689,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 16时09分]"
+          "appearance_count": 23,
+          "time_info": "[00时14分 ~ 17时14分]"
+        },
+        {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时46分 ~ 17时14分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -694,22 +719,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时15分 ~ 16时09分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 16时09分]"
+          "appearance_count": 21,
+          "time_info": "[01时15分 ~ 17时14分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -1152,7 +1163,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "30年期日本国债收益率延续下跌趋势，日内跌7个基点至3.565%。",
@@ -1373,6 +1384,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "英国国债收益率曲线创2018年以来最陡",
+          "url": "https://flash.jin10.com/detail/20260205164820507800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国至2月4日4个月国债竞拍-得标利率配置百分比 12.58%，前值45.62%。",
           "url": "https://flash.jin10.com/detail/20260205003256996800",
           "source": "金十数据",
@@ -1464,7 +1486,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -1474,8 +1496,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时31分 ~ 16时09分]"
+          "appearance_count": 12,
+          "time_info": "[09时31分 ~ 17时14分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1489,8 +1511,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 16时09分]"
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 17时14分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 17时14分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1515,16 +1549,27 @@
           "time_info": "07时04分"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "明星科技股美股盘前涨跌不一，英伟达涨超1%；谷歌跌超1%，Q4云收入猛增48%，今年支出指引接近翻倍大超预期；存储板块反弹，闪迪涨超3%，美光科技涨近2%，博通涨超5%；高通跌超11%，公司二季度营收指引不及市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3050540",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            10
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时23分 ~ 16时09分]"
+          "time_info": "[15时20分 ~ 17时14分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -1537,17 +1582,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时04分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 16时09分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1734,7 +1768,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "阿曼核谈确认缓和局势 美伊地缘溢价回落拖累原油走低",
@@ -1918,6 +1952,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "印度外交部：愿意探讨任何原油供应的商业价值，包括来自委内瑞拉的原油。",
+          "url": "https://flash.jin10.com/detail/20260205164015279800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国至1月30日当周EIA投产原油量 -18万桶/日，前值-39.5万桶/日。",
           "url": "https://flash.jin10.com/detail/20260204233004036800",
           "source": "金十数据",
@@ -1965,7 +2010,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1991,8 +2036,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时07分 ~ 16时09分]"
+          "appearance_count": 17,
+          "time_info": "[05时07分 ~ 17时14分]"
+        },
+        {
+          "title": "银价快速跳水 日内跌幅超14%！分析师警告：小心逢低买入反被套",
+          "url": "https://www.cls.cn/detail/2281404",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 17时14分]"
         },
         {
           "title": "金价波动",
@@ -2019,15 +2076,15 @@
           "time_info": "[02时12分 ~ 04时06分]"
         },
         {
-          "title": "银价快速跳水 日内跌幅超14%！分析师警告：小心逢低买入反被套",
-          "url": "https://www.cls.cn/detail/2281404",
-          "source": "财联社热门",
+          "title": "解读金价过山车",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "time_info": "[17时13分 ~ 17时14分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）上海金早盘价为1108.05元/克，较国际金价(1101.77元/克)，高6.28元/克",
@@ -2120,11 +2177,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时08分 ~ 16时09分]"
+          "appearance_count": 4,
+          "time_info": "[16时08分 ~ 17时14分]"
         }
       ]
     }
