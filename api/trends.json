@@ -1,8 +1,556 @@
 {
-  "generated_at": "2026-02-05T13:23:54.122838+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-02-05T14:16:32.079028+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 47,
+      "titles": [
+        {
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时06分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时04分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时04分]"
+        },
+        {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 05时08分]"
+        },
+        {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时06分 ~ 14时16分]"
+        },
+        {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 08时06分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时14分 ~ 11时46分]"
+        },
+        {
+          "title": "媒体：A股交易生态巨变",
+          "url": "https://www.toutiao.com/trending/7602973150476766746/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19,
+            22,
+            29,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时04分]"
+        },
+        {
+          "title": "A股太空光伏概念集体调整，钧达股份、金辰股份接近跌停，奥特维跌超10%，迈为股份、东方日升、晶盛机电、晶科能源跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "上证指数开盘报4075.03点，跌0.66%。 深证成指开盘报14020.84点，跌0.96%。 创业板指开盘报3277.72点，跌1.02%。 沪深300开盘报4664.75点，跌0.72%。 科创50开盘报1423.66点，跌2.05%。 中证500开盘报8203.06点，跌1.16%。 中证1000开盘报8121.51点，跌1.04%。",
+          "url": "https://wallstreetcn.com/livenews/3050230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
+          "url": "https://wallstreetcn.com/livenews/3050096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 06时03分]"
+        },
+        {
+          "title": "A股银行股午后继续走强，厦门银行涨超8%，重庆银行、上海银行涨超4%，南京银行、渝农商行、宁波银行等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3050367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时16分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅收窄至0.4%，此前一度跌超1.8%。地平线机器人、比亚迪股份、联想集团、理想汽车涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时46分]"
+        },
+        {
+          "title": "A股免税概念午后走强，海南发展直线拉升涨超7%，凯撒旅业、珠免集团、中百集团、海峡股份等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时16分]"
+        },
+        {
+          "title": "沪指跌幅扩大至1%，创业板指跌超2%，深成指跌1.73%，贵金属、光伏、半导体芯片、电网设备等方向跌幅居前，沪深京三市下跌个股近3500只。",
+          "url": "https://wallstreetcn.com/livenews/3050276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时46分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
+          "url": "https://wallstreetcn.com/livenews/3050069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时08分]"
+        },
+        {
+          "title": "上证指数早盘收报4059.91点，跌1.03%。 深证成指早盘收报13900.33点，跌1.81%。 创业板指早盘收报3247.27点，跌1.94%。 沪深300早盘收报4649.60点，跌1.04%。 科创50早盘收报1424.41点，跌2.00%。 中证500早盘收报8105.36点，跌2.33%。 中证1000早盘收报8050.86点，跌1.90%。",
+          "url": "https://wallstreetcn.com/livenews/3050330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时23分]"
+        },
+        {
+          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
+          "url": "https://wallstreetcn.com/livenews/3050105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时04分]"
+        },
+        {
+          "title": "和讯投顾：A股大结构稳 重点看方向",
+          "url": "https://www.toutiao.com/trending/7602618369633452041/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013955939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "恒指低开0.82%，恒生科技指数跌1.31%",
+          "url": "https://wallstreetcn.com/livenews/3050227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260205013948070800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "开年业务大单不断，A股上市公司签出“开门红”",
+          "url": "https://wallstreetcn.com/livenews/3050167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "A股证券板块短线拉升，华林证券涨超8%，华鑫股份、国盛证券、中信建投、兴业证券、首创证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "A股光伏板块爆发，马斯克下单了？",
+          "url": "https://wallstreetcn.com/articles/3764920",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "Ciena美股盘后涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260205062053364800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "私募对A股的信心指数与仓位齐升",
+          "url": "https://wallstreetcn.com/livenews/3050166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "A股市场迎来调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-05）",
+          "url": "https://flash.jin10.com/detail/20260205090527193800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "Arm(ARM.O)美股盘后跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260205051229076800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-05）",
+          "url": "https://flash.jin10.com/detail/20260205090401725800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3050123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "百度将派发股息 美股盘后涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%B0%86%E6%B4%BE%E5%8F%91%E8%82%A1%E6%81%AF+%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "A股电网设备股持续走弱，金盘科技跌超10%，此前四方股份跌停，伊戈尔、三变科技、白云电器、中国西电、保变电气等多股跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "美股期货反弹，标普500指数期货现涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3050160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "A股大消费板块集体走强，美容护理、旅游、食品、零售、影视等方向纷纷拉升，拉芳家化、安记食品、海欣食品、红棉股份、杭州解百、浙文影业、横店影视等多股涨停。",
+          "url": "https://wallstreetcn.com/livenews/3050266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050532468800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美股存储芯片指数收跌约8.8%，Sandisk重挫约16%，美光跌超9%，AI基建概念股普跌",
+          "url": "https://wallstreetcn.com/livenews/3050156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "港股迎解禁大考，IPO热潮集中兑现",
+          "url": "https://wallstreetcn.com/livenews/3050207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260205050531884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "港股基石投资炙手可热：首月豪掷185亿港元，同比增超13倍",
+          "url": "https://wallstreetcn.com/livenews/3050205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3050099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "节前港股市场风格切换 部分公募基金从高估值科技板块向防御型资产转移",
+          "url": "https://wallstreetcn.com/livenews/3050152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.85%，深成指跌1.55%，贵金属、光伏、CPO、电网设备等板块跌幅居前，沪深京三市下跌个股超3100只。",
+          "url": "https://wallstreetcn.com/livenews/3050256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
+          "url": "https://wallstreetcn.com/livenews/3050002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "马斯克团队光伏调研消息引爆A股",
+          "url": "https://www.toutiao.com/trending/7603022960940551734/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时12分"
+        },
+        {
+          "title": "美股收盘：纳指跌1.5% AMD大跌17%",
+          "url": "https://flash.jin10.com/detail/20260205050057305800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 45,
@@ -52,8 +600,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时14分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时14分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 14时16分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -68,19 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时15分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 13时23分]"
+          "appearance_count": 16,
+          "time_info": "[01时15分 ~ 14时16分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -107,17 +655,6 @@
           "time_info": "[00时14分 ~ 10时55分]"
         },
         {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://www.toutiao.com/trending/7603003215299149878/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
           "url": "https://www.cls.cn/detail/2281033",
           "source": "财联社热门",
@@ -127,8 +664,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时46分 ~ 14时16分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "金十提示：美国总统特朗普将于周四晚7点（北京时间周五8点）发表声明。",
@@ -535,522 +1083,20 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 44,
-      "titles": [
-        {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 08时06分]"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时04分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时04分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 05时08分]"
-        },
-        {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时06分 ~ 13时23分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时14分 ~ 08时06分]"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时46分]"
-        },
-        {
-          "title": "媒体：A股交易生态巨变",
-          "url": "https://www.toutiao.com/trending/7602973150476766746/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19,
-            22,
-            29,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时04分]"
-        },
-        {
-          "title": "A股银行股午后继续走强，厦门银行涨超8%，重庆银行、上海银行涨超4%，南京银行、渝农商行、宁波银行等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3050367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "A股太空光伏概念集体调整，钧达股份、金辰股份接近跌停，奥特维跌超10%，迈为股份、东方日升、晶盛机电、晶科能源跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3050232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "上证指数开盘报4075.03点，跌0.66%。 深证成指开盘报14020.84点，跌0.96%。 创业板指开盘报3277.72点，跌1.02%。 沪深300开盘报4664.75点，跌0.72%。 科创50开盘报1423.66点，跌2.05%。 中证500开盘报8203.06点，跌1.16%。 中证1000开盘报8121.51点，跌1.04%。",
-          "url": "https://wallstreetcn.com/livenews/3050230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "A股免税概念午后走强，海南发展直线拉升涨超7%，凯撒旅业、珠免集团、中百集团、海峡股份等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3050362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
-          "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
-          "url": "https://wallstreetcn.com/livenews/3050096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时03分]"
-        },
-        {
-          "title": "恒生科技指数日内跌幅收窄至0.4%，此前一度跌超1.8%。地平线机器人、比亚迪股份、联想集团、理想汽车涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3050286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时46分]"
-        },
-        {
-          "title": "沪指跌幅扩大至1%，创业板指跌超2%，深成指跌1.73%，贵金属、光伏、半导体芯片、电网设备等方向跌幅居前，沪深京三市下跌个股近3500只。",
-          "url": "https://wallstreetcn.com/livenews/3050276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时46分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
-          "url": "https://wallstreetcn.com/livenews/3050069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时08分]"
-        },
-        {
-          "title": "上证指数早盘收报4059.91点，跌1.03%。 深证成指早盘收报13900.33点，跌1.81%。 创业板指早盘收报3247.27点，跌1.94%。 沪深300早盘收报4649.60点，跌1.04%。 科创50早盘收报1424.41点，跌2.00%。 中证500早盘收报8105.36点，跌2.33%。 中证1000早盘收报8050.86点，跌1.90%。",
-          "url": "https://wallstreetcn.com/livenews/3050330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时23分]"
-        },
-        {
-          "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
-          "url": "https://wallstreetcn.com/livenews/3050105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 07时04分]"
-        },
-        {
-          "title": "和讯投顾：A股大结构稳 重点看方向",
-          "url": "https://www.toutiao.com/trending/7602618369633452041/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260205013955939800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "恒指低开0.82%，恒生科技指数跌1.31%",
-          "url": "https://wallstreetcn.com/livenews/3050227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260205013948070800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "开年业务大单不断，A股上市公司签出“开门红”",
-          "url": "https://wallstreetcn.com/livenews/3050167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "A股光伏板块爆发，马斯克下单了？",
-          "url": "https://wallstreetcn.com/articles/3764920",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "Ciena美股盘后涨超8%。",
-          "url": "https://flash.jin10.com/detail/20260205062053364800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "私募对A股的信心指数与仓位齐升",
-          "url": "https://wallstreetcn.com/livenews/3050166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-05）",
-          "url": "https://flash.jin10.com/detail/20260205090527193800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "Arm(ARM.O)美股盘后跌超10%。",
-          "url": "https://flash.jin10.com/detail/20260205051229076800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-02-05）",
-          "url": "https://flash.jin10.com/detail/20260205090401725800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "（美股）费城金银指数收跌0.23%，报397.53点。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.55%，报2830.82点。 （美股）原材料指数收涨0.57%，（美股）金属与矿业指数收跌1.61%。",
-          "url": "https://wallstreetcn.com/livenews/3050123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "百度将派发股息 美股盘后涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%B0%86%E6%B4%BE%E5%8F%91%E8%82%A1%E6%81%AF+%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股期货反弹，标普500指数期货现涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3050160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "A股大消费板块集体走强，美容护理、旅游、食品、零售、影视等方向纷纷拉升，拉芳家化、安记食品、海欣食品、红棉股份、杭州解百、浙文影业、横店影视等多股涨停。",
-          "url": "https://wallstreetcn.com/livenews/3050266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260205050532468800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美股存储芯片指数收跌约8.8%，Sandisk重挫约16%，美光跌超9%，AI基建概念股普跌",
-          "url": "https://wallstreetcn.com/livenews/3050156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "港股迎解禁大考，IPO热潮集中兑现",
-          "url": "https://wallstreetcn.com/livenews/3050207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "金十图示：2026年02月04日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260205050531884800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "港股基石投资炙手可热：首月豪掷185亿港元，同比增超13倍",
-          "url": "https://wallstreetcn.com/livenews/3050205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.95%，报7461.61点，美股早盘显著下跌，北京时间23:00以来低位震荡。 热门中概股里，亿珑能源初步反弹64%，晶科能源涨8%，百胜中国涨4.6%，再鼎医药涨3.7%，阿特斯太阳能涨3.3%，理想涨2.2%，网易跌5.3%，世纪互联跌5.6%，文远知行跌6.3%。 ETF中，中国科技指数ETF（CQQQ）收跌3.17%，中概互联网指数ETF（KWEB）收跌2.91%。 XtrackersHarvest中证50（ASHS）收涨0.09%，德银嘉实沪深300指数ETF（ASHR）收涨0.72%。",
-          "url": "https://wallstreetcn.com/livenews/3050099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "节前港股市场风格切换 部分公募基金从高估值科技板块向防御型资产转移",
-          "url": "https://wallstreetcn.com/livenews/3050152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.85%，深成指跌1.55%，贵金属、光伏、CPO、电网设备等板块跌幅居前，沪深京三市下跌个股超3100只。",
-          "url": "https://wallstreetcn.com/livenews/3050256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
-          "url": "https://wallstreetcn.com/livenews/3050002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "马斯克团队光伏调研消息引爆A股",
-          "url": "https://www.toutiao.com/trending/7603022960940551734/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时12分"
-        },
-        {
-          "title": "美股收盘：纳指跌1.5% AMD大跌17%",
-          "url": "https://flash.jin10.com/detail/20260205050057305800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "30年期日本国债收益率延续下跌趋势，日内跌7个基点至3.565%。",
+          "url": "https://flash.jin10.com/detail/20260205140115495800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
         {
           "title": "美国财长贝森特：我们仍然看到大量外资流入美国国债，以及巨额资金流入美国股市。",
           "url": "https://flash.jin10.com/detail/20260205014132918800",
@@ -1119,6 +1165,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时12分]"
+        },
+        {
+          "title": "20年期日本国债收益率下跌3个基点，至3.150%。",
+          "url": "https://flash.jin10.com/detail/20260205125106613800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时16分]"
         },
         {
           "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
@@ -1192,17 +1250,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "20年期日本国债收益率下跌3个基点，至3.150%。",
-          "url": "https://flash.jin10.com/detail/20260205125106613800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
-        },
-        {
           "title": "长端美债收益率涨超2个基点",
           "url": "https://wallstreetcn.com/livenews/3050086",
           "source": "华尔街见闻-快讯",
@@ -1245,6 +1292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "国债期货午后拉升，30年期主力合约涨0.30%，10年期主力合约涨0.06%，5年期主力合约涨0.05%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3050368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "美国至2月4日4个月国债竞拍-得标利率配置百分比 12.58%，前值45.62%。",
@@ -1337,8 +1395,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 13时23分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 14时16分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1348,11 +1406,12 @@
             11,
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 14时16分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1437,6 +1496,17 @@
           "time_info": "[06时03分 ~ 07时04分]"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时16分]"
+        },
+        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -1480,17 +1550,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -1819,8 +1878,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时07分 ~ 13时23分]"
+          "appearance_count": 12,
+          "time_info": "[05时07分 ~ 14时16分]"
         },
         {
           "title": "金价波动",
