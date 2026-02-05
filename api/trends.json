@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T14:16:32.079028+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-02-05T15:20:32.198201+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时14分 ~ 07时04分]"
+        },
+        {
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时06分 ~ 15时20分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 05时08分]"
-        },
-        {
-          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
-          "url": "https://www.cls.cn/detail/2280969",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时06分 ~ 14时16分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -135,6 +135,28 @@
           "time_info": "09时31分"
         },
         {
+          "title": "创业板指缩量跌1.55%，大消费板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3050435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "上证指数收报4075.92点，跌0.64%。 深证成指收报13952.71点，跌1.44%。 创业板指收报3260.28点，跌1.55%。 沪深300收报4670.42点，跌0.60%。 科创50收报1432.52点，跌1.44%。 中证500收报8146.11点，跌1.84%。 中证1000收报8068.08点，跌1.69%。",
+          "url": "https://wallstreetcn.com/livenews/3050434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
           "url": "https://wallstreetcn.com/livenews/3050096",
           "source": "华尔街见闻-快讯",
@@ -193,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 11时46分]"
+        },
+        {
+          "title": "A股市场迎来调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时20分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
@@ -292,7 +325,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -328,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "A股市场迎来调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-02-05）",
@@ -385,6 +407,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "A股零售股尾盘再度拉升，三江购物、茂业商业涨停，杭州解百此前封板，东百集团、百大集团、上海九百、国光连锁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3050423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "百度将派发股息 美股盘后涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6%E5%B0%86%E6%B4%BE%E5%8F%91%E8%82%A1%E6%81%AF+%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -402,7 +435,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -427,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -548,6 +592,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "A股商业航天概念午后回暖，神剑股份涨停，北摩高科此前涨停，巨力索具、中超控股、七丰精工、臻镭科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -600,8 +655,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时14分 ~ 14时16分]"
+          "appearance_count": 19,
+          "time_info": "[00时14分 ~ 15时20分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -611,8 +666,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 15时20分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -627,8 +682,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时15分 ~ 14时16分]"
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 15时20分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -664,8 +719,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 15时20分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -1084,7 +1139,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "30年期日本国债收益率延续下跌趋势，日内跌7个基点至3.565%。",
@@ -1093,7 +1148,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1300,7 +1355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -1380,12 +1435,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "日本40年期国债收益率下行9.0个基点至3.850%。 日本10年期国债收益率下行2.0个基点至2.225%。 日本20年期国债收益率下行4.5个基点至3.135%。",
+          "url": "https://wallstreetcn.com/livenews/3050398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -1395,8 +1461,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[09时31分 ~ 15时20分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1410,8 +1476,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 14时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时54分 ~ 15时20分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1446,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时04分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时20分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -1496,17 +1573,6 @@
           "time_info": "[06时03分 ~ 07时04分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时16分]"
-        },
-        {
           "title": "谷歌营收业绩超预期，2026年资本开支超预期",
           "url": "https://wallstreetcn.com/livenews/3050103",
           "source": "华尔街见闻-快讯",
@@ -1528,6 +1594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -1643,7 +1720,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "阿曼核谈确认缓和局势 美伊地缘溢价回落拖累原油走低",
@@ -1666,6 +1743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约跌多涨少，沪银、碳酸锂跌超10%，铂、沪锡跌超7%，沪铜、国际铜、BR橡胶跌超3%，菜籽、工业硅、烧碱、焦煤、沪铝跌超2%。涨幅方面，集运欧线涨超3%，燃料油、低硫燃料油、SC原油涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260205150045037800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -1715,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时15分]"
+        },
+        {
+          "title": "商品期货收盘，沪银、碳酸锂主力合约跌超10%，铂、沪锡跌超7%，沪铜、国际铜、BR橡胶跌超3%。集运欧线涨超3%，LU燃油、燃料油、原油涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3050431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "商品期货开盘，沪银主力合约涨超3%，燃料油、原油涨超2%，LU燃油、苯乙烯、纯苯涨超1%。BR橡胶跌超3%，沪锡跌超2%，国际铜、沪铜、铁矿石跌超1%。",
@@ -1878,8 +1977,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时07分 ~ 14时16分]"
+          "appearance_count": 13,
+          "time_info": "[05时07分 ~ 15时20分]"
         },
         {
           "title": "金价波动",
