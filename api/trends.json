@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T22:26:07.213368+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-02-10T23:23:38.611760+08:00",
+  "total_titles_processed": 2106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时09分 ~ 22时26分]"
+          "appearance_count": 20,
+          "time_info": "[08时09分 ~ 23时23分]"
         },
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -83,11 +83,12 @@
             14,
             16,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时29分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[13时29分 ~ 23时23分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -194,6 +195,18 @@
           "time_info": "[20时11分 ~ 21时29分]"
         },
         {
+          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2286272",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时29分 ~ 23时23分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.39%，报27221点。 恒生科技指数主连夜盘收涨0.48%，报5458点。",
           "url": "https://wallstreetcn.com/livenews/3052479",
           "source": "华尔街见闻-快讯",
@@ -207,16 +220,15 @@
           "time_info": "[03时28分 ~ 05时11分]"
         },
         {
-          "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2286272",
+          "title": "1145亿市值！今年首个商业航天IPO落户科创板",
+          "url": "https://www.cls.cn/detail/2286100",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时29分 ~ 22时26分]"
+          "time_info": "[22时25分 ~ 23时23分]"
         },
         {
           "title": "A股全线大涨原因找到了",
@@ -350,17 +362,6 @@
           "time_info": "[18时16分 ~ 19时17分]"
         },
         {
-          "title": "1145亿市值！今年首个商业航天IPO落户科创板",
-          "url": "https://www.cls.cn/detail/2286100",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
           "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3052510",
           "source": "华尔街见闻-快讯",
@@ -402,7 +403,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -501,7 +502,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -526,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "网络股指数ETF涨0.92%，可选消费ETF涨0.67%，全球科技股指数ETF涨0.45%，科技行业ETF涨0.31%，在美股盘初领跑行业ETF，生物科技指数ETF则跌0.2%，全球航空业ETF跌0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "高盛称对冲基金创纪录增持美股空头头寸，信息技术板块成抛售重灾区",
@@ -619,7 +631,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -708,8 +720,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时23分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -720,8 +732,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时16分 ~ 22时26分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 23时23分]"
         },
         {
           "title": "美国总统特朗普声称：将与加拿大启动关于密歇根大桥的磋商。",
@@ -803,6 +815,18 @@
           "time_info": "[04时09分 ~ 05时11分]"
         },
         {
+          "title": "特朗普表面祝贺高市私下大发雷霆",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时23分]"
+        },
+        {
           "title": "美民调：多数人不认可特朗普关税政策",
           "url": "https://www.toutiao.com/trending/7604360239181807658/",
           "source": "今日头条",
@@ -851,17 +875,6 @@
           "time_info": "[10时59分 ~ 12时02分]"
         },
         {
-          "title": "特朗普表面祝贺高市私下大发雷霆",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E9%9D%A2%E7%A5%9D%E8%B4%BA%E9%AB%98%E5%B8%82%E7%A7%81%E4%B8%8B%E5%A4%A7%E5%8F%91%E9%9B%B7%E9%9C%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
           "title": "白宫官员：美国总统特朗普已明确表示，他不支持以色列吞并约旦河西岸。",
           "url": "https://flash.jin10.com/detail/20260210073116584800",
           "source": "金十数据",
@@ -871,6 +884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "加拿大总理卡尼：特朗普要求特使Hoekstra参与大桥磋商。",
+          "url": "https://wallstreetcn.com/livenews/3053126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -912,7 +936,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -972,6 +996,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "加拿大总理卡尼：特朗普已要求特使胡克斯特拉参与大桥问题谈判。",
+          "url": "https://flash.jin10.com/detail/20260210225343175800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "特朗普威胁阻挠加美边境大桥开通",
           "url": "https://wallstreetcn.com/livenews/3052545",
           "source": "华尔街见闻-快讯",
@@ -994,6 +1029,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "加拿大总理卡尼：与特朗普进行了积极的对话。",
+          "url": "https://flash.jin10.com/detail/20260210224857675800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "特朗普设定15%增长目标 沃什入主美联储压力倍增",
           "url": "https://flash.jin10.com/detail/20260210070836785800",
           "source": "金十数据",
@@ -1003,6 +1049,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "加拿大总理卡尼：曾与特朗普讨论过戈迪·豪国际大桥的相关事宜。",
+          "url": "https://flash.jin10.com/detail/20260210224841677800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "据华尔街日报：特朗普政府官员最近几周向国会共和党人施压，要求将投资者禁令作为修正案纳入目前正在众议院和参议院审议的两项主要住房法案中。",
@@ -1016,6 +1073,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "加拿大总理卡尼：特朗普曾威胁的跨国大桥相关问题将得到解决。",
+          "url": "https://flash.jin10.com/detail/20260210224722770800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普的官员正施压共和党人，在住房法案中加入禁止华尔街购买独栋住宅的条款。",
           "url": "https://flash.jin10.com/detail/20260210021529965800",
           "source": "金十数据",
@@ -1025,6 +1093,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "比亚迪起诉特朗普政府：退钱！",
+          "url": "https://wallstreetcn.com/livenews/3053101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "市场消息：一名美国法官暂时中止了一项法院裁定，该裁定此前要求特朗普政府解冻用于纽约市“门户隧道”项目的资金。",
@@ -1063,7 +1142,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -1086,8 +1165,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时26分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时23分]"
         },
         {
           "title": "5年期日本国债收益率下跌3.0个基点，至1.710%。",
@@ -1110,6 +1189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "30年期日本国债收益率下跌6.0个基点，至3.500%。",
@@ -1205,6 +1295,17 @@
           "time_info": "13时30分"
         },
         {
+          "title": "中国央行第四季度货币政策执行报告：继续实施好适度宽松的货币政策，将常态化开展国债买卖操作",
+          "url": "https://wallstreetcn.com/articles/3765415",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "20年期日本国债收益率下跌5.0个基点至3.115%。",
           "url": "https://flash.jin10.com/detail/20260210140106716800",
           "source": "金十数据",
@@ -1288,7 +1389,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -1332,7 +1433,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -1362,7 +1463,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -1523,6 +1624,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
+        },
+        {
+          "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3053118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
@@ -1721,6 +1833,82 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260210044510192800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 07时10分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
+          "url": "https://wallstreetcn.com/livenews/3052456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 03时28分]"
+        },
+        {
+          "title": "美元指数跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3052498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时10分]"
+        },
+        {
+          "title": "美元指数DXY短线收窄跌幅，最新报96.81，刚刚最低跌至96.72。",
+          "url": "https://flash.jin10.com/detail/20260210214016457800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "新兴市场货币指数刷新日高，美元走软。",
+          "url": "https://wallstreetcn.com/livenews/3053114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
+          "title": "美元指数DXY短线走低十余点，现报96.78。",
+          "url": "https://flash.jin10.com/detail/20260210213145716800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -1786,71 +1974,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数9日下跌",
-          "url": "https://flash.jin10.com/detail/20260210044510192800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时10分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数大致持平，暂报2700点。 MarketVectorTM数字资产100中盘指数跌0.84%，报2758.06点。 MarketVector数字资产100指数跌0.32%，报2693.81点，北京时间14:00-19:00持续下挫。 Solana跌1.15%，狗狗币跌1.43%，XRP涨0.92%。 比特币跌1.23%，暂报70069美元；以太坊跌0.80%，暂报2093.44美元。",
-          "url": "https://wallstreetcn.com/livenews/3052456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时28分]"
-        },
-        {
-          "title": "美元指数跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3052498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时10分]"
-        },
-        {
-          "title": "美元指数DXY短线收窄跌幅，最新报96.81，刚刚最低跌至96.72。",
-          "url": "https://flash.jin10.com/detail/20260210214016457800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "美元指数DXY短线走低十余点，现报96.78。",
-          "url": "https://flash.jin10.com/detail/20260210213145716800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
       "match_count": 4,
       "titles": [
@@ -1862,11 +1985,12 @@
             20,
             16,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时23分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
