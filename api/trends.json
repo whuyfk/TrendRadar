@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T04:11:35.586167+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-02-11T05:14:12.275237+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -15,32 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
-          "url": "https://wallstreetcn.com/livenews/3053222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
-          "url": "https://wallstreetcn.com/livenews/3053221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -50,8 +26,45 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
+          "url": "https://wallstreetcn.com/livenews/3053222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
+          "url": "https://wallstreetcn.com/livenews/3053221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
+          "url": "https://wallstreetcn.com/livenews/3053247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -65,6 +78,19 @@
           "time_info": "00时20分"
         },
         {
+          "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
+          "url": "https://flash.jin10.com/detail/20260211030702917800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
+        },
+        {
           "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
           "url": "https://wallstreetcn.com/livenews/3053180",
           "source": "华尔街见闻-快讯",
@@ -75,18 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时18分]"
-        },
-        {
-          "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
-          "url": "https://flash.jin10.com/detail/20260211030702917800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
         },
         {
           "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
@@ -118,11 +132,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
         },
         {
           "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
@@ -130,11 +145,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
         },
         {
           "title": "美国白宫：特朗普将于周四签署废除气候规则的决议。",
@@ -221,6 +237,50 @@
           "time_info": "[03时24分 ~ 04时11分]"
         },
         {
+          "title": "美国总统特朗普：我认为2026年将会很棒。",
+          "url": "https://flash.jin10.com/detail/20260211050353108800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
+          "url": "https://wallstreetcn.com/livenews/3053241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
+          "url": "https://wallstreetcn.com/livenews/3053235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
+          "url": "https://flash.jin10.com/detail/20260211034403957800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "特朗普的商务部长卢特尼克承认：与妻子共同会见过爱泼斯坦",
           "url": "https://wallstreetcn.com/livenews/3053128",
           "source": "华尔街见闻-快讯",
@@ -268,7 +328,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -279,19 +339,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "一图看懂 | 春节“国债逆回购”福利到，最高“1天赚11天息”",
           "url": "https://www.cls.cn/detail/2286103",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "中国央行第四季度货币政策执行报告：继续实施好适度宽松的货币政策，将常态化开展国债买卖操作",
@@ -301,8 +362,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美国至2月10日3年期国债竞拍-得标利率配置百分比 45.28%，前值77.54%。",
@@ -363,6 +424,28 @@
           "time_info": "02时18分"
         },
         {
+          "title": "机构：美债替代品寥寥 外资持债意向坚挺",
+          "url": "https://flash.jin10.com/detail/20260211041750931800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "30年期美债收益率跌超7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3053229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.96。",
           "url": "https://wallstreetcn.com/livenews/3053163",
           "source": "华尔街见闻-快讯",
@@ -399,7 +482,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "WTI 3月原油期货收报63.96美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
@@ -408,7 +491,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
         },
@@ -418,11 +501,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
         },
         {
           "title": "WTI原油日内下跌1.00%，现报63.79美元/桶。",
@@ -513,12 +597,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "WTI 3月原油期货收跌0.62%，报63.96美元/桶。 布伦特4月原油期货收跌0.24美元，跌幅0.35%，报68.80美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3053225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -528,8 +623,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "1145亿市值！今年首个商业航天IPO落户科创板",
@@ -540,8 +635,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -552,8 +647,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -564,8 +659,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050700949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050519369800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.31%，报27260点。 恒生科技指数主连夜盘收涨0.68%，报5490点。",
@@ -573,11 +690,45 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时14分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
+          "url": "https://flash.jin10.com/detail/20260211050115262800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
+          "url": "https://wallstreetcn.com/livenews/3053236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         }
       ]
     },
@@ -634,7 +785,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
@@ -647,6 +798,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时18分]"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20260211041812167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
+          "url": "https://wallstreetcn.com/livenews/3053226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "新兴市场货币指数刷新日高，美元走软。",
@@ -673,8 +846,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 05时14分]"
         }
       ]
     }
