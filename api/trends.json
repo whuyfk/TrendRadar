@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-10T16:11:57.064258+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-02-10T17:18:09.875719+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时09分 ~ 16时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时09分 ~ 17时18分]"
         },
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -91,11 +92,12 @@
           "ranks": [
             8,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 16时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时29分 ~ 17时18分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -166,6 +168,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时11分]"
+        },
+        {
+          "title": "A股全线大涨原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%85%A8%E7%BA%BF%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 17时18分]"
         },
         {
           "title": "上证指数早盘收报4122.34点，跌0.02%。 深证成指早盘收报14206.26点，跌0.02%。 创业板指早盘收报3328.02点，跌0.14%。 沪深300早盘收报4719.81点，涨0.02%。 科创50早盘收报1469.82点，涨0.80%。 中证500早盘收报8290.05点，跌0.26%。 中证1000早盘收报8243.56点，涨0.12%。",
@@ -294,7 +308,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -387,6 +401,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "港股收盘，恒生指数收涨0.58%，恒生科技指数收涨0.62%。石药集团涨超5%，信达生物、泡泡玛特均涨近5%；东方甄选跌近10%。",
+          "url": "https://wallstreetcn.com/livenews/3052867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "A股算力概念股盘初上扬，大位科技2连板，特发信息涨停，亚康股份、江苏有线、光环新网、城地香江、亿田智能跟涨。",
           "url": "https://wallstreetcn.com/livenews/3052628",
           "source": "华尔街见闻-快讯",
@@ -407,17 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "A股全线大涨原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%85%A8%E7%BA%BF%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
         },
         {
           "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
@@ -458,8 +472,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时59分 ~ 16时11分]"
+          "appearance_count": 11,
+          "time_info": "[10时59分 ~ 17时18分]"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            11,
+            14,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时01分 ~ 17时18分]"
         },
         {
           "title": "特朗普：我犯了大错",
@@ -489,17 +518,14 @@
         },
         {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            11,
-            14,
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时01分 ~ 16时11分]"
+          "time_info": "[13时29分 ~ 17时18分]"
         },
         {
           "title": "美媒：丹麦另一领地或成特朗普的新目标",
@@ -522,17 +548,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        },
-        {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 16时11分]"
         },
         {
           "title": "外媒：特朗普拟豁免科技巨头芯片关税",
@@ -690,7 +705,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -965,7 +980,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1061,8 +1076,19 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "布伦特原油突破69美元/桶，日内涨0.43%。",
+          "url": "https://flash.jin10.com/detail/20260210165742786800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
         {
           "title": "WTI 3月原油期货收涨0.81美元，涨幅1.27%，报64.36美元/桶。 NYMEX 3月天然气期货收报3.1380美元/百万英热单位。 NYMEX 3月汽油期货收报1.9855美元/加仑，NYMEX 3月取暖油期货收报2.4169美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3052489",
@@ -1189,7 +1215,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -1229,6 +1255,17 @@
           "time_info": "[12时02分 ~ 13时30分]"
         },
         {
+          "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
+          "url": "https://www.cls.cn/detail/2285329",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052460",
           "source": "华尔街见闻-快讯",
@@ -1258,7 +1295,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1352,6 +1389,46 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
+          "url": "https://flash.jin10.com/detail/20260210150158914800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时11分]"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
+          "url": "https://flash.jin10.com/detail/20260210110132564800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1391,35 +1468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
-          "url": "https://flash.jin10.com/detail/20260210150158914800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时11分]"
-        },
-        {
-          "title": "金十图示：2026年02月10日（周二）上海金早盘价为1121.71元/克，较国际金价(1118.54元/克)，高3.17元/克",
-          "url": "https://flash.jin10.com/detail/20260210110132564800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         }
       ]
     }
