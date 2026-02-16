@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T14:19:09.946502+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-02-16T15:22:20.321858+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
@@ -29,11 +29,53 @@
             3,
             10,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 15时22分]"
+        },
+        {
+          "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
+          "url": "https://wallstreetcn.com/livenews/3055662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            16,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 15时22分]"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3055661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            17,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 15时22分]"
+        },
+        {
+          "title": "港股半导体板块全线爆发",
+          "url": "https://www.toutiao.com/trending/7607019178361290778/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "蛇年最后一个交易日港股收涨，MINIMAX-WP涨24.56%",
@@ -41,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 15时22分]"
         },
         {
           "title": "蛇年最后一个交易日，港股低开高走，恒指收涨0.52%，科指收涨0.13%。存储概念及有色金属板块走强，澜起科技（06809.HK）收涨14.05%，兆易创新涨9.78%；此外，受将被纳入恒生指数的消息带动，宁德时代(03750.HK)收涨2.71%，老铺黄金(06181.HK)涨6.64%，洛阳钼业(03993.HK)涨6.35%。（注：受春节假期影响，今日港股仅交易半日，下午休市）",
@@ -59,43 +102,15 @@
           "time_info": "12时40分"
         },
         {
-          "title": "美团港股一度跌破80港元",
-          "url": "https://flash.jin10.com/detail/20260216132717058800",
-          "source": "金十数据",
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "洛阳钼业港股涨幅扩大至7%，老铺黄金港股涨5.55%，此前获纳入恒生指数成份股。",
-          "url": "https://wallstreetcn.com/livenews/3055662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时19分]"
-        },
-        {
-          "title": "恒生科技指数跌幅扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3055661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 14时19分]"
+          "time_info": "15时22分"
         },
         {
           "title": "蛇年收官战港股收涨，有色板块拉升，MINIMAX-WP暴涨24%、智谱涨4.74%齐创新高",
@@ -108,6 +123,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时29分 ~ 14时19分]"
+        },
+        {
+          "title": "美团港股一度跌破80港元",
+          "url": "https://flash.jin10.com/detail/20260216132717058800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 15时22分]"
         },
         {
           "title": "蛇年最后一个交易日，港股低开，恒生指数翻红，智谱涨7.6%股价创新高，MINIMAX-WP涨10%",
@@ -214,7 +241,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -242,6 +269,18 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时22分]"
+        },
+        {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
           "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
           "source": "澎湃新闻",
@@ -253,17 +292,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时03分 ~ 10时58分]"
-        },
-        {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时19分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -309,6 +337,17 @@
           "time_info": "[00时03分 ~ 06时02分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
+        {
           "title": "特朗普边境事务主管驳回民主党改革ICE的要求",
           "url": "https://flash.jin10.com/detail/20260216075810272800",
           "source": "金十数据",
@@ -331,6 +370,19 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
+          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
+          "url": "https://flash.jin10.com/detail/20260216131526064800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 15时22分]"
+        },
+        {
           "title": "市场消息：据报道，特朗普政府最高制裁官员约翰·赫尔利即将卸任负责恐怖主义和金融情报的副部长一职，原因是他与财政部长斯科特·贝森特关系紧张，目前正在讨论他可能出任大使一职。",
           "url": "https://flash.jin10.com/detail/20260216044651803800",
           "source": "金十数据",
@@ -342,18 +394,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 07时04分]"
-        },
-        {
-          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
-          "url": "https://flash.jin10.com/detail/20260216131526064800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 14时19分]"
         },
         {
           "title": "消息人士：特朗普曾支持以打击伊朗弹道导弹 美军已就协助方案进行讨论",
@@ -420,8 +460,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时03分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时03分 ~ 15时22分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -433,8 +473,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时22分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -442,11 +482,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 15时22分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -501,7 +542,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本10年期国债收益率上涨0.5个基点，至2.215%。",
@@ -509,22 +550,35 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 15时22分]"
         },
         {
           "title": "大摩：市场开始买美债了",
           "url": "https://www.toutiao.com/trending/7607327141323083327/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 15时22分]"
+        },
+        {
+          "title": "日本40年期国债收益率上涨7.0个基点，至3.725%；日本30年期国债收益率上涨5.0个基点，至3.485%。",
+          "url": "https://flash.jin10.com/detail/20260216141145783800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "日本20年期国债收益率上涨1.5个基点，至3.060%。",
@@ -616,8 +670,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时03分 ~ 14时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时03分 ~ 15时22分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
