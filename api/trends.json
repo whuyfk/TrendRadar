@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:34:31.840236+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-02-17T13:27:03.020940+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -67,11 +67,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
@@ -100,6 +101,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时08分 ~ 05时05分]"
+        },
+        {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 13时27分]"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -164,32 +193,6 @@
           "time_info": "[05时05分 ~ 06时04分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 12时34分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 12时34分]"
-        },
-        {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
           "url": "https://flash.jin10.com/detail/20260217021035538800",
           "source": "金十数据",
@@ -240,6 +243,17 @@
           "time_info": "[04时04分 ~ 05时05分]"
         },
         {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -273,12 +287,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
+          "url": "https://flash.jin10.com/detail/20260217122724799800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "日本两年期国债收益率下跌1.5个基点，至1.25%。",
@@ -339,13 +364,24 @@
           "time_info": "09时32分"
         },
         {
+          "title": "日本30年期国债收益率下跌10个基点至3.385%。",
+          "url": "https://flash.jin10.com/detail/20260217124014148800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "日本10年期国债收益率在5年期国债拍卖后继续下跌，最新下跌5个基点至2.16%。",
           "url": "https://flash.jin10.com/detail/20260217114554060800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -356,7 +392,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -386,8 +422,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时11分 ~ 12时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 13时27分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -399,8 +435,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 13时27分]"
         },
         {
           "title": "今年已有143家企业递表港股IPO",
@@ -409,11 +445,12 @@
           "ranks": [
             6,
             14,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 13时27分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -421,11 +458,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时34分]"
+          "appearance_count": 5,
+          "time_info": "[10时56分 ~ 13时27分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -539,7 +577,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -640,8 +678,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时11分 ~ 12时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 13时27分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -654,8 +692,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时11分 ~ 12时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 13时27分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
