@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T04:10:02.785135+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-02-19T05:10:30.554281+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -28,6 +28,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20260219045300437800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美媒：特朗普的和平委员会将承诺50亿美元用于重建加沙",
+          "url": "https://flash.jin10.com/detail/20260219044932847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
+          "url": "https://flash.jin10.com/detail/20260219044503887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美国总统特朗普：我们可以关照大西洋。",
+          "url": "https://wallstreetcn.com/livenews/3056475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -58,11 +102,24 @@
           "url": "https://wallstreetcn.com/livenews/3056449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时10分]"
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时10分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
+          "url": "https://wallstreetcn.com/livenews/3056447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时10分]"
         },
         {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
@@ -71,17 +128,6 @@
           "ranks": [
             13,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时10分]"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗不与我达成一份协议，美国可能就需要英属迪戈加西亚岛（Diego Garcia）。 英国不应当放弃Diego Garcia，否则将是英国势衰的体现。",
-          "url": "https://wallstreetcn.com/livenews/3056447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -121,6 +167,28 @@
           "time_info": "[04时09分 ~ 04时10分]"
         },
         {
+          "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
+          "url": "https://flash.jin10.com/detail/20260219043351935800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "特朗普称：若英国对迪戈加西亚岛“失去控制”，将影响盟友地位",
+          "url": "https://wallstreetcn.com/livenews/3056471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
           "title": "美国参议院卫生委员会将于2月25日就美国总统特朗普提名的公共卫生局局长候选人凯西·米恩斯举行听证会。",
           "url": "https://flash.jin10.com/detail/20260218231039678800",
           "source": "金十数据",
@@ -130,6 +198,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国总统特朗普兜售股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3056468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美国总统特朗普声称：将在国情咨文中谈论经济形势。",
+          "url": "https://wallstreetcn.com/livenews/3056466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "美国白宫：美国总统特朗普尚未就停摆问题与民主党议员进行直接对话。",
@@ -244,6 +334,149 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3056461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时39分 ~ 04时10分]"
+        },
+        {
+          "title": "WTI原油期货涨幅扩大至5%，突破65美元。",
+          "url": "https://wallstreetcn.com/livenews/3056460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时39分 ~ 05时10分]"
+        },
+        {
+          "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3056426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.0%，报65.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3056474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
+          "url": "https://wallstreetcn.com/livenews/3056408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时11分]"
+        },
+        {
+          "title": "安哥拉4月份将装载28批原油，而3月份原计划装载35批。",
+          "url": "https://flash.jin10.com/detail/20260219002016884800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时11分]"
+        },
+        {
+          "title": "WTI原油日内大涨5%，现报65.42美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219034018938800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 05时10分]"
+        },
+        {
+          "title": "布伦特原油站上70美元/桶，日内涨4.69%。",
+          "url": "https://flash.jin10.com/detail/20260219032202699800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 05时10分]"
+        },
+        {
+          "title": "布伦特原油日内大涨4%，现报69.55美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219011927184800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "WTI原油日内大涨4%，现报64.80美元/桶。布伦特原油涨3.87%，报69.44美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260219011350988800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时11分"
+        },
+        {
+          "title": "WTI 3月原油期货收报65.19美元/桶。 布伦特4月原油期货收涨2.93美元，涨幅4.35%，报70.35美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3056461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达3%，报69.45美元/桶；WTI原油日内涨幅达3%，报64.13美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3056366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
       "match_count": 10,
       "titles": [
@@ -256,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时10分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -268,8 +501,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时10分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -280,8 +513,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时10分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -292,8 +525,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时10分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -305,8 +538,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时10分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -317,8 +550,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 04时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 05时10分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -367,46 +600,37 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 10,
+      "keyword_group": "美债 国债",
+      "match_count": 7,
       "titles": [
         {
-          "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3056461",
+          "title": "美国财政部拍卖160亿美元20年期国债，得标利率4.664%（1月21日为4.846%），投标倍数2.36（前次为2.86）。",
+          "url": "https://wallstreetcn.com/livenews/3056430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时11分 ~ 04时10分]"
+        },
+        {
+          "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
+          "url": "https://flash.jin10.com/detail/20260219003601813800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时10分]"
+          "time_info": "[01时23分 ~ 02时11分]"
         },
         {
-          "title": "WTI原油期货涨幅扩大至5%，突破65美元。",
-          "url": "https://wallstreetcn.com/livenews/3056460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时10分]"
-        },
-        {
-          "title": "布伦特原油期货涨4%，刷新日高至70美元/桶整数位心理关口上方。 WTI原油日内涨幅达4.0%，报64.78美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3056426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        },
-        {
-          "title": "WTI原油日内涨幅达3.5%，报64.44美元/桶。 布伦特原油日内涨幅达3.5%，报69.78美元/桶。 日内瓦会谈结束，乌克兰总统泽连斯基职责俄方拖延谈判进程。",
-          "url": "https://wallstreetcn.com/livenews/3056408",
-          "source": "华尔街见闻-快讯",
+          "title": "美国至2月18日4个月国债竞拍-投标倍数 3.15，前值3.38。",
+          "url": "https://flash.jin10.com/detail/20260219003547326800",
+          "source": "金十数据",
           "ranks": [
             5,
             19
@@ -416,71 +640,50 @@
           "time_info": "[01时23分 ~ 02时11分]"
         },
         {
-          "title": "安哥拉4月份将装载28批原油，而3月份原计划装载35批。",
-          "url": "https://flash.jin10.com/detail/20260219002016884800",
+          "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260219003539400800",
           "source": "金十数据",
           "ranks": [
-            12,
-            26
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时11分]"
         },
         {
-          "title": "布伦特原油日内大涨4%，现报69.55美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260219011927184800",
-          "source": "金十数据",
+          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.15。",
+          "url": "https://wallstreetcn.com/livenews/3056406",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时11分]"
         },
         {
-          "title": "WTI原油日内大涨4%，现报64.80美元/桶。布伦特原油涨3.87%，报69.44美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260219011350988800",
-          "source": "金十数据",
+          "title": "美债收益率普遍涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3056469",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
+          "url": "https://wallstreetcn.com/livenews/3056416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
-        },
-        {
-          "title": "WTI原油日内大涨5%，现报65.42美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260219034018938800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "布伦特原油站上70美元/桶，日内涨4.69%。",
-          "url": "https://flash.jin10.com/detail/20260219032202699800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达3%，报69.45美元/桶；WTI原油日内涨幅达3%，报64.13美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3056366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
         }
       ]
     },
@@ -560,85 +763,8 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国财政部拍卖160亿美元20年期国债，得标利率4.664%（1月21日为4.846%），投标倍数2.36（前次为2.86）。",
-          "url": "https://wallstreetcn.com/livenews/3056430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时10分]"
-        },
-        {
-          "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
-          "url": "https://flash.jin10.com/detail/20260219003601813800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时11分]"
-        },
-        {
-          "title": "美国至2月18日4个月国债竞拍-投标倍数 3.15，前值3.38。",
-          "url": "https://flash.jin10.com/detail/20260219003547326800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时11分]"
-        },
-        {
-          "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
-          "url": "https://flash.jin10.com/detail/20260219003539400800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时11分]"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.15。",
-          "url": "https://wallstreetcn.com/livenews/3056406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时11分]"
-        },
-        {
-          "title": "机构：德国国债正取代日元，成为抗衡“特朗普冲击”的避险新宠",
-          "url": "https://wallstreetcn.com/livenews/3056416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -662,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美元指数涨约0.6%",
+          "url": "https://wallstreetcn.com/livenews/3056464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         }
       ]
     },
