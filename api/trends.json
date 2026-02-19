@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T21:29:07.138741+08:00",
-  "total_titles_processed": 1804,
+  "generated_at": "2026-02-19T22:18:34.229905+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -127,6 +127,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "美国财政部声明：特朗普将于12月14日至15日在迈阿密主持G20峰会。美国将于8月下旬和9月在北卡罗来纳州阿什维尔举办G20财政官员会议。",
+          "url": "https://flash.jin10.com/detail/20260219220303113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "英国阻止特朗普使用英国空军基地打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260219220045780800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -346,6 +368,17 @@
           "time_info": "20时07分"
         },
         {
+          "title": "英国阻止特朗普使用英国的基地打击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260219215414927800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
           "url": "https://flash.jin10.com/detail/20260219043351935800",
           "source": "金十数据",
@@ -374,7 +407,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -407,7 +440,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -451,7 +484,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -506,7 +539,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -657,7 +690,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -698,19 +731,6 @@
           "time_info": "[00时17分 ~ 11时50分]"
         },
         {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[10时56分 ~ 21时29分]"
-        },
-        {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
@@ -719,8 +739,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[06时06分 ~ 21时29分]"
+          "appearance_count": 25,
+          "time_info": "[06时06分 ~ 22时18分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[10时56分 ~ 22时18分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -732,8 +766,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时17分 ~ 21时29分]"
+          "appearance_count": 35,
+          "time_info": "[00时17分 ~ 22时18分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -746,8 +780,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时17分 ~ 21时29分]"
+          "appearance_count": 35,
+          "time_info": "[00时17分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -760,8 +794,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时17分 ~ 21时29分]"
+          "appearance_count": 35,
+          "time_info": "[00时17分 ~ 22时18分]"
         },
         {
           "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
@@ -774,8 +808,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时34分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时34分 ~ 22时18分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -786,8 +820,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时09分 ~ 21时29分]"
+          "appearance_count": 10,
+          "time_info": "[16时09分 ~ 22时18分]"
         },
         {
           "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
@@ -795,11 +829,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时07分 ~ 21时29分]"
+          "appearance_count": 4,
+          "time_info": "[20时07分 ~ 22时18分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -811,6 +846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-02-19）",
+          "url": "https://flash.jin10.com/detail/20260219220707052800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美股盘前，白银概念股走强，泛美白银(PAAS.O)涨4.6%、赫克拉矿业(HL.N)涨1.9%、First Majestic(AG.O)涨1.3%。",
@@ -887,6 +933,18 @@
           "time_info": "[06时06分 ~ 07时07分]"
         },
         {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时18分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -897,17 +955,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时07分]"
-        },
-        {
-          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3056638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "房利美股价迅速扩大涨幅，上涨4%。",
@@ -991,8 +1038,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时09分 ~ 21时29分]"
+          "appearance_count": 10,
+          "time_info": "[16时09分 ~ 22时18分]"
         },
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -1487,6 +1534,17 @@
           "time_info": "[10时57分 ~ 15时20分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 22时18分]"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
           "url": "https://wallstreetcn.com/livenews/3056596",
           "source": "华尔街见闻-快讯",
@@ -1510,17 +1568,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时07分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时29分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -1677,6 +1724,49 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价涨约2%，白银涨约5%",
+          "url": "https://wallstreetcn.com/livenews/3056504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时06分 ~ 08时07分]"
+        },
+        {
+          "title": "金价迎来新一轮大涨",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 19时15分]"
+        },
+        {
+          "title": "加拿大2025年贸易逆差创历史新高 金价上涨掩盖了关税的真正冲击",
+          "url": "https://flash.jin10.com/detail/20260219215117708800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1713,38 +1803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价涨约2%，白银涨约5%",
-          "url": "https://wallstreetcn.com/livenews/3056504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时06分 ~ 08时07分]"
-        },
-        {
-          "title": "金价迎来新一轮大涨",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 19时15分]"
         }
       ]
     },
