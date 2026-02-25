@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T08:07:35.910628+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-02-25T09:36:42.807016+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时07分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时36分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -42,6 +42,22 @@
           "time_info": "[00时19分 ~ 07时20分]"
         },
         {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时58分 ~ 09时36分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -54,21 +70,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 08时07分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时58分 ~ 08时07分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -90,9 +91,31 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 09时36分]"
+        },
+        {
+          "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
+          "url": "https://flash.jin10.com/detail/20260225092719887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
+          "url": "https://flash.jin10.com/detail/20260225092652948800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -211,13 +234,24 @@
           "time_info": "[01时58分 ~ 02时16分]"
         },
         {
+          "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
+          "url": "https://flash.jin10.com/detail/20260225092635757800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
           "url": "https://wallstreetcn.com/livenews/3058394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -242,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -286,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "派拉蒙首席执行官大卫·埃里森将出席特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225091354888800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
@@ -335,7 +391,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -372,6 +428,19 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 09时36分]"
+        },
+        {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
           "url": "https://www.cls.cn/detail/2293730",
           "source": "财联社热门",
@@ -398,17 +467,17 @@
           "time_info": "[00时19分 ~ 08时07分]"
         },
         {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
           "source": "财联社热门",
           "ranks": [
-            10,
-            11,
-            9
+            7,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 08时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时36分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -437,13 +506,24 @@
           "time_info": "[00时19分 ~ 08时07分]"
         },
         {
+          "title": "A股磷化工板块延续涨势，澄星股份2连板，和邦生物、金正大、六国化工、恒光股份、川金诺等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3058442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "多数保险机构今年计划小幅增配A股",
           "url": "https://wallstreetcn.com/livenews/3058398",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -454,9 +534,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "上证指数开盘报4123.78点，涨0.15%。 深证成指开盘报14322.24点，涨0.21%。 创业板指开盘报3313.09点，涨0.15%。 沪深300开盘报4713.58点，涨0.13%。 科创50开盘报1468.51点，涨0.21%。 中证500开盘报8412.08点，涨0.23%。 中证1000开盘报8320.61点，涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3058438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "ETF市场“冷热不均”，港股主题ETF受青睐",
@@ -465,21 +556,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
         {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
+          "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3058435",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 08时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -569,7 +659,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -640,6 +730,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225090833953800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -649,12 +750,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225090601013800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "WTI 4月原油期货收跌1.03%，报65.63美元/桶。 NYMEX 3月天然气期货收报2.9150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9714美元/加仑，NYMEX 3月取暖油期货收报2.6869美元/加仑。",
@@ -808,6 +920,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "WTI原油期货日内涨幅达1.00%，现报66.29美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260225090927111800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "上期所原油期货2604合约夜盘收跌0.90%，报485.50元人民币/桶。 沪金夜盘收跌0.30%，沪银收涨0.71%。",
           "url": "https://wallstreetcn.com/livenews/3058294",
           "source": "华尔街见闻-快讯",
@@ -855,7 +978,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
@@ -959,6 +1082,39 @@
           "time_info": "[01时58分 ~ 02时16分]"
         },
         {
+          "title": "日本10年期国债收益率下跌0.5个基点，至2.095%。",
+          "url": "https://flash.jin10.com/detail/20260225091844139800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "日本40年期国债收益率上行5个基点至3.565%。",
+          "url": "https://wallstreetcn.com/livenews/3058421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3058410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
           "title": "美国两年期国债标售得标利率创2022年以来新低",
           "url": "https://wallstreetcn.com/livenews/3058286",
           "source": "华尔街见闻-快讯",
@@ -968,6 +1124,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "日本40年期国债收益率上升5个基点，至3.565%。",
+          "url": "https://flash.jin10.com/detail/20260225090105700800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3058404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         },
         {
           "title": "美国至2月24日2年期国债竞拍-得标利率 3.455%，前值3.58%。",
@@ -984,7 +1162,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
@@ -1018,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 02时16分]"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时36分"
         }
       ]
     },
@@ -1032,7 +1221,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -1054,7 +1243,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
