@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T12:35:34.183197+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-02-25T13:28:18.357502+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 97,
+      "match_count": 100,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 12时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 13时28分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时58分 ~ 12时35分]"
+          "appearance_count": 13,
+          "time_info": "[01时58分 ~ 13时28分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时35分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时28分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -93,8 +93,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时28分]"
+        },
+        {
+          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
+          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
         },
         {
           "title": "特朗普走上“关税悬崖”",
@@ -130,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 09时36分]"
-        },
-        {
-          "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
-          "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美国总统特朗普：授予海岸警卫队成员功绩勋章。",
@@ -198,6 +198,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "特朗普：伊朗正研制很快打到美国的导弹",
+          "url": "https://www.toutiao.com/trending/7610645788871364115/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
           "url": "https://flash.jin10.com/detail/20260225092719887800",
           "source": "金十数据",
@@ -207,17 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
-        },
-        {
-          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
-          "url": "https://flash.jin10.com/detail/20260225121648684800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
@@ -325,6 +325,18 @@
           "time_info": "[11时55分 ~ 12时35分]"
         },
         {
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普正筹划新关税，其力度堪比大规模加税。",
+          "url": "https://flash.jin10.com/detail/20260225121648684800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普政府被1000多家企业起诉",
           "url": "https://www.toutiao.com/trending/7609548645095964718/",
           "source": "今日头条",
@@ -335,6 +347,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 05时09分]"
+        },
+        {
+          "title": "弗吉尼亚州州长斯潘伯格：美国民众正在为美国总统特朗普的贸易政策埋单。",
+          "url": "https://flash.jin10.com/detail/20260225121629384800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -372,6 +396,18 @@
           "time_info": "[11时55分 ~ 12时35分]"
         },
         {
+          "title": "美国总统特朗普：美国“没有需要征服的疆界”。",
+          "url": "https://flash.jin10.com/detail/20260225120152923800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普：正在与伊朗谈，他们希望达成协议。 不会让伊朗拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3058553",
           "source": "华尔街见闻-快讯",
@@ -382,6 +418,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 12时35分]"
+        },
+        {
+          "title": "美国总统特朗普的国情咨文演讲持续1小时48分钟后结束，创历史之最。",
+          "url": "https://flash.jin10.com/detail/20260225120035789800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
+        },
+        {
+          "title": "超100分钟，特朗普打破国情咨文演讲时长纪录",
+          "url": "https://wallstreetcn.com/livenews/3058584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
         },
         {
           "title": "美国总统特朗普：我们干掉了墨西哥毒枭。",
@@ -431,6 +491,17 @@
           "time_info": "[01时58分 ~ 02时16分]"
         },
         {
+          "title": "特朗普国情咨文演讲大骂：这些人疯了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
           "url": "https://flash.jin10.com/detail/20260225011033725800",
           "source": "金十数据",
@@ -452,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时28分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -476,15 +558,15 @@
           "time_info": "09时36分"
         },
         {
-          "title": "弗吉尼亚州州长斯潘伯格：美国民众正在为美国总统特朗普的贸易政策埋单。",
-          "url": "https://flash.jin10.com/detail/20260225121629384800",
+          "title": "特朗普：北约国家向美国全额购买武器并交付乌克兰",
+          "url": "https://flash.jin10.com/detail/20260225124552182800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "13时28分"
         },
         {
           "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
@@ -531,17 +613,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "美国总统特朗普：美国“没有需要征服的疆界”。",
-          "url": "https://flash.jin10.com/detail/20260225120152923800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
           "url": "https://wallstreetcn.com/livenews/3058232",
           "source": "华尔街见闻-快讯",
@@ -575,15 +646,15 @@
           "time_info": "10时58分"
         },
         {
-          "title": "美国总统特朗普的国情咨文演讲持续1小时48分钟后结束，创历史之最。",
-          "url": "https://flash.jin10.com/detail/20260225120035789800",
+          "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普的政策只利于他本人及其圈子。",
+          "url": "https://flash.jin10.com/detail/20260225124021948800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "13时28分"
         },
         {
           "title": "特朗普：关税提振了股市，道琼斯指数提前突破5万点大关。 最高法院关于关税的裁决非常令人遗憾。",
@@ -595,17 +666,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "超100分钟，特朗普打破国情咨文演讲时长纪录",
-          "url": "https://wallstreetcn.com/livenews/3058584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美国总统特朗普：如今美国的就业人数比历史上任何时期都多。",
@@ -625,7 +685,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -636,7 +696,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -658,7 +718,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -773,17 +833,6 @@
           "time_info": "05时09分"
         },
         {
-          "title": "特朗普国情咨文演讲大骂：这些人疯了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "美国总统特朗普：美国石油日产量增加逾60万桶。",
           "url": "https://flash.jin10.com/detail/20260225102919647800",
           "source": "金十数据",
@@ -878,7 +927,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -892,17 +941,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美国总统特朗普：我们赢了这么多，真不知道该怎么办了。",
@@ -1106,7 +1144,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1143,6 +1181,19 @@
           "time_info": "[00时19分 ~ 06时14分]"
         },
         {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时28分]"
+        },
+        {
           "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
           "url": "https://www.cls.cn/detail/2293967",
           "source": "财联社热门",
@@ -1154,19 +1205,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时19分 ~ 12时35分]"
-        },
-        {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时35分]"
         },
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -1287,6 +1325,17 @@
           "time_info": "10时58分"
         },
         {
+          "title": "A股半导体设备板块午后走高，拓荆科技、富创精密涨超10%，长川科技、中科飞测、芯源微、华海清科、恒运昌等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3058612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
           "title": "恒指高开0.58%，报26745.20点；恒生科技指数涨0.86%。小鹏汽车涨超2%，华虹半导体、中芯国际涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3058435",
           "source": "华尔街见闻-快讯",
@@ -1296,6 +1345,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
+          "url": "https://www.cls.cn/detail/2294203",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 13时28分]"
         },
         {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
@@ -1308,18 +1370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时14分]"
-        },
-        {
-          "title": "港股IPO开年募资大增10倍，110家A股公司排队港股上市",
-          "url": "https://www.cls.cn/detail/2294203",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 12时35分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股盘中）",
@@ -1548,8 +1598,19 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "日本30年期国债收益率上升6.5个基点，至3.340%。",
+          "url": "https://flash.jin10.com/detail/20260225131121714800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
           "url": "https://wallstreetcn.com/livenews/3058330",
@@ -1714,7 +1775,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -2011,8 +2072,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时36分 ~ 13时28分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
