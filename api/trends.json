@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:10:24.332214+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-02-27T20:05:23.663091+08:00",
+  "total_titles_processed": 1915,
   "failed_sources": [],
   "trends": [
     {
@@ -186,6 +186,19 @@
           "time_info": "[14时13分 ~ 17时12分]"
         },
         {
+          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
+          "url": "https://www.cls.cn/detail/2297139",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时10分 ~ 20时05分]"
+        },
+        {
           "title": "恒指高开0.25%，报26447.05点；恒生科技指数涨0.15%。药明生物涨近5%，商汤涨超4%，腾讯音乐涨超3%，携程、小鹏汽车、理想汽车涨超1%。百度跌超1%，此前公布财报。",
           "url": "https://wallstreetcn.com/livenews/3059902",
           "source": "华尔街见闻-快讯",
@@ -222,18 +235,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时53分 ~ 12时31分]"
-        },
-        {
-          "title": "A股离主动ETF还有多远？今年或有望上报，全球规模激增74%",
-          "url": "https://www.cls.cn/detail/2297139",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时10分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.09%，报26391点。 恒生科技指数主连夜盘收涨0.12%，报5129点。",
@@ -599,8 +600,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时06分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[08时06分 ~ 20时05分]"
         },
         {
           "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
@@ -694,6 +695,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时11分 ~ 20时05分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -792,18 +805,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时21分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时11分 ~ 19时10分]"
         },
         {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
@@ -939,7 +940,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -1001,8 +1002,293 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "WTI原油期货和布伦特原油期货在阿曼外长发文称美伊谈判取得“重大进展”后转跌。",
+          "url": "https://flash.jin10.com/detail/20260227024604812800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达2%，报72.26美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "WTI原油日内涨幅扩大至1.00%，现报66.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260226234656239800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC计划于五月对穆尔班原油生产油田进行维护，公司因此削减5月穆尔班原油供应预测。",
+          "url": "https://flash.jin10.com/detail/20260227185017797800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3059726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时09分]"
+        },
+        {
+          "title": "上期所原油期货2604合约夜盘收涨0.74%，报489.80元人民币/桶。 沪金夜盘收跌0.25%，沪银收跌2.93%。",
+          "url": "https://wallstreetcn.com/livenews/3059724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时09分]"
+        },
+        {
+          "title": "WTI原油回落至65美元/桶下方，日内跌0.81%。",
+          "url": "https://flash.jin10.com/detail/20260227090721486800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅达1.00%，现报66.08美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260226234209408800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "WTI原油期货跌破65美元/桶，日内跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20260227090401623800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至1.00%，现报71.45美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260226234048351800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
+          "url": "https://wallstreetcn.com/livenews/3059661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "匈牙利政府发言人：匈牙利驻基辅临时代办在一天内第二次被乌克兰外交部召见，事态再次表明，乌克兰完全是出于政治原因而不恢复原油供应。",
+          "url": "https://flash.jin10.com/detail/20260227041648098800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一。氧化铝跌超3%，碳酸锂、钯、沪银、聚氯乙烯（PVC）、燃油跌超2%，塑料、PTA、甲醇跌近2%；涨幅方面，沪锡涨超2%，SC原油、白糖、豆一涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260227090001652800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "WTI原油日内涨幅扩大至2.00%，现报66.84美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260227193619249800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 布伦特4月原油期货收报70.75美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "据路透调查：预计2026年美国原油的平均价格将为每桶60.38美元，而1月份的预测为每桶58.72美元。",
+          "url": "https://flash.jin10.com/detail/20260227193447680800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "沙特或将4月销往亚洲的原油价格上调，为5个月来首次涨价。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "据路透调查：预计2026年布伦特原油均价为每桶63.85美元，而1月份的预测为每桶62.02美元。",
+          "url": "https://flash.jin10.com/detail/20260227193419740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至2.00%，现报72.30美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260227193053732800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报65.87美元/桶；布伦特原油日内涨幅达1.0%，报71.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "消息人士：Motiva Enterprises已购入一批委内瑞拉Boscan重质原油，计划于三月交付。",
+          "url": "https://flash.jin10.com/detail/20260227030514312800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时08分"
+        },
+        {
+          "title": "WTI原油日内涨幅达2%，报66.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
+          "title": "美国能源部长赖特：委内瑞拉原油售价约为每桶50美元，预计到2月底将售出4000万桶。",
+          "url": "https://flash.jin10.com/detail/20260227071829459800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "俄罗斯副总理诺瓦克：我们将努力将俄罗斯乌拉尔原油相对于布伦特原油的折扣收窄至每桶10美元。",
+          "url": "https://flash.jin10.com/detail/20260227192615820800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 国债",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国至2月27日当周外国央行持有美国国债 -150.61亿美元，前值-100.17亿美元。",
@@ -1221,6 +1507,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "美债收益率走低，PPI成下一个转折点",
+          "url": "https://flash.jin10.com/detail/20260227193323385800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时05分"
+        },
+        {
           "title": "美国7年期国债收益率在国债标售后跌幅收窄，最新报3.777%，较前一交易日下行3.3个基点。",
           "url": "https://flash.jin10.com/detail/20260227020713930800",
           "source": "金十数据",
@@ -1241,225 +1538,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "WTI原油期货和布伦特原油期货在阿曼外长发文称美伊谈判取得“重大进展”后转跌。",
-          "url": "https://flash.jin10.com/detail/20260227024604812800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3059742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "WTI原油日内涨幅扩大至1.00%，现报66.31美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260226234656239800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC计划于五月对穆尔班原油生产油田进行维护，公司因此削减5月穆尔班原油供应预测。",
-          "url": "https://flash.jin10.com/detail/20260227185017797800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "WTI原油5分钟内下跌0.95美元/桶，报65.4美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3059726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时09分]"
-        },
-        {
-          "title": "上期所原油期货2604合约夜盘收涨0.74%，报489.80元人民币/桶。 沪金夜盘收跌0.25%，沪银收跌2.93%。",
-          "url": "https://wallstreetcn.com/livenews/3059724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时09分]"
-        },
-        {
-          "title": "WTI原油回落至65美元/桶下方，日内跌0.81%。",
-          "url": "https://flash.jin10.com/detail/20260227090721486800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "WTI原油期货日内涨幅达1.00%，现报66.08美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260226234209408800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "WTI原油期货跌破65美元/桶，日内跌0.34%。",
-          "url": "https://flash.jin10.com/detail/20260227090401623800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "布伦特原油日内涨幅扩大至1.00%，现报71.45美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260226234048351800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "WTI原油期货跌幅收窄，重返65美元上方。 据伊朗国家电视台：“与美国的部分磋商是直接进行的，伊朗不会允许铀浓缩离开本国”。",
-          "url": "https://wallstreetcn.com/livenews/3059661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "匈牙利政府发言人：匈牙利驻基辅临时代办在一天内第二次被乌克兰外交部召见，事态再次表明，乌克兰完全是出于政治原因而不恢复原油供应。",
-          "url": "https://flash.jin10.com/detail/20260227041648098800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约涨跌不一。氧化铝跌超3%，碳酸锂、钯、沪银、聚氯乙烯（PVC）、燃油跌超2%，塑料、PTA、甲醇跌近2%；涨幅方面，沪锡涨超2%，SC原油、白糖、豆一涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260227090001652800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.21美元/桶。 布伦特4月原油期货收报70.75美元/桶。 NYMEX 3月天然气期货收报2.8270美元/百万英热单位。 NYMEX 3月汽油期货收报2.0323美元/加仑，NYMEX 3月取暖油期货收报2.6125美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3059742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "沙特或将4月销往亚洲的原油价格上调，为5个月来首次涨价。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3060051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.0%，报65.87美元/桶；布伦特原油日内涨幅达1.0%，报71.55美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3060130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "消息人士：Motiva Enterprises已购入一批委内瑞拉Boscan重质原油，计划于三月交付。",
-          "url": "https://flash.jin10.com/detail/20260227030514312800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
-        },
-        {
-          "title": "WTI原油日内涨幅达2%，报66.53美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3060218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "美国能源部长赖特：委内瑞拉原油售价约为每桶50美元，预计到2月底将售出4000万桶。",
-          "url": "https://flash.jin10.com/detail/20260227071829459800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
         }
       ]
     },
