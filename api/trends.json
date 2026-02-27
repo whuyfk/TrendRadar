@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T04:05:34.297632+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-02-28T05:05:34.111888+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 04时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 05时05分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 04时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 05时05分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 04时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 05时05分]"
         },
         {
           "title": "美国总统特朗普：（对购房者）再等等，你们会得到一个非常低的利率。",
@@ -88,6 +88,19 @@
           "time_info": "02时08分"
         },
         {
+          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
+          "url": "https://wallstreetcn.com/livenews/3060471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时05分]"
+        },
+        {
           "title": "美国总统特朗普谈及贷款利率，声称：下降速度非常快。",
           "url": "https://wallstreetcn.com/livenews/3060452",
           "source": "华尔街见闻-快讯",
@@ -124,16 +137,17 @@
           "time_info": "[02时08分 ~ 03时12分]"
         },
         {
-          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
-          "url": "https://wallstreetcn.com/livenews/3060471",
+          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
+          "url": "https://wallstreetcn.com/livenews/3060466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            15
+            9,
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时05分]"
         },
         {
           "title": "市场消息：特朗普表示，他未考虑为2026年中期选举宣布进入国家紧急状态。",
@@ -182,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时08分 ~ 03时12分]"
-        },
-        {
-          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
-          "url": "https://wallstreetcn.com/livenews/3060466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时05分]"
         },
         {
           "title": "美国总统特朗普：或许我们会友好地接管古巴。",
@@ -273,7 +275,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -284,7 +286,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -443,6 +445,17 @@
           "time_info": "02时08分"
         },
         {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "美国总统特朗普：也许我们会友好地接管古巴。",
           "url": "https://flash.jin10.com/detail/20260228013339697800",
           "source": "金十数据",
@@ -578,7 +591,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -590,41 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 04时05分]"
-        },
-        {
-          "title": "美国2年期国债收益率触及2022年以来最低，债券价格延续涨势。",
-          "url": "https://wallstreetcn.com/livenews/3060487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "美国2年期国债收益率跌至2022年以来最低水平。",
-          "url": "https://flash.jin10.com/detail/20260228033658312800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
-          "url": "https://wallstreetcn.com/livenews/3060482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时05分"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 05时05分]"
         },
         {
           "title": "美国30年期国债收益率跌至4.63%，创10月份以来新低。",
@@ -637,6 +617,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时08分]"
+        },
+        {
+          "title": "美国2年期国债收益率触及2022年以来最低，债券价格延续涨势。",
+          "url": "https://wallstreetcn.com/livenews/3060487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 05时05分]"
+        },
+        {
+          "title": "美国2年期国债收益率跌至2022年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260228033658312800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 05时05分]"
+        },
+        {
+          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
+          "url": "https://wallstreetcn.com/livenews/3060482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 05时05分]"
         },
         {
           "title": "英国10/30年期国债收益率本周跌约12个基点",
@@ -668,9 +684,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，投机者将CBOT美国2年期国债期货的净空头头寸增加113628手，至1348036手。",
+          "url": "https://flash.jin10.com/detail/20260228043549402800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国10年期国债收益率跌破3.96%，创去年10月23日以来新低。",
@@ -679,7 +706,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -709,18 +736,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 04时05分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 05时05分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -728,22 +756,35 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 04时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 05时05分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3060477",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 05时05分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时05分"
+          "time_info": "05时05分"
         },
         {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
@@ -811,11 +852,12 @@
           "url": "https://wallstreetcn.com/livenews/3060478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 05时05分]"
         },
         {
           "title": "瑞银下调美股评级，警告政策和估值等多重风险",
@@ -876,18 +918,30 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：2月24日当周，投机者所持NYMEX WTI原油净多头头寸增加16,968手合约，至98,187手合约，创七个月新高。 所持ICE布伦特与WTI原油净多头头寸增加71,179手合约，至413,401手合约，创大约13个月新高。 所持NYMEX汽油净多头头寸创12周新高，所持NYMEX取暖油净多头头寸创三周新高。 所持NYMEX天然气净多头头寸创14个月新低。",
+          "url": "https://wallstreetcn.com/livenews/3060500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
         {
           "title": "美国原油收涨约2.8%，纽约天然气2月累跌29%，中东原油期货累涨6.7%",
           "url": "https://wallstreetcn.com/livenews/3060486",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 05时05分]"
         },
         {
           "title": "上期所原油期货2604合约夜盘收涨3.74%，报502.4元人民币/桶。 沪金夜盘收涨1.31%，沪银收涨6.95%。",
@@ -895,11 +949,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时05分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时05分]"
         },
         {
           "title": "初步报告显示，尼日利亚四种主要原油4月份平均日出口量预计为78.3万桶（3月份为79.3万桶）。",
@@ -911,6 +966,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至2月24日当周，原油投机者将WTI原油净多头头寸增加13173手，至81058手。",
+          "url": "https://flash.jin10.com/detail/20260228043315750800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     },
@@ -923,11 +989,29 @@
           "url": "https://www.cls.cn/detail/2297724",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时07分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 05时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.2%，2月份累涨0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     }
