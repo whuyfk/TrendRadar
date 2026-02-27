@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T11:45:42.846678+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-02-27T12:31:46.847775+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 11时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时31分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
@@ -58,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 11时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时31分]"
         },
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -71,8 +71,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 11时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时07分 ~ 12时31分]"
         },
         {
           "title": "三大AI应用春节DAU创新高，千问缩小与豆包差距",
@@ -81,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -130,17 +130,6 @@
           "time_info": "07时07分"
         },
         {
-          "title": "恒生科技指数涨逾1%。商汤涨逾7%，金蝶国际、哔哩哔哩涨逾3%，腾讯控股涨2.7%，美团涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3059960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周四（2月26日），美国科技股七巨头（Magnificent 7）指数跌1.89%，报196.96点，美股早盘持续走低，北京时间23:34刷新日低至195.64点，随后持续低位震荡。",
           "url": "https://wallstreetcn.com/livenews/3059778",
           "source": "华尔街见闻-快讯",
@@ -164,16 +153,29 @@
           "time_info": "[09时31分 ~ 10时53分]"
         },
         {
+          "title": "恒生科技指数涨逾1%。商汤涨逾7%，金蝶国际、哔哩哔哩涨逾3%，腾讯控股涨2.7%，美团涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3059960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时31分]"
+        },
+        {
           "title": "恒生科技指数盘中再次转跌，此前一度涨0.9%。华虹半导体、蔚来跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3059941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 12时31分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.09%，报26391点。 恒生科技指数主连夜盘收涨0.12%，报5129点。",
@@ -243,6 +245,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "上证指数早盘收报4139.53点，跌0.17%。 深证成指早盘收报14405.75点，跌0.68%。 创业板指早盘收报3296.23点，跌1.46%。 沪深300早盘收报4693.19点，跌0.71%。 科创50早盘收报1476.05点，跌0.66%。 中证500早盘收报8573.46点，涨0.19%。 中证1000早盘收报8501.54点，涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3059971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "2月27日午间收评：创业板指半日跌1.46%，算力租赁、有色板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3059969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）美股热门股票行情一览（美股盘中）",
@@ -391,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -411,11 +435,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 11时45分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 12时31分]"
         },
         {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
@@ -467,6 +492,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
+          "url": "https://flash.jin10.com/detail/20260227120709043800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "特朗普周四听取了有关伊朗军事选项的简报。（ABC）",
           "url": "https://wallstreetcn.com/livenews/3059856",
           "source": "华尔街见闻-快讯",
@@ -476,6 +512,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 12时31分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -549,20 +622,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 01时21分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 11时45分]"
         },
         {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
@@ -658,6 +717,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
+          "url": "https://flash.jin10.com/detail/20260227115235508800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
           "url": "https://flash.jin10.com/detail/20260227022534308800",
           "source": "金十数据",
@@ -667,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
+          "url": "https://flash.jin10.com/detail/20260227114444531800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -727,7 +808,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国至2月27日当周外国央行持有美国国债 -150.61亿美元，前值-100.17亿美元。",
@@ -876,6 +957,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.01%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3059967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "日本2年期国债标售投标倍数为3.32，而上一次为3.88。",
+          "url": "https://flash.jin10.com/detail/20260227113621233800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260227113123286800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "美国7年期国债收益率在国债标售后跌幅收窄，最新报3.777%，较前一交易日下行3.3个基点。",
@@ -1101,8 +1215,31 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时31分]"
+        },
+        {
+          "title": "谷歌深夜发布生图模型Nano Banana 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时45分]"
+          "time_info": "[10时53分 ~ 12时31分]"
+        },
+        {
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时31分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -1127,28 +1264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时12分]"
-        },
-        {
-          "title": "谷歌深夜发布生图模型Nano Banana 2",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%B7%B1%E5%A4%9C%E5%8F%91%E5%B8%83%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8BNano+Banana+2",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时45分]"
-        },
-        {
-          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2010521633262101357",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
         },
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -1341,11 +1456,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 12时31分]"
         },
         {
           "title": "DeepSeek联合清北重磅硬核论文：发力智能体底层基建，击穿Agent推理I/O瓶颈",
