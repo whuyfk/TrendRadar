@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T10:54:25.532247+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-03-02T11:45:47.295351+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
@@ -78,6 +78,29 @@
           "time_info": "[06时02分 ~ 07时03分]"
         },
         {
+          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时45分]"
+        },
+        {
           "title": "美国总统特朗普谈及霍尔木兹海峡和石油，称：什么都不担心。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3061240",
           "source": "华尔街见闻-快讯",
@@ -92,37 +115,16 @@
           "time_info": "[00时03分 ~ 04时02分]"
         },
         {
-          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时54分]"
-        },
-        {
-          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
-          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时54分]"
-        },
-        {
           "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
           "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时02分 ~ 10时54分]"
+          "appearance_count": 7,
+          "time_info": "[06时02分 ~ 11时45分]"
         },
         {
           "title": "据CNBC：美国总统特朗普表示，事情正在以非常积极的方式发展。",
@@ -134,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "能源情报集团记者Amena Bakr：如果特朗普的“计划”是让这场冲突在一周内结束，我认为他目前还没有想好如何才能实现这一目标。",
+          "url": "https://flash.jin10.com/detail/20260302114056764800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "特朗普：美军在对伊行动中打死48名伊朗指挥官",
@@ -232,6 +245,31 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时45分]"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时45分]"
+        },
+        {
           "title": "特朗普称美方“基本摧毁”伊朗海军总部",
           "url": "https://wallstreetcn.com/livenews/3061245",
           "source": "华尔街见闻-快讯",
@@ -254,18 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
-          "url": "https://wallstreetcn.com/articles/3766474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时54分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普听取了有关得州奥斯汀枪击案的汇报。",
@@ -344,17 +370,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
-          "url": "https://wallstreetcn.com/articles/3766483",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "美国总统特朗普：美国将为美国士兵的丧生复仇。",
@@ -500,6 +515,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "特朗普曝伊朗内部人士主动接触",
+          "url": "https://flash.jin10.com/detail/20260302111931135800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
           "url": "https://flash.jin10.com/detail/20260302001250596800",
           "source": "金十数据",
@@ -566,6 +592,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "据ABC新闻：特朗普在谈及哈梅内伊之死时表示，我赶在他干掉我之前先干掉了他。他们试了两次。嗯，我先得手了。",
+          "url": "https://flash.jin10.com/detail/20260302110855426800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -602,7 +639,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股",
@@ -611,7 +648,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -627,6 +664,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "银行理财子公司“掘金”港股IPO市场",
           "url": "https://wallstreetcn.com/livenews/3061322",
           "source": "华尔街见闻-快讯",
@@ -638,13 +686,24 @@
           "time_info": "08时04分"
         },
         {
+          "title": "上证指数早盘收报4163.01点，涨0.00%。 深证成指早盘收报14386.05点，跌0.75%。 创业板指早盘收报3284.44点，跌0.78%。 沪深300早盘收报4706.10点，跌0.10%。 科创50早盘收报1464.84点，跌1.56%。 中证500早盘收报8602.99点，跌0.64%。 中证1000早盘收报8441.68点，跌1.39%。",
+          "url": "https://wallstreetcn.com/livenews/3061477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "直击A股港股开盘",
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BBA%E8%82%A1%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -702,11 +761,24 @@
           "url": "https://wallstreetcn.com/livenews/3061433",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时45分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时45分]"
         },
         {
           "title": "美股股指期货低开1%",
@@ -726,7 +798,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -759,7 +831,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -773,17 +845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "深交所：港股通标的证券名单调入东鹏饮料 自3月2日起生效",
@@ -803,7 +864,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -811,7 +872,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗受袭牵动“全球神经”，原油供应和经济衰退“双危机”一触即发！",
@@ -825,8 +886,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 11时45分]"
         },
         {
           "title": "美以袭击伊朗导致中东紧张局势全面升级，大宗商品周一全线高开，现货黄金多头情绪飙升至93%，美国原油多头情绪达72%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -835,9 +896,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "布油、WTI原油期货涨幅均收窄至4.5%以内，早盘一度涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 11时45分]"
         },
         {
           "title": "分析师：原油和运费成本可能会居高不下",
@@ -849,17 +922,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "布油、WTI原油期货涨幅均收窄至4.5%以内，早盘一度涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3061436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
         },
         {
           "title": "伊藤忠商事表示，其自波斯湾出口的原油及石油产品的运输因军事冲突开始受到一定影响。",
@@ -901,9 +963,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，集运欧线涨超14%，燃油、SC原油触及涨停，低硫燃料油（LU）涨近9%，沪银、甲醇涨超7%，液化石油气（LPG）、沥青涨超5%，沪金涨近4%，纯苯、乙二醇（EG）、PX、PTA涨超3%。跌幅方面，多晶硅跌超3%，生猪跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260302113059215800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "国际原油高开8美元",
@@ -956,7 +1029,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -967,7 +1040,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -989,7 +1062,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -1008,7 +1081,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "国债期货涨幅扩大，30年期主力合约涨0.32%，10年期主力合约涨0.1%，5年期主力合约涨0.06%，2年期主力合约涨0.02%。",
@@ -1017,9 +1090,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260302113115424800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美债期货走高，美国10年期国债期货上涨9点，30年期国债期货上涨12点。",
@@ -1042,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "中国30年期国债期货日内涨幅扩大至0.5%，创1月21日来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3061459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "两年期日本国债收益率下跌2.5个基点，至1.220%。",
@@ -1072,15 +1167,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "国债期货涨幅扩大，30年期主力合约涨0.48%，10年期主力合约涨0.14%，5年期主力合约涨0.08%，2年期主力合约涨0.01%。",
+          "url": "https://flash.jin10.com/detail/20260302110447266800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美以袭击伊朗金价为何下跌",
@@ -1130,6 +1236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）上海金早盘价为1178.41元/克，较国际金价(1180.54元/克)低2.13元/克",
+          "url": "https://flash.jin10.com/detail/20260302110051016800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     },
@@ -1164,6 +1281,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4下周上线？原生多模态架构 技术报告同步开放",
+          "url": "https://www.cls.cn/detail/2298837",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1179,8 +1313,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 10时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 11时45分]"
         }
       ]
     },
