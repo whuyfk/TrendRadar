@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-06T06:05:06.028321+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-03-06T08:11:37.379005+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时11分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时11分]"
         },
         {
           "title": "沆瀣一气！53对47，美国会参议院否决限制特朗普战争权力的议案",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时11分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -69,7 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -91,18 +103,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
-          "url": "https://wallstreetcn.com/livenews/3064675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -124,7 +125,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -138,17 +139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "特朗普要求立即赦免以色列总理",
-          "url": "https://wallstreetcn.com/livenews/3064674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时05分"
         },
         {
           "title": "美国总统特朗普：目前汽油价格并未大幅上涨；霍尔木兹海峡将保持开放。",
@@ -168,7 +158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -196,6 +186,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时32分]"
+        },
+        {
+          "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
+          "url": "https://wallstreetcn.com/livenews/3064675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时11分]"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://wallstreetcn.com/livenews/3064674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时05分 ~ 08时11分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -278,7 +292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -289,9 +303,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "美国总统特朗普：支持库尔德人向伊朗发动攻势；我认为如果他们想这么做，那就太好了。",
@@ -311,7 +336,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -322,9 +347,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://wallstreetcn.com/livenews/3064696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "特朗普要求立即赦免以色列总理",
@@ -333,9 +369,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普表示，美国不会与西班牙“团队合作”。",
@@ -443,7 +490,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
@@ -451,7 +498,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "WTI原油日内大涨7.00%，报81.50美元/桶。",
@@ -466,6 +513,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 06时05分]"
+        },
+        {
+          "title": "避开霍尔木兹封锁 沙特紧急改道红海出口原油",
+          "url": "https://www.cls.cn/detail/2304372",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时09分 ~ 08时11分]"
         },
         {
           "title": "美国原油价格突破80美元/桶，为2025年1月以来首次。",
@@ -492,18 +552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 05时07分]"
-        },
-        {
-          "title": "避开霍尔木兹封锁 沙特紧急改道红海出口原油",
-          "url": "https://www.cls.cn/detail/2304372",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时09分 ~ 06时05分]"
         },
         {
           "title": "受中东冲突影响，美国原油期货上涨8%，创2024年7月以来新高。 布伦特原油期货上涨5%。美国取暖油期货拉升10%。",
@@ -602,6 +650,39 @@
           "time_info": "05时07分"
         },
         {
+          "title": "科威特近海一油轮爆炸漏油，伊拉克原油出口受阻",
+          "url": "https://wallstreetcn.com/articles/3766793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "贝森特干回老本行 美国拟通过原油期货压低油价",
+          "url": "https://flash.jin10.com/detail/20260306073754856800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "WTI原油期货亚市盘初下跌1.44美元，至每桶79.57美元。",
+          "url": "https://wallstreetcn.com/livenews/3064695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
           "title": "美、布两油承压走低，WTI原油下破80美元/桶关口，此前白宫官员表示，预计最快于周四宣布应对能源价格飙升的措施。",
           "url": "https://flash.jin10.com/detail/20260306041539984800",
           "source": "金十数据",
@@ -611,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "WTI原油周五高开高走，涨幅扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260306070058647800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "受中东冲突影响，美国原油期货大涨8%，创2024年7月以来新高。",
@@ -674,7 +766,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -737,7 +829,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -759,8 +851,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时11分]"
+        },
+        {
+          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
+          "url": "https://finance.ifeng.com/loc/cbslt2026",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 08时11分]"
         },
         {
           "title": "【每日收评】深成指与创业板指双双涨超1%，全市场近4100股收红，MicroLED概念站上风口",
@@ -775,15 +879,15 @@
           "time_info": "[00时14分 ~ 06时05分]"
         },
         {
-          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
-          "url": "https://finance.ifeng.com/loc/cbslt2026",
-          "source": "凤凰网",
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
           "ranks": [
-            11
+            1
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -840,7 +944,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -851,7 +955,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -873,7 +977,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -884,7 +988,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -895,7 +999,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -1035,7 +1139,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -1049,6 +1153,17 @@
           "time_info": "[00时14分 ~ 06时05分]"
         },
         {
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
           "title": "10年期美债收益率涨约3个基点，本周已涨近18个基点",
           "url": "https://wallstreetcn.com/livenews/3064663",
           "source": "华尔街见闻-快讯",
@@ -1058,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "摩根大通建议对2年期美国国债战术性空头头寸获利了结，称收益率几乎已无进一步攀升的空间。",
+          "url": "https://wallstreetcn.com/livenews/3064705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         },
         {
           "title": "周四（3月5日）欧市尾盘，英国10年期国债收益率升至4.542%，日内上涨逾10个基点，创2月9日以来新高。",
@@ -1102,7 +1228,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         }
@@ -1143,7 +1269,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
