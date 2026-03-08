@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T08:04:16.367264+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-03-08T09:31:34.838697+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -45,11 +45,24 @@
           "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普称已排除库尔德武装参战可能",
+          "url": "https://wallstreetcn.com/livenews/3065786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "time_info": "[08时04分 ~ 09时31分]"
         },
         {
           "title": "美以伊战争｜特朗普：目前无计划在伊朗部署地面部队",
@@ -63,15 +76,18 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普称已排除库尔德武装参战可能",
-          "url": "https://wallstreetcn.com/livenews/3065786",
+          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3065774",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            2,
+            6,
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 09时31分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -98,17 +114,17 @@
           "time_info": "[00时02分 ~ 04时02分]"
         },
         {
-          "title": "特朗普：目前无意在伊朗部署地面部队，不希望库尔德武装介入伊朗战事",
-          "url": "https://wallstreetcn.com/livenews/3065774",
+          "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3065776",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            6,
-            11
+            4,
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时02分 ~ 08时04分]"
+          "time_info": "[07时02分 ~ 09时31分]"
         },
         {
           "title": "伊朗外交部长：我警告特朗普的特使，战争不会改善谈判地位。",
@@ -133,18 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时04分]"
-        },
-        {
-          "title": "特朗普：“已经打赢”，美国不需要英国派遣航母参与对伊朗军事行动",
-          "url": "https://wallstreetcn.com/livenews/3065776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
         },
         {
           "title": "伊朗外交部长：如果特朗普想升级局势，他将如愿以偿。",
@@ -226,8 +230,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 09时31分]"
         },
         {
           "title": "特朗普：伊朗下任领导人需要对美以表现友好",
@@ -253,6 +257,17 @@
           "time_info": "[08时03分 ~ 08时04分]"
         },
         {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
           "url": "https://flash.jin10.com/detail/20260307233704025800",
           "source": "金十数据",
@@ -275,6 +290,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://flash.jin10.com/detail/20260308081705063800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "委内瑞拉代总统：我们将特朗普承认我们的这一决定视为对委内瑞拉人民及其为国家真相而斗争的公正事业的认可。我们重申愿意建立基于相互尊重和平等的长期关系。",
           "url": "https://flash.jin10.com/detail/20260308020752768800",
           "source": "金十数据",
@@ -286,6 +312,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "特朗普暗讽英国航母“姗姗来迟”：不需要在我们已经获胜后才加入战争的人",
+          "url": "https://flash.jin10.com/detail/20260308080925846800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "据NBC新闻：民调显示，90%的MAGA（让美国再次伟大）信众支持特朗普针对伊朗的行动。",
           "url": "https://flash.jin10.com/detail/20260308002707649800",
           "source": "金十数据",
@@ -295,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "据卡塔尔国家通讯社：卡塔尔埃米尔与美国总统特朗普通电话，讨论局势及伊朗持续发动的袭击。卡塔尔埃米尔表示，多哈将毫不犹豫地采取一切必要措施，以维护其安全、主权和国家利益。",
+          "url": "https://flash.jin10.com/detail/20260308050246239800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -363,11 +411,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 09时31分]"
         },
         {
           "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
@@ -405,8 +454,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
@@ -416,8 +465,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -427,8 +476,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 09时31分]"
         }
       ]
     },
@@ -446,8 +495,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "真正的油价冲击！中东原油“停产潮”即将来到",
@@ -457,11 +506,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 09时31分]"
         },
         {
           "title": "科威特石油公司“预防性削减”原油生产和提炼",
