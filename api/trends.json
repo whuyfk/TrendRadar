@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-10T06:04:57.498986+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-10T07:05:14.024118+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 91,
       "titles": [
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时05分]"
+        },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
           "url": "https://wallstreetcn.com/articles/3766987",
@@ -19,27 +30,17 @@
           "time_info": "[00时18分 ~ 06时04分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时04分]"
-        },
-        {
           "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
           "url": "https://wallstreetcn.com/articles/3767022",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时05分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -49,8 +50,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时05分]"
+        },
+        {
+          "title": "美以伊战争｜特朗普：战争已基本结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时06分 ~ 07时05分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时05分]"
+        },
+        {
+          "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油一度较日高跳水30%",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
         },
         {
           "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
@@ -64,35 +98,13 @@
           "time_info": "[03时16分 ~ 04时05分]"
         },
         {
-          "title": "美以伊战争｜特朗普：战争已基本结束",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时04分]"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时04分]"
-        },
-        {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -136,7 +148,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -169,9 +181,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "特朗普新闻发布会：对伊军事行动会很快结束、油价涨幅低于预期",
+          "url": "https://flash.jin10.com/detail/20260310064625524800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "金十提示：美国总统特朗普在共和党成员问题会议上发表讲话。",
@@ -246,6 +269,17 @@
           "time_info": "[04时05分 ~ 05时06分]"
         },
         {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://www.douyin.com/hot/2423798",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时06分 ~ 07时05分]"
+        },
+        {
           "title": "特朗普称对伊朗战事“已基本结束”",
           "url": "https://wallstreetcn.com/livenews/3066712",
           "source": "华尔街见闻-快讯",
@@ -258,6 +292,17 @@
           "time_info": "[04时05分 ~ 05时06分]"
         },
         {
+          "title": "特朗普称伊朗战争已基本结束 国际油价高位跳水",
+          "url": "https://www.cls.cn/detail/2307782",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
+        },
+        {
           "title": "周一（3月9日），降息赢家指数涨0.09%，报91.37点，跳空低开之后，盘初跌至87.53点。 “特朗普关税输家”指数涨0.01%，“特朗普金融指数”跌0.20%。 散户抱团概念股指数/迷因股（meme stock）指数涨1.79%。",
           "url": "https://wallstreetcn.com/livenews/3066731",
           "source": "华尔街见闻-快讯",
@@ -268,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时04分]"
+        },
+        {
+          "title": "美国总统特朗普：美国通胀“暴跌”。",
+          "url": "https://wallstreetcn.com/livenews/3066746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时05分]"
         },
         {
           "title": "美国总统特朗普将于美东时间周一17:30举行新闻发布会。",
@@ -294,6 +351,18 @@
           "time_info": "[04时05分 ~ 05时06分]"
         },
         {
+          "title": "报道：特朗普正在权衡平抑油价飙涨的几种方案",
+          "url": "https://wallstreetcn.com/livenews/3066742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时05分]"
+        },
+        {
           "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
           "url": "https://wallstreetcn.com/livenews/3066705",
           "source": "华尔街见闻-快讯",
@@ -304,17 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时05分 ~ 05时06分]"
-        },
-        {
-          "title": "特朗普称适时结束对伊军事行动",
-          "url": "https://www.douyin.com/hot/2423798",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时04分]"
         },
         {
           "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
@@ -334,7 +392,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -361,15 +419,15 @@
           "time_info": "00时18分"
         },
         {
-          "title": "美国总统特朗普：美国通胀“暴跌”。",
-          "url": "https://wallstreetcn.com/livenews/3066746",
+          "title": "特朗普：美国对伊朗的军事行动会“很快”结束，将取消一些制裁以平抑国际油价",
+          "url": "https://wallstreetcn.com/livenews/3066776",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "07时05分"
         },
         {
           "title": "消息人士：美国总统特朗普政府正考虑在油价飙升之际进一步放松对俄石油制裁。",
@@ -400,20 +458,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
         {
-          "title": "报道：特朗普正在权衡平抑油价飙涨的几种方案",
-          "url": "https://wallstreetcn.com/livenews/3066742",
+          "title": "特朗普：将暂时解除部分与石油相关的制裁，以降低油价",
+          "url": "https://flash.jin10.com/detail/20260310063615686800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "特朗普：油价涨幅低于我的预期",
+          "url": "https://wallstreetcn.com/livenews/3066772",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "07时05分"
         },
         {
           "title": "美国交通部副部长布拉德伯里：特朗普政府正在推进关于如何重建华盛顿杜勒斯机场的讨论。",
@@ -438,6 +507,28 @@
           "time_info": "04时05分"
         },
         {
+          "title": "金十提示：美国总统特朗普结束新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260310062812600800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京“希望（在国际局势中）非常具有建设性”。",
+          "url": "https://wallstreetcn.com/livenews/3066770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
           "title": "美国总统特朗普：将于美国东部时间下午5点30分左右举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260310004418380800",
           "source": "金十数据",
@@ -447,6 +538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：不愿谈论新任最高领袖是否成为众矢之的。",
+          "url": "https://flash.jin10.com/detail/20260310062751802800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "【特朗普称对伊朗军事行动是一次“短期行动”】3月9日，美国总统特朗普在谈到美国近期对伊朗军事行动时称，这是一次“短期行动”。他表示，美国与以色列合作对伊朗展开军事行动，伊朗的无人机和导弹能力正在被“彻底摧毁”。他还称，美国及其盟友将持续军事行动，直到敌方被“彻底击败”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3066769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "美国总统特朗普：我认为他们选择穆杰塔巴·哈梅内伊担任伊朗新领导人是一个大错误。",
@@ -466,7 +579,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -488,7 +601,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -510,9 +623,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：我希望霍尔木兹海峡保持畅通。",
+          "url": "https://flash.jin10.com/detail/20260310062444504800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗行动）我们正与以色列伙伴一道，以压倒性的技术和军事力量击溃敌人。",
@@ -521,9 +645,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：当伊朗在很长一段时间内都无能力再对美国、以色列或我们的盟友发动武器袭击时，这场危机就结束了。",
+          "url": "https://flash.jin10.com/detail/20260310062344687800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "特朗普政府已发出传票，要求调取亚利桑那州2020年选举记录。这是美国总统为重新审理他输掉的选举而采取的最新举措。",
@@ -554,9 +689,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：又将有1亿桶石油从委内瑞拉运抵。",
+          "url": "https://flash.jin10.com/detail/20260310062148873800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "美国总统特朗普：我认为伊朗战争已经非常彻底，几乎结束了。",
@@ -587,9 +733,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：已从委内瑞拉运走1亿桶石油。",
+          "url": "https://flash.jin10.com/detail/20260310062129418800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "美国总统特朗普表示，他已考虑好接替伊朗最高领袖哈梅内伊的人选，但未作详细说明。",
@@ -609,9 +766,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：对哈梅内伊之子穆杰塔巴的选择感到失望。新的伊朗最高领袖只会导致伊朗面临更多同样的问题。",
+          "url": "https://flash.jin10.com/detail/20260310062110779800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "Anthropic就“供应链风险”标签起诉美国总统特朗普的国防部。",
@@ -664,7 +832,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -675,9 +843,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）密切关注伊朗是否已激活“潜伏特工”。",
+          "url": "https://flash.jin10.com/detail/20260310061947210800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "美国白宫：特朗普正在评估所有可能的油价应对方案。",
@@ -708,7 +887,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -730,7 +909,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -746,6 +925,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国总统特朗普：油价涨幅低于我的预期。",
+          "url": "https://flash.jin10.com/detail/20260310061511399800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
           "title": "特朗普谈及油价，称：我对一切都有计划，你们非常满意",
           "url": "https://wallstreetcn.com/livenews/3066623",
           "source": "华尔街见闻-快讯",
@@ -755,6 +945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：早就料到与伊朗的开战油价和天然气价格会上涨。",
+          "url": "https://flash.jin10.com/detail/20260310061456924800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "市场消息：美国总统特朗普暗示支持打击伊朗新任最高领袖。",
@@ -774,9 +975,31 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）我们可以到此为止，但我们还会继续推进。",
+          "url": "https://flash.jin10.com/detail/20260310061400533800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：针对伊朗的重大风险已在3天前解除。",
+          "url": "https://flash.jin10.com/detail/20260310061334632800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "俄总统助理：普京与特朗普通话 讨论中东地区形势及乌克兰问题",
@@ -788,12 +1011,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "美国总统特朗普：我们将就伊朗问题采取进一步行动。",
+          "url": "https://flash.jin10.com/detail/20260310061302630800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "全球第三大战略原油储备！日本即将“放油”？",
@@ -806,8 +1040,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时05分]"
         },
         {
           "title": "WTI原油日内暴跌8.00%，现报84.09美元/桶。",
@@ -934,6 +1168,28 @@
           "time_info": "04时05分"
         },
         {
+          "title": "WTI原油期货周二亚洲开盘下跌10%，报85.52美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3066765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "WTI原油站上90美元/桶，日内涨5.71%。",
+          "url": "https://flash.jin10.com/detail/20260310062445242800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
           "title": "市场消息：在该地区能源基础设施遭受一系列无人机袭击后，伊拉克北部基尔库克油田向土耳其杰伊汉出口码头输送的石油流量急剧下降。业内消息人士周一向Kpler证实，目前经由基尔库克-杰伊汉管道输送的原油量约为9千桶/日，与几天前约23万桶/日的水平相比大幅下降。",
           "url": "https://flash.jin10.com/detail/20260310024107713800",
           "source": "金十数据",
@@ -943,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "WTI原油日内大涨5.00%，现报89.43美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260310062257482800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "WTI原油5分钟内下跌1.08美元/桶，报92.97美元/桶，日内涨幅收窄至不足2.0%。 北京时间10:30前后，美国原油期货还曾涨至119.39美元。",
@@ -965,6 +1232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "WTI原油日内大涨4.00%，现报88.57美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260310062033670800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "WTI原油抹去30%的涨幅",
@@ -1003,8 +1281,21 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "十大券商看后市｜A股将重回自身节奏，配置更聚焦确定性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32731190",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时05分]"
+        },
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
           "url": "https://wallstreetcn.com/articles/3766990",
@@ -1030,16 +1321,15 @@
           "time_info": "[00时18分 ~ 06时04分]"
         },
         {
-          "title": "十大券商看后市｜A股将重回自身节奏，配置更聚焦确定性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32731190",
-          "source": "澎湃新闻",
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            19
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时04分]"
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 07时05分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.41%，报25370点。 恒生科技指数主连夜盘收涨0.51%，报4954点。",
@@ -1183,7 +1473,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "3000亿元特别国债将落地，预计工行获注资比例更高",
@@ -1192,7 +1482,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -1201,22 +1491,24 @@
           "url": "https://wallstreetcn.com/livenews/3066754",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时05分]"
         },
         {
           "title": "10年期美债收益率跌超3.8个基点，两年期实际收益率一度跌穿0.34%",
           "url": "https://wallstreetcn.com/livenews/3066740",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 07时05分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.605%，投标倍数2.92。 拍卖六个月期国债，得标利率3.535%，投标倍数3.09。",
@@ -1250,6 +1542,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "上证报：3000亿元特别国债将落地，预计工行获注资比例更高",
+          "url": "https://wallstreetcn.com/livenews/3066756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "英国国债缩减跌幅，两年期收益率日内上涨11个基点。",
