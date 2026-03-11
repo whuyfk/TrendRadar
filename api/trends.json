@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T11:44:53.716756+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-03-11T12:31:57.816219+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "原油",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "金十期货·原油专题",
@@ -145,6 +145,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 08时04分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。集运欧线涨超6%，烧碱、瓶片涨超4%，丁二烯橡胶、乙二醇涨超3%。跌幅方面，SC原油跌超10%，燃料油跌超5%，碳酸锂、低硫燃料油（LU）跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260311113034635800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
         },
         {
           "title": "上期所原油期货夜盘收跌超12%",
@@ -290,15 +302,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约涨跌互现。集运欧线涨超6%，烧碱、瓶片涨超4%，丁二烯橡胶、乙二醇涨超3%。跌幅方面，SC原油跌超10%，燃料油跌超5%，碳酸锂、低硫燃料油（LU）跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260311113034635800",
+          "title": "布伦特原油回落至85美元/桶下方，日内跌4.55%。",
+          "url": "https://flash.jin10.com/detail/20260311115840322800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时44分"
+          "time_info": "12时31分"
         },
         {
           "title": "WTI原油日内跌幅达13.0%，报82.43美元/桶。 布伦特原油日内跌幅达12.5%，报86.5美元/桶。",
@@ -491,7 +503,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -568,11 +580,23 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时31分]"
+        },
+        {
+          "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "特朗普：目前没有收到伊朗在霍尔木兹海峡布设了任何水雷的相关报告。",
@@ -619,6 +643,18 @@
           "time_info": "04时05分"
         },
         {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时31分]"
+        },
+        {
           "title": "Alphavalue驻巴黎的副首席执行官Laurent Lamagnere表示：石油价格的剧烈波动令我们感到震惊。 尽管周二市场有所缓和，但“我们认为油价仍将维持在高位”。 “特朗普称战争可能结束，并不意味着它真的会结束。”",
           "url": "https://wallstreetcn.com/livenews/3067535",
           "source": "华尔街见闻-快讯",
@@ -644,18 +680,6 @@
           "time_info": "[08时04分 ~ 11时44分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时44分]"
-        },
-        {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
           "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
@@ -664,8 +688,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时44分]"
+          "time_info": "[10时51分 ~ 12时31分]"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -678,18 +715,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时04分 ~ 08时04分]"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 11时44分]"
         },
         {
           "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
@@ -967,8 +992,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时04分 ~ 11时44分]"
+          "appearance_count": 7,
+          "time_info": "[07时04分 ~ 12时31分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -978,8 +1003,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 11时44分]"
+          "appearance_count": 5,
+          "time_info": "[08时04分 ~ 12时31分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -1086,6 +1111,30 @@
           "time_info": "[05时06分 ~ 06时03分]"
         },
         {
+          "title": "上证指数早盘收报4125.32点，涨0.05%。 深证成指早盘收报14476.03点，涨0.85%。 创业板指早盘收报3363.77点，涨1.74%。 沪深300早盘收报4698.45点，涨0.51%。 科创50早盘收报1412.57点，跌0.56%。 中证500早盘收报8411.03点，涨0.01%。 中证1000早盘收报8371.24点，涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3067749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
+          "title": "3月11日午间收评：创业板指半日涨1.74%，锂电、光伏板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3067748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
           "url": "https://wallstreetcn.com/livenews/3067555",
           "source": "华尔街见闻-快讯",
@@ -1154,28 +1203,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "上证指数早盘收报4125.32点，涨0.05%。 深证成指早盘收报14476.03点，涨0.85%。 创业板指早盘收报3363.77点，涨1.74%。 沪深300早盘收报4698.45点，涨0.51%。 科创50早盘收报1412.57点，跌0.56%。 中证500早盘收报8411.03点，涨0.01%。 中证1000早盘收报8371.24点，涨0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3067749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "3月11日午间收评：创业板指半日涨1.74%，锂电、光伏板块集体走强",
-          "url": "https://wallstreetcn.com/livenews/3067748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3067553",
           "source": "华尔街见闻-快讯",
@@ -1226,7 +1253,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -1248,7 +1275,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -1278,7 +1305,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "高出同期定存近40个基点！300亿国债火爆 记者实探：居民排队“抢债” 多网点已售罄",
@@ -1327,17 +1354,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260311113129614800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "英国两年期国债收益率跌超12个基点",
           "url": "https://wallstreetcn.com/livenews/3067478",
           "source": "华尔街见闻-快讯",
@@ -1347,17 +1363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "日本5年期国债拍卖投标倍数为3.69，高于过去12个月均值3.44。",
-          "url": "https://wallstreetcn.com/livenews/3067758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "10年期美债收益率涨约6.2个基点，纽约下午涨幅突出",
@@ -1372,6 +1377,30 @@
           "time_info": "[06时03分 ~ 07时05分]"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260311113129614800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
+          "title": "日本5年期国债拍卖投标倍数为3.69，高于过去12个月均值3.44。",
+          "url": "https://wallstreetcn.com/livenews/3067758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
           "title": "美国证券交易委员会（SEC）主席Atkins：希望在美国国债清算制度上坚持截止日期。",
           "url": "https://wallstreetcn.com/livenews/3067508",
           "source": "华尔街见闻-快讯",
@@ -1383,6 +1412,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时05分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3067746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 12时31分]"
+        },
+        {
+          "title": "日本五年期国债拍卖需求强于12个月平均水平",
+          "url": "https://flash.jin10.com/detail/20260311120333848800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         },
         {
           "title": "韩国财长：如有必要，韩国将采取额外的市场行动。 若有需要，韩国财政部和央行将就回购及国债购买进行协调。 韩国将动用包括追加预算在内的所有可用政策工具。",
@@ -1405,17 +1457,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3067746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "法国两年期国债收益率跌约11个基点，10年期意债收益率跌约9个基点",
@@ -1521,6 +1562,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI计划将视频生成AI Sora接入ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3067769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "据The Information：OpenAI计划在战略调整中将Sora视频AI引入ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20260311115744060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     },
