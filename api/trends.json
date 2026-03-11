@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T10:51:54.709399+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-03-11T11:44:53.716756+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "原油",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "金十期货·原油专题",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -288,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。集运欧线涨超6%，烧碱、瓶片涨超4%，丁二烯橡胶、乙二醇涨超3%。跌幅方面，SC原油跌超10%，燃料油跌超5%，碳酸锂、低硫燃料油（LU）跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260311113034635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "WTI原油日内跌幅达13.0%，报82.43美元/桶。 布伦特原油日内跌幅达12.5%，报86.5美元/桶。",
@@ -551,6 +562,19 @@
           "time_info": "[06时03分 ~ 07时05分]"
         },
         {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时44分]"
+        },
+        {
           "title": "特朗普：目前没有收到伊朗在霍尔木兹海峡布设了任何水雷的相关报告。",
           "url": "https://flash.jin10.com/detail/20260311034433089800",
           "source": "金十数据",
@@ -579,7 +603,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -593,18 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
-        },
-        {
-          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
-          "url": "https://www.cls.cn/detail/2309121",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时51分]"
         },
         {
           "title": "Alphavalue驻巴黎的副首席执行官Laurent Lamagnere表示：石油价格的剧烈波动令我们感到震惊。 尽管周二市场有所缓和，但“我们认为油价仍将维持在高位”。 “特朗普称战争可能结束，并不意味着它真的会结束。”",
@@ -624,11 +636,36 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时44分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时51分]"
+          "time_info": "[09时31分 ~ 11时44分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时44分]"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -643,16 +680,16 @@
           "time_info": "[07时04分 ~ 08时04分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时51分]"
+          "time_info": "[10时51分 ~ 11时44分]"
         },
         {
           "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
@@ -665,18 +702,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 08时04分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时51分]"
         },
         {
           "title": "美国总统特朗普：这是一项历史性的3000亿美元交易。",
@@ -755,7 +780,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -766,18 +791,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
-          "url": "https://wallstreetcn.com/articles/3767194",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -799,7 +813,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -909,7 +923,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -928,7 +942,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -953,8 +967,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时04分 ~ 10时51分]"
+          "appearance_count": 6,
+          "time_info": "[07时04分 ~ 11时44分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -964,8 +978,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时04分 ~ 10时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时04分 ~ 11时44分]"
         },
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”行情，美股冲高回落，新兴市场外汇指数大涨",
@@ -996,7 +1010,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -1140,6 +1154,28 @@
           "time_info": "01时15分"
         },
         {
+          "title": "上证指数早盘收报4125.32点，涨0.05%。 深证成指早盘收报14476.03点，涨0.85%。 创业板指早盘收报3363.77点，涨1.74%。 沪深300早盘收报4698.45点，涨0.51%。 科创50早盘收报1412.57点，跌0.56%。 中证500早盘收报8411.03点，涨0.01%。 中证1000早盘收报8371.24点，涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3067749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "3月11日午间收评：创业板指半日涨1.74%，锂电、光伏板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3067748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "甲骨文第三财季调整后营收171.9亿美元，分析师预期168.9亿美元。 第三财季云基础设施营收（IAAS）为49亿美元，分析师预期47.4亿美元。 第三财季云营收（IAAS+SAAS）为89亿美元，分析师预期88.4亿美元。 预计2026财年营收670亿美元，上调2027年营收指引至900亿美元。 预计2026财年资本开支500亿美元。 预计第四财季营收按恒定汇率将增长18%-20%。 甲骨文美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3067553",
           "source": "华尔街见闻-快讯",
@@ -1157,7 +1193,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -1168,7 +1204,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -1179,9 +1215,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "恒生科技指数涨超1%，蔚来涨近17%，小鹏汽车涨超6%，华虹半导体涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3067726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "A股工业母机概念开盘活跃，华东数控一字涨停，恒进感应涨超15%，华中数控涨近10%，宇环数控、纽威数控、乔锋智能等多股高开。",
@@ -1190,9 +1237,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "创业板指涨超2%，宁德时代涨超5%，沪指涨0.1%，深成指涨1.01%，电池、光伏、钛白粉、工业母机等方向领涨，沪深京三市上涨个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3067724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "美股延续涨势，道琼斯工业平均指数上涨1.00%。",
@@ -1220,7 +1278,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "高出同期定存近40个基点！300亿国债火爆 记者实探：居民排队“抢债” 多网点已售罄",
@@ -1242,7 +1300,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -1269,6 +1327,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260311113129614800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "英国两年期国债收益率跌超12个基点",
           "url": "https://wallstreetcn.com/livenews/3067478",
           "source": "华尔街见闻-快讯",
@@ -1278,6 +1347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "日本5年期国债拍卖投标倍数为3.69，高于过去12个月均值3.44。",
+          "url": "https://wallstreetcn.com/livenews/3067758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
         },
         {
           "title": "10年期美债收益率涨约6.2个基点，纽约下午涨幅突出",
@@ -1327,6 +1407,17 @@
           "time_info": "00时19分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.03%，5年期主力合约跌0.02%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3067746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
           "title": "法国两年期国债收益率跌约11个基点，10年期意债收益率跌约9个基点",
           "url": "https://wallstreetcn.com/livenews/3067468",
           "source": "华尔街见闻-快讯",
@@ -1355,7 +1446,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
