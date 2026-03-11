@@ -1,351 +1,11 @@
 {
-  "generated_at": "2026-03-11T07:05:07.183402+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-03-11T08:04:50.850846+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "原油",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "美国优先炼油公司：成功达成具有里程碑意义的20年期原油采购协议，并获得资本投资，用于建设美国50年来首座新炼油厂。",
-          "url": "https://flash.jin10.com/detail/20260311064557710800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
-          "url": "https://flash.jin10.com/detail/20260311021150817800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "WTI 4月原油期货收报83.45美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3067518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "上期所原油期货2604合约夜盘收跌12.34%，报642元人民币/桶。",
-          "url": "https://wallstreetcn.com/livenews/3067516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "WTI原油日内跌幅达15.5%，报79.86美元/桶。布伦特原油日内跌幅达15.0%，报84.07美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3067483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时43分]"
-        },
-        {
-          "title": "美国至3月6日当周API原油进口 -11.3万桶，前值-15.1万桶。",
-          "url": "https://flash.jin10.com/detail/20260311044039971800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时03分]"
-        },
-        {
-          "title": "美国至3月6日当周API库欣原油库存 -37万桶，前值154万桶。",
-          "url": "https://flash.jin10.com/detail/20260311044005743800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时03分]"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存减少大约170万桶",
-          "url": "https://wallstreetcn.com/livenews/3067563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时03分]"
-        },
-        {
-          "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3067518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时05分]"
-        },
-        {
-          "title": "上期所原油期货夜盘收跌超12%",
-          "url": "https://wallstreetcn.com/livenews/3067516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时05分]"
-        },
-        {
-          "title": "美国3月EIA当年布伦特原油均价预期 78.84美元/千立方英尺，前值57.69美元/千立方英尺。",
-          "url": "https://flash.jin10.com/detail/20260311001358866800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "美国至3月6日当周API原油库存 -167.8万桶，预期138万桶，前值564.7万桶。",
-          "url": "https://flash.jin10.com/detail/20260311043912671800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时03分]"
-        },
-        {
-          "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260311001349658800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3067559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时03分]"
-        },
-        {
-          "title": "美国3月EIA次年短期前景美国原油产量预期 1383万桶/日，前值1332万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260311001325263800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "美国3月EIA当年短期前景美国原油产量预期 1361万桶/日，前值1360万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260311001258535800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时15分]"
-        },
-        {
-          "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3067489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时14分]"
-        },
-        {
-          "title": "WTI原油日内跌幅达16.5%，报79.1美元/桶。 美国能源部长Wright宣称，一艘油轮在美国的“护航”之下通过霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3067486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时14分]"
-        },
-        {
-          "title": "凯雷集团：中东局势将引发每日数百万桶的原油囤积",
-          "url": "https://wallstreetcn.com/livenews/3067485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时14分]"
-        },
-        {
-          "title": "WTI原油盘初涨幅达2.00%，现报88.31美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260311063807459800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "WTI原油日内跌幅达13.0%，报82.43美元/桶。 布伦特原油日内跌幅达12.5%，报86.5美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3067474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "金十图示：EIA短期能源展望报告提及中东冲突影响，大幅上调美、布两油今明两年的价格预期，以及上调美国原油产量预期。",
-          "url": "https://flash.jin10.com/detail/20260311002940577800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
-          "url": "https://flash.jin10.com/detail/20260311023216736800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3067590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "WTI原油周三高开，一度涨超1%，现报87.2美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260311060213103800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "EIA短期能源展望报告：受中东冲突影响，预计布伦特原油价格未来两个月将维持在每桶95美元以上；到2026年第三季度将跌至每桶80美元以下，年底左右降至每桶70美元。",
-          "url": "https://flash.jin10.com/detail/20260311000929955800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "美国至3月6日当周API投产原油量 10.7万桶/日，前值22.6万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260311044104843800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        },
-        {
-          "title": "美国至3月6日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260311042000001800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "WTI原油短线小幅回升，现报80.61美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260311013713173800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -355,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 08时04分]"
         },
         {
           "title": "特朗普称对伊军事行动很快结束，专家：美出现短板，被伊朗抓住",
@@ -366,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 08时04分]"
         },
         {
           "title": "特朗普对伊朗开战的目标达成了吗？他承受了多大压力？",
@@ -377,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 08时04分]"
         },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -460,6 +120,30 @@
           "time_info": "[04时05分 ~ 05时06分]"
         },
         {
+          "title": "如何应对特朗普？收下这本“懂王交易手册”",
+          "url": "https://wallstreetcn.com/articles/3767103",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
+          "url": "https://wallstreetcn.com/livenews/3067598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 08时04分]"
+        },
+        {
           "title": "美国总统特朗普：这是一项历史性的3000亿美元交易。",
           "url": "https://flash.jin10.com/detail/20260311052004491800",
           "source": "金十数据",
@@ -470,17 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时05分]"
-        },
-        {
-          "title": "如何应对特朗普？收下这本“懂王交易手册”",
-          "url": "https://wallstreetcn.com/articles/3767103",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -530,6 +203,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "白宫宣称战争将在特朗普认为目标达成、伊朗投降时结束",
           "url": "https://flash.jin10.com/detail/20260311023938000800",
           "source": "金十数据",
@@ -539,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
-        },
-        {
-          "title": "特朗普：伊朗若在霍尔木兹海峡部署水雷将承担严重后果",
-          "url": "https://wallstreetcn.com/livenews/3067598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时05分"
         },
         {
           "title": "美国总统特朗普：我自豪地宣布，“美国优先炼油公司”（America First Refining）正在得克萨斯州布朗斯维尔市建设美国50年来首家新炼油厂。",
@@ -572,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "Anthropic PBC在一场听证会上告知美国法官Rita F. Lin，如果总统特朗普在政府承包合同方面封杀该公司，恐怕今年会“损失”（至少）数十亿美元收入。 希望（司法系统）尽快采取行动，阻止五角大楼给公司贴标“供应链风险”的做法。",
+          "url": "https://wallstreetcn.com/livenews/3067607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
@@ -664,8 +348,362 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "EIA：未来两个月布伦特原油价格将维持在95美元以上",
+          "url": "https://flash.jin10.com/detail/20260311021150817800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "WTI 4月原油期货收报83.45美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3067518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "上期所原油期货2604合约夜盘收跌12.34%，报642元人民币/桶。",
+          "url": "https://wallstreetcn.com/livenews/3067516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美国优先炼油公司：成功达成具有里程碑意义的20年期原油采购协议，并获得资本投资，用于建设美国50年来首座新炼油厂。",
+          "url": "https://flash.jin10.com/detail/20260311064557710800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 08时04分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达15.5%，报79.86美元/桶。布伦特原油日内跌幅达15.0%，报84.07美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3067483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时43分]"
+        },
+        {
+          "title": "美国至3月6日当周API原油进口 -11.3万桶，前值-15.1万桶。",
+          "url": "https://flash.jin10.com/detail/20260311044039971800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时03分]"
+        },
+        {
+          "title": "美国至3月6日当周API库欣原油库存 -37万桶，前值154万桶。",
+          "url": "https://flash.jin10.com/detail/20260311044005743800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时03分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存减少大约170万桶",
+          "url": "https://wallstreetcn.com/livenews/3067563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时03分]"
+        },
+        {
+          "title": "WTI 4月原油期货收跌11.32美元，跌幅11.94%，报83.45美元/桶。 中东Abu Dhabi Murban原油期货跌13.68%，报95.10美元/桶。 NYMEX 4月天然气期货收报3.02美元/百万英热单位。 NYMEX 4月汽油期货收报2.6403美元/加仑，NYMEX 3月取暖油期货收报3.3466美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3067518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时05分]"
+        },
+        {
+          "title": "WTI原油盘初涨幅达2.00%，现报88.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311063807459800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 08时04分]"
+        },
+        {
+          "title": "上期所原油期货夜盘收跌超12%",
+          "url": "https://wallstreetcn.com/livenews/3067516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时05分]"
+        },
+        {
+          "title": "美国3月EIA当年布伦特原油均价预期 78.84美元/千立方英尺，前值57.69美元/千立方英尺。",
+          "url": "https://flash.jin10.com/detail/20260311001358866800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "美国至3月6日当周API原油库存 -167.8万桶，预期138万桶，前值564.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260311043912671800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时03分]"
+        },
+        {
+          "title": "美国3月EIA当年WTI原油均价预期 73.61美元/桶，前值53.42美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311001349658800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3067559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时03分]"
+        },
+        {
+          "title": "美国3月EIA次年短期前景美国原油产量预期 1383万桶/日，前值1332万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311001325263800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "美国3月EIA当年短期前景美国原油产量预期 1361万桶/日，前值1360万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311001258535800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达4.0%，报85.54美元/桶。 纽约银日内跌幅达1.0%，报88.5美元/盎司。 纽约金日内跌幅达0.5%，报5194.7美元/盎司。 标普500股指期货、纳指期货涨0.1%，罗素2000股指期货跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3067590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 08时04分]"
+        },
+        {
+          "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3067489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时14分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达16.5%，报79.1美元/桶。 美国能源部长Wright宣称，一艘油轮在美国的“护航”之下通过霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3067486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时14分]"
+        },
+        {
+          "title": "凯雷集团：中东局势将引发每日数百万桶的原油囤积",
+          "url": "https://wallstreetcn.com/livenews/3067485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时14分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达13.0%，报82.43美元/桶。 布伦特原油日内跌幅达12.5%，报86.5美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3067474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "金十图示：EIA短期能源展望报告提及中东冲突影响，大幅上调美、布两油今明两年的价格预期，以及上调美国原油产量预期。",
+          "url": "https://flash.jin10.com/detail/20260311002940577800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "WTI原油短线下挫日内转跌，此前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260311071535452800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶83.45美元，下跌11.32美元，跌幅11.94%。",
+          "url": "https://flash.jin10.com/detail/20260311023216736800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "WTI原油周三高开，一度涨超1%，现报87.2美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311060213103800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "EIA短期能源展望报告：受中东冲突影响，预计布伦特原油价格未来两个月将维持在每桶95美元以上；到2026年第三季度将跌至每桶80美元以下，年底左右降至每桶70美元。",
+          "url": "https://flash.jin10.com/detail/20260311000929955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "美国至3月6日当周API投产原油量 10.7万桶/日，前值22.6万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311044104843800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国至3月6日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260311042000001800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时06分"
+        },
+        {
+          "title": "WTI原油短线小幅回升，现报80.61美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260311013713173800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -689,6 +727,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时04分 ~ 07时05分]"
+        },
+        {
+          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
+          "url": "https://www.cls.cn/detail/2309059",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时04分 ~ 08时04分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾4500股飘红，CPO等算力硬件股集体爆发",
@@ -748,17 +809,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时06分 ~ 06时03分]"
-        },
-        {
-          "title": "美股收盘：油价暴跌超11% 三大指数涨跌不一 标普500小幅下跌",
-          "url": "https://www.cls.cn/detail/2309059",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 07时05分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超1.1%，Meta涨1%",
@@ -854,7 +904,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "高出同期定存近40个基点！300亿国债火爆 记者实探：居民排队“抢债” 多网点已售罄",
@@ -866,8 +916,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 08时04分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3067627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.579%（2月10日为3.518%），投标倍数2.55（前次为2.62）。",
@@ -915,6 +976,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时05分]"
+        },
+        {
+          "title": "韩国财长：如有必要，韩国将采取额外的市场行动。 若有需要，韩国财政部和央行将就回购及国债购买进行协调。 韩国将动用包括追加预算在内的所有可用政策工具。",
+          "url": "https://wallstreetcn.com/livenews/3067619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "高级投资组合经理称，伊朗冲突爆发后，安联环球投资公司买入了30年期英国国债。",
