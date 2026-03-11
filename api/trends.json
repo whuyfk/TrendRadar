@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T00:14:56.028792+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-12T01:17:01.213192+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 21,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美国内政部长谈战略石油储备：将由总统特朗普宣布。",
-          "url": "https://wallstreetcn.com/livenews/3068227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -37,41 +26,112 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普谈重新开放霍尔木兹海峡：一切进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260312010143340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国参议院共和党成员Tim Scott：负责处理总统特朗普司法部针对美联储主席鲍威尔实施刑事调查的“主要检察官”已经被撤换。",
+          "url": "https://wallstreetcn.com/livenews/3068257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国内政部长谈战略石油储备：将由总统特朗普宣布。",
+          "url": "https://wallstreetcn.com/livenews/3068227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "特朗普所谓的得州炼油厂预计将于2029年开始销售燃料",
           "url": "https://wallstreetcn.com/livenews/3068220",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
           "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普说对伊行动即将结束",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
+        },
+        {
+          "title": "美官员称特朗普对伊朗反应有误判",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，伊方称转为“连环打击”、警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”",
@@ -85,15 +145,70 @@
           "time_info": "00时14分"
         },
         {
-          "title": "特朗普说对伊行动即将结束",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%AF%B9%E4%BC%8A%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：西班牙一直表现糟糕，可能会切断美国与该国的贸易。",
+          "url": "https://wallstreetcn.com/livenews/3068248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：我们爱黎巴嫩，但该国必须摆脱真主党。",
+          "url": "https://flash.jin10.com/detail/20260312004931865800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普谈打击伊朗：我们还没结束。",
+          "url": "https://flash.jin10.com/detail/20260312004500816800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：西班牙的领导层不太行。",
+          "url": "https://flash.jin10.com/detail/20260312004258459800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普谈西班牙：他们表现糟糕，可能会切断与西班牙的贸易。",
+          "url": "https://flash.jin10.com/detail/20260312004241003800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：我刚刚与多个国家的领导人进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260312004138783800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "美国内政部长伯格姆：（谈战略石油储备）美国总统特朗普即将宣布相关信息。",
@@ -107,11 +222,116 @@
           "time_info": "00时14分"
         },
         {
-          "title": "美官员称特朗普对伊朗反应有误判",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%8D%E5%BA%94%E6%9C%89%E8%AF%AF%E5%88%A4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：我认为石油公司应该使用霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260312003916754800",
+          "source": "金十数据",
           "ranks": [
-            30
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "特朗普：美军对伊朗的打击非常猛烈。",
+          "url": "https://flash.jin10.com/detail/20260312003842118800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国至3月11日10年期国债竞拍-得标利率配置百分比 24.68%，前值6.2%。",
+          "url": "https://flash.jin10.com/detail/20260312010203892800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国至3月11日10年期国债竞拍-得标利率 4.217%，前值4.18%。",
+          "url": "https://flash.jin10.com/detail/20260312010203855800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "英国国债收益率至少涨超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3068254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.6%，投标倍数3.19。",
+          "url": "https://wallstreetcn.com/livenews/3068215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "美国至3月11日10年期国债竞拍-得标利率及投标倍数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260312005000001800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国两年期国债收益率涨至3.634%，创9月份以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3068213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "法国/意大利两年期国债收益率涨超13个基点",
+          "url": "https://wallstreetcn.com/livenews/3068243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "美国两年期国债收益率升至3.642%，为去年9月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260312000132448800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -121,7 +341,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
@@ -131,19 +351,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
@@ -153,8 +374,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
@@ -164,19 +385,42 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时17分]"
+        },
+        {
+          "title": "金十图示：2026年03月11日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260312004724296800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时17分"
+        },
+        {
+          "title": "金十图示：2026年03月11日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260312004719385800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "美股延续跌势，道指跌幅扩大至1.00%，纳指现跌0.2%，标普500指数跌0.4%。",
@@ -192,24 +436,13 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 3,
+      "keyword_group": "原油",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.6%，投标倍数3.19。",
-          "url": "https://wallstreetcn.com/livenews/3068215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美国两年期国债收益率涨至3.634%，创9月份以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3068213",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油突破91美元/桶，日内涨2.21%。",
+          "url": "https://flash.jin10.com/detail/20260312000634370800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
@@ -218,15 +451,15 @@
           "time_info": "00时14分"
         },
         {
-          "title": "美国两年期国债收益率升至3.642%，为去年9月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260312000132448800",
-          "source": "金十数据",
+          "title": "布伦特原油日内涨幅达6.0%，报93.12美元/桶。 WTI原油突破87美元/桶关口，报87.02美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3068232",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时17分"
         }
       ]
     },
@@ -248,19 +481,19 @@
       ]
     },
     {
-      "keyword_group": "原油",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "布伦特原油突破91美元/桶，日内涨2.21%。",
-          "url": "https://flash.jin10.com/detail/20260312000634370800",
-          "source": "金十数据",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.61%，暂报2633.29点，期内大部分时间持稳于2620点附近——低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.25%，报2831.50点，过半时间持稳于2800点一线。 MarketVector数字资产100指数跌0.88%，报14124.93点，过半时间交投于14000点下方。 目前，Solana涨0.56%，狗狗币跌1.84%，XRP持平。 比特币涨0.97%，暂报70695.99美元；以太坊涨1.69%，暂报2069.95美元。",
+          "url": "https://wallstreetcn.com/livenews/3068255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时17分"
         }
       ]
     }
