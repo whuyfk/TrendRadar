@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T10:53:57.643051+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-03-13T11:45:45.394275+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "百度热搜",
           "ranks": [
             1,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 10时53分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 11时45分]"
         },
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -76,9 +77,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 11时45分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -105,17 +120,16 @@
           "time_info": "[08时06分 ~ 10时53分]"
         },
         {
-          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
-          "source": "澎湃新闻",
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            12,
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 10时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 11时45分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -131,6 +145,18 @@
           "time_info": "[05时15分 ~ 07时04分]"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
           "title": "贝森特说不会因为战争成本跟特朗普对峙",
           "url": "https://flash.jin10.com/detail/20260313045000353800",
           "source": "金十数据",
@@ -141,18 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时04分]"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时53分]"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -224,17 +238,6 @@
           "time_info": "04时06分"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
           "url": "https://flash.jin10.com/detail/20260313004045966800",
           "source": "金十数据",
@@ -274,7 +277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -296,7 +299,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -381,7 +384,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -397,6 +400,20 @@
           "time_info": "[00时19分 ~ 06时04分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时04分 ~ 11时45分]"
+        },
+        {
           "title": "【焦点复盘】创业板指高开低走跌近1%，算电协同概念持续火热，风电设备股午后逆势爆发",
           "url": "https://www.cls.cn/detail/2310942",
           "source": "财联社热门",
@@ -410,20 +427,6 @@
           "time_info": "[00时19分 ~ 07时04分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时04分 ~ 10时53分]"
-        },
-        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-03-13）",
           "url": "https://flash.jin10.com/detail/20260313090536825800",
           "source": "金十数据",
@@ -435,15 +438,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "港股耀才证券金融盘中涨超30%。",
-          "url": "https://wallstreetcn.com/livenews/3069316",
+          "title": "上证指数早盘收报4120.14点，跌0.22%。 深证成指早盘收报14350.01点，跌0.17%。 创业板指早盘收报3316.55点，跌0.03%。 沪深300早盘收报4686.51点，跌0.02%。 科创50早盘收报1380.35点，跌0.24%。 中证500早盘收报8306.23点，跌0.64%。 中证1000早盘收报8293.89点，跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3069342",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时53分"
+          "time_info": "11时45分"
         },
         {
           "title": "上证指数开盘报4117.57点，跌0.28%。 深证成指开盘报14300.92点，跌0.51%。 创业板指开盘报3296.50点，跌0.63%。 沪深300开盘报4669.06点，跌0.39%。 科创50开盘报1374.65点，跌0.65%。 中证500开盘报8317.78点，跌0.50%。 中证1000开盘报8297.91点，跌0.46%。",
@@ -483,6 +486,18 @@
           "time_info": "[09时31分 ~ 10时53分]"
         },
         {
+          "title": "港股耀才证券金融盘中涨超30%。",
+          "url": "https://wallstreetcn.com/livenews/3069316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
           "title": "科创板128家集成电路企业预计净利增83%，算力、存储、光芯片等业绩突出",
           "url": "https://m.thepaper.cn/newsDetail_forward_32752476",
           "source": "澎湃新闻",
@@ -520,6 +535,54 @@
           "time_info": "[05时15分 ~ 07时04分]"
         },
         {
+          "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3069309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
+          "title": "恒生科技指数盘中转涨，现涨0.3%，此前一度跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3069304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
+          "title": "A股卫星导航板块短线拉升，北斗星通触及涨停，合众思壮、航天发展、中海达、流金科技短线拉升。此前据新华社报道，我国将对北斗卫星导航系统实施在轨升级。",
+          "url": "https://wallstreetcn.com/livenews/3069300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
+          "title": "A股三大指数集体翻红，磷化工、锂电池、钢铁、煤炭等方向领涨，沪深京三市上涨个股超3200只。",
+          "url": "https://wallstreetcn.com/livenews/3069299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时45分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
           "url": "https://wallstreetcn.com/livenews/3069153",
           "source": "华尔街见闻-快讯",
@@ -532,28 +595,6 @@
           "time_info": "[05时15分 ~ 06时04分]"
         },
         {
-          "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3069309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "恒生科技指数盘中转涨，现涨0.3%，此前一度跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3069304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
           "title": "恒生指数主连夜盘收跌0.91%，报25467点。 恒生科技指数主连夜盘收跌0.60%，报4996点。",
           "url": "https://wallstreetcn.com/livenews/3069124",
           "source": "华尔街见闻-快讯",
@@ -563,28 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "A股卫星导航板块短线拉升，北斗星通触及涨停，合众思壮、航天发展、中海达、流金科技短线拉升。此前据新华社报道，我国将对北斗卫星导航系统实施在轨升级。",
-          "url": "https://wallstreetcn.com/livenews/3069300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        },
-        {
-          "title": "A股三大指数集体翻红，磷化工、锂电池、钢铁、煤炭等方向领涨，沪深京三市上涨个股超3200只。",
-          "url": "https://wallstreetcn.com/livenews/3069299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         },
         {
           "title": "金十图示：2026年03月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -604,9 +623,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "瑞银：A股对地缘政治事件体现一定下行保护",
+          "url": "https://wallstreetcn.com/livenews/3069324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "金十图示：2026年03月12日（周四）热门中概股行情一览（美股盘中）",
@@ -648,7 +678,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -689,7 +719,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -711,8 +741,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 10时53分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 11时45分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
@@ -724,6 +754,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260313113127124800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
@@ -788,6 +829,17 @@
           "time_info": "[05时15分 ~ 06时04分]"
         },
         {
+          "title": "五年期日本国债收益率上升3.0个基点，至1.655%。",
+          "url": "https://flash.jin10.com/detail/20260313113051543800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "两年期美债收益率涨10个基点，突破3.76%",
           "url": "https://wallstreetcn.com/livenews/3069119",
           "source": "华尔街见闻-快讯",
@@ -799,13 +851,24 @@
           "time_info": "04时06分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.04%，10年期主力合约跌0.03%，5年期主力合约与昨日持平，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3069338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "10年期日本国债收益率上升3.5个基点，至2.215%。",
           "url": "https://flash.jin10.com/detail/20260313100551181800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -893,7 +956,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -967,7 +1030,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "魔鬼在细节！“史上最大规模原油储备释放”：不仅规模不够大，速度也快不起来",
@@ -981,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 08时07分]"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少，SC原油涨超7%，菜粕涨超5%，豆粕、豆二、铁矿石涨超3%，烧碱、氧化铝、豆一、焦煤、沥青、聚丙烯涨超2%。跌幅方面，集运欧线跌超4%，苯乙烯、纯苯、PTA、短纤跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260313113116253800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "国际原油结算价大幅上涨",
@@ -1054,6 +1128,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：预计日本原油进口量将在本月晚些时候出现下滑。 将灵活采取措施，以最大限度减少油价对经济的影响。 预计（释放出的）原油储备的买方为国内炼油企业。 政府正努力确保多元化的替代采购渠道。",
+          "url": "https://wallstreetcn.com/livenews/3069339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "WTI原油盘初涨超1.00%，现报97.35美元/桶。",
           "url": "https://flash.jin10.com/detail/20260313060118865800",
           "source": "金十数据",
@@ -1107,6 +1192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "SC原油主力合约日内暴涨8.00%，现报769.40元/桶。",
+          "url": "https://flash.jin10.com/detail/20260313111735094800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "商品期货开盘，原油主力合约涨近7%，菜籽粕、燃料油涨超3%，铁矿石涨超2%，豆粕、沥青、焦炭、甲醇涨超1%。苯乙烯、集运欧线、乙二醇、纯苯跌超1%。",
@@ -1181,7 +1277,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         },
@@ -1254,6 +1350,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年03月13日（周五）上海金早盘价为1138.89元/克，较国际金价(1131.62元/克)，高7.27元/克",
+          "url": "https://flash.jin10.com/detail/20260313110253548800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     }
