@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T10:58:40.858110+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-03-19T11:54:21.071501+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -52,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时54分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -78,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时54分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -89,8 +89,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时54分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时12分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
@@ -127,6 +138,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
           "url": "https://wallstreetcn.com/livenews/3072729",
           "source": "华尔街见闻-快讯",
@@ -137,6 +159,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时54分]"
         },
         {
           "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
@@ -156,11 +190,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 11时54分]"
         },
         {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
@@ -210,15 +245,15 @@
           "time_info": "04时08分"
         },
         {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
+          "title": "全球LNG命脉被炸、市场恐慌，特朗普澄清不知情：再犯就夷平南帕尔斯气田！",
+          "url": "https://flash.jin10.com/detail/20260319112826688800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "11时54分"
         },
         {
           "title": "知情人士：特朗普仍在权衡地面出兵伊朗风险",
@@ -282,7 +317,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -304,7 +339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -326,16 +361,39 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "高市早苗抵达华盛顿将与特朗普会面",
+          "url": "https://flash.jin10.com/detail/20260319110624314800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 11时54分]"
+        },
         {
           "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
           "url": "https://www.cls.cn/detail/2316947",
@@ -347,18 +405,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 08时06分]"
-        },
-        {
-          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
-          "url": "https://www.cls.cn/detail/2317455",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 10时58分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -380,11 +426,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时06分 ~ 10时58分]"
+          "appearance_count": 5,
+          "time_info": "[08时06分 ~ 11时54分]"
         },
         {
           "title": "A股CPO概念低开高走，瑞斯康达涨超8%，华工科技涨超6%，新易盛、天孚通信、德科立、智立方、协创数据、天通股份等个股跟涨。",
@@ -393,9 +440,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "上证指数早盘收报4024.23点，跌0.95%。 深证成指早盘收报14030.34点，跌1.11%。 创业板指早盘收报3342.64点，跌0.11%。 沪深300早盘收报4612.28点，跌0.99%。 科创50早盘收报1348.50点，跌1.75%。 中证500早盘收报7953.17点，跌1.77%。 中证1000早盘收报7981.61点，跌1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3072907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美光科技(MU.O)美股盘后跌超5%。",
@@ -431,6 +489,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "A股午评：创业板指收跌0.11%，CPO概念低开高走",
+          "url": "https://flash.jin10.com/detail/20260319113522911800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
           "url": "https://wallstreetcn.com/livenews/3072726",
           "source": "华尔街见闻-快讯",
@@ -441,6 +510,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时06分]"
+        },
+        {
+          "title": "小米集团涨超5%，此前推出大模型，且新一代SU7将于今日晚些时间公布。 恒生科技指数跌幅收窄至0.9%，开盘一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3072872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时54分]"
         },
         {
           "title": "年内新增13只“A+H”股，港股IPO后备军持续扩容",
@@ -479,24 +560,13 @@
           "time_info": "[05时10分 ~ 06时06分]"
         },
         {
-          "title": "小米集团涨超5%，此前推出大模型，且新一代SU7将于今日晚些时间公布。 恒生科技指数跌幅收窄至0.9%，开盘一度跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3072872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
           "title": "港股新能源车企股震荡走高，小米集团(01810.HK)涨超5%，奇瑞汽车(09973.HK)、比亚迪股份(01211.HK)、吉利汽车(00175.HK)、理想汽车(02015.HK)、赛力斯(09927.HK)等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260319103259280800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -540,7 +610,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -551,7 +621,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -581,7 +651,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -605,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.19%，10年期主力合约涨0.11%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3072903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "两年期美债收益率短线下挫2个基点，至3.69%下方。现货黄金持稳于4900美元下方，美元指数维持0.2%的涨幅。美联储按兵不动，理事米兰要求降息。",
@@ -676,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260319113111218800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "美联储利率决定公布后，美债收益率削减涨幅，10年期​​国债收益率上涨1.2个基点至4.214%，2年期国债收益率上涨2.4个基点至3.695%。",
@@ -813,7 +905,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "迪拜原油价格攻破150美元",
@@ -836,17 +928,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "日本央行：受中东冲突影响，金融市场正呈现不稳定走势。 原油价格大幅上涨，未来发展值得高度警惕。 核心消费者物价指数（CPI）同比涨幅可能暂时放缓至2%以下，但受油价上涨影响将再次加速。 日本很可能维持工资与物价同步温和上涨的机制。 必须高度警惕原油价格上涨对潜在通胀可能产生的影响。 日本经济前景面临的风险包括中东局势、油价走势以及包括外汇在内的市场动态。",
-          "url": "https://wallstreetcn.com/livenews/3072879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         },
         {
           "title": "绕开霍尔木兹另谋出路，沙特恢复逾五成原油出口",
@@ -885,16 +966,29 @@
           "time_info": "[06时06分 ~ 07时12分]"
         },
         {
+          "title": "日本央行：受中东冲突影响，金融市场正呈现不稳定走势。 原油价格大幅上涨，未来发展值得高度警惕。 核心消费者物价指数（CPI）同比涨幅可能暂时放缓至2%以下，但受油价上涨影响将再次加速。 日本很可能维持工资与物价同步温和上涨的机制。 必须高度警惕原油价格上涨对潜在通胀可能产生的影响。 日本经济前景面临的风险包括中东局势、油价走势以及包括外汇在内的市场动态。",
+          "url": "https://wallstreetcn.com/livenews/3072879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 11时54分]"
+        },
+        {
           "title": "沙特、卡塔尔能源设施遇袭 布伦特原油价格涨近4% | 环球市场",
           "url": "https://www.cls.cn/detail/2317493",
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 11时54分]"
         },
         {
           "title": "WTI原油期货朝着96美元回落。",
@@ -950,9 +1044,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌互现。液化石油气（LPG）涨超10%，低硫燃料油（LU）涨超8%，SC原油涨超6%，甲醇、乙二醇（EG）、燃料油涨超5%，丙烯涨超4%，聚丙烯（PP）、沥青涨超3%；跌幅方面，沪银、钯跌超5%，多晶硅、铂跌超4%，沪锡、国际铜、沪铜跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260319113057233800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
           "title": "早盘开盘，国内期货主力合约涨跌互现，低硫燃料油（LU）涨近11%，甲醇、乙二醇涨超9%，液化石油气（LPG）涨超9%，SC原油涨超8%，燃料油涨超7%。跌幅方面，沪银跌超4%，沪锡跌超3%，沪铜、国际铜、沪金跌超2%，沪锌、豆一跌超1%，纸浆、铁矿石跌近1%。",
@@ -1046,7 +1151,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -1097,7 +1202,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1113,13 +1218,24 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "金十图示：2026年03月19日（周四）上海金早盘价为1080.3元/克，较国际金价（1078.11元/克），高2.19元/克",
+          "url": "https://flash.jin10.com/detail/20260319110342387800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
           "title": "金价银价又崩了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%8F%88%E5%B4%A9%E4%BA%86%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
@@ -1163,11 +1279,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 11时54分]"
         }
       ]
     },
