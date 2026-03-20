@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T15:17:21.115330+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-03-20T16:08:34.349732+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时17分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 16时08分]"
         },
         {
           "title": "美股收盘：三大指数连跌两天 光通信逆市走强 闪迪续刷新高",
@@ -56,8 +57,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时05分 ~ 15时17分]"
+          "appearance_count": 13,
+          "time_info": "[07时05分 ~ 16时08分]"
         },
         {
           "title": "A股开盘，上证指数跌0.05%，深证成指涨0.86%，创业板指涨1.6%。",
@@ -88,7 +89,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -275,6 +276,18 @@
           "time_info": "[13时22分 ~ 14时14分]"
         },
         {
+          "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
+          "url": "https://www.cls.cn/detail/2319209",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 16时08分]"
+        },
+        {
           "title": "A股源杰科技封板涨停，现报1140元/股，成A股市场第二高价股。",
           "url": "https://wallstreetcn.com/livenews/3073723",
           "source": "华尔街见闻-快讯",
@@ -314,16 +327,16 @@
           "time_info": "[10时54分 ~ 12时32分]"
         },
         {
-          "title": "【午报】创业板指涨超3%再创阶段新高，储能、算力硬件双双爆发",
-          "url": "https://www.cls.cn/detail/2319209",
-          "source": "财联社热门",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            11
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时13分 ~ 15时17分]"
+          "time_info": "[10时54分 ~ 16时08分]"
         },
         {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
@@ -374,18 +387,6 @@
           "time_info": "[10时54分 ~ 11时46分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时54分 ~ 15时17分]"
-        },
-        {
           "title": "港股开盘，恒指开跌0.64%，科指开跌0.97%；阿里巴巴(09988.HK)跌超6.4%，小米集团(01810.HK)跌2.6%。",
           "url": "https://flash.jin10.com/detail/20260320092101807800",
           "source": "金十数据",
@@ -414,7 +415,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -458,7 +459,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -513,7 +514,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -557,7 +558,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -634,7 +635,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -733,7 +734,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -875,8 +876,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时04分 ~ 15时17分]"
+          "appearance_count": 14,
+          "time_info": "[06时04分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 16时08分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -898,8 +914,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时15分 ~ 15时17分]"
+          "appearance_count": 22,
+          "time_info": "[00时15分 ~ 16时08分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -917,20 +933,6 @@
           "time_info": "[00时15分 ~ 11时46分]"
         },
         {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时17分]"
-        },
-        {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -938,8 +940,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 16时08分]"
         },
         {
           "title": "全世界都被特朗普逗笑了，除了高市早苗",
@@ -949,8 +951,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 16时08分]"
         },
         {
           "title": "美以伊战争丨是否会派地面部队？特朗普最新表态",
@@ -1055,6 +1057,17 @@
           "time_info": "[04时08分 ~ 05时09分]"
         },
         {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 16时08分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3073529",
           "source": "华尔街见闻-快讯",
@@ -1065,17 +1078,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时08分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时13分 ~ 15时17分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -1538,7 +1540,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中东局势重大升级！除了原油，所有资产都在跌！",
@@ -1673,7 +1675,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -1766,6 +1768,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "挪威石油管理局：挪威2月天然气预估产量为99亿立方米；2月原油预估产量为197万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260320153837423800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "早盘开盘，国内期货主力合约跌多涨少，液化石油气（LPG）涨超5%，纸浆、苹果、烧碱、双胶纸、丙烯涨超1%。跌幅方面，瓶片、SC原油、低硫燃料油（LU）跌超6%，沪金、PX跌超4%，PTA、燃料油跌超3%，沪铝、苯乙烯跌近3%。",
           "url": "https://flash.jin10.com/detail/20260320090003563800",
           "source": "金十数据",
@@ -1790,8 +1803,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时07分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时07分 ~ 16时08分]"
         },
         {
           "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
@@ -2016,8 +2029,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时54分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[10时54分 ~ 16时08分]"
         },
         {
           "title": "金价持续下跌",
@@ -2031,8 +2044,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 16时08分]"
         },
         {
           "title": "金价暴跌真凶",
