@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-22T11:52:54.568594+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-03-22T12:36:20.838397+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
           "url": "https://www.cls.cn/detail/2320213",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 12时36分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -85,8 +86,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 12时36分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -99,6 +100,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时03分 ~ 09时31分]"
+        },
+        {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：如果民主党人不同意向国土安全部拨款，我将在下周一让移民与海关执法局（ICE）特工前往机场。",
@@ -130,18 +143,6 @@
           "time_info": "[03时06分 ~ 08时05分]"
         },
         {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时52分]"
-        },
-        {
           "title": "美以伊战争丨特朗普威胁袭击电厂，伊朗回击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -159,11 +160,12 @@
           "ranks": [
             4,
             7,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：如果激进左翼民主党人不立即签署协议，让我们的国家，特别是我们的机场，再次获得自由和安全，我将把移民执法局（ICE）特工调往机场，他们将执行前所未有的安保措施，包括立即逮捕所有非法入境的移民，重点打击来自索马里的非法移民。",
@@ -185,8 +187,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时36分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -194,11 +196,37 @@
           "source": "微博",
           "ranks": [
             7,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时36分]"
+        },
+        {
+          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时36分]"
+        },
+        {
+          "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
+          "url": "https://flash.jin10.com/detail/20260322093718219800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 12时36分]"
         },
         {
           "title": "特朗普威胁派移民执法人员负责机场安保",
@@ -213,29 +241,6 @@
           "time_info": "[09时31分 ~ 10时58分]"
         },
         {
-          "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
-          "url": "https://flash.jin10.com/detail/20260322093718219800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时52分]"
-        },
-        {
-          "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809575",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 11时52分]"
-        },
-        {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
           "url": "https://wallstreetcn.com/articles/3768068",
           "source": "华尔街见闻",
@@ -245,6 +250,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普要求伊朗开放霍尔木兹海峡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡",
@@ -314,7 +341,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
@@ -327,8 +354,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 11时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时36分]"
         },
         {
           "title": "金价",
@@ -340,8 +367,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时36分]"
         },
         {
           "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
@@ -401,11 +428,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 12时36分]"
         },
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -417,8 +445,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 12时36分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -496,26 +524,20 @@
       ]
     },
     {
-      "keyword_group": "黄金 白银",
-      "match_count": 1,
+      "keyword_group": "原油",
+      "match_count": 2,
       "titles": [
         {
-          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
-          "url": "https://flash.jin10.com/detail/20260322112216406800",
+          "title": "中东疯抢美国狂砸，谁在操纵原油绞肉机？",
+          "url": "https://flash.jin10.com/detail/20260322120026961800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 1,
-      "titles": [
+          "time_info": "12时36分"
+        },
         {
           "title": "为何“临时豁免海上伊朗石油”？美国“形势所迫”：全球原油缓冲正迅速减少",
           "url": "https://wallstreetcn.com/articles/3768051",
@@ -525,8 +547,26 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 11时52分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 12时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
+          "url": "https://flash.jin10.com/detail/20260322112216406800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时36分]"
         }
       ]
     }
