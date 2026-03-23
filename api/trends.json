@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T14:20:13.438009+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-03-23T15:27:20.159140+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -45,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 15时27分]"
         },
         {
           "title": "中国上证综指3月23日（周一）开盘下跌52.1点，跌幅：1.32%，报3904.95点；<br/>中国深证成指3月23日（周一）开盘下跌246.26点，跌幅：1.78%，报13619.94点；<br/>中国沪深300指数3月23日（周一）开盘下跌67.92点，跌幅：1.49%，报4499.1点；<br/>中国创业板指数3月23日（周一）开盘下跌51.54点，跌幅：1.54%，报3300.56点；<br/>中国科创50指数3月23日（周一）开盘下跌25.42点，跌幅：1.93%，报1292.89点。",
@@ -66,9 +66,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            27,
+            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 15时27分]"
         },
         {
           "title": "A股低开，上证指数开跌1.32%，深证成指开跌1.78%，创业板指开跌1.54%；CPO、F5G概念股跌幅居前。",
@@ -99,7 +113,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -110,7 +124,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -172,20 +186,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时08分 ~ 06时03分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            27,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 14时20分]"
         },
         {
           "title": "沪指午后跌幅扩大至3%，深成指跌超2.7%，创业板指跌超2.3%，有色金属、养殖业、机场航运、医药生物等方向跌幅居前，全市场上涨个股数不足400只。",
@@ -295,6 +295,28 @@
           "time_info": "09时31分"
         },
         {
+          "title": "A股三大指数尾盘均跌超4%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%BE%E7%9B%98%E5%9D%87%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "沪指跌4%失守3800点，创业板跌超3%，黄金股大跌，恒指跌超3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3768123",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "香港恒生指数3月23日（周一）开盘下跌488.18点，跌幅1.93%，报24789.14点；<br/>香港恒生科技指数3月23日（周一）开盘下跌92.34点，跌幅1.9%，报4780.04点；<br/>国企指数3月23日（周一）开盘下跌140.22点，跌幅1.64%，报8433.85点；<br/>红筹指数3月23日（周一）开盘下跌34.21点，跌幅0.81%，报4212.12点。",
           "url": "https://flash.jin10.com/detail/20260323092105416800",
           "source": "金十数据",
@@ -378,7 +400,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -394,13 +416,24 @@
           "time_info": "13时31分"
         },
         {
+          "title": "A股收盘：沪指跌3.63%险守3800点，全市场下跌个股超5100只",
+          "url": "https://wallstreetcn.com/livenews/3074950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "A股冰雪产业板块走弱，英派斯跌停，峨眉山A、探路者、三特索道、西域旅游、晶雪节能、三夫户外等跟跌。",
           "url": "https://flash.jin10.com/detail/20260323140251454800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -422,9 +455,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "源杰科技为何成A股史上第8只千元股",
+          "url": "https://www.toutiao.com/trending/7620074600277216810/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "港股午评：恒生指数半日下跌3.56% 黄金板块大挫",
@@ -458,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%，标普500指数期货跌0.9%，道指期货跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3074941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "A股磷化工板块午后拉升，湖北宜化涨停，六国化工、兴发集团、川发龙蟒、川金诺、川恒股份跟涨。",
@@ -504,6 +559,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "A股收评：三大指数低开低走均跌超3% 全市场近5200只个股下跌",
+          "url": "https://flash.jin10.com/detail/20260323150418630800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "A股三大指数均跌超2%，沪指失守3900点关口，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5200只。",
           "url": "https://wallstreetcn.com/livenews/3074740",
           "source": "华尔街见闻-快讯",
@@ -537,6 +603,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "中国上证综指3月23日（周一）收盘下跌143.77点，跌幅：3.63%，报3813.28点；<br/>中国深证成指3月23日（周一）收盘下跌520.69点，跌幅：3.76%，报13345.51点；<br/>中国沪深300指数3月23日（周一）收盘下跌149.02点，跌幅：3.26%，报4418.0点；<br/>中国创业板指数3月23日（周一）收盘下跌116.88点，跌幅：3.49%，报3235.22点；<br/>中国科创50指数3月23日（周一）收盘下跌56.87点，跌幅：4.31%，报1261.44点。",
+          "url": "https://flash.jin10.com/detail/20260323150347164800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "紫金矿业：拟通过协议收购A股和认购定向增发H股的方式获得赤峰黄金控制权",
           "url": "https://wallstreetcn.com/livenews/3074690",
           "source": "华尔街见闻-快讯",
@@ -557,12 +634,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "沪指、创业板指盘尾跌幅扩大至4%，深证成指跌幅扩大至4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3074929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -596,8 +684,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时27分]"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
@@ -633,8 +721,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时03分 ~ 14时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时03分 ~ 15时27分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -671,6 +759,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时03分 ~ 09时31分]"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时27分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -722,18 +822,6 @@
           "time_info": "[03时07分 ~ 05时04分]"
         },
         {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时20分]"
-        },
-        {
           "title": "美议员要求特朗普政府官员国会作证",
           "url": "https://news.ifeng.com/c/8riyKTIjsUK",
           "source": "凤凰网",
@@ -742,8 +830,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 15时27分]"
         },
         {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
@@ -753,8 +841,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 15时27分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
@@ -769,6 +857,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时03分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4200、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
@@ -793,6 +892,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时30分 ~ 15时27分]"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -882,17 +993,6 @@
           "time_info": "[07时04分 ~ 08时07分]"
         },
         {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 14时20分]"
-        },
-        {
           "title": "特朗普借电视短剧嘲讽英国首相",
           "url": "https://www.cls.cn/detail/2320775",
           "source": "财联社热门",
@@ -938,6 +1038,28 @@
           "time_info": "10时59分"
         },
         {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "伊朗军方发言人用“特朗普的方式”回应特朗普",
+          "url": "https://wallstreetcn.com/livenews/3074960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "特朗普逐步降级言论会否引发市场反弹？分析师警告：别轻易当真",
           "url": "https://www.cls.cn/detail/2320461",
           "source": "财联社热门",
@@ -949,13 +1071,35 @@
           "time_info": "09时31分"
         },
         {
+          "title": "杰富瑞：伊朗忍痛能力高于预期，战争结束要比特朗普想的复杂",
+          "url": "https://flash.jin10.com/detail/20260323151019850800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "特朗普对伊朗48小时最后通牒，或引爆不计后果的升级",
           "url": "https://flash.jin10.com/detail/20260323140249182800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1029,7 +1173,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
@@ -1037,11 +1181,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时56分 ~ 14时20分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 15时27分]"
         },
         {
           "title": "新西兰国债价格上涨，此前惠誉下调评级前景，称国际油价上涨加重通胀顾虑。 10年期新西兰国债收益率涨7个基点，至4.81%，创2025年4月14日以来新高。 两年期新债收益率涨7个基点，报3.67%。",
@@ -1102,6 +1247,17 @@
           "time_info": "11时57分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260323151945731800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "印度卢比兑美元跌至历史新低93.8350。 印度10年期国债收益率上行4个基点至6.78%。",
           "url": "https://wallstreetcn.com/livenews/3074821",
           "source": "华尔街见闻-快讯",
@@ -1150,6 +1306,17 @@
           "time_info": "[11时57分 ~ 12时44分]"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.07%，10年期主力合约跌0.09%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3074962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "印度10年期国债收益率升至6.7851%，创2025年3月3日以来新高。",
           "url": "https://flash.jin10.com/detail/20260323113633240800",
           "source": "金十数据",
@@ -1178,7 +1345,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1214,12 +1381,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "德国2年期国债收益率在早盘交易中上扬3.5个基点至2.702%，创2024年7月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260323150430503800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "意大利2年期国债收益率在早盘交易中上行6个基点，至3.019%。",
+          "url": "https://flash.jin10.com/detail/20260323150352684800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
@@ -1242,9 +1431,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报101.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3074969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "美国财长贝森特：WTI原油价格之所以能保持在100美元以下，且未像俄乌冲突爆发初期那样出现大幅飙升，原因之一就在于目前市场上的供应十分充足。",
@@ -1368,7 +1568,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1387,7 +1587,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "国内金价跌破1000元",
@@ -1399,8 +1599,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 15时27分]"
         },
         {
           "title": "国内金价跌破1000元",
@@ -1475,6 +1675,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "金价大跌后还会回升吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E8%BF%98%E4%BC%9A%E5%9B%9E%E5%8D%87%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
           "title": "“旧故事”被改写！金价这波下行还要走多久？",
           "url": "https://flash.jin10.com/detail/20260323120453656800",
           "source": "金十数据",
@@ -1484,6 +1695,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "金价八连跌抄底大军越买越跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%8A%84%E5%BA%95%E5%A4%A7%E5%86%9B%E8%B6%8A%E4%B9%B0%E8%B6%8A%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "金价下跌 30克金手镯能省约1万元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+30%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%83%BD%E7%9C%81%E7%BA%A61%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
@@ -1498,7 +1731,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -1509,7 +1742,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -1530,8 +1763,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 15时27分]"
         }
       ]
     },
