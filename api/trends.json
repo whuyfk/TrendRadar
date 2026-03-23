@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T18:19:01.096880+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-23T19:15:37.930188+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -56,11 +56,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 19时15分]"
         },
         {
           "title": "中国上证综指3月23日（周一）开盘下跌52.1点，跌幅：1.32%，报3904.95点；<br/>中国深证成指3月23日（周一）开盘下跌246.26点，跌幅：1.78%，报13619.94点；<br/>中国沪深300指数3月23日（周一）开盘下跌67.92点，跌幅：1.49%，报4499.1点；<br/>中国创业板指数3月23日（周一）开盘下跌51.54点，跌幅：1.54%，报3300.56点；<br/>中国科创50指数3月23日（周一）开盘下跌25.42点，跌幅：1.93%，报1292.89点。",
@@ -332,6 +333,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "美股期货拉升，纳斯达克100指数期货涨超2%，标普500指数期货涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3075140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "沪指跌4%失守3800点，创业板跌超3%，黄金股大跌，恒指跌超3%，科网股普跌",
           "url": "https://wallstreetcn.com/articles/3768123",
           "source": "华尔街见闻",
@@ -415,7 +427,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -484,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
+        },
+        {
+          "title": "十大券商看后市｜A股继续大幅下探的空间有限，不宜盲目杀跌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32812547",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美股股指期货周一走低，纳指期货跌0.68%。",
@@ -698,7 +721,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -732,8 +755,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时31分 ~ 18时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时31分 ~ 19时15分]"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
@@ -769,8 +792,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时03分 ~ 18时19分]"
+          "appearance_count": 29,
+          "time_info": "[00时03分 ~ 19时15分]"
         },
         {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
@@ -797,6 +820,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时03分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时14分 ~ 19时15分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
@@ -831,8 +865,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时30分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[13时30分 ~ 19时15分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -846,28 +880,18 @@
           "time_info": "[00时03分 ~ 09时31分]"
         },
         {
-          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
           "url": "https://www.zhihu.com/question/2019150605713716559",
           "source": "知乎",
           "ranks": [
             17,
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时31分 ~ 18时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时31分 ~ 19时15分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -908,6 +932,18 @@
           "time_info": "[00时03分 ~ 08时07分]"
         },
         {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 19时15分]"
+        },
+        {
           "title": "美以伊战争丨特朗普威胁将伊朗抹去，伊总统回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -919,16 +955,17 @@
           "time_info": "[03时07分 ~ 05时04分]"
         },
         {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            4
+            15,
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 19时15分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
@@ -969,16 +1006,15 @@
           "time_info": "[00时03分 ~ 05时04分]"
         },
         {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
+          "title": "特朗普对伊朗48小时最后通牒将至，专家：双方恐互袭电力设施",
+          "url": "https://news.ifeng.com/c/8rjRZBJrthr",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            17
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 18时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普重开霍尔木兹海峡的最后期限：两周！",
@@ -990,6 +1026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "特朗普：已指示暂停对伊朗发电厂和能源基础设施的一切军事打击，为期五天",
+          "url": "https://wallstreetcn.com/livenews/3075149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -1005,6 +1052,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时02分 ~ 08时07分]"
+        },
+        {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 19时15分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -1079,18 +1138,6 @@
           "time_info": "[07时04分 ~ 08时07分]"
         },
         {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普借电视短剧嘲讽英国首相",
           "url": "https://www.cls.cn/detail/2320775",
           "source": "财联社热门",
@@ -1158,6 +1205,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2321403",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "杰富瑞：伊朗忍痛能力高于预期，战争结束要比特朗普想的复杂",
           "url": "https://flash.jin10.com/detail/20260323151019850800",
           "source": "金十数据",
@@ -1167,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-23）",
+          "url": "https://flash.jin10.com/detail/20260323185509935800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "特朗普对伊朗48小时最后通牒，或引爆不计后果的升级",
@@ -1249,7 +1318,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
@@ -1340,7 +1409,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1470,6 +1539,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "英国两年期国债收益率上升14个基点至4.71%，为2023年11月以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3075122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "日本30年期国债收益率上行6个基点至3.58%，为2月9日来最高。",
           "url": "https://wallstreetcn.com/livenews/3074702",
           "source": "华尔街见闻-快讯",
@@ -1490,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "美国2年期国债收益率自去年6月以来首次攀升至4%。",
+          "url": "https://wallstreetcn.com/livenews/3075113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "德国2年期国债收益率在早盘交易中上扬3.5个基点至2.702%，创2024年7月以来新高。",
@@ -1520,7 +1611,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -1528,7 +1619,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗战争已三周，美国“稳油价”的牌“几乎打完”，原油“期现价差”越拉越大",
@@ -1659,6 +1750,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时18分"
+        },
+        {
+          "title": "WTI原油日内跌幅达13.0%，报85.27美元/桶。 布伦特原油日内跌幅达13.5%，报91.72美元/桶。 现货白银日内涨幅达1.0%，报68.77美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3075142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "油价下挫，WTI原油日内跌幅达4.5%，报93.63美元/桶；布伦特原油日内跌幅达3.5%，报102.22美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3075137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "大华银行：布伦特原油价格短期内有可能突破130美元",
@@ -1794,11 +1907,12 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时59分 ~ 18时19分]"
+          "appearance_count": 15,
+          "time_info": "[10时59分 ~ 19时15分]"
         },
         {
           "title": "金价八连跌抄底大军越买越跌",
@@ -1880,6 +1994,18 @@
           "time_info": "[15时27分 ~ 17时18分]"
         },
         {
+          "title": "金价创下1983年3月以来最大单周跌幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B%E4%B8%8B1983%E5%B9%B43%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时15分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1889,17 +2015,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时56分 ~ 11时57分]"
-        },
-        {
-          "title": "金价创下1983年3月以来最大单周跌幅",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B%E4%B8%8B1983%E5%B9%B43%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
         },
         {
           "title": "金价大跌后还会回升吗",
@@ -2026,7 +2141,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2037,7 +2152,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -2057,11 +2172,12 @@
             6,
             8,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时31分 ~ 18时19分]"
+          "appearance_count": 16,
+          "time_info": "[09时31分 ~ 19时15分]"
         }
       ]
     }
