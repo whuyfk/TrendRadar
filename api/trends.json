@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:21:07.096755+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-03-25T16:11:03.266583+08:00",
+  "total_titles_processed": 1595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时06分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[08时06分 ~ 16时11分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -84,11 +84,12 @@
             21,
             23,
             20,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时20分 ~ 16时11分]"
         },
         {
           "title": "地缘信号反复切换，美股当日收跌、但盘后大涨1%，原油日内涨幅抹平，加密货币下挫",
@@ -108,7 +109,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -266,6 +267,18 @@
           "time_info": "[07时07分 ~ 08时06分]"
         },
         {
+          "title": "A股收盘：沪指涨1.3%重返3900点，全市场上涨个股超4800只",
+          "url": "https://wallstreetcn.com/livenews/3076496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时11分]"
+        },
+        {
           "title": "A股旅游板块异动拉升，桂林旅游封板涨停，三峡旅游、西域旅游、大连圣亚、首旅酒店、金陵饭店跟涨。",
           "url": "https://flash.jin10.com/detail/20260325104232016800",
           "source": "金十数据",
@@ -302,6 +315,18 @@
           "time_info": "[11时50分 ~ 12时36分]"
         },
         {
+          "title": "上证指数收报3931.84点，涨1.30%。 深证成指收报13801.00点，涨1.95%。 创业板指收报3316.97点，涨2.01%。 沪深300收报4537.47点，涨1.40%。 科创50收报1315.41点，涨1.91%。 中证500收报7767.67点，涨2.24%。 中证1000收报7751.18点，涨1.98%。",
+          "url": "https://wallstreetcn.com/livenews/3076495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时11分]"
+        },
+        {
           "title": "A股市场反弹，抄底资金增持宽基ETF",
           "url": "https://wallstreetcn.com/livenews/3076238",
           "source": "华尔街见闻-快讯",
@@ -312,6 +337,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 08时06分]"
+        },
+        {
+          "title": "A股收盘：全市场超4800只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-03-25）",
@@ -336,15 +372,15 @@
           "time_info": "14时18分"
         },
         {
-          "title": "A股收盘：沪指涨1.3%重返3900点，全市场上涨个股超4800只",
-          "url": "https://wallstreetcn.com/livenews/3076496",
+          "title": "港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3076523",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时11分"
         },
         {
           "title": "A股生态农业板块午后拉升，冠农股份封板涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发等跟涨。",
@@ -356,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
-        },
-        {
-          "title": "上证指数收报3931.84点，涨1.30%。 深证成指收报13801.00点，涨1.95%。 创业板指收报3316.97点，涨2.01%。 沪深300收报4537.47点，涨1.40%。 科创50收报1315.41点，涨1.91%。 中证500收报7767.67点，涨2.24%。 中证1000收报7751.18点，涨1.98%。",
-          "url": "https://wallstreetcn.com/livenews/3076495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
         },
         {
           "title": "A股兵装重组概念板块午后直线拉升，湖南天雁直线封板，长城军工、建设工业、华强科技、东安动力、中光学等跟涨。",
@@ -589,6 +614,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "港股科网股尾盘再度上扬，美团(03690.HK)涨超15%，京东(09618.HK)、阿里巴巴(09988.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260325154454658800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "A股算力租赁概念反复活跃，奥瑞德2连板，光环新网涨超15%，铜牛信息、奥飞数据、宏景科技、特发信息、美利云涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3076312",
           "source": "华尔街见闻-快讯",
@@ -658,7 +694,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "【早报】美方提出含“15项条件”的和谈方案，特朗普：伊朗同意“永不拥核”；日本拟将中日关系定位降级，中方回应",
@@ -687,6 +723,20 @@
           "time_info": "[00时20分 ~ 08时06分]"
         },
         {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时31分 ~ 16时11分]"
+        },
+        {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
           "url": "https://wallstreetcn.com/articles/3768302",
           "source": "华尔街见闻",
@@ -696,21 +746,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时07分 ~ 15时21分]"
-        },
-        {
-          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
-          "url": "https://www.cls.cn/detail/2323682",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 15时21分]"
+          "appearance_count": 13,
+          "time_info": "[07时07分 ~ 16时11分]"
         },
         {
           "title": "美CIA前局长：比起特朗普，更相信伊朗",
@@ -720,8 +757,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 16时11分]"
         },
         {
           "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
@@ -827,6 +864,18 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
+          "url": "https://www.cls.cn/detail/2323758",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 16时11分]"
+        },
+        {
           "title": "精准收割！特朗普变卦前油市突现3.2亿美元异常空单",
           "url": "https://flash.jin10.com/detail/20260325122716577800",
           "source": "金十数据",
@@ -918,18 +967,6 @@
           "time_info": "[07时07分 ~ 08时06分]"
         },
         {
-          "title": "特朗普一句话搅动市场风雨：亚太股市普遍高开 国际油价大幅下跌",
-          "url": "https://www.cls.cn/detail/2323758",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 14时18分]"
-        },
-        {
           "title": "被特朗普骗了两次之后，伊朗：我们不想再被愚弄！",
           "url": "https://flash.jin10.com/detail/20260325104304117800",
           "source": "金十数据",
@@ -952,6 +989,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 03时22分]"
+        },
+        {
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
@@ -1040,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "特朗普称已向伊朗提出和平方案，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3076518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "美国总统特朗普：伊朗“送给我们一份非常大的礼物”，价值“一大笔钱”。伊朗的“礼物”是“油气相关”的，与霍尔木兹海峡有关。",
@@ -1196,6 +1255,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "鼓吹和谈却又增兵 特朗普唱哪出",
+          "url": "https://www.toutiao.com/trending/7620061954128248875/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "谁比总统快一步？起底特朗普2.0最危险交易局！",
           "url": "https://flash.jin10.com/detail/20260324233226681800",
           "source": "金十数据",
@@ -1240,6 +1310,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "美总统顾问称特朗普“一边准备谈判一边握拳”",
+          "url": "https://wallstreetcn.com/livenews/3076504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "路透社/益普索民调：美国总统特朗普支持率跌至36%，为重返白宫以来最低水平。",
           "url": "https://flash.jin10.com/detail/20260325011633926800",
           "source": "金十数据",
@@ -1276,7 +1357,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -1460,6 +1541,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.01%，10年期主力合约与昨日持平，5年期主力合约涨0.00%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3076507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "澳大利亚国债价格涨幅扩大，三年期澳债收益率悉尼盘初跌8个基点。 WTI原油一度跌超4.5%，报87.17美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3076226",
           "source": "华尔街见闻-快讯",
@@ -1488,7 +1580,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -1520,8 +1612,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时50分 ~ 15时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时50分 ~ 16时11分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -1535,8 +1627,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时11分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -1545,11 +1637,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 16时11分]"
         },
         {
           "title": "OpenAI为何关停Sora",
@@ -1723,7 +1816,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "能源化工商品期货主力合约跌幅有所收窄，液化石油气（LPG）现跌8.20%，乙二醇、燃料油跌超6%，SC原油、集运指数（欧线）、低硫燃料油（LU）跌超5%，苯乙烯、PVC、塑料、丙烯、PX、PTA、甲醇跌超4%。",
@@ -1754,7 +1847,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -1886,6 +1979,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "土耳其能源部长：对土耳其而言，每桶原油价格上涨1美元将增加4亿美元的成本。",
+          "url": "https://flash.jin10.com/detail/20260325154838243800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "沙特阿美提高延布港原油出口量以弥补霍尔木兹海峡关闭",
           "url": "https://wallstreetcn.com/livenews/3076173",
           "source": "华尔街见闻-快讯",
@@ -1895,6 +1999,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "土耳其能源部长：将叙利亚石油接入伊拉克-土耳其原油管道的计划已列入议程，并已就此向叙利亚方面进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260325154615779800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "雪佛龙计划从萨布尔公司采购原油，供应加州炼油厂。",
