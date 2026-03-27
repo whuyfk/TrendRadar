@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T05:09:42.022703+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-03-28T06:05:19.700832+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -16,8 +16,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美国总统特朗普：我们将公布新的柴油指导方针。",
@@ -31,6 +53,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普谈伊朗：他们正在（与我们）谈判。",
+          "url": "https://flash.jin10.com/detail/20260328054245418800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
           "url": "https://wallstreetcn.com/livenews/3078445",
           "source": "华尔街见闻-快讯",
@@ -40,6 +73,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3078502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普：乌克兰曾试图干预美大选",
+          "url": "https://www.cls.cn/detail/2327470",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时05分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -65,17 +120,6 @@
           "time_info": "[00时15分 ~ 04时07分]"
         },
         {
-          "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
-          "url": "https://news.ifeng.com/c/8rqfbkZxNyT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "美国总统特朗普：要求为农民提供额外农业援助。",
           "url": "https://flash.jin10.com/detail/20260328005449719800",
           "source": "金十数据",
@@ -87,26 +131,17 @@
           "time_info": "01时16分"
         },
         {
-          "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
-          "url": "https://flash.jin10.com/detail/20260328041150540800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "特朗普：乌克兰曾试图干预美大选",
-          "url": "https://www.cls.cn/detail/2327470",
+          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
+          "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
           "ranks": [
-            11
+            13,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时09分]"
+          "time_info": "[02时14分 ~ 06时05分]"
         },
         {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
@@ -157,17 +192,28 @@
           "time_info": "[04时07分 ~ 05时09分]"
         },
         {
-          "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
-          "url": "https://www.cls.cn/detail/2327594",
-          "source": "财联社热门",
+          "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
+          "url": "https://flash.jin10.com/detail/20260328041150540800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            12,
-            10
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 05时09分]"
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3078486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表关于经济的重要讲话。",
@@ -180,6 +226,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时07分]"
+        },
+        {
+          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
+          "url": "https://wallstreetcn.com/articles/3768556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
+          "url": "https://wallstreetcn.com/livenews/3078481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
         },
         {
           "title": "纳指跌幅扩大至2%，标普跌1.4%，道指跌674点、跌幅1.5%，半导体指数跌1.8%，生物科技指数跌2.3%。 伊朗外长阿拉格奇称，以色列在美方协调下对伊朗钢铁厂、电力和核设施发动的袭击与特朗普延长外交期限的声明相悖。伊朗将让以色列为其罪行付出沉重代价。",
@@ -216,17 +285,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3078486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "特朗普政府叫停海上风电项目 推动资金回流化石能源",
           "url": "https://flash.jin10.com/detail/20260328014219971800",
           "source": "金十数据",
@@ -249,17 +307,6 @@
           "time_info": "01时16分"
         },
         {
-          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
-          "url": "https://wallstreetcn.com/articles/3768556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
           "url": "https://flash.jin10.com/detail/20260328023428762800",
           "source": "金十数据",
@@ -280,17 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
-        },
-        {
-          "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
-          "url": "https://wallstreetcn.com/livenews/3078481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         },
         {
           "title": "如何预测特朗普任内市场表现？有人抛出三点教训 有人给出一个指标",
@@ -396,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "WTI原油站上99美元/桶，日内涨5.18%。",
@@ -409,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "布伦特原油日内一度涨超5%，最高至106.45美元/桶；WTI原油日内一度涨超7.5%，最高至101.55美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260328044250546800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         },
         {
           "title": "WTI 5月原油期货收涨5.16美元，涨幅5.46%，报99.64美元/桶，本周累计上涨超过1.43%。 中东Abu Dhabi Murban原油期货涨5.54%，报118.00美元/桶，本周累跌19.40%，整体呈现出长尾L形走势。 NYMEX 4月天然气期货收报3.0950美元/百万英热单位。 NYMEX 4月汽油期货收报3.2501美元/加仑，NYMEX 3月取暖油期货收报4.4955美元/加仑。",
@@ -443,6 +468,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 05时09分]"
+        },
+        {
+          "title": "布伦特原油日内一度涨超5%，最高至106.45美元/桶；WTI原油日内一度涨超7.5%，最高至101.55美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260328044250546800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
         },
         {
           "title": "上期所原油期货2605合约夜盘收涨2.67%，报760.30元人民币/桶。 沪金夜盘收涨1.73%，沪银收涨3.12%。",
@@ -479,6 +516,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时07分]"
+        },
+        {
+          "title": "WTI原油期货涨5.69%，暂报99.86美元。 美国总统特使Witkoff预计，本周将与伊朗举行会议。",
+          "url": "https://wallstreetcn.com/livenews/3078473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
         },
         {
           "title": "布伦特原油期货重新涨超2.4%，至104.40美元附近。 据伊朗国营媒体NOUR News报道，伊朗原子能机构称，该国黄饼工厂遭到美国和以色列袭击。 据伊朗塔斯尼姆通讯社，伊朗警告将打击海湾地区和以色列的钢铁厂。",
@@ -569,17 +618,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "WTI原油期货涨5.69%，暂报99.86美元。 美国总统特使Witkoff预计，本周将与伊朗举行会议。",
-          "url": "https://wallstreetcn.com/livenews/3078473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至3月24日当周，布伦特原油期货市场上的投机者将净多头仓位减少21,579手，降至407,125手。",
           "url": "https://flash.jin10.com/detail/20260328031036878800",
           "source": "金十数据",
@@ -604,8 +642,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -616,8 +654,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -629,8 +667,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -662,8 +700,68 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 06时05分]"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260328040914755800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260328040912356800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
+          "url": "https://wallstreetcn.com/livenews/3078476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
+          "url": "https://flash.jin10.com/detail/20260328040624554800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
+        },
+        {
+          "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3078472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时05分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.89%，报24630点。 恒生科技指数主连夜盘收跌1.62%，报4683点。",
@@ -677,28 +775,6 @@
           "time_info": "04时07分"
         },
         {
-          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260328040914755800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260328040912356800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
           "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260328023834916800",
           "source": "金十数据",
@@ -708,39 +784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
-          "url": "https://wallstreetcn.com/livenews/3078476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
-          "url": "https://flash.jin10.com/detail/20260328040624554800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3078472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         }
       ]
     },
@@ -759,8 +802,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -770,11 +813,12 @@
             18,
             19,
             20,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -784,11 +828,12 @@
             19,
             15,
             16,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -802,8 +847,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -831,7 +876,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊前景未明，纳指100跌幅扩大至1%，半导体股、网安股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -841,8 +886,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 05时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 06时05分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -854,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3078500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至3月24日当周，投机者将CBOT美国2年期国债期货的净空头头寸增加155,512手至1,638,179手，5年期国债期货净空头头寸减少325,016手至1,448,436手，10年期国债期货净空头头寸增加44,009手至641,887手，超长期国债期货净空头头寸增加8,050手至279,187手。",
@@ -905,11 +961,12 @@
             18,
             19,
             13,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         },
         {
           "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
@@ -920,8 +977,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 06时05分]"
         }
       ]
     },
