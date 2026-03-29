@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T18:07:12.199270+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-03-29T19:07:06.151205+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时05分 ~ 18时07分]"
+          "appearance_count": 27,
+          "time_info": "[00时05分 ~ 19时07分]"
         },
         {
           "title": "全美超900万人举行抗议反对特朗普",
@@ -77,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时03分 ~ 18时07分]"
+          "appearance_count": 19,
+          "time_info": "[06时03分 ~ 19时07分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -179,16 +179,15 @@
           "time_info": "10时59分"
         },
         {
-          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
-          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
           "source": "金十数据",
           "ranks": [
-            4,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 18时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -196,11 +195,25 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时10分 ~ 19时07分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
+          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时10分 ~ 18时07分]"
+          "time_info": "[17时10分 ~ 19时07分]"
         },
         {
           "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
@@ -229,8 +242,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时32分 ~ 19时07分]"
+        },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
@@ -244,20 +269,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时59分 ~ 18时07分]"
-        },
-        {
-          "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
-          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时32分 ~ 18时07分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 19时07分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -318,6 +331,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[13时32分 ~ 17时10分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时06分 ~ 19时07分]"
         }
       ]
     },
@@ -359,8 +383,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时05分 ~ 18时07分]"
+          "appearance_count": 27,
+          "time_info": "[00时05分 ~ 19时07分]"
+        },
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 19时07分]"
         },
         {
           "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
@@ -374,21 +411,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时05分 ~ 18时07分]"
-        },
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 18时07分]"
+          "appearance_count": 27,
+          "time_info": "[00时05分 ~ 19时07分]"
         }
       ]
     },
@@ -471,22 +495,24 @@
           "url": "https://www.zhihu.com/question/2021504836005295499",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[18时06分 ~ 19时07分]"
         },
         {
           "title": "原油LOF易方达：提示溢价风险并于30日开市起停牌至10:30",
           "url": "https://flash.jin10.com/detail/20260329170712167800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 19时07分]"
         },
         {
           "title": "知情人士称，沙特原油出口量达到约500万桶/日，沙特石油产品出口量达到70万至90万桶/日，沙特东西向输油管道输油能力达700万桶/日。",
