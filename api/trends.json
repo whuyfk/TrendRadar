@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T15:31:03.620230+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-03-30T16:27:42.599568+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时27分]"
         },
         {
           "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
@@ -191,6 +191,17 @@
           "time_info": "[07时07分 ~ 08时08分]"
         },
         {
+          "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "A股ESG强制披露“首考”进行时，数据质量成重要“得分点”",
           "url": "https://wallstreetcn.com/livenews/3078791",
           "source": "华尔街见闻-快讯",
@@ -224,6 +235,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "美国铝业公司美股盘前涨近9%。",
+          "url": "https://wallstreetcn.com/livenews/3079101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "已披露年报A股银行近半数净息差未继续下滑，业内判断2026年望进一步企稳",
           "url": "https://www.cls.cn/detail/2328013",
           "source": "财联社热门",
@@ -244,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "恒生指数收盘跌0.81%，恒生科技指数跌1.84%",
+          "url": "https://wallstreetcn.com/livenews/3079100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "创业板指跌超2%，沪指跌0.75%，深成指跌1.49%，电力电网、光伏设备、消费电子等方向跌幅居前，沪深京三市下跌个股超4000只。",
@@ -296,7 +329,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -307,7 +340,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -384,7 +417,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -406,7 +439,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -491,7 +524,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -543,8 +576,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时05分 ~ 15时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 16时27分]"
         },
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
@@ -557,8 +590,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时31分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时27分]"
         },
         {
           "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
@@ -567,11 +600,12 @@
           "ranks": [
             11,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时27分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -583,8 +617,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 16时27分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -610,18 +658,15 @@
           "time_info": "[09时32分 ~ 10时59分]"
         },
         {
-          "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
-          "source": "澎湃新闻",
+          "title": "特朗普说中东冲突或很快停止，外交部回应",
+          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            13,
-            10,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时32分 ~ 15时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "民调：选民对特朗普不满意率创新高",
@@ -643,8 +688,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 16时27分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -656,8 +701,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时31分]"
+          "appearance_count": 5,
+          "time_info": "[13时41分 ~ 16时27分]"
         },
         {
           "title": "民调：美选民对特朗普不满意率创新高",
@@ -672,6 +717,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时32分 ~ 13时41分]"
+        },
+        {
+          "title": "特朗普：不排除占领伊朗石油枢纽哈尔克岛",
+          "url": "https://www.cls.cn/detail/2328360",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普政策前“神秘押注”引爆内幕疑云，专家：应彻查！",
@@ -883,6 +939,28 @@
           "time_info": "10时59分"
         },
         {
+          "title": "特朗普称“下一个目标将是古巴”，中方回应",
+          "url": "https://flash.jin10.com/detail/20260330153553975800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "特朗普说有可能很快停止在中东的冲突，中方回应",
+          "url": "https://wallstreetcn.com/livenews/3079079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "特朗普公布重大消息前“精准押注”频现 多位专家呼吁彻查",
           "url": "https://flash.jin10.com/detail/20260329212614459800",
           "source": "金十数据",
@@ -959,8 +1037,34 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时27分]"
+        },
+        {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时31分]"
+          "time_info": "[12时06分 ~ 16时27分]"
+        },
+        {
+          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
+          "url": "https://www.zhihu.com/question/2021724542909903612",
+          "source": "知乎",
+          "ranks": [
+            12,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时27分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -993,32 +1097,6 @@
             8,
             16,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
-        },
-        {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
-        },
-        {
-          "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
-          "url": "https://www.zhihu.com/question/2021724542909903612",
-          "source": "知乎",
-          "ranks": [
-            12,
-            20,
-            17
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -1130,7 +1208,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1175,7 +1253,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1304,7 +1382,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
@@ -1338,7 +1416,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1406,9 +1484,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "狂揽10亿美元！道达尔能源趁乱“做庄”原油，或创油市历史最大盈利",
+          "url": "https://flash.jin10.com/detail/20260330153921521800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "法国兴业银行：由于中东战事，布伦特原油4月份均价可能达到每桶125美元；布油触及150美元的可能性在上升。",
@@ -1417,7 +1506,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -1428,7 +1517,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
@@ -1500,11 +1589,12 @@
             20,
             22,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时05分 ~ 15时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 16时27分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -1516,11 +1606,12 @@
             21,
             19,
             16,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时05分 ~ 15时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时05分 ~ 16时27分]"
         }
       ]
     },
