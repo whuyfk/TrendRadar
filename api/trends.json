@@ -1,264 +1,121 @@
 {
-  "generated_at": "2026-03-31T23:42:59.053759+08:00",
-  "total_titles_processed": 2302,
+  "generated_at": "2026-04-01T00:19:40.004729+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
-          "url": "https://wallstreetcn.com/articles/3768769",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时18分 ~ 19时17分]"
-        },
-        {
-          "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
-          "url": "https://news.ifeng.com/c/8rvIfVFBMLi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时09分]"
-        },
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
           "url": "https://wallstreetcn.com/articles/3768825",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 23时42分]"
-        },
-        {
-          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
-          "url": "https://wallstreetcn.com/articles/3768804",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时20分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://www.cls.cn/detail/2329919",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时58分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[06时08分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            12,
-            11,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时58分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时58分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时58分 ~ 21时30分]"
-        },
-        {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            15,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时31分 ~ 23时42分]"
-        },
-        {
-          "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
-          "url": "https://www.cls.cn/detail/2329869",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时58分 ~ 16时19分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 05时13分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2329789",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时20分 ~ 15时29分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://www.cls.cn/detail/2330869",
           "source": "财联社热门",
           "ranks": [
-            11,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时12分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时12分 ~ 23时42分]"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
-          "url": "https://wallstreetcn.com/articles/3768819",
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            6,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 15时29分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时14分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 08时20分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美以伊战争丨美媒：特朗普称霍尔木兹被封仍愿停战",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
           "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普向英国和法国等提建议",
+          "url": "https://wallstreetcn.com/livenews/3080278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普考虑召集特别会议 解决国土安全部资金危机",
+          "url": "https://flash.jin10.com/detail/20260331235446821800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普：美盟友必须“介入和处理”霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3080277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "特朗普围伊“救”俄",
@@ -268,212 +125,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时16分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普称愿结束对伊朗军事行动",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普称愿结束对伊军事行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%84%BF%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "00时19分"
         },
         {
-          "title": "美以伊战争丨\"伊朗前领导人对特朗普撒谎，所以被杀\"",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
+          "source": "澎湃新闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "美以伊战争丨\"伊朗领导人对特朗普撒谎，所以被杀\"",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "民调显示 特朗普支持率降至33%",
-          "url": "https://flash.jin10.com/detail/20260331141021419800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "特朗普称暂不放弃施压伊朗开放霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260331211149865800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
-          "url": "https://wallstreetcn.com/livenews/3079510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时12分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://wallstreetcn.com/livenews/3079584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时13分 ~ 07时09分]"
-        },
-        {
-          "title": "美国白宫：特朗普希望国会开会以结束国土安全部的停摆。",
-          "url": "https://flash.jin10.com/detail/20260331015946804800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时21分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗问题）各国可前往海峡，自行夺取石油，自行学习如何作战。",
-          "url": "https://flash.jin10.com/detail/20260331191317455800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时12分]"
-        },
-        {
-          "title": "美防长：特朗普将在对伊军事行动结束后就北约的未来作出决定",
-          "url": "https://wallstreetcn.com/livenews/3080201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时29分]"
-        },
-        {
-          "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
-          "url": "https://flash.jin10.com/detail/20260331001406582800",
-          "source": "金十数据",
-          "ranks": [
-            3,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：美国正在主导军事行动以重新开放霍尔木兹海峡；特朗普目前的优先事项是伊朗的浓缩铀。",
-          "url": "https://flash.jin10.com/detail/20260331052900277800",
-          "source": "金十数据",
+          "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
+          "url": "https://v.ifeng.com/c/8rwqUhcgozK",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            26
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时09分 ~ 07时09分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗问题）各国应从美国购买石油。",
-          "url": "https://flash.jin10.com/detail/20260331191237799800",
+          "title": "据纽约邮报：美国总统特朗普补充道，也许我们会让议员们过复活节。",
+          "url": "https://flash.jin10.com/detail/20260331235111109800",
           "source": "金十数据",
           "ranks": [
-            3,
-            29
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时12分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "市场消息：美国总统特朗普敦促英国从美国购买喷气式飞机燃料。",
-          "url": "https://flash.jin10.com/detail/20260331191209849800",
-          "source": "金十数据",
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            30
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时12分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -483,646 +180,37 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
-          "url": "https://wallstreetcn.com/livenews/3079555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 06时09分]"
-        },
-        {
-          "title": "特朗普愿在霍尔木兹关闭状态下停战",
-          "url": "https://www.toutiao.com/trending/7623217627933969961/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时59分]"
-        },
-        {
-          "title": "无视特朗普警告 伊朗硬刚回应 科威特满载油轮遭袭令油价再现震荡！",
-          "url": "https://www.cls.cn/detail/2330032",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时21分 ~ 19时17分]"
-        },
-        {
-          "title": "白宫：特朗普希望4月6日前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/livenews/3079536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时10分]"
-        },
-        {
-          "title": "美国白宫：总统特朗普希望在4月6日截止日期之前达成协议。",
-          "url": "https://flash.jin10.com/detail/20260331014952767800",
+          "title": "据纽约邮报：美国总统特朗普考虑结束国会为期两周的休会。",
+          "url": "https://flash.jin10.com/detail/20260331234946976800",
           "source": "金十数据",
           "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时21分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren、白宫、Waters发函总统特朗普的财政部长贝森特，调查马斯克牵涉证券法的问题。 他们质疑马斯克干预企业透明法案。",
-          "url": "https://wallstreetcn.com/livenews/3079554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 05时13分]"
-        },
-        {
-          "title": "美国白宫：特朗普表示，伊朗最好的选择是达成协议。美国军队将始终在国际法的框架内行动。",
-          "url": "https://flash.jin10.com/detail/20260331014658422800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普说对伊朗袭击以色列炼油厂的回应“很快到来”",
-          "url": "https://flash.jin10.com/detail/20260330235332254800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "特朗普：对伊朗袭击以色列炼油厂的回应“很快到来”",
-          "url": "https://wallstreetcn.com/livenews/3079498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "特朗普再就停火威胁伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E5%B0%B1%E5%81%9C%E7%81%AB%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国佛罗里达州州长罗恩·德桑蒂斯签署立法，正式将棕榈滩机场更名为美国总统特朗普机场。",
-          "url": "https://flash.jin10.com/detail/20260331063310807800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "美抗议人群组成特朗普须下台巨型标语",
-          "url": "https://www.toutiao.com/trending/7622494680384815123/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "法国总统办公室：法国对特朗普批评法国不允许美国军机飞越法国领空一事表示“惊讶”。",
-          "url": "https://flash.jin10.com/detail/20260331232850440800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "白宫 ：向中东增派军队是为了给特朗普提供更多选择",
-          "url": "https://flash.jin10.com/detail/20260331021555394800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
-          "url": "https://v.ifeng.com/c/8rwqUhcgozK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "00时19分"
         },
         {
           "title": "美国总统特朗普宣称，对伊朗的战争不会持续“太久”。 其他国家可以让霍尔木兹海峡重新开放。 美国撤离后霍尔木兹海峡将自动开放。 拒绝透露副总统万斯与特使Witkoff是否前往巴基斯坦。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3080263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美国白宫：特朗普未排除对伊朗进行地面行动的可能性。",
-          "url": "https://flash.jin10.com/detail/20260331014441972800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-31）",
-          "url": "https://flash.jin10.com/detail/20260331181114188800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：他们（伊朗方面）曾试图两次刺杀特朗普……他们仍在试图刺杀他。",
-          "url": "https://flash.jin10.com/detail/20260331061623104800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
-          "url": "https://flash.jin10.com/detail/20260331020508015800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普：美国会记住法国“极不配合”对伊军事行动",
-          "url": "https://wallstreetcn.com/livenews/3080137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "特朗普：若达不成协议将“彻底摧毁伊朗所有发电厂、油井及哈尔克岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862935",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国白宫：特朗普有意呼吁阿拉伯国家帮助支付战争费用。",
-          "url": "https://flash.jin10.com/detail/20260331013931902800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "美军精锐空降部队杀入中东：特朗普权衡下一步，地面战选项浮出水面",
-          "url": "https://flash.jin10.com/detail/20260331073712354800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/livenews/3080133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "特朗普考虑“带着封锁停战”：霍尔木兹不重开也要结束战争？",
-          "url": "https://flash.jin10.com/detail/20260331092205369800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国总统特朗普：法国不允许装载军事物资的飞机经法国领空前往以色列。法国在“伊朗屠夫”问题上非常不合作，美国会铭记这一切！！！",
-          "url": "https://flash.jin10.com/detail/20260331192254545800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：特朗普账户是个“好主意”，我们将参与。 由于人工智能而出现了一些岗位流失，大部分已经重新安排。",
-          "url": "https://wallstreetcn.com/livenews/3080178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "特朗普再度威胁摧毁伊朗能源设施，伊朗将对霍尔木兹海峡收费，美油近四年来首次收于100美元上方！鲍威尔鸽派发言重燃降息预期.....后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260331103208946800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "特朗普称伊朗战争将很快结束 霍尔木兹海峡会“自动开放”",
-          "url": "https://flash.jin10.com/detail/20260331230902820800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "据纽约邮报：美国总统特朗普拒绝透露美国副总统万斯和美特使威特科夫是否前往巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260331230831323800",
-          "source": "金十数据",
-          "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "据纽约邮报：特朗普称美国撤离后霍尔木兹海峡将自动开放。",
-          "url": "https://flash.jin10.com/detail/20260331230725945800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美国国防部长海格塞斯谈霍尔木兹海峡：今天通过的船只比以往更多。 特朗普今天早上对霍尔木兹海峡问题的立场很明确。 各国需要准备好在霍尔木兹海峡问题上加强行动。",
-          "url": "https://wallstreetcn.com/livenews/3080169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "特朗普已12次暗示伊朗战争即将结束，市场被PUA麻了",
-          "url": "https://flash.jin10.com/detail/20260331122326655800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "特朗普：伊朗基本上已经被摧毁殆尽 去争取你们自己的石油吧",
-          "url": "https://flash.jin10.com/detail/20260331191522342800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "美国总统特朗普：美国在伊朗问题上还有更多工作要做。",
-          "url": "https://flash.jin10.com/detail/20260331230514497800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://wallstreetcn.com/livenews/3079682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "特朗普告诉盟国要么从美国买航空燃油，要么去霍尔木兹海峡“拿”",
-          "url": "https://wallstreetcn.com/livenews/3080121",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗基本上已经被摧毁。艰难的部分已经完成。去拿你们自己的石油吧！",
-          "url": "https://flash.jin10.com/detail/20260331191335588800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "美国总统特朗普：美国不必在伊朗停留太久了。",
-          "url": "https://flash.jin10.com/detail/20260331230500923800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "据纽约邮报：美国总统特朗普表示，其他国家也可以重新打开霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260331230332668800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗的战争不会持续“太久”。",
-          "url": "https://flash.jin10.com/detail/20260331230252779800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美国佛州：棕榈滩机场更名为特朗普机场",
-          "url": "https://wallstreetcn.com/livenews/3079735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "黄金王者归来重回4600美元，特朗普“海峡”计划按下暂停键",
-          "url": "https://flash.jin10.com/detail/20260331102541746800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "特朗普称美国尚未从霍尔木兹海峡撤出兵力。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3080160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 69,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时09分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时31分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            10,
-            11,
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时31分 ~ 23时42分]"
-        },
-        {
-          "title": "美股后续会怎么走",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            12,
-            10,
-            6,
-            14,
-            15,
-            27,
-            23,
-            25,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时58分 ~ 23时42分]"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
-          "url": "https://www.cls.cn/detail/2330580",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时21分 ~ 23时42分]"
-        },
-        {
-          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
-          "url": "https://www.cls.cn/detail/2330554",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时18分 ~ 23时42分]"
-        },
-        {
-          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时10分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时12分 ~ 21时30分]"
-        },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3768819",
@@ -1131,135 +219,41 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时42分]"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，金银油齐涨，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 19时17分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
-          "url": "https://flash.jin10.com/detail/20260331040226554800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时10分"
+          "time_info": "00时19分"
         },
         {
-          "title": "中国上证综指3月31日（周二）开盘上涨0.78点，涨幅：0.02%，报3924.07点；<br/>中国深证成指3月31日（周二）开盘下跌42.51点，跌幅：0.31%，报13683.68点；<br/>中国沪深300指数3月31日（周二）开盘下跌0.03点，跌幅：0%，报4491.92点；<br/>中国创业板指数3月31日（周二）开盘下跌26.08点，跌幅：0.8%，报3247.28点；<br/>中国科创50指数3月31日（周二）开盘下跌5.88点，跌幅：0.46%，报1283.9点。",
-          "url": "https://flash.jin10.com/detail/20260331092711390800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "恒生指数收盘涨0.15%，恒生科技指数跌0.86%",
-          "url": "https://wallstreetcn.com/livenews/3079982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "A股白酒板块盘初活跃，皇台酒业涨超5%，迎驾贡酒涨超4%，金种子酒、酒鬼酒、贵州茅台涨超3%。消息面上，时隔两年半贵州茅台再度涨价，53度飞天茅台销售合同价由1169元/瓶上调至1269元/瓶，自营体系零售价由1499元/瓶调整为1539元/瓶。",
-          "url": "https://flash.jin10.com/detail/20260331092645969800",
-          "source": "金十数据",
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "00时19分"
         },
         {
-          "title": "恒生指数主连夜盘收跌0.25%，报24683点。 恒生科技指数主连夜盘收跌0.62%，报4662点。",
-          "url": "https://wallstreetcn.com/livenews/3079543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时10分]"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝月内涨近10%",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时18分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
-          "url": "https://wallstreetcn.com/livenews/3079578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
+          "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
+          "url": "https://www.cls.cn/detail/2330554",
           "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时42分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "美股三大指数高开 爱奇艺涨超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%88%B1%E5%A5%87%E8%89%BA%E6%B6%A8%E8%B6%8512%25",
-          "source": "百度热搜",
+          "title": "【每日收评】创业板指震荡走低跌2.7%，锂电、算力等热门赛道熄火，高铁概念股逆势活跃",
+          "url": "https://www.cls.cn/detail/2330580",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            30
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时21分]"
-        },
-        {
-          "title": "A股3月收官 主要指数集体收跌",
-          "url": "https://www.toutiao.com/trending/7622943793746100265/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时21分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
@@ -1269,1498 +263,120 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 23时42分]"
-        },
-        {
-          "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
-          "url": "https://wallstreetcn.com/livenews/3079573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3079569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "A股3月收官！主要指数本月集体收跌",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A13%E6%9C%88%E6%94%B6%E5%AE%98%EF%BC%81%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B0%E6%9C%AC%E6%9C%88%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时21分]"
-        },
-        {
-          "title": "Coreweave(CRWV.O)美股盘前涨5.6%，此前该公司获得85亿美元贷款以扩展人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20260331210751541800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "00时19分"
         },
         {
-          "title": "A股电力股局部回暖，深南电A午后涨停，闽东电力此前封板，华电能源涨超8%，廊坊发展、华电辽能涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3079847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "Centessa Pharmaceuticals美股盘前涨超54%，报道称礼来（Lilly）将以每股38美元加CVR（或有价值权）收购Centessa Pharmaceuticals。",
-          "url": "https://wallstreetcn.com/livenews/3080106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝逼近3500美元关口",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "上证指数早盘收报3908.28点，跌0.38%。 深证成指早盘收报13526.96点，跌1.45%。 创业板指早盘收报3196.23点，跌2.36%。 沪深300早盘收报4465.98点，跌0.58%。 科创50早盘收报1268.05点，跌1.68%。 中证500早盘收报7651.92点，跌1.31%。 中证1000早盘收报7654.34点，跌1.46%。",
-          "url": "https://wallstreetcn.com/livenews/3079804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "Apellis美股盘前涨超142%，Biogen将以56亿美元收购制药公司Apellis",
-          "url": "https://wallstreetcn.com/livenews/3080105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "A股开盘，上证指数涨0.02%，深证成指跌0.31%，创业板指跌0.8%。白酒、PEEK材料板块涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260331092520415800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "上证指数开盘报3924.07点，涨0.02%。 深证成指开盘报13683.68点，跌0.31%。 创业板指开盘报3247.28点，跌0.80%。 沪深300开盘报4491.92点，跌0.00%。 科创50开盘报1283.90点，跌0.46%。 中证500开盘报7740.58点，跌0.17%。 中证1000开盘报7741.96点，跌0.33%。",
-          "url": "https://wallstreetcn.com/livenews/3079701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "3月31日午间收评：创业板指半日跌超2%，算力硬件股集体调整",
-          "url": "https://wallstreetcn.com/livenews/3079802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "A股收评：创业板指跌2.7% 轨交设备概念逆市上涨",
-          "url": "https://flash.jin10.com/detail/20260331150435221800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "恒生科技指数午后跌幅扩大至1%。",
-          "url": "https://wallstreetcn.com/livenews/3079841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "A股银行板块震荡走强，中国银行、华夏银行涨超3%，农业银行、青岛银行、建设银行跟涨。",
-          "url": "https://flash.jin10.com/detail/20260331103608404800",
-          "source": "金十数据",
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "恒生科技指数跌超1%，此前涨1%。",
-          "url": "https://flash.jin10.com/detail/20260331130056525800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "恒指高开0.27%，报24818.20点；恒生科技指数涨0.08%。美的涨超4%，舜宇光学科技、蔚来涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3079698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "恒生指数转跌，恒生科技指数跌0.12%。",
-          "url": "https://flash.jin10.com/detail/20260331103505749800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "A股午评：创业板指跌2.36% 商业航天概念活跃",
-          "url": "https://flash.jin10.com/detail/20260331113440492800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "创业板指跌超2%，沪指跌0.2%。煤炭、油气、农业、化工、半导体等方向跌幅居前，个股跌多涨少，沪深京三市下跌个股超3500只。",
-          "url": "https://wallstreetcn.com/livenews/3079794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3080182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "美股涨幅扩大，纳指涨超2%，标普500指数涨1.6%，道指涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3080226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "长线资金最新重仓股曝光，机构认为A股市场调整就是机会",
-          "url": "https://wallstreetcn.com/livenews/3079602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "中国上证综指3月31日（周二）收盘下跌31.43点，跌幅：0.8%，报3891.86点；<br/>中国深证成指3月31日（周二）收盘下跌248.13点，跌幅：1.81%，报13478.06点；<br/>中国沪深300指数3月31日（周二）收盘下跌41.9点，跌幅：0.93%，报4450.05点；<br/>中国创业板指数3月31日（周二）收盘下跌88.4点，跌幅：2.7%，报3184.95点；<br/>中国科创50指数3月31日（周二）收盘下跌33.45点，跌幅：2.59%，报1256.33点。",
-          "url": "https://flash.jin10.com/detail/20260331150205343800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "A股再融资春潮涌动，“扶优、扶科”激活上市公司创新动能",
-          "url": "https://wallstreetcn.com/livenews/3079600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "央企引领A股公司逾7000亿元派现，“硬科技”板块高分红亮眼",
-          "url": "https://wallstreetcn.com/livenews/3079599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "A股收盘：创业板指低开低走跌2.7%，高铁轨交、摩托车概念逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3079926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "香港恒生指数3月31日（周二）开盘上涨67.41点，涨幅0.27%，报24818.2点；<br/>香港恒生科技指数3月31日（周二）开盘上涨3.53点，涨幅0.08%，报4693.61点；<br/>国企指数3月31日（周二）开盘上涨12.24点，涨幅0.15%，报8411.36点；<br/>红筹指数3月31日（周二）开盘上涨2.02点，涨幅0.05%，报4148.6点。",
-          "url": "https://flash.jin10.com/detail/20260331092114223800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "京东方A：拟回购5亿-10亿元A股股份 拟回购5亿-10亿元港币B股股份",
-          "url": "https://flash.jin10.com/detail/20260331210059730800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "港股开盘，恒指开涨0.27%，科指开涨0.08%。美的集团(00300.HK)涨超4%，小马智行-W(02026.HK)跌约7%。",
-          "url": "https://flash.jin10.com/detail/20260331092111078800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股高开高走，纳指涨幅达2%，标普500指数涨1.6%，道指涨1.4%。",
-          "url": "https://flash.jin10.com/detail/20260331215430433800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "沪指冲高回落翻绿，创业板指跌超1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3079782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260331032001591800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "超千家A股公司年报“交卷”，新兴产业释放增长新动能",
-          "url": "https://wallstreetcn.com/livenews/3079594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "A股机器人概念股探底回升，通力科技、襄阳轴承双双涨停，南方精工、长盛轴承、中大力德等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3079861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260331031910310800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF普涨，半导体ETF涨超2%，生物科技指数ETF涨近2%，可选消费ETF涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3080214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "欧美股市短线走高，道指期货涨1%，欧洲斯托克600指数涨1%",
-          "url": "https://wallstreetcn.com/livenews/3080124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "中科宇航科创板IPO获受理 拟募资41.8亿元",
-          "url": "https://wallstreetcn.com/livenews/3080204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "美股盘初：纳指涨1.3%，道指涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3080212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040539391800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "金十图示：2026年03月30日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260331040537263800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "二季度A股市场有哪些投资机会",
-          "url": "https://www.toutiao.com/trending/7623321159823527433/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "美股期货转涨，油价短线走低，报道称特朗普愿在霍尔木兹海峡不重开情况下结束战争",
-          "url": "https://wallstreetcn.com/livenews/3079679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "恒生科技指数盘中转跌，稍早一度涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3079734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "创业板指跌超2%，深成指跌1.2%，沪指跌0.2%。磷化工、化肥、煤炭板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260331111518431800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3079624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 37,
+      "match_count": 4,
       "titles": [
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时09分 ~ 23时42分]"
-        },
-        {
-          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
-          "url": "https://wallstreetcn.com/articles/3768816",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时19分 ~ 22时29分]"
-        },
-        {
-          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 06时09分]"
-        },
-        {
-          "title": "美国至3月31日6周国债竞拍-得标利率配置百分比 4.03%，前值4.89%。",
-          "url": "https://flash.jin10.com/detail/20260331233315250800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美国至3月31日6周国债竞拍-得标利率 3.645%，前值3.64%。",
-          "url": "https://flash.jin10.com/detail/20260331233306318800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "30年期日本国债收益率日内下跌10个基点，至3.690%。",
-          "url": "https://flash.jin10.com/detail/20260331131100130800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国至3月31日6周国债竞拍-投标倍数 2.89，前值2.98。",
-          "url": "https://flash.jin10.com/detail/20260331233255384800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "日本40年期国债收益率下跌12个基点，至3.91%。",
-          "url": "https://wallstreetcn.com/livenews/3079887",
+          "title": "英国两年期国债收益率3月份累涨约86个基点，一季度累涨约68个基点",
+          "url": "https://wallstreetcn.com/livenews/3080283",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "00时19分"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "法国两年期国债收益率3月份涨约70个基点",
+          "url": "https://wallstreetcn.com/livenews/3080281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.645%，投标倍数2.89。",
           "url": "https://wallstreetcn.com/livenews/3080272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "日本拍卖两年期国债，认购倍数3.54，过去12个月均值3.59。",
-          "url": "https://wallstreetcn.com/livenews/3079810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "二季度国债发行有关安排公布，机构认为二季度发行有望放量",
-          "url": "https://flash.jin10.com/detail/20260331181513033800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.03%，5年期主力合约涨0.01%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3079707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "短端美债收益率跌超9个基点",
-          "url": "https://wallstreetcn.com/livenews/3079558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 06时09分]"
-        },
-        {
-          "title": "摩根士丹利： 将全球股票评级从超配下调至标配，并将美国国债和现金评级从标配上调至超配。石油供应中断的规模和持续时间存在不确定性，这意味着风险资产的走势已变得越来越不对称。",
-          "url": "https://flash.jin10.com/detail/20260331045023142800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.620%，投标倍数2.66。 拍卖六个月期国债，得标利率3.605%，投标倍数2.83。",
-          "url": "https://wallstreetcn.com/livenews/3079491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "日本30年期国债收益率下行10个基点至3.69%。",
-          "url": "https://wallstreetcn.com/livenews/3079845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3079651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "消息人士称，在韩国政府债券被纳入世界政府债券指数之前，日本投资者购入韩国国债。",
-          "url": "https://flash.jin10.com/detail/20260331103621888800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "日本2年期国债标售投标倍数为3.54，上一次标售为3.32。",
-          "url": "https://flash.jin10.com/detail/20260331113608374800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.11%，10年期主力合约涨0.06%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3079799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.15%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3079938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "自伊朗冲突爆发以来 全球央行已抛售815亿美元的美债",
-          "url": "https://wallstreetcn.com/livenews/3079971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "10年期日本国债收益率下跌1.5个基点，至2.340%。",
-          "url": "https://flash.jin10.com/detail/20260331113506342800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "伊朗冲突扰乱交易叙事 美债投资者在通胀担忧与经济放缓风险之间摇摆",
-          "url": "https://wallstreetcn.com/livenews/3079934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
-        },
-        {
-          "title": "中国央行：2026年2月末，境外机构在中国债券市场的托管余额为3.4万亿元",
-          "url": "https://wallstreetcn.com/livenews/3080093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "韩国财政部官员：日本政府养老金投资基金正买入韩国国债。",
-          "url": "https://flash.jin10.com/detail/20260331124825327800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "美国至3月30日6个月国债竞拍-投标倍数 2.83，前值3.03。",
-          "url": "https://flash.jin10.com/detail/20260330233204139801",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260331113153933800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "日本30年期国债收益率下行8个基点至3.71%。 日本40年期国债收益率下行8个基点至3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3079691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国至3月30日6个月国债竞拍-得标利率配置百分比 20.82%，前值1.37%。",
-          "url": "https://flash.jin10.com/detail/20260330233204139800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国至3月30日6个月国债竞拍-得标利率 3.605%，前值3.63%。",
-          "url": "https://flash.jin10.com/detail/20260330233204112800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国至3月30日3个月国债竞拍-投标倍数 2.66，前值2.84。",
-          "url": "https://flash.jin10.com/detail/20260330233204035800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国至3月30日3个月国债竞拍-得标利率配置百分比 56.71%，前值58.27%。",
-          "url": "https://flash.jin10.com/detail/20260330233203953800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "美国至3月30日3个月国债竞拍-得标利率 3.62%，前值3.64%。",
-          "url": "https://flash.jin10.com/detail/20260330233203928800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "日本两年期国债收益率下跌1.0个基点，至1.345%。",
-          "url": "https://flash.jin10.com/detail/20260331122058238800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "40年期日本国债收益率下滑8.0个基点，至3.950%。",
-          "url": "https://flash.jin10.com/detail/20260331091713390800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日债高收益率吸引投资者入场 两年期国债拍卖平稳度过加息疑云",
-          "url": "https://flash.jin10.com/detail/20260331121858423800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "WTI原油自2022年以来首次收于每桶100美元上方",
-          "url": "https://flash.jin10.com/detail/20260331025749306800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "WTI 5月原油期货收涨3.24美元，涨幅3.25%，报102.88美元/桶，为2022年7月份以来首次收于100美元整数位心理关口上方。 NYMEX 4月天然气期货收报2.8870美元/百万英热单位。 NYMEX 4月汽油期货收报3.3515美元/加仑，NYMEX 3月取暖油期货收报4.3643美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3079542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "WTI原油日内大涨3.00%，现报104.56美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260331040121536800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "伊朗议会批准法案，在霍尔木兹海峡收费。 目前，布伦特原油期货维持2.3%的涨幅，持稳于107.70美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3079534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时10分]"
-        },
-        {
-          "title": "WTI原油期货涨3.9%，刷新日高至103美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3079507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时14分]"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收跌0.41%，报759.90元人民币/桶。 沪金夜盘收涨0.60%，沪银收涨0.86%。",
-          "url": "https://wallstreetcn.com/livenews/3079541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时10分]"
-        },
-        {
-          "title": "WTI原油期货涨4.00%，现报103.68美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260331000822503800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "大摩：原油市场进入实质断供阶段",
-          "url": "https://www.toutiao.com/trending/7623334833267150372/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时18分 ~ 20时12分]"
-        },
-        {
-          "title": "WTI原油日内大涨4.00%，现报105.58美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260331043449385800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达5.0%，报104.64美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3079567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "WTI 原油逼近 100 美元，美国钻井商却反其道而行之削减钻机数量，这背后是出于哪些考量？",
-          "url": "https://www.zhihu.com/question/2021154400396218975",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "布伦特原油期货涨2%，站上109美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3079653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "据韩联社：韩国将与本地炼油企业启动原油互换业务。",
-          "url": "https://flash.jin10.com/detail/20260331103650872800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "美国原油期货自2022年以来首次收于100美元整数位关口上方，布油有望创历史最大单月涨幅",
-          "url": "https://wallstreetcn.com/livenews/3079542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "中信证券首席经济学家明明：原油等商品的输入性通胀对我国物价管理也有一定挑战",
-          "url": "https://wallstreetcn.com/livenews/3080221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "科威特石油公司：油轮遭到袭击后未报告发生原油泄漏。",
-          "url": "https://flash.jin10.com/detail/20260331180645403800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，液化石油气（LPG）跌近8%，集运欧线、低硫燃料油（LU）、碳酸锂跌超6%，聚氯乙烯（PVC）、塑料跌超5%，聚丙烯（PP）、甲醇、焦煤、丙烯、乙二醇（EG）、PX、PTA、燃油跌超4%，SC原油、氧化铝跌超3%。涨幅方面，沪银涨近4%，沪金涨近2%，沪铝、豆一涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260331113135410800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "WTI原油突破105美元/桶，日内涨3.44%。",
-          "url": "https://flash.jin10.com/detail/20260331040938302800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "现货金银周二小幅高开，WTI原油小幅低开。",
-          "url": "https://flash.jin10.com/detail/20260331060040809800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "据路透报价，布伦特原油期货日内上涨近6美元，升至118美元/桶上方。",
-          "url": "https://flash.jin10.com/detail/20260331215321911800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "原油LOF易方达：将于2026年4月1日开市起至当日10:30停牌，自2026年4月1日10:30复牌，停牌期间赎回业务照常办理。",
-          "url": "https://wallstreetcn.com/livenews/3080039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "韩元兑美元跌至2009年3月10日以来的最低水平。 韩国首尔综合指数跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3079660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "美元指数涨0.4%，日元自160下方反弹",
-          "url": "https://wallstreetcn.com/livenews/3079557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时10分 ~ 06时09分]"
-        },
-        {
-          "title": "周一（3月30日），存储芯片与硬件供应链指数跌6.94%，报96.83点，小幅高开之后迅速转跌，日内绝大部分时间平缓地持续扩大跌幅。 成分股全线收跌，Rambus收跌11.14%，美光科技跌9.92%，西部数据跌8.60%，Sandisk跌7.04%，泰瑞达、拉姆研究、希捷科技、应用材料跌6.52%-4.17%。 北美科技软件股指数ETF涨0.95%，报77.62美元。 信息科技指数跌3.75%，报244.90点。 人工智能（AI）赢家指数跌3.93%，报259.19点。 AI软件先驱指数涨1.02%，报91.46点。",
-          "url": "https://wallstreetcn.com/livenews/3079581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时09分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.11%，暂报2441.68点。 MarketVectorTM数字资产100中盘指数涨2.33%，报2786.56点。 MarketVector数字资产100指数涨2.18%，报13671.07点。 目前，Solana涨3.63%，狗狗币涨2.76%，XRP涨2.25%。 比特币涨2.06%，暂报67699美元；以太坊涨4.17%，暂报2078美元。",
-          "url": "https://wallstreetcn.com/livenews/3079502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时14分]"
-        },
-        {
-          "title": "彭博美元指数涨幅扩大，创11月26日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3079484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时17分]"
-        },
-        {
-          "title": "美国经济数据公布后，现货黄金站上4620美元/盎司，日内涨2.42%。现货白银日内涨幅扩大至逾5%，现报73.7美元/盎司。美元指数DXY一度跌破100关口。",
-          "url": "https://flash.jin10.com/detail/20260331220404147800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "根据斯坦福大学经济政策研究所Ryan Cummings和Neale Mahoney的研究，即使考虑了其他经济影响，每当油价上涨1美元，美国密歇根大学消费者信心指数就会下降4.5个点或更多。该研究所的首席Cummings表示：“这大致意味着，汽油价格每上涨1美元，民众对经济状况的感受就会恶化5%。”Cummings曾于2021-23年担任拜登政府经济顾问委员会的专职经济学家，负责汽油政策相关工作。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3080262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美元指数DXY短线走低十余点，现报100.4。",
-          "url": "https://flash.jin10.com/detail/20260331192634316800",
-          "source": "金十数据",
-          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "标普500指数期货涨幅扩大至0.5%，美元指数回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3079680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20260331040302686800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek被做成清明节纸扎",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E5%81%9A%E6%88%90%E6%B8%85%E6%98%8E%E8%8A%82%E7%BA%B8%E6%89%8E",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            1,
-            24,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时18分 ~ 22时29分]"
-        },
-        {
-          "title": "DeepSeek崩溃10多小时为何是“好事”",
-          "url": "https://www.toutiao.com/trending/7622965821714730505/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "DeepSeek为何宕机7小时",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E5%AE%95%E6%9C%BA7%E5%B0%8F%E6%97%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时18分]"
-        },
-        {
-          "title": "DeepSeek服务中断一小时后恢复",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%81%A2%E5%A4%8D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时30分]"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时18分]"
-        },
-        {
-          "title": "DeepSeek连续三天发生服务异常，最长宕机超10小时",
-          "url": "https://flash.jin10.com/detail/20260331191726516800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时12分"
-        },
-        {
-          "title": "DeepSeek服务中断一小时后恢复",
-          "url": "https://wallstreetcn.com/livenews/3080079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            15,
-            18,
-            22,
-            24,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
         {
           "title": "苹果、微软、谷歌等回吐涨幅，伊朗对18家美国科技公司发出打击警告",
           "url": "https://wallstreetcn.com/livenews/3080254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "伊朗称将打击中东地区与美高科技公司有关的企业，包括惠普、苹果、谷歌、特斯拉、微软等公司",
-          "url": "https://wallstreetcn.com/livenews/3080253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "00时19分"
         }
       ]
     },
     {
-      "keyword_group": "金价 银价",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年03月31日（周二）上海金早盘价为1022.78元/克，较国际金价(1018.75元/克)，高4.03元/克",
-          "url": "https://flash.jin10.com/detail/20260331103946774800",
-          "source": "金十数据",
+          "title": "根据斯坦福大学经济政策研究所Ryan Cummings和Neale Mahoney的研究，即使考虑了其他经济影响，每当油价上涨1美元，美国密歇根大学消费者信心指数就会下降4.5个点或更多。该研究所的首席Cummings表示：“这大致意味着，汽油价格每上涨1美元，民众对经济状况的感受就会恶化5%。”Cummings曾于2021-23年担任拜登政府经济顾问委员会的专职经济学家，负责汽油政策相关工作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3080262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时59分"
-        },
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "金价下跌刚需客户下手了",
-          "url": "https://www.toutiao.com/trending/7621876876252217380/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 08时20分]"
-        },
-        {
-          "title": "金十图示：2026年03月31日（周二）上海金午盘价为1016.94元/克，较国际金价(1012.97元/克)，高3.97元/克",
-          "url": "https://flash.jin10.com/detail/20260331150230772800",
+          "title": "法兴银行：预计4月布伦特原油均价为125美元/桶",
+          "url": "https://flash.jin10.com/detail/20260331235013924800",
           "source": "金十数据",
           "ranks": [
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时29分"
+          "time_info": "00时19分"
         }
       ]
     }
