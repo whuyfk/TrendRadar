@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:09:39.290804+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-03-31T08:20:42.599015+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普威胁：若不达成协议，就摧毁伊朗发电厂、油井和哈尔克岛",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时20分]"
         },
         {
           "title": "美以伊战争丨特朗普给伊朗“划红线”",
@@ -54,6 +55,17 @@
           "time_info": "[01时17分 ~ 02时14分]"
         },
         {
+          "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时20分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：与伊朗谈判已取得重大进展",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
         },
         {
           "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
@@ -101,6 +102,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时13分 ~ 07时09分]"
+        },
+        {
+          "title": "特朗普给伊朗“划红线”",
+          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时08分 ~ 08时20分]"
         },
         {
           "title": "美国白宫：特朗普希望国会开会以结束国土安全部的停摆。",
@@ -137,17 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时09分]"
-        },
-        {
-          "title": "特朗普给伊朗“划红线”",
-          "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时08分 ~ 07时09分]"
         },
         {
           "title": "3月30日，美国总统特朗普暗示，伊朗战争可能很快结束。 据不完全统计，自从美国和以色列在2月底发动伊朗战争以来，这是特朗普第12次暗示伊朗战争即将结束。",
@@ -235,13 +237,24 @@
           "time_info": "[00时18分 ~ 01时17分]"
         },
         {
+          "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
+          "url": "https://wallstreetcn.com/articles/3768804",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
           "title": "美国佛罗里达州州长罗恩·德桑蒂斯签署立法，正式将棕榈滩机场更名为美国总统特朗普机场。",
           "url": "https://flash.jin10.com/detail/20260331063310807800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -268,6 +281,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单 WTI原油结算价突破每桶100美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2329789",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
           "title": "美国白宫：特朗普未排除对伊朗进行地面行动的可能性。",
           "url": "https://flash.jin10.com/detail/20260331014441972800",
           "source": "金十数据",
@@ -285,7 +309,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -321,12 +345,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美军精锐空降部队杀入中东：特朗普权衡下一步，地面战选项浮出水面",
+          "url": "https://flash.jin10.com/detail/20260331073712354800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -337,8 +372,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时20分]"
         },
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
@@ -350,8 +385,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时20分]"
         },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
@@ -365,6 +400,18 @@
           "time_info": "[00时18分 ~ 04时10分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
+          "url": "https://www.cls.cn/detail/2329769",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时20分]"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 美光大跌近10%",
           "url": "https://flash.jin10.com/detail/20260331040226554800",
           "source": "金十数据",
@@ -374,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.25%，报24683点。 恒生科技指数主连夜盘收跌0.62%，报4662点。",
@@ -453,7 +489,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -464,7 +500,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -475,7 +511,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -497,7 +533,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         },
@@ -533,12 +569,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3079624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "WTI原油自2022年以来首次收于每桶100美元上方",
@@ -660,6 +707,17 @@
           "time_info": "[00时18分 ~ 01时17分]"
         },
         {
+          "title": "布伦特原油期货涨2%，站上109美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3079653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
           "title": "美国原油期货自2022年以来首次收于100美元整数位关口上方，布油有望创历史最大单月涨幅",
           "url": "https://wallstreetcn.com/livenews/3079542",
           "source": "华尔街见闻-快讯",
@@ -688,7 +746,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
         }
@@ -696,7 +754,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -714,11 +772,12 @@
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 08时20分]"
         },
         {
           "title": "短端美债收益率跌超9个基点",
@@ -756,6 +815,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时17分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3079651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
         },
         {
           "title": "美国至3月30日6个月国债竞拍-投标倍数 2.83，前值3.03。",
@@ -827,8 +897,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "韩元兑美元跌至2009年3月10日以来的最低水平。 韩国首尔综合指数跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3079660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
         {
           "title": "美元指数涨0.4%，日元自160下方反弹",
           "url": "https://wallstreetcn.com/livenews/3079557",
@@ -907,8 +988,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 08时20分]"
         }
       ]
     },
@@ -930,8 +1011,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时20分]"
         }
       ]
     },
@@ -945,11 +1026,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 07时09分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 08时20分]"
         }
       ]
     }
