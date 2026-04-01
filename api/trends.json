@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T22:30:10.454427+08:00",
-  "total_titles_processed": 2241,
+  "generated_at": "2026-04-01T23:26:34.824198+08:00",
+  "total_titles_processed": 2344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 116,
+      "match_count": 122,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时07分 ~ 22时30分]"
+          "appearance_count": 18,
+          "time_info": "[07时07分 ~ 23时26分]"
         },
         {
           "title": "马克龙访日暗讽特朗普",
@@ -64,8 +64,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 22时30分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 23时26分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -133,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时59分 ~ 22时30分]"
+          "appearance_count": 15,
+          "time_info": "[10时59分 ~ 23时26分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -209,11 +209,12 @@
             27,
             29,
             28,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时19分 ~ 22时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 23时26分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -239,8 +240,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时23分 ~ 22时30分]"
+          "appearance_count": 9,
+          "time_info": "[17时23分 ~ 23时26分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "特朗普希望4月6日前与伊朗签协议",
@@ -275,17 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时09分 ~ 09时32分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
         },
         {
           "title": "美以伊战争丨特朗普：将在两到三周内结束伊朗战事",
@@ -332,15 +333,17 @@
           "time_info": "17时23分"
         },
         {
-          "title": "德国回应特朗普“退约”威胁 称将继续支持北约",
-          "url": "https://wallstreetcn.com/livenews/3080973",
-          "source": "华尔街见闻-快讯",
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            19,
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时12分 ~ 23时26分]"
         },
         {
           "title": "战争烂尾 特朗普要跑了",
@@ -435,19 +438,6 @@
           "time_info": "06时09分"
         },
         {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时12分 ~ 22时30分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗政权更迭并不是这次行动的目标。",
           "url": "https://flash.jin10.com/detail/20260401055805584800",
           "source": "金十数据",
@@ -470,6 +460,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 07时07分]"
+        },
+        {
+          "title": "德国回应特朗普“退约”威胁 称将继续支持北约",
+          "url": "https://wallstreetcn.com/livenews/3080973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 23时26分]"
         },
         {
           "title": "法国对特朗普指责“不配合”表“惊讶”",
@@ -543,6 +545,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 14时31分]"
+        },
+        {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
+          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
         },
         {
           "title": "特朗普被曝希望快速结束战争",
@@ -649,28 +674,6 @@
           "time_info": "[22时29分 ~ 22时30分]"
         },
         {
-          "title": "特朗普称伊朗新政权总统请求停火",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
-        },
-        {
-          "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869629",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
-        },
-        {
           "title": "白宫称特朗普将就伊朗问题发表讲话",
           "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D",
           "source": "bilibili 热搜",
@@ -710,7 +713,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -765,9 +768,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
+        },
+        {
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/articles/3769012",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "特朗普考虑召集特别会议 解决国土安全部资金危机",
@@ -801,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "特朗普成为美国历史首位出席最高法院庭审的在任总统",
+          "url": "https://wallstreetcn.com/livenews/3080993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普：我们将对停止建设白宫宴会厅的决定提起上诉。",
@@ -858,6 +883,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "特朗普称美军将很快撤出伊朗战事",
+          "url": "https://www.toutiao.com/trending/7622967334319521811/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "据纽约邮报：美国总统特朗普补充道，也许我们会让议员们过复活节。",
           "url": "https://flash.jin10.com/detail/20260331235111109800",
           "source": "金十数据",
@@ -867,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "【伊朗称特朗普社媒声明纯属子虚乌有】据伊朗国家电视台今天（4月1日）报道，伊朗外交部发言人巴加埃表示，美国总统特朗普稍早前在社交媒体发布所谓“伊朗新政权总统请求停火”的声明，纯属子虚乌有的假消息。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3080990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普：认为没有人能够从法律上挑战关于邮寄投票的行政命令。",
@@ -919,7 +966,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1073,7 +1120,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1150,7 +1197,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1175,6 +1222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "消息人士：美副总统称特朗普已失去耐心",
+          "url": "https://flash.jin10.com/detail/20260401224403260800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普：将于周三就出生地公民权案件上诉至最高法院。",
@@ -1263,6 +1321,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
+        },
+        {
+          "title": "美国参议员Warren抨击特朗普政府施压欧盟放宽技术监管",
+          "url": "https://wallstreetcn.com/livenews/3080977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普：伊朗既不会拥有核武器，也不想要核武器。不在乎核材料问题；将通过卫星进行监控。",
@@ -1355,8 +1424,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时09分 ~ 22时30分]"
+          "appearance_count": 17,
+          "time_info": "[08时09分 ~ 23时26分]"
         },
         {
           "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
@@ -1380,8 +1449,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时07分 ~ 22时30分]"
+          "appearance_count": 18,
+          "time_info": "[07时07分 ~ 23时26分]"
         },
         {
           "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
@@ -1486,6 +1555,20 @@
           "time_info": "[00时19分 ~ 02时14分]"
         },
         {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时26分]"
+        },
+        {
           "title": "美股后续会怎么走",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
           "source": "bilibili 热搜",
@@ -1530,20 +1613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时30分]"
         },
         {
           "title": "A股算力硬件概念午后走强，智立方20cm涨停，永鼎股份、天孚通信均涨超9%，长光华芯、德科立、源杰科技跟涨。",
@@ -1711,6 +1780,30 @@
           "time_info": "[13时39分 ~ 14时31分]"
         },
         {
+          "title": "美股三大指数高开 耐克跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
+          "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
+          "url": "https://www.cls.cn/detail/2332482",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时29分 ~ 23时26分]"
+        },
+        {
           "title": "港股汽车股午后走强，蔚来、岚图汽车涨超10%，零跑汽车涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3080631",
           "source": "华尔街见闻-快讯",
@@ -1723,17 +1816,6 @@
           "time_info": "[13时39分 ~ 14时31分]"
         },
         {
-          "title": "美股三大指数高开 耐克跌超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
-        },
-        {
           "title": "A股高铁轨交板块持续调整，交大铁发跌超9%，通业科技、日月明、金鹰重工、中铁工业、雷尔伟跌逾5%。",
           "url": "https://wallstreetcn.com/livenews/3080627",
           "source": "华尔街见闻-快讯",
@@ -1744,17 +1826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 14时31分]"
-        },
-        {
-          "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
-          "url": "https://www.cls.cn/detail/2332482",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时29分 ~ 22时30分]"
         },
         {
           "title": "A股存储芯片概念开盘大涨，德明利一字涨停，佰维存储、朗科科技、江波龙、香农芯创普冉股份、兆易创新等涨超5%。",
@@ -1906,7 +1977,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1928,7 +1999,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -2049,7 +2120,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -2134,7 +2205,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 35,
+      "match_count": 44,
       "titles": [
         {
           "title": "WTI原油失守100美元/桶，日内跌超1%。",
@@ -2187,7 +2258,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -2408,6 +2479,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加545万桶，彭博用户预计增长230万桶、分析师预期增加125.70万桶，之前一周增加692.6万桶。 此前，美国石油协会（API）披露的行业数据显示，美国上周API原油库存激增1026.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3080986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "法兴银行：预计4月布伦特原油均价为125美元/桶",
           "url": "https://flash.jin10.com/detail/20260331235013924800",
           "source": "金十数据",
@@ -2463,6 +2545,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美国3月27日当周EIA库欣地区原油库存变动 52万桶，前值 342.1万桶。",
+          "url": "https://wallstreetcn.com/livenews/3080983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "国际能源署署长：由于中东危机，迄今已有超过1200万桶/日的石油供应损失。 这场危机比1970年代两次石油危机和2022年俄罗斯天然气供应中断加起来还要严重。 预计4月份的石油损失将是3月份的两倍。 最大的问题是航空燃油和柴油短缺，已经影响亚洲，并将在4月至5月影响欧洲。 正在考虑进一步释放战略储备，“如果我们认为原油或成品油有需求，我们可能会进行干预”。 中东地区约有40个关键能源资产已遭损毁。",
           "url": "https://wallstreetcn.com/livenews/3080805",
           "source": "华尔街见闻-快讯",
@@ -2474,6 +2567,61 @@
           "time_info": "18时19分"
         },
         {
+          "title": "美国3月27日当周EIA原油库存变动 545.1万桶，预期 200万桶，前值 692.6万桶。",
+          "url": "https://wallstreetcn.com/livenews/3080981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国能源信息署：上周美国墨西哥湾沿岸原油库存升至2023年3月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260401223758632800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "尽管美国原油库存增幅超出预期，美、布两油仍小幅收窄跌幅。",
+          "url": "https://flash.jin10.com/detail/20260401223750572800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "美国能源信息署：上周库欣地区原油库存升至2024年7月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260401223642352800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3080978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
           "title": "早盘收盘，国内期货主力合约涨跌不一，沪银涨近4%，沪金、橡胶、合成橡胶涨超2%，钯涨近2%。跌幅方面，集运欧线跌超8%，SC原油跌超7%，燃油跌超4%，焦煤跌超3%，多晶硅、碳酸锂跌近3%。",
           "url": "https://flash.jin10.com/detail/20260401113119596800",
           "source": "金十数据",
@@ -2483,6 +2631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "美国能源信息署：不包括战略石油储备（SPR）在内的美国原油库存上周升至2023年6月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260401223508403800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "布伦特原油失守100美元/桶",
@@ -2527,6 +2686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时12分"
+        },
+        {
+          "title": "美国至3月27日当周EIA战略石油储备库存降幅录得2023年7月7日当周以来最大，除却战略储备的商业原油库存为2023年6月16日当周以来最高。",
+          "url": "https://flash.jin10.com/detail/20260401223141528800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     },
@@ -2557,8 +2727,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 22时30分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 23时26分]"
         },
         {
           "title": "德国10年期国债收益率在早盘交易中下跌6个基点，至2.947%。意大利10年期国债收益率下跌10个基点，至3.81%。",
@@ -2600,7 +2770,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -2858,7 +3028,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "创纪录！OpenAI完成1220亿美元融资 投后估值达8520亿美元",
@@ -2900,6 +3070,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时29分 ~ 20时12分]"
+        },
+        {
+          "title": "OpenAI二级市场失宠 投资者蜂拥转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260401225643648800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
