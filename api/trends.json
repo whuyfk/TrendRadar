@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-13T07:08:48.766960+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-04-13T08:10:16.688537+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
-        },
         {
           "title": "特朗普：美国将摧毁霍尔木兹海峡的水雷",
           "url": "https://news.ifeng.com/c/8sGqabTjm0c",
@@ -26,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
+        },
+        {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "特朗普：美军将封锁任何试图进出霍尔木兹海峡的船只",
@@ -39,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "特朗普：除核问题外谈判进展顺利 美将封锁霍尔木兹海峡",
@@ -51,11 +52,12 @@
             8,
             7,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -63,11 +65,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "伊朗战争丨特朗普威胁：将把伊朗的残余力量终结",
@@ -117,7 +120,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -201,6 +204,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时09分 ~ 04时07分]"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "特朗普称美国不允许伊朗通过出售石油赚钱",
@@ -293,7 +307,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -304,7 +318,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -318,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "谈判刚崩，枪炮跟上？特朗普被曝考虑“有限打击伊朗”",
+          "url": "https://flash.jin10.com/detail/20260413072436436800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "美国总统特朗普：战争爆发之后，股市实际上没跌多少。",
@@ -444,7 +469,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -453,11 +478,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -467,8 +493,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -480,8 +506,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "创业板ETF迎双重利好",
@@ -495,24 +521,47 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
+          "title": "震荡反复后A股有望再起攻势，投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2341569",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时08分 ~ 08时10分]"
+        },
+        {
+          "title": "【早报】伊美谈判未取得共识；创业板改革新规出炉",
+          "url": "https://www.cls.cn/detail/2341695",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "A股交易将迎重要调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E5%B0%86%E8%BF%8E%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
           "title": "A股景气度投资或回归主线",
           "url": "https://wallstreetcn.com/livenews/3086501",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "震荡反复后A股有望再起攻势，投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2341569",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -523,7 +572,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -534,15 +583,120 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "今年以来A股IPO显著回暖",
+          "url": "https://wallstreetcn.com/livenews/3086518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国10年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3086537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "日本5年期国债收益率上行4个基点至1.900%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3086535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "日本五年期国债收益率上升4.0个基点，至1.900%。",
+          "url": "https://flash.jin10.com/detail/20260413080037905800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "线上拼手速、线下可“捡漏”，新一轮储蓄国债认购再现火爆场面",
+          "url": "https://wallstreetcn.com/livenews/3086503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3086531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "日本10年期国债收益率上行5个基点至2.485%，创1997年6月以来最高水平。 受油价飙升影响，韩国10年期国债期货下跌72个点。 日经225指数期货早盘下跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3086527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "日本10年期国债收益率创1997年6月以来新高。",
+          "url": "https://flash.jin10.com/detail/20260413074741088800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "美国10年期国债期货下跌10个点。",
+          "url": "https://flash.jin10.com/detail/20260413070411569800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "当市场聚焦美伊谈判，一场石油争夺战正上演，“未来几周原油缺口将十分巨大”",
@@ -554,19 +708,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 07时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时07分 ~ 08时10分]"
         },
         {
           "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
           "url": "https://wallstreetcn.com/articles/3769756",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时14分 ~ 07时08分]"
+          "appearance_count": 8,
+          "time_info": "[03时14分 ~ 08时10分]"
         },
         {
           "title": "纽约原油暗盘直线拉涨5%",
@@ -586,7 +741,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -597,7 +752,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         },
@@ -608,9 +763,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "现货黄金下跌逾2%，至每盎司4,643美元。 现货白银下跌逾3%，至每盎司72.54美元。 布油、WTI原油期货涨逾9%。",
+          "url": "https://wallstreetcn.com/livenews/3086524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "国际原油大幅高开9.4%",
@@ -619,7 +785,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
         }
@@ -645,19 +811,19 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "线上拼手速、线下可“捡漏”，新一轮储蓄国债认购再现火爆场面",
-          "url": "https://wallstreetcn.com/livenews/3086503",
+          "title": "美元指数走高之际，非美货币普跌，欧元兑美元下跌0.49%，报1.1666；英镑兑美元下跌0.47%，报1.3396；澳元兑美元下跌0.76%，报0.7016；纽元兑美元下跌0.7%，报0.5799。",
+          "url": "https://wallstreetcn.com/livenews/3086520",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时08分"
+          "time_info": "08时10分"
         }
       ]
     }
