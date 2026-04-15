@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:31:54.918743+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-04-15T15:31:47.686478+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时14分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[08时14分 ~ 15时31分]"
         },
         {
           "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
@@ -41,8 +41,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 14时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 15时31分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时31分]"
         },
         {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
@@ -70,15 +81,17 @@
           "time_info": "[00时21分 ~ 03时28分]"
         },
         {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时31分]"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -96,19 +109,6 @@
           "time_info": "[00时21分 ~ 07时14分]"
         },
         {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时31分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：美伊谈判可能在未来两天恢复",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -118,6 +118,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时28分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时31分]"
+        },
+        {
+          "title": "特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时31分]"
         },
         {
           "title": "伊朗战争丨特朗普：未来两天可能与伊朗再谈",
@@ -142,17 +164,6 @@
           "time_info": "[08时14分 ~ 09时31分]"
         },
         {
-          "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时31分]"
-        },
-        {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -165,15 +176,18 @@
           "time_info": "[02时20分 ~ 07时14分]"
         },
         {
-          "title": "特朗普称没有必要延长同伊朗的停火",
-          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
-          "source": "凤凰网",
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时31分]"
         },
         {
           "title": "伊朗战争丨万斯：特朗普想和伊朗达成大协议",
@@ -204,7 +218,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -215,7 +229,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -260,7 +274,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -271,23 +285,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时31分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -327,6 +327,17 @@
           "time_info": "[10时59分 ~ 12时06分]"
         },
         {
+          "title": "英媒：特朗普次子将以个人身份陪同访华",
+          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时31分]"
+        },
+        {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
           "url": "https://www.cls.cn/detail/2343501",
           "source": "财联社热门",
@@ -339,27 +350,17 @@
           "time_info": "[00时21分 ~ 02时20分]"
         },
         {
-          "title": "英媒：特朗普次子将以个人身份陪同访华",
-          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时31分]"
-        },
-        {
           "title": "特朗普：没有必要延长同伊朗的停火",
           "url": "https://www.cls.cn/detail/2344586",
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 15时31分]"
         },
         {
           "title": "国际油价短线走低，WTI原油期货一度跌至87美元下方，此前特朗普称他认为战争非常接近结束。",
@@ -425,7 +426,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -573,6 +574,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美参院民主党领袖：每周强制发起投票 限制特朗普“战争权力”",
+          "url": "https://wallstreetcn.com/livenews/3088254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "美记者：特朗普表示他没有考虑延长停火",
           "url": "https://flash.jin10.com/detail/20260415112651598800",
           "source": "金十数据",
@@ -590,7 +602,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -642,7 +654,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 41,
+      "match_count": 50,
       "titles": [
         {
           "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
@@ -669,6 +681,17 @@
           "time_info": "[00时21分 ~ 05时14分]"
         },
         {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时31分]"
+        },
+        {
           "title": "时隔近4周！沪指4000点失而复得，创业板指同期领跑，大中盘股成“香饽饽”",
           "url": "https://www.cls.cn/detail/2343684",
           "source": "财联社热门",
@@ -679,17 +702,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时14分]"
-        },
-        {
-          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
-          "url": "https://www.cls.cn/detail/2344205",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时31分]"
         },
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -712,6 +724,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 08时14分]"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时31分]"
         },
         {
           "title": "香港恒生指数4月15日（周三）开盘上涨295.93点，涨幅1.14%，报26168.25点；<br/>香港恒生科技指数4月15日（周三）开盘上涨109.54点，涨幅2.26%，报4961.5点；<br/>国企指数4月15日（周三）开盘上涨104.59点，涨幅1.21%，报8776.2点；<br/>红筹指数4月15日（周三）开盘上涨8.91点，涨幅0.21%，报4341.13点。",
@@ -747,29 +771,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "A股存储芯片概念震荡走弱，大为股份触及跌停，盈新发展、朗科科技、商络电子、睿能科技、澜起科技等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3088244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时31分]"
-        },
-        {
           "title": "港股AI应用板块部分走低，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超8%，迅策(03317.HK)跌超6%。",
           "url": "https://flash.jin10.com/detail/20260415132253511800",
           "source": "金十数据",
@@ -791,6 +792,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 14时31分]"
+        },
+        {
+          "title": "A股存储芯片概念震荡走弱，大为股份触及跌停，盈新发展、朗科科技、商络电子、睿能科技、澜起科技等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3088244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时31分]"
         },
         {
           "title": "A股创新药、化学制药板块午后持续走强，北大医药、双鹭药业、哈药股份、海正药业等股涨停，回盛生物涨超10%，悦康药业、舒泰神纷纷上扬。",
@@ -893,7 +906,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -909,15 +922,70 @@
           "time_info": "09时31分"
         },
         {
+          "title": "创业板指高开低走跌1.22%，医药股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3088273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "上证指数收报4027.21点，涨0.01%。 深证成指收报14498.45点，跌0.97%。 创业板指收报3514.96点，跌1.22%。 沪深300收报4685.25点，跌0.34%。 科创50收报1406.32点，涨0.09%。 中证500收报8044.08点，跌0.55%。 中证1000收报8106.16点，跌0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3088271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "港股科技股卖空潮退去 小米集团近5日卖空股数降幅超90%",
+          "url": "https://www.cls.cn/detail/2344645",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "A股三大股指持续走低，深证成指跌1%，创业板指跌1.33%，沪指现涨0.1%，全市场超3400只个股飘绿。",
           "url": "https://flash.jin10.com/detail/20260415141253390800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-15）",
+          "url": "https://flash.jin10.com/detail/20260415150959352800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "上证指数早盘收报4041.45点，涨0.37%。 深证成指早盘收报14603.61点，跌0.25%。 创业板指早盘收报3550.25点，跌0.23%。 沪深300早盘收报4709.13点，涨0.17%。 科创50早盘收报1424.71点，涨1.40%。 中证500早盘收报8101.01点，涨0.15%。 中证1000早盘收报8160.92点，涨0.20%。",
@@ -1008,6 +1076,17 @@
           "time_info": "05时14分"
         },
         {
+          "title": "A股收盘：创业板指跌超1% 医药股爆发",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%851%25+%E5%8C%BB%E8%8D%AF%E8%82%A1%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "创业板指翻绿，此前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3088098",
           "source": "华尔街见闻-快讯",
@@ -1030,6 +1109,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "A股收评：创业板指震荡调整收跌1.22% 创新药板块走强",
+          "url": "https://flash.jin10.com/detail/20260415150334601800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "周二（4月14日），美股行业ETF多数收涨，全球航空业ETF涨4.42%，可选消费ETF涨2.21%，半导体ETF涨1.95%，能源业ETF跌2.07%。",
           "url": "https://wallstreetcn.com/livenews/3087957",
           "source": "华尔街见闻-快讯",
@@ -1039,6 +1129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "沪指午后回落翻绿，深成指跌超1%，创业板指跌超1.7%，油气、化工、房地产、锂电等方向跌幅居前，沪深京三市下跌个股超3700只。",
+          "url": "https://wallstreetcn.com/livenews/3088251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -1061,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中国上证综指4月15日（周三）收盘上涨0.58点，涨幅：0.01%，报4027.21点；<br/>中国深证成指4月15日（周三）收盘下跌141.5点，跌幅：0.97%，报14498.46点；<br/>中国沪深300指数4月15日（周三）收盘下跌16.04点，跌幅：0.34%，报4685.25点；<br/>中国创业板指数4月15日（周三）收盘下跌43.57点，跌幅：1.22%，报3514.96点；<br/>中国科创50指数4月15日（周三）收盘上涨1.25点，涨幅：0.09%，报1406.32点。",
+          "url": "https://flash.jin10.com/detail/20260415150323790800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "金十图示：2026年04月14日（周二）热门中概股行情一览（美股盘中）",
@@ -1109,290 +1221,20 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "人民币成原油贸易第二大结算货币",
-          "url": "https://www.toutiao.com/trending/7627463803357298726/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 08时14分]"
-        },
-        {
-          "title": "美伊和谈预期升温，标普大涨近新高，纳指十连涨，原油大跌7%，人民币升破6.81",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时14分 ~ 14时31分]"
-        },
-        {
-          "title": "WTI原油向下触及90美元/桶，日内跌2.56%。",
-          "url": "https://flash.jin10.com/detail/20260415073427532800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "文件显示，意大利油企埃尼集团正在委内瑞拉装载一批重质原油，运往欧洲。",
-          "url": "https://flash.jin10.com/detail/20260415044122372800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "美国至4月10日当周API投产原油量 -14.5万桶/日，前值7.1万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260415043835551800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "美国至4月10日当周API原油进口 -33.6万桶，前值-59.3万桶。",
-          "url": "https://flash.jin10.com/detail/20260415043822948800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "WTI原油日内跌幅达7.0%，报92.13美元/桶。 布伦特原油日内跌幅达4.5%，报94.86美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3087886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时20分]"
-        },
-        {
-          "title": "美国至4月10日当周API库欣原油库存 -168.4万桶，前值-62.9万桶。",
-          "url": "https://flash.jin10.com/detail/20260415043811467800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "韩国官员：已从四个中东国家获得2.73亿桶原油，直至年底。 已获得210万吨石脑油，直至年底。 从哈萨克斯坦获得1800万桶原油。 阿曼承诺提供500万桶原油和160万吨石脑油。",
-          "url": "https://wallstreetcn.com/livenews/3088201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 14时31分]"
-        },
-        {
-          "title": "WTI 5月原油期货收跌7.80美元，跌幅7.87%，报91.28美元/桶。 布伦特6月原油期货收跌4.57美元，跌幅4.60%，报94.79美元/桶。 中东Abu Dhabi Murban原油期货跌2.45%，报100.80美元/桶。 NYMEX 5月天然气期货收报2.599美元/百万英热单位。 NYMEX 5月汽油期货收报3.0395美元/加仑，NYMEX 5月取暖油期货收报3.6243美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3087926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时17分]"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存增超600万桶",
-          "url": "https://wallstreetcn.com/livenews/3087970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "上期所原油期货2605合约夜盘收跌2.87%，报633元人民币/桶。 沪金夜盘收涨1.74%，沪银收涨5.36%。",
-          "url": "https://wallstreetcn.com/livenews/3087925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时17分]"
-        },
-        {
-          "title": "WTI原油日内跌幅达8.0%，报91.14美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3087924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时17分]"
-        },
-        {
-          "title": "商品期货开盘，沪银主力合约涨超5%，沪锡涨超4%，沪镍、对二甲苯涨超2%，不锈钢、沪金、国际铜、焦炭、沪铜、PTA、碳酸锂涨超1%。LU燃油、原油、燃料油跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3088062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美国至4月10日当周API原油库存 610.1万桶，预期-126.6万桶，前值371.9万桶。",
-          "url": "https://flash.jin10.com/detail/20260415043748055800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "美媒：百余艘油轮赴美抢运原油",
-          "url": "https://flash.jin10.com/detail/20260415043116081800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "美国至4月10日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260415042000001800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "韩国总统特使：将从哈萨克斯坦获得1800万桶原油供应。",
-          "url": "https://flash.jin10.com/detail/20260415130916865800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3087962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "日本将把私营部门原油储备释放期限延长1个月。（朝日电视台）",
-          "url": "https://wallstreetcn.com/livenews/3088050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "韩国官员：已确保到年底前从四个中东国家获得2.73亿桶原油供应。",
-          "url": "https://flash.jin10.com/detail/20260415130653204800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨近6%，PX涨近5%，沪锡、焦炭、PTA、丁二烯橡胶涨超3%，纯苯、沪镍、短纤涨超2%；跌幅方面，SC原油跌超2%，集运欧线、低硫燃料油（LU）、纸浆、燃料油、原木跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260415113028593800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "韩国官员：从国外获得了2.73亿桶原油。",
-          "url": "https://flash.jin10.com/detail/20260415130432573800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.0%，报92.21美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3087999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.04%，10年期主力合约涨0.07%，5年期主力合约涨0.08%，2年期主力合约涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3088279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3088043",
@@ -1429,6 +1271,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260415151605143800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "印度10年期国债收益率下行6个基点至6.88%。",
           "url": "https://wallstreetcn.com/livenews/3088165",
           "source": "华尔街见闻-快讯",
@@ -1446,7 +1299,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -1651,6 +1504,298 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "人民币成原油贸易第二大结算货币",
+          "url": "https://www.toutiao.com/trending/7627463803357298726/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 08时14分]"
+        },
+        {
+          "title": "美伊和谈预期升温，标普大涨近新高，纳指十连涨，原油大跌7%，人民币升破6.81",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时14分 ~ 15时31分]"
+        },
+        {
+          "title": "WTI原油向下触及90美元/桶，日内跌2.56%。",
+          "url": "https://flash.jin10.com/detail/20260415073427532800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "文件显示，意大利油企埃尼集团正在委内瑞拉装载一批重质原油，运往欧洲。",
+          "url": "https://flash.jin10.com/detail/20260415044122372800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "美国至4月10日当周API投产原油量 -14.5万桶/日，前值7.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415043835551800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "美国至4月10日当周API原油进口 -33.6万桶，前值-59.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043822948800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达7.0%，报92.13美元/桶。 布伦特原油日内跌幅达4.5%，报94.86美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3087886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时20分]"
+        },
+        {
+          "title": "美国至4月10日当周API库欣原油库存 -168.4万桶，前值-62.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043811467800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "韩国官员：已从四个中东国家获得2.73亿桶原油，直至年底。 已获得210万吨石脑油，直至年底。 从哈萨克斯坦获得1800万桶原油。 阿曼承诺提供500万桶原油和160万吨石脑油。",
+          "url": "https://wallstreetcn.com/livenews/3088201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 14时31分]"
+        },
+        {
+          "title": "WTI 5月原油期货收跌7.80美元，跌幅7.87%，报91.28美元/桶。 布伦特6月原油期货收跌4.57美元，跌幅4.60%，报94.79美元/桶。 中东Abu Dhabi Murban原油期货跌2.45%，报100.80美元/桶。 NYMEX 5月天然气期货收报2.599美元/百万英热单位。 NYMEX 5月汽油期货收报3.0395美元/加仑，NYMEX 5月取暖油期货收报3.6243美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3087926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时17分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存增超600万桶",
+          "url": "https://wallstreetcn.com/livenews/3087970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 06时14分]"
+        },
+        {
+          "title": "上期所原油期货2605合约夜盘收跌2.87%，报633元人民币/桶。 沪金夜盘收涨1.74%，沪银收涨5.36%。",
+          "url": "https://wallstreetcn.com/livenews/3087925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时17分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达8.0%，报91.14美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3087924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时17分]"
+        },
+        {
+          "title": "商品期货开盘，沪银主力合约涨超5%，沪锡涨超4%，沪镍、对二甲苯涨超2%，不锈钢、沪金、国际铜、焦炭、沪铜、PTA、碳酸锂涨超1%。LU燃油、原油、燃料油跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3088062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美国至4月10日当周API原油库存 610.1万桶，预期-126.6万桶，前值371.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260415043748055800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "商品期货收盘，沪银主力合约涨超4%，对二甲苯涨近4%，PTA、生猪、纯苯、焦炭、BR橡胶涨超3%。原油跌超3%，LU燃油跌超2%，燃料油、纸浆、豆一跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3088269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "美媒：百余艘油轮赴美抢运原油",
+          "url": "https://flash.jin10.com/detail/20260415043116081800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国至4月10日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260415042000001800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "韩国总统特使：将从哈萨克斯坦获得1800万桶原油供应。",
+          "url": "https://flash.jin10.com/detail/20260415130916865800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3087962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "日本将把私营部门原油储备释放期限延长1个月。（朝日电视台）",
+          "url": "https://wallstreetcn.com/livenews/3088050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "韩国官员：已确保到年底前从四个中东国家获得2.73亿桶原油供应。",
+          "url": "https://flash.jin10.com/detail/20260415130653204800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨多跌少。沪银涨近6%，PX涨近5%，沪锡、焦炭、PTA、丁二烯橡胶涨超3%，纯苯、沪镍、短纤涨超2%；跌幅方面，SC原油跌超2%，集运欧线、低硫燃料油（LU）、纸浆、燃料油、原木跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260415113028593800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "韩国官员：从国外获得了2.73亿桶原油。",
+          "url": "https://flash.jin10.com/detail/20260415130432573800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报92.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3087999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -1812,7 +1957,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
@@ -1833,8 +1978,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时31分]"
         }
       ]
     },
