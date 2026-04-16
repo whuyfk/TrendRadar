@@ -1,11 +1,408 @@
 {
-  "generated_at": "2026-04-16T11:00:17.386135+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-04-16T12:09:05.842959+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 08时19分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时15分]"
+        },
+        {
+          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
+          "url": "https://www.cls.cn/detail/2345486",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时13分 ~ 12时09分]"
+        },
+        {
+          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2345247",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 09时32分]"
+        },
+        {
+          "title": "创业板首单未盈利企业今上市，存储独角兽大普微如何上演破冰之旅？",
+          "url": "https://www.cls.cn/detail/2345551",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 12时09分]"
+        },
+        {
+          "title": "中国上证综指4月16日（周四）开盘上涨2.93点，涨幅：0.07%，报4030.14点；<br/>中国深证成指4月16日（周四）开盘上涨47.9点，涨幅：0.33%，报14546.35点；<br/>中国沪深300指数4月16日（周四）开盘上涨9.18点，涨幅：0.2%，报4694.43点；<br/>中国创业板指数4月16日（周四）开盘上涨16.3点，涨幅：0.46%，报3531.26点；<br/>中国科创50指数4月16日（周四）开盘上涨0.0点，涨幅：0.0%，报1406.32点。",
+          "url": "https://flash.jin10.com/detail/20260416092737352800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "白宫对与伊朗达成协议持乐观态度，黎以会谈明日举行，市场静待结果出炉，金银油多空情绪变化不大，美股股指创新高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260416114005966800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "恒指高开0.68%，报26122.80点；恒生科技指数涨1.31%。百度、网易涨超3%，阿里巴巴、京东涨超2%。思格新能上市首日涨79.2%。",
+          "url": "https://wallstreetcn.com/livenews/3088873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "A股开盘，沪指开涨0.07%，深证成指开涨0.33%，创业板指开涨0.46%。",
+          "url": "https://flash.jin10.com/detail/20260416092521717800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "A股午评：创业板指半日涨2.66% 全市场超3800只个股上涨",
+          "url": "https://flash.jin10.com/detail/20260416113617344800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "【每日收评】创业板高开低走跌超1%，医药板块逆势爆发，算力硬件、锂电股双双熄火",
+          "url": "https://www.cls.cn/detail/2344899",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时22分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.57%，报26129点。 恒生科技指数主连夜盘收涨1.06%，报4977点。",
+          "url": "https://wallstreetcn.com/livenews/3088739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时15分]"
+        },
+        {
+          "title": "创业板指创十年新高后跳水",
+          "url": "https://www.toutiao.com/trending/7628969176488496681/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 01时22分]"
+        },
+        {
+          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
+          "url": "https://wallstreetcn.com/livenews/3088776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时13分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
+          "url": "https://wallstreetcn.com/livenews/3088772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时13分]"
+        },
+        {
+          "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3088769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时13分]"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260416040543220800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时13分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至3%，百度涨超7%，阿里巴巴、网易涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3088989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "港股持续走高，恒生科技指数涨3%，恒指涨1.38%，科技股走强，百度(09888.HK)涨7.6%，网易-S(09999.HK)、阿里巴巴(09988.HK)涨4.6%。",
+          "url": "https://flash.jin10.com/detail/20260416113314743800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "上证指数早盘收报4048.64点，涨0.53%。 深证成指早盘收报14743.22点，涨1.69%。 创业板指早盘收报3608.52点，涨2.66%。 沪深300早盘收报4727.38点，涨0.90%。 科创50早盘收报1418.06点，涨0.83%。 中证500早盘收报8154.74点，涨1.38%。 中证1000早盘收报8208.05点，涨1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3088986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "4月16日午间收评：创业板指半日涨2.66%，宁德时代市值突破2万亿",
+          "url": "https://wallstreetcn.com/livenews/3088985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "香港恒生指数4月16日（周四）开盘上涨175.48点，涨幅0.68%，报26122.8点；<br/>香港恒生科技指数4月16日（周四）开盘上涨64.38点，涨幅1.31%，报4976.17点；<br/>国企指数4月16日（周四）开盘上涨61.04点，涨幅0.7%，报8779.3点；<br/>红筹指数4月16日（周四）开盘上涨5.0点，涨幅0.12%，报4326.56点。",
+          "url": "https://flash.jin10.com/detail/20260416092128847800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "瑞银：宁德时代首季业绩胜预期 予A股目标价500元",
+          "url": "https://flash.jin10.com/detail/20260416103331954800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "港股开盘，恒指开涨0.68%，科指开涨1.31%。宁德时代(03750.HK)绩后涨4.4%；科技股回暖，阿里巴巴(09988.HK)涨2.4%，百度(09888.HK)涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20260416092052438800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260416003401876800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260416003200107800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "深交所公告，港股通标的证券名单调入禾赛-W，4月16日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3088855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "港股芯片股走强，壁仞科技(06082.HK)涨超17%，天数智芯(09903.HK)涨超9%，爱芯元智(00600.HK)涨8.8%，澜起科技(06809.HK)涨5.6%，兆易创新(03986.HK)涨2.85%。",
+          "url": "https://flash.jin10.com/detail/20260416102532606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-04-16）",
+          "url": "https://flash.jin10.com/detail/20260416090954169800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260416040519362800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
+          "url": "https://flash.jin10.com/detail/20260416040118406800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "港股AI应用板块走高，滴普科技(01384.HK)涨超21%，迈富时(02556.HK)涨超13%，小马智行-W(02026.HK)涨超10%，金蝶国际(00268.HK)、百度(09888.HK)涨6.8%。",
+          "url": "https://flash.jin10.com/detail/20260416111508470800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-16）",
+          "url": "https://flash.jin10.com/detail/20260416090530088800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "A股盐湖提锂板块持续上涨，盛新锂能、金圆股份涨停，天齐锂业、西藏矿业、川能动力、西藏珠峰、万德斯均涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260416101103039800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -15,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 12时09分]"
         },
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -75,8 +472,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 12时09分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -89,8 +486,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 12时09分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -119,8 +516,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 12时09分]"
+        },
+        {
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 12时09分]"
+        },
+        {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时19分 ~ 12时09分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
@@ -135,18 +558,6 @@
           "time_info": "[01时21分 ~ 06时13分]"
         },
         {
-          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
-          "url": "https://www.cls.cn/detail/2345537",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 11时00分]"
-        },
-        {
           "title": "【白宫否认已请求延长美伊停火，强调巴基斯坦为唯一斡旋方】4月15日，美国白宫新闻秘书卡罗琳·莱维特表示，美国尚未正式请求延长与伊朗的停火协议，相关报道“不属实”，当前双方仍在持续接触并推进谈判。 莱维特称，美国总统特朗普政府认为谈判“具有建设性”，对达成协议前景持乐观态度，同时强调所有决定以白宫正式发布为准。 她还指出，巴基斯坦在本轮谈判中发挥了关键斡旋作用，并称其为当前“唯一的调解方”。尽管多国表达协助意愿，但美方希望通过巴基斯坦渠道持续推进沟通与谈判。（央视）",
           "url": "https://wallstreetcn.com/livenews/3088711",
           "source": "华尔街见闻-快讯",
@@ -156,18 +567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 11时00分]"
         },
         {
           "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普在电话中讨论了地区局势降温以及确保能源市场稳定。",
@@ -251,6 +650,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普称以黎领导人将对话",
+          "url": "https://wallstreetcn.com/livenews/3088982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "特朗普不满美英“特殊关系”，斯塔默说不会妥协",
           "url": "https://wallstreetcn.com/livenews/3088656",
           "source": "华尔街见闻-快讯",
@@ -282,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：以色列和黎巴嫩的谈判将于明天进行。努力在以色列和黎巴嫩之间争取一些喘息空间。",
+          "url": "https://flash.jin10.com/detail/20260416112856047800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "“美联储传声筒”：特朗普的美联储主席人选，被困在一场“前所未有的僵局”中",
@@ -374,327 +795,8 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
-          "url": "https://wallstreetcn.com/articles/3769987",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 08时19分]"
-        },
-        {
-          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
-          "url": "https://wallstreetcn.com/articles/3770007",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时15分]"
-        },
-        {
-          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
-          "url": "https://www.cls.cn/detail/2345486",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时13分 ~ 11时00分]"
-        },
-        {
-          "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2345247",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 09时32分]"
-        },
-        {
-          "title": "创业板首单未盈利企业今上市，存储独角兽大普微如何上演破冰之旅？",
-          "url": "https://www.cls.cn/detail/2345551",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 11时00分]"
-        },
-        {
-          "title": "中国上证综指4月16日（周四）开盘上涨2.93点，涨幅：0.07%，报4030.14点；<br/>中国深证成指4月16日（周四）开盘上涨47.9点，涨幅：0.33%，报14546.35点；<br/>中国沪深300指数4月16日（周四）开盘上涨9.18点，涨幅：0.2%，报4694.43点；<br/>中国创业板指数4月16日（周四）开盘上涨16.3点，涨幅：0.46%，报3531.26点；<br/>中国科创50指数4月16日（周四）开盘上涨0.0点，涨幅：0.0%，报1406.32点。",
-          "url": "https://flash.jin10.com/detail/20260416092737352800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "恒指高开0.68%，报26122.80点；恒生科技指数涨1.31%。百度、网易涨超3%，阿里巴巴、京东涨超2%。思格新能上市首日涨79.2%。",
-          "url": "https://wallstreetcn.com/livenews/3088873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "A股开盘，沪指开涨0.07%，深证成指开涨0.33%，创业板指开涨0.46%。",
-          "url": "https://flash.jin10.com/detail/20260416092521717800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "【每日收评】创业板高开低走跌超1%，医药板块逆势爆发，算力硬件、锂电股双双熄火",
-          "url": "https://www.cls.cn/detail/2344899",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时22分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.57%，报26129点。 恒生科技指数主连夜盘收涨1.06%，报4977点。",
-          "url": "https://wallstreetcn.com/livenews/3088739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时15分]"
-        },
-        {
-          "title": "创业板指创十年新高后跳水",
-          "url": "https://www.toutiao.com/trending/7628969176488496681/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时22分]"
-        },
-        {
-          "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
-          "url": "https://wallstreetcn.com/livenews/3088776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时13分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
-          "url": "https://wallstreetcn.com/livenews/3088772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时13分]"
-        },
-        {
-          "title": "周三（4月15日），美股行业ETF涨跌各异，网络股指数ETF收涨2.16%，科技行业ETF涨1.60%，可选消费ETF、全球科技股指数ETF至少涨1.28%。 区域银行ETF则跌0.17%，能源业ETF跌0.34%，医疗业ETF跌0.71%，公用事业ETF跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3088769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时13分]"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040543220800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时13分]"
-        },
-        {
-          "title": "香港恒生指数4月16日（周四）开盘上涨175.48点，涨幅0.68%，报26122.8点；<br/>香港恒生科技指数4月16日（周四）开盘上涨64.38点，涨幅1.31%，报4976.17点；<br/>国企指数4月16日（周四）开盘上涨61.04点，涨幅0.7%，报8779.3点；<br/>红筹指数4月16日（周四）开盘上涨5.0点，涨幅0.12%，报4326.56点。",
-          "url": "https://flash.jin10.com/detail/20260416092128847800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "瑞银：宁德时代首季业绩胜预期 予A股目标价500元",
-          "url": "https://flash.jin10.com/detail/20260416103331954800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "港股开盘，恒指开涨0.68%，科指开涨1.31%。宁德时代(03750.HK)绩后涨4.4%；科技股回暖，阿里巴巴(09988.HK)涨2.4%，百度(09888.HK)涨3.5%。",
-          "url": "https://flash.jin10.com/detail/20260416092052438800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260416003401876800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260416003200107800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "深交所公告，港股通标的证券名单调入禾赛-W，4月16日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3088855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "港股芯片股走强，壁仞科技(06082.HK)涨超17%，天数智芯(09903.HK)涨超9%，爱芯元智(00600.HK)涨8.8%，澜起科技(06809.HK)涨5.6%，兆易创新(03986.HK)涨2.85%。",
-          "url": "https://flash.jin10.com/detail/20260416102532606800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-04-16）",
-          "url": "https://flash.jin10.com/detail/20260416090954169800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "金十图示：2026年04月15日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260416040519362800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美股收盘：标普500、纳指创新高 特斯拉涨逾7%",
-          "url": "https://flash.jin10.com/detail/20260416040118406800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-04-16）",
-          "url": "https://flash.jin10.com/detail/20260416090530088800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "A股盐湖提锂板块持续上涨，盛新锂能、金圆股份涨停，天齐锂业、西藏矿业、川能动力、西藏珠峰、万德斯均涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260416101103039800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储亮鹰，每月美债购买量大减近 40%，月规模降至 250 亿美元，此举远超市场预期，对此你怎么看？",
@@ -738,6 +840,17 @@
           "time_info": "[05时15分 ~ 06时13分]"
         },
         {
+          "title": "IMF警告：债务失控、过度依赖短债，美债市场易发“突然重定价”",
+          "url": "https://flash.jin10.com/detail/20260416113452334800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3088837",
           "source": "华尔街见闻-快讯",
@@ -747,6 +860,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.10%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3088983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260416113117487800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "中长期美债收益率涨超3个基点",
@@ -866,6 +1001,18 @@
           "time_info": "[00时19分 ~ 01时22分]"
         },
         {
+          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
+          "url": "https://www.cls.cn/detail/2345498",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 12时09分]"
+        },
+        {
           "title": "谷歌关联公司拟发57亿美元垃圾债 助力数据中心建设",
           "url": "https://flash.jin10.com/detail/20260416045257037800",
           "source": "金十数据",
@@ -876,17 +1023,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时14分]"
-        },
-        {
-          "title": "谷歌最新SpaceX持股比例出炉 投资盈利有望达100000000000美元",
-          "url": "https://www.cls.cn/detail/2345498",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "中信建投：Anthropic最强模型Mythos推出，重点推荐谷歌链",
@@ -936,7 +1072,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊和谈预期升温，标普大涨近新高，纳指十连涨，原油大跌7%，人民币升破6.81",
@@ -972,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗战争推动美国自二战以来首次接近成为原油净出口国",
+          "url": "https://flash.jin10.com/detail/20260416111930034800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "WTI 5月原油期货收涨0.01美元，涨幅0.01%，报91.29美元/桶。 布伦特6月原油期货收涨0.14美元，涨幅0.15%，报94.93美元/桶。 中东Abu Dhabi Murban原油期货涨0.73%，报101.59美元/桶。 NYMEX 5月天然气期货收报2.61美元/百万英热单位。 NYMEX 5月汽油期货收报3.0692美元/加仑，NYMEX 5月取暖油期货收报3.7532美元/加仑。",
@@ -1081,8 +1228,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时00分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 12时09分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
