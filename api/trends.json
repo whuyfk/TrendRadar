@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-17T12:07:17.708127+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-04-17T13:42:53.119412+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
           "url": "https://news.ifeng.com/c/8sN3kmBakib",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时28分 ~ 12时07分]"
+          "appearance_count": 13,
+          "time_info": "[03时28分 ~ 13时42分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -41,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时42分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -100,11 +101,25 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时42分]"
         },
         {
           "title": "特朗普：邀请内塔尼亚胡和黎巴嫩总统访问白宫",
@@ -127,19 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 12时07分]"
         },
         {
           "title": "以色列北部地区委员会负责人：特朗普将伊朗问题引入黎巴嫩局势是不合理的。",
@@ -181,7 +183,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -488,6 +490,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普“不能总是以战争威胁其他国家”",
           "url": "https://wallstreetcn.com/livenews/3089629",
           "source": "华尔街见闻-快讯",
@@ -549,7 +562,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -587,13 +600,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "特朗普称伊朗战事应该很快就会结束，伊朗同意不拥有核武器，伊方暂无回应，可信度有多高？",
+          "url": "https://www.zhihu.com/question/2028396835065148224",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "特朗普：伊朗已同意几乎所有要求，或亲赴巴基斯坦签协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32990834",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -626,7 +650,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -807,6 +831,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "打脸特朗普！海湾和欧洲官员：美伊协议至少需六个月，不是“很快”",
+          "url": "https://flash.jin10.com/detail/20260417125738435800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "美国总统特朗普：尽管我们在伊朗进行了一次“小的远征”，美国目前仍拥有全球最强劲的经济。",
           "url": "https://flash.jin10.com/detail/20260417082347897800",
           "source": "金十数据",
@@ -846,7 +881,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -865,7 +900,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "3家A股公司齐发公告：可能被实施退市风险警示",
@@ -902,8 +937,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 12时07分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 13时42分]"
         },
         {
           "title": "【焦点复盘】创指再现长阳反包，Token经济概念持续火爆，“宁王”首次跻身A股总市值三甲",
@@ -928,8 +963,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时07分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时42分]"
         },
         {
           "title": "【每日收评】创业板指涨超3%刷新近11年新高，锂电板块卷土重来，算力租赁概念再掀高潮",
@@ -966,8 +1001,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时13分 ~ 12时07分]"
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 13时42分]"
         },
         {
           "title": "上证指数开盘报4043.38点，跌0.30%。 深证成指开盘报14806.28点，涨0.07%。 创业板指开盘报3643.15点，涨0.47%。 沪深300开盘报4729.00点，跌0.16%。 科创50开盘报1414.87点，跌0.52%。 中证500开盘报8155.40点，跌0.30%。 中证1000开盘报8225.73点，跌0.09%。",
@@ -979,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "港股消费股多数走低，百胜中国跌超5%，周生生跌超4%，老铺黄金、周黑鸭、海底捞跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3089798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "恒指低开0.69%，报26210.97点；恒生科技指数跌0.72%。群核科技上市首日高开逾170％。",
@@ -1017,6 +1063,30 @@
           "time_info": "[08时13分 ~ 12时07分]"
         },
         {
+          "title": "A股股王易主 源杰科技取代贵州茅台",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%82%A1%E7%8E%8B%E6%98%93%E4%B8%BB+%E6%BA%90%E6%9D%B0%E7%A7%91%E6%8A%80%E5%8F%96%E4%BB%A3%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 13时42分]"
+        },
+        {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 13时42分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.46%，报26229点。 恒生科技指数主连夜盘收跌0.18%，报5077点。",
           "url": "https://wallstreetcn.com/livenews/3089541",
           "source": "华尔街见闻-快讯",
@@ -1027,29 +1097,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时13分]"
-        },
-        {
-          "title": "A股股王易主 源杰科技取代贵州茅台",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%82%A1%E7%8E%8B%E6%98%93%E4%B8%BB+%E6%BA%90%E6%9D%B0%E7%A7%91%E6%8A%80%E5%8F%96%E4%BB%A3%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时07分]"
-        },
-        {
-          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
-          "url": "https://wallstreetcn.com/articles/3770147",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时07分]"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -1099,6 +1146,17 @@
           "time_info": "[00时28分 ~ 00时29分]"
         },
         {
+          "title": "A股工业母机板块午后拉升，欧科亿盘中创新高，博杰股份涨停，创世纪、凯格精机涨超10%，嵘泰股份、纽威数控、沃尔德、亚威股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3089793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-04-17）",
           "url": "https://flash.jin10.com/detail/20260417090955116800",
           "source": "金十数据",
@@ -1116,9 +1174,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
+          "url": "https://www.cls.cn/detail/2347163",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-04-17）",
@@ -1130,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "A股光伏设备板块午后震荡走高，明冠新材20CM涨停，海目星、中来股份、鹿山新材、赛伍技术跟涨。",
+          "url": "https://flash.jin10.com/detail/20260417131601070800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
@@ -1149,9 +1229,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "4月17日午间收评：创业板指半日涨0.82%，源杰科技登顶A股新股王",
@@ -1160,7 +1251,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -1237,7 +1328,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -1273,6 +1364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "港股保险股走低，中国太保(02601.HK)跌近4%，中国平安(02318.HK)、中国人民保险集团(01339.HK)、中国财险(02328.HK)跌超3%，中国人寿(02628.HK)、友邦保险(01299.HK)跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20260417130121137800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "创业板指涨超1%，继续刷新近11年新高，权重股中际旭创、新易盛、天孚通信、胜宏科技等纷纷大涨。",
@@ -1357,8 +1459,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 12时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 13时42分]"
+        },
+        {
+          "title": "韩国称从沙特延布港运载原油的船舶安全驶离红海",
+          "url": "https://wallstreetcn.com/livenews/3089767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 13时42分]"
         },
         {
           "title": "WTI 5月原油期货收涨3.40美元，涨幅3.72%，报94.69美元/桶。 布伦特6月原油期货收报99.39美元/桶。 中东Abu Dhabi Murban原油期货涨0.65%，报101.51美元/桶。 NYMEX 5月天然气期货收报2.6470美元/百万英热单位。 NYMEX 5月汽油期货收报3.1637美元/加仑，NYMEX 5月取暖油期货收报3.8329美元/加仑。",
@@ -1383,17 +1497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 04时13分]"
-        },
-        {
-          "title": "韩国称从沙特延布港运载原油的船舶安全驶离红海",
-          "url": "https://wallstreetcn.com/livenews/3089767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         },
         {
           "title": "日本央行行长植田和男：上涨的原油价格恶化了日本的贸易条件，并对经济造成下行压力。",
@@ -1490,7 +1593,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         }
@@ -1498,7 +1601,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -1559,13 +1662,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "瑞典北欧斯安银行：若市场对美联储降息预期升温，10年期美债或将走低",
+          "url": "https://flash.jin10.com/detail/20260417131332494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260417113121895800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
@@ -1630,8 +1744,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时13分 ~ 12时07分]"
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 13时42分]"
         },
         {
           "title": "OpenAI发布用于药物研发的新款AI模型。",
