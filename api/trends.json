@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T20:06:37.774857+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-04-19T21:25:38.740914+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时08分 ~ 20时06分]"
+          "appearance_count": 27,
+          "time_info": "[00时08分 ~ 21时25分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -64,11 +64,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时59分 ~ 20时06分]"
+          "appearance_count": 15,
+          "time_info": "[10时59分 ~ 21时25分]"
         },
         {
           "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
@@ -159,8 +160,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 20时06分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 21时25分]"
+        },
+        {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            13,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 21时25分]"
         },
         {
           "title": "记者还没问完，就被特朗普打断：你出去",
@@ -173,22 +191,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时42分 ~ 19时12分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 20时06分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -266,26 +268,37 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
+          "title": "伊朗战争丨特朗普：代表团明晚抵达巴基斯坦谈判",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "美国总统特朗普：如果不签署协议，伊朗将“被炸毁”。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3090596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
         },
         {
-          "title": "据ABC新闻：特朗普称伊朗严重违反停火协议；仍然认为可以与伊朗达成和平协议。",
-          "url": "https://flash.jin10.com/detail/20260419194036211800",
-          "source": "金十数据",
+          "title": "特朗普：万斯不参加美伊复谈",
+          "url": "https://wallstreetcn.com/livenews/3090623",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时06分"
+          "time_info": "21时25分"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -377,6 +390,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时12分 ~ 20时06分]"
+        },
+        {
+          "title": "据ABC新闻：特朗普称伊朗严重违反停火协议；仍然认为可以与伊朗达成和平协议。",
+          "url": "https://flash.jin10.com/detail/20260419194036211800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 21时25分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
@@ -540,15 +565,136 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "特朗普边称要谈判边威胁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3090618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "美国总统特朗普：伊朗“严重违反”停火。 仍然认为可以与伊朗达成协议。 （谈及潜在的达成停火协议）这仍然会发生。（ABC）",
           "url": "https://wallstreetcn.com/livenews/3090587",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "特朗普：美代表团将于明晚前往巴基斯坦，若伊朗不接受协议就“不客气了”",
+          "url": "https://flash.jin10.com/detail/20260419201629984800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不接受（协议），美国将摧毁伊朗的每一座发电厂和每一座桥梁。再也不客气了。",
+          "url": "https://flash.jin10.com/detail/20260419201159316800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们提供了一个非常公平合理的交易，我希望他们（伊朗）能接受。",
+          "url": "https://flash.jin10.com/detail/20260419201142387800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国驻联合国大使（驳斥总统特朗普的论调）：副总统万斯将率领美国代表团与伊朗在巴基斯坦对话。（ABC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国总统特朗普：我的代表团将前往巴基斯坦伊斯兰堡，他们明天晚上会到那里进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260419201114486800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国总统特朗普：因为安全的缘故，副总统万斯不会前往巴基斯坦。 伊朗承诺无限期搁置核计划。（MS Now）",
+          "url": "https://wallstreetcn.com/livenews/3090611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普称美伊仍能达成协议",
+          "url": "https://flash.jin10.com/detail/20260419200728672800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "据ABC新闻：特朗普在谈及伊朗和平协议时表示“这将会发生”。",
+          "url": "https://flash.jin10.com/detail/20260419200430497800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普：好说话的日子结束了",
+          "url": "https://wallstreetcn.com/livenews/3090608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "外媒：特朗普与在德黑兰访问的巴基斯坦陆军参谋长通话",
+          "url": "https://wallstreetcn.com/livenews/3090607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "特朗普称以色列是“勇敢的盟友” 批评其他盟友“暴露本性”",
@@ -573,6 +719,28 @@
           "time_info": "11时00分"
         },
         {
+          "title": "美国总统特朗普料将在周日发布“致伊朗人民的信”。 特朗普将在信中高速伊朗，如果不达成协议将会面临风险。 美国为伊朗准备好大量弹药。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普：美国代表20日抵达伊斯兰堡参加谈判",
+          "url": "https://wallstreetcn.com/livenews/3090601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "美国总统特朗普：联邦政府将投入5000万美元用于伊博格碱的研究。",
           "url": "https://flash.jin10.com/detail/20260418212023087800",
           "source": "金十数据",
@@ -584,6 +752,28 @@
           "time_info": "00时09分"
         },
         {
+          "title": "美国总统特朗普：伊朗正利用小船开火。",
+          "url": "https://wallstreetcn.com/livenews/3090599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "美国总统特朗普：我的代表们正前往巴基斯坦伊斯兰堡。 他们明日晚间将出现在巴基斯坦。 我们向伊朗提供公平的、合理的协议。 如果不达成协议，将打击伊朗的所有电站和桥梁。 伊朗有“最后的机会”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "美国总统特朗普：行政令将重新安排任何获得美国食品药品监督管理局（FDA）批准的迷幻药物的管制级别。",
           "url": "https://flash.jin10.com/detail/20260418211502513800",
           "source": "金十数据",
@@ -593,6 +783,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普：伊朗已“严重违反”停火，但仍认为能够达成和平协议",
+          "url": "https://wallstreetcn.com/livenews/3090597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "特朗普：特使Witkoff前往巴基斯坦，将参加下周二的会谈",
+          "url": "https://wallstreetcn.com/livenews/3090596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "美国总统特朗普：签署行政命令，指示美国食品药品监督管理局（FDA）加快对某些迷幻药的审查。",
@@ -620,7 +832,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek被曝融资20亿",
@@ -656,11 +868,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 20时06分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 21时25分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -687,11 +900,12 @@
             11,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时31分 ~ 20时06分]"
+          "appearance_count": 17,
+          "time_info": "[09时31分 ~ 21时25分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -705,8 +919,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 20时06分]"
+          "appearance_count": 10,
+          "time_info": "[14时29分 ~ 21时25分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -732,6 +946,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 01时11分]"
+        },
+        {
+          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "DeepSeek启动首次外部融资？机构人士：消息很有可能属实，目前完全投不进去",
@@ -760,8 +985,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时08分 ~ 20时06分]"
+          "appearance_count": 27,
+          "time_info": "[00时08分 ~ 21时25分]"
         },
         {
           "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
@@ -774,8 +999,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时31分 ~ 20时06分]"
+          "appearance_count": 17,
+          "time_info": "[09时31分 ~ 21时25分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
@@ -784,11 +1009,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时29分 ~ 20时06分]"
+          "appearance_count": 11,
+          "time_info": "[14时29分 ~ 21时25分]"
         },
         {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
@@ -820,8 +1046,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时08分 ~ 20时06分]"
+          "appearance_count": 27,
+          "time_info": "[00时08分 ~ 21时25分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -829,11 +1055,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 20时06分]"
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 21时25分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
@@ -898,8 +1125,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时31分 ~ 20时06分]"
+          "appearance_count": 17,
+          "time_info": "[09时31分 ~ 21时25分]"
         },
         {
           "title": "周末要闻汇总：国产光纤全球爆单；原油市场再现“绝妙”押注",
@@ -908,11 +1135,12 @@
           "ranks": [
             9,
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 20时06分]"
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 21时25分]"
         },
         {
           "title": "伊拉克官员：将有数百万桶原油出口因霍尔木兹海峡关闭受阻",
@@ -952,6 +1180,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时15分 ~ 19时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260419210244122800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "谷歌公司与迈威尔科技洽谈打造新款AI芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3090615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     },
