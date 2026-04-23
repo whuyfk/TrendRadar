@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T14:32:56.711881+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-04-23T15:32:23.291586+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 56,
+      "match_count": 61,
       "titles": [
         {
           "title": "四家A股公司同日被立案 均涉信披违法违规|速读公告",
@@ -131,6 +131,19 @@
           "time_info": "[04时38分 ~ 06时14分]"
         },
         {
+          "title": "A股又一万亿巨头诞生",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%88%E4%B8%80%E4%B8%87%E4%BA%BF%E5%B7%A8%E5%A4%B4%E8%AF%9E%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 15时32分]"
+        },
+        {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
           "url": "https://wallstreetcn.com/livenews/3092839",
           "source": "华尔街见闻-快讯",
@@ -141,18 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时15分]"
-        },
-        {
-          "title": "A股又一万亿巨头诞生",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%88%E4%B8%80%E4%B8%87%E4%BA%BF%E5%B7%A8%E5%A4%B4%E8%AF%9E%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时32分]"
         },
         {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
@@ -369,6 +370,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "对比实测3大AI生图模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "A股CPO概念局部走强，汇绿生态涨停，光迅科技、可川科技、泰晶科技、中际旭创等跟涨。",
           "url": "https://flash.jin10.com/detail/20260423132417637800",
           "source": "金十数据",
@@ -452,7 +464,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -466,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "A股 4100点",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%204100%E7%82%B9&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "A股绿电概念午后再度拉升，晶科科技直线涨停，此前华电能源涨停，绿发电力、军信股份、新天绿能、南网能源、粤电力A跟涨。",
@@ -501,6 +524,28 @@
           "time_info": "13时44分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-04-23）",
+          "url": "https://flash.jin10.com/detail/20260423151936388800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "A股收盘：北证50指数跌约3%，全市场成交超2.8万亿",
+          "url": "https://wallstreetcn.com/livenews/3093119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "A股午评：上证综指早盘回调 有色金属、CPO板块走低",
           "url": "https://flash.jin10.com/detail/20260423113340573800",
           "source": "金十数据",
@@ -521,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "上证指数收报4093.25点，跌0.32%。 深证成指收报15043.45点，跌0.88%。 创业板指收报3720.25点，跌0.87%。 沪深300收报4786.33点，跌0.28%。 科创50收报1432.59点，跌1.28%。 中证500收报8295.21点，跌0.97%。 中证1000收报8362.74点，跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3093118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "A股农业板块盘中逆势活跃，食用菌方向领涨，华绿生物20cm涨停，雪榕生物、众兴菌业、宏辉果蔬、深粮控股跟涨。",
@@ -658,7 +714,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -708,8 +764,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时27分 ~ 14时32分]"
+          "appearance_count": 14,
+          "time_info": "[03时27分 ~ 15时32分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -723,21 +779,6 @@
           "time_info": "[00时21分 ~ 04时38分]"
         },
         {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时32分]"
-        },
-        {
           "title": "伊朗：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
@@ -747,8 +788,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时32分 ~ 15时32分]"
+        },
+        {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
@@ -760,6 +817,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 06时14分]"
+        },
+        {
+          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
+          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时15分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -785,17 +855,16 @@
           "time_info": "[00时21分 ~ 02时18分]"
         },
         {
-          "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
-          "url": "https://news.ifeng.com/c/8sXQUmwnG6C",
-          "source": "凤凰网",
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            7,
-            9
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时15分 ~ 14时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时09分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
@@ -809,6 +878,32 @@
           "time_info": "[07时15分 ~ 08时15分]"
         },
         {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时32分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时32分 ~ 15时32分]"
+        },
+        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -820,16 +915,17 @@
           "time_info": "[00时21分 ~ 01时19分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
-          "source": "华尔街见闻",
+          "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
+          "url": "https://www.cls.cn/detail/2352936",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            9,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时32分]"
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
@@ -841,17 +937,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
@@ -876,20 +961,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 14时32分]"
-        },
-        {
           "title": "据伊朗司法机构旗下网站Mizan News：伊朗否认特朗普关于停止处决女性囚犯的说法。",
           "url": "https://flash.jin10.com/detail/20260423024809258800",
           "source": "金十数据",
@@ -907,22 +978,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
         {
-          "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
-          "url": "https://www.cls.cn/detail/2352936",
-          "source": "财联社热门",
+          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
+          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时59分 ~ 14时32分]"
+          "time_info": "[12时09分 ~ 15时32分]"
         },
         {
           "title": "白宫顾问哈塞特声称：非常相信美国参议院将针对美联储主席提名人沃什做正确的事（投票确认他的提名资格）。 总统特朗普希望沃什很快就能前往美联储就职。",
@@ -958,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时15分]"
-        },
-        {
-          "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
-          "url": "https://news.ifeng.com/c/8sYPEJGNmH6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时09分 ~ 14时32分]"
         },
         {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
@@ -1153,6 +1211,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "观察｜我们选取了特朗普的50篇战时“小作文”，语言学家这样解码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33028669",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "限制特朗普战争权力议案第五次遭美参议院否决",
           "url": "https://flash.jin10.com/detail/20260423130400036800",
           "source": "金十数据",
@@ -1266,7 +1335,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.883%（3月17日为4.817%），投标倍数2.68（前次为2.76）。",
@@ -1385,6 +1454,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约跌0.22%，10年期主力合约跌0.07%，5年期主力合约跌0.02%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3093127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美国至4月22日20年期国债竞拍-得标利率 4.883%，前值4.82%。",
           "url": "https://flash.jin10.com/detail/20260423010256554800",
           "source": "金十数据",
@@ -1462,6 +1542,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260423151639590800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "英国国债价格跌幅扩大，两年期英债收益率涨5个基点，报4.32%。",
           "url": "https://wallstreetcn.com/livenews/3092724",
           "source": "华尔街见闻-快讯",
@@ -1476,7 +1567,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "停火延长叠加强劲财报，标普、纳指收创新高，芯片股创最长连涨天数，原油三连涨",
@@ -1488,8 +1579,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时14分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[06时14分 ~ 15时32分]"
         },
         {
           "title": "布伦特原油突破100美元 美伊仍未能开启第二轮和平谈判 | 环球市场",
@@ -1501,8 +1592,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时15分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[08时15分 ~ 15时32分]"
         },
         {
           "title": "WTI原油期货日内扩大至4%，现报93.26美元/桶。",
@@ -1625,6 +1716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "商品期货收盘，LU燃油主力合约涨超5%，燃料油涨超4%，液化气、苯乙烯、原油、液化气、对二甲苯、碳酸锂涨超2%。钯、苹果跌超2%，沪银、多晶硅、铂跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3093115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "早盘收盘，国内期货主力合约涨跌互现。低硫燃料油（LU）涨超6%，燃料油涨近5%，SC原油涨超3%，对二甲苯、PTA涨超2%，瓶片、苯乙烯涨近2%。跌幅方面，沪银、苹果、钯跌超2%，铂、多晶硅、沪锡、工业硅跌超1%。",
@@ -1839,8 +1941,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[07时15分 ~ 15时32分]"
         },
         {
           "title": "金银比低位震荡暗示多头未死，金价陷最不利组合紧盯三大变数",
