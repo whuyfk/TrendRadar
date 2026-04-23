@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T22:41:41.097341+08:00",
-  "total_titles_processed": 2151,
+  "generated_at": "2026-04-23T23:32:32.209355+08:00",
+  "total_titles_processed": 2233,
   "failed_sources": [],
   "trends": [
     {
@@ -85,6 +85,17 @@
           "time_info": "[00时21分 ~ 06时14分]"
         },
         {
+          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
+        },
+        {
           "title": "A股 4100点",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%204100%E7%82%B9&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -132,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "美伊局势升温，美股低开，特斯拉跌4%，金银下跌，油价涨超1%",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         },
         {
           "title": "社保基金去年年末持有34只科创板股：新进7股，增持9股",
@@ -253,6 +253,18 @@
           "time_info": "[09时32分 ~ 10时59分]"
         },
         {
+          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2353918",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时32分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -264,18 +276,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时59分 ~ 13时44分]"
-        },
-        {
-          "title": "中东局势再搅市场 油价站上103美元 美股三大期指走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2353918",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时41分]"
         },
         {
           "title": "英特尔美股盘后涨3%，马斯克在电话会议上官宣采用英特14A产品技术的交易。",
@@ -606,7 +606,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -628,7 +628,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -925,7 +925,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         }
@@ -933,7 +933,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
@@ -970,6 +970,20 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
+          "url": "https://wallstreetcn.com/articles/3770662",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时09分 ~ 23时32分]"
+        },
+        {
           "title": "伊朗：特朗普又说谎了",
           "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
           "source": "凤凰网",
@@ -983,17 +997,21 @@
           "time_info": "[09时32分 ~ 19时23分]"
         },
         {
-          "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
-          "url": "https://wallstreetcn.com/articles/3770662",
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
           "source": "华尔街见闻",
           "ranks": [
-            8,
+            9,
+            7,
+            6,
             5,
-            4
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时09分 ~ 22时41分]"
+          "appearance_count": 25,
+          "time_info": "[03时27分 ~ 23时32分]"
         },
         {
           "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
@@ -1006,22 +1024,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 06时14分]"
-        },
-        {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[03时27分 ~ 22时41分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -1042,8 +1044,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时09分 ~ 22时41分]"
+          "appearance_count": 16,
+          "time_info": "[12时09分 ~ 23时32分]"
         },
         {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
@@ -1088,8 +1090,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时32分 ~ 22时41分]"
+          "appearance_count": 12,
+          "time_info": "[15时32分 ~ 23时32分]"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
@@ -1102,11 +1104,12 @@
             16,
             15,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时32分 ~ 22时41分]"
+          "appearance_count": 11,
+          "time_info": "[16时32分 ~ 23时32分]"
         },
         {
           "title": "伊朗战争丨白宫：特朗普未就停火延长设最后期限",
@@ -1168,6 +1171,17 @@
           "time_info": "[07时15分 ~ 08时15分]"
         },
         {
+          "title": "伊朗战争丨特朗普：伊朗159艘海军舰艇均已沉入海底",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
+        },
+        {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
           "source": "澎湃新闻",
@@ -1205,17 +1219,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "伊朗战争丨特朗普：伊朗159艘海军舰艇均已沉入海底",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
           "url": "https://flash.jin10.com/detail/20260423011502024800",
           "source": "金十数据",
@@ -1244,9 +1247,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：美国总统特朗普攻击美联储，使得投资者转向避险资产。",
+          "url": "https://wallstreetcn.com/livenews/3093401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
+          "url": "https://www.zhihu.com/question/2030579933127391060",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时15分 ~ 23时32分]"
         },
         {
           "title": "据伊朗司法机构旗下网站Mizan News：伊朗否认特朗普关于停止处决女性囚犯的说法。",
@@ -1280,17 +1306,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
-        },
-        {
-          "title": "乌克兰提议以特朗普命名争议区域",
-          "url": "https://www.toutiao.com/trending/7631221261339902006/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         },
         {
           "title": "特朗普团队搬出“现货溢价”忽悠人，贝森特大拽术语难救中期选举",
@@ -1337,18 +1352,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "特朗普称何时结束同伊朗冲突没有时间表，美军已指令 29 艘船只掉头或返回伊朗港口，特朗普表态为何如此反复？",
-          "url": "https://www.zhihu.com/question/2030579933127391060",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时15分 ~ 22时41分]"
-        },
-        {
           "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
           "url": "https://wallstreetcn.com/articles/3770527",
           "source": "华尔街见闻",
@@ -1373,6 +1376,18 @@
           "time_info": "[06时14分 ~ 07时15分]"
         },
         {
+          "title": "乌克兰提议以特朗普命名争议区域",
+          "url": "https://www.toutiao.com/trending/7631221261339902006/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
+        },
+        {
           "title": "梅洛尼“背叛”特朗普 美意发生什么",
           "url": "https://www.toutiao.com/trending/7631531609938083859/",
           "source": "今日头条",
@@ -1383,6 +1398,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时31分 ~ 22时41分]"
+        },
+        {
+          "title": "特朗普下令击沉任何在霍尔木兹海峡布设水雷的船只，伊朗：已制定反击目标清单",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
         },
         {
           "title": "美国参议院Graham：今天与总统特朗普和战争部长海格塞斯讨论了伊朗问题。",
@@ -1431,6 +1457,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普下令击沉霍尔木兹布雷船",
+          "url": "https://www.toutiao.com/trending/7631748432839770138/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时41分 ~ 23时32分]"
         },
         {
           "title": "内幕交易疑云再起？特朗普宣布延长停火前 神秘资金精准做空原油",
@@ -1490,17 +1527,6 @@
           "time_info": "08时15分"
         },
         {
-          "title": "特朗普下令击沉任何在霍尔木兹海峡布设水雷的船只，伊朗：已制定反击目标清单",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
-        },
-        {
           "title": "美国总统特朗普很快将重新归类大麻。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3092739",
           "source": "华尔街见闻-快讯",
@@ -1534,6 +1560,17 @@
           "time_info": "08时15分"
         },
         {
+          "title": "特朗普：已下令美海军击沉任何在霍尔木兹海峡布雷的船只",
+          "url": "https://www.cls.cn/detail/2354007",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3092789",
           "source": "华尔街见闻-快讯",
@@ -1543,17 +1580,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "特朗普下令击沉霍尔木兹布雷船",
-          "url": "https://www.toutiao.com/trending/7631748432839770138/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时41分"
         },
         {
           "title": "国际油价短线拉升，此前特朗普命令海军向在霍尔木兹海峡布雷的船只开火",
@@ -1633,6 +1659,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "美国农业部长Rollins：（特朗普）政府每天都在解决化肥成本问题。",
+          "url": "https://wallstreetcn.com/livenews/3093383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "限制特朗普战争权力议案第五次遭美参议院否决",
           "url": "https://flash.jin10.com/detail/20260423130400036800",
           "source": "金十数据",
@@ -1664,6 +1701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "伊朗挂巨幅海报：特朗普说什么都没用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "白宫：特朗普尚未设定与伊朗停火的最后期限",
@@ -1705,7 +1753,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -1749,7 +1797,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时41分"
         },
@@ -2011,7 +2059,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "停火延长叠加强劲财报，标普、纳指收创新高，芯片股创最长连涨天数，原油三连涨",
@@ -2020,11 +2068,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时14分 ~ 22时41分]"
+          "appearance_count": 21,
+          "time_info": "[06时14分 ~ 23时32分]"
         },
         {
           "title": "布伦特原油突破100美元 美伊仍未能开启第二轮和平谈判 | 环球市场",
@@ -2138,6 +2187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "墨西哥总统：墨西哥将向日本出售一百万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260423230814956800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "雪佛龙表示，4月22日，其位于得克萨斯州帕萨迪纳的帕萨迪纳炼油厂雷德布拉夫储罐区（Red Bluff Tank Farm）的一个原油储罐发生了泄漏事故。 目前泄漏已被控制在厂区范围内，清理工作正在进行中。 截至目前，尚未收到任何人员伤亡或厂区外影响的报告，公司已部署加强型环境监测。",
@@ -2409,11 +2469,12 @@
             19,
             16,
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时41分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时32分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",
