@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-25T03:17:43.729900+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-04-25T04:12:31.911783+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 33,
       "titles": [
-        {
-          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
-          "url": "https://wallstreetcn.com/articles/3770720",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
-        },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
           "url": "https://news.ifeng.com/c/8saWP92grSp",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -37,30 +26,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
           "url": "https://wallstreetcn.com/articles/3770760",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -70,19 +61,65 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
-          "title": "美国总统特朗普讨论伊朗停火问题，试图达成一份协议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3094259",
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
+        },
+        {
+          "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
+          "url": "https://wallstreetcn.com/livenews/3094280",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普称伊朗拟提出提议回应美方要求，伊方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3094279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
+          "url": "https://flash.jin10.com/detail/20260425033951908800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普讨论伊朗停火问题，试图达成一份协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3094259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时12分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -91,11 +128,12 @@
           "ranks": [
             7,
             8,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时12分]"
         },
         {
           "title": "美媒：特朗普派遣其女婿及特使赴巴基斯坦同伊朗谈判",
@@ -180,13 +218,24 @@
           "time_info": "02时11分"
         },
         {
+          "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "卡塔尔埃米尔告诉美国总统特朗普，多哈将继续协调以支持巴基斯坦的调解努力。",
           "url": "https://flash.jin10.com/detail/20260425022503023800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -230,7 +279,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -241,7 +290,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -257,6 +306,50 @@
           "time_info": "00时17分"
         },
         {
+          "title": "卡塔尔埃米尔与美国总统特朗普通话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3094264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
+          "url": "https://flash.jin10.com/detail/20260425025242021800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望进行对话，看看是否能够达成协议。",
+          "url": "https://flash.jin10.com/detail/20260425025211926800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗计划提出一项旨在解决美方要求的方案。",
+          "url": "https://flash.jin10.com/detail/20260425025154863800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
           "url": "https://flash.jin10.com/detail/20260425002423833800",
           "source": "金十数据",
@@ -266,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗谈判的美国官员正在与当下掌权的人打交道。",
+          "url": "https://flash.jin10.com/detail/20260425025130840800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "市场消息：美国联邦上诉法院已推翻特朗普政府的庇护限制措施。",
@@ -292,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek V4 Pro实测",
@@ -303,8 +407,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -315,8 +419,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -328,8 +432,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek-V4虽迟但到！百万上下文成标配 华为昇腾和英伟达均被写进其技术报告",
@@ -341,6 +445,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            5,
+            10,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -368,20 +487,6 @@
           "time_info": "[00时17分 ~ 02时11分]"
         },
         {
-          "title": "DeepSeek V4揭开AI内卷终局",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            5,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
-        },
-        {
           "title": "实测DeepSeek V4",
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
@@ -392,8 +497,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -403,11 +508,12 @@
             13,
             19,
             18,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -415,11 +521,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -428,11 +535,12 @@
           "ranks": [
             18,
             16,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "终于来了！DeepSeekV4预览版本正式发布：Agent、世界知识和推理性能在开源领域领先",
@@ -442,8 +550,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -456,8 +564,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -591,18 +699,19 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "美伊谈判叠加强劲财报，美股高开，英特尔涨26%股价创新高，布油重回105美元，金银转涨",
@@ -610,11 +719,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "美股期指涨跌不一 英特尔盘前一度大涨30% | 今夜看点",
@@ -622,11 +732,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 04时12分]"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -649,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.29%，报26041点。 恒生科技指数主连夜盘收涨0.53%，报4926点。",
+          "url": "https://wallstreetcn.com/livenews/3094261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -676,7 +798,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "WTI 6月原油期货收跌1.45美元，跌幅1.51%，报94.40美元/桶，本周累计上涨将近14.30%。 中东Abu Dhabi Murban原油期货跌1.74%，报104.11美元/桶，本周累涨13.53%。 NYMEX 5月天然气期货收报2.5230美元/百万英热单位。 NYMEX 5月汽油期货收报3.4626美元/加仑，NYMEX 5月取暖油期货收报3.8874美元/加仑。",
@@ -685,7 +807,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -694,11 +816,34 @@
           "url": "https://wallstreetcn.com/livenews/3094255",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时12分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月21日当周，投机者所持NYMEX WTI原油净多头头寸减少842手合约，至143,401手合约。 所持布伦特与WTI原油净多头头寸增至497,330手合约。 所持NYMEX汽油净多头头寸增至58,048手合约，所持NYMEX柴油净多头头寸降低至14,014手合约、创九周新低。 所持NYMEX天然气净多头头寸降低至50,425手合约，创大约17个月新低。",
+          "url": "https://wallstreetcn.com/livenews/3094275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时17分"
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，WTI原油期货投机性净多头寸增加5332手至111915手。",
+          "url": "https://flash.jin10.com/detail/20260425032947049800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "WTI原油向下触及95美元/桶，日内跌4.34%。",
@@ -710,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌1.45美元，跌幅1.51%，报94.40美元/桶，本周累计上涨将近14.30%。 布伦特6月原油期货收报105.33美元/桶。 中东Abu Dhabi Murban原油期货跌1.74%，报104.11美元/桶，本周累涨13.53%。 NYMEX 5月天然气期货收报2.5230美元/百万英热单位。 NYMEX 5月汽油期货收报3.4626美元/加仑，NYMEX 5月取暖油期货收报3.8874美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3094256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "初步计划显示，尼日利亚四大主要原油品级6月出口量预计平均为每日82.7万桶，高于5月的每日80.7万桶。",
@@ -736,8 +892,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "金价跌破新低",
@@ -746,11 +902,12 @@
           "ranks": [
             29,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 04时12分]"
         },
         {
           "title": "国际金价银价下跌",
@@ -762,14 +919,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 03时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时12分]"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英国两年期国债收益率本周涨约23个基点",
@@ -794,6 +951,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时11分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月21日当周，投机者将CBOT美国2年期国债期货净空头寸增加39547手至1743353手，美国5年期国债期货净空头寸减少92995手至1532750手，美国10年期国债期货净空头寸减少9394手至790971手，超长期国债期货净空头寸减少536手至300287手。",
+          "url": "https://flash.jin10.com/detail/20260425033224103800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
@@ -808,9 +976,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数周五跌超0.2%，本周累计涨幅收窄至将近0.4%",
+          "url": "https://wallstreetcn.com/livenews/3094271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     }
