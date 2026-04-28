@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T03:31:24.372025+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-29T04:26:35.575143+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -43,13 +44,24 @@
           "time_info": "[00时32分 ~ 02时28分]"
         },
         {
+          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
+          "url": "https://flash.jin10.com/detail/20260429032221127800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "美国驻乌克兰大使将因与美国总统特朗普的分歧而离职。",
           "url": "https://flash.jin10.com/detail/20260429024103001800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -65,13 +77,24 @@
           "time_info": "02时28分"
         },
         {
+          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
+          "url": "https://flash.jin10.com/detail/20260429031029178800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
           "title": "特朗普回应德国总理嘲笑：他根本不懂自己在说什么",
           "url": "https://flash.jin10.com/detail/20260429023026738800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -82,7 +105,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -93,7 +116,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -104,7 +127,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -115,7 +138,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -156,7 +179,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -166,8 +189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
@@ -177,8 +200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -189,19 +212,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
-        },
-        {
-          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
-          "url": "https://flash.jin10.com/detail/20260429030025624800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -215,6 +227,18 @@
           "time_info": "02时28分"
         },
         {
+          "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
+          "url": "https://flash.jin10.com/detail/20260429030025624800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
+        },
+        {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
           "url": "https://wallstreetcn.com/livenews/3095943",
           "source": "华尔街见闻-快讯",
@@ -225,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时28分]"
+        },
+        {
+          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
+          "url": "https://flash.jin10.com/detail/20260429025003263800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
         },
         {
           "title": "随着微软放弃排他性协议，亚马逊将开始销售OpenAI的技术",
@@ -251,26 +287,27 @@
           "time_info": "[01时32分 ~ 02时28分]"
         },
         {
-          "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
-          "url": "https://flash.jin10.com/detail/20260429025003263800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
           "title": "马斯克将成为自己起诉OpenAI与Altman一案的第一位（出庭的）证人。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095967",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
+        },
+        {
+          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
+          "url": "https://wallstreetcn.com/livenews/3095986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时26分"
         },
         {
           "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
@@ -298,7 +335,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国至4月28日7年期国债竞拍-投标倍数 2.51，前值2.43。",
@@ -381,6 +418,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时32分]"
+        },
+        {
+          "title": "美国两年期国债收益率涨约4.3个基点",
+          "url": "https://wallstreetcn.com/livenews/3095981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         }
       ]
     },
@@ -388,28 +436,6 @@
       "keyword_group": "原油",
       "match_count": 7,
       "titles": [
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
-          "url": "https://flash.jin10.com/detail/20260429025700770800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
-          "url": "https://flash.jin10.com/detail/20260429025354754800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
         {
           "title": "据Tanker Tracker：卫星图像显示，伊朗国家油轮公司旗下的10艘油轮已确认停泊在恰巴哈尔港附近的港口外。这表明，在美国实施海上封锁后，从伊朗出发的原油运输路线正在发生变化。",
           "url": "https://flash.jin10.com/detail/20260429002733297800",
@@ -423,15 +449,52 @@
           "time_info": "[00时32分 ~ 01时32分]"
         },
         {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
+          "url": "https://flash.jin10.com/detail/20260429025700770800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
+          "url": "https://flash.jin10.com/detail/20260429025354754800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
+        },
+        {
           "title": "阿联酋阿布扎比国家石油公司（ADNOC）：已将其基准穆尔班（Murban）原油5月份的官方售价（OSP）定为每桶110.75美元，较4月份每桶69.45美元的官方售价大幅上调。",
           "url": "https://wallstreetcn.com/livenews/3095973",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
+        },
+        {
+          "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3095965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
         },
         {
           "title": "美国原油期货结算价为每桶99.93美元，上涨3.56美元，涨幅3.69%。",
@@ -440,18 +503,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "WTI 6月原油期货收涨3.56美元，涨幅3.69%，报99.93美元/桶。 布伦特6月原油期货收涨3.03美元，涨幅2.80%，报111.26美元/桶。 中东Abu Dhabi Murban原油期货涨2.91%，报107.22美元/桶。 NYMEX 5月天然气期货收报2.5590美元/百万英热单位。 NYMEX 5月汽油期货收报3.5604美元/加仑，NYMEX 5月取暖油期货收报3.9712美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3095965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -462,7 +514,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
@@ -470,7 +522,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -481,8 +533,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "未盈利第三单，湾区“H回A”首单，越疆科技闯关创业板",
@@ -493,8 +545,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.21%，报25762点。 恒生科技指数主连夜盘收涨0.54%，报4861点。",
+          "url": "https://wallstreetcn.com/livenews/3095968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时26分]"
         },
         {
           "title": "【焦点复盘】创业板指4连阴失守10日线，资金连续热捧氦气概念，“股王”宝座盘中反复易主",
@@ -508,15 +572,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "恒生指数主连夜盘收涨0.21%，报25762点。 恒生科技指数主连夜盘收涨0.54%，报4861点。",
-          "url": "https://wallstreetcn.com/livenews/3095968",
+          "title": "周二（4月28日）纽约尾盘，ICE美元指数涨0.16%，报98.656点，日内交投区间为98.426-98.874点，在持续的上行行情中、于北京时间20:11刷新日高，随后逐步回吐涨幅。 彭博美元指数涨0.16%，报1197.75点，日内交投区间为1195.04-1200.24点，也在美股开盘之前刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3095983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时26分"
         },
         {
           "title": "癌症药物研发公司Erasca股价暴跌55% 一名患者因药物副作用去世",
@@ -525,7 +589,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
@@ -543,8 +607,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时26分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
