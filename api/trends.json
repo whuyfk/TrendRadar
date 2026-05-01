@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:29:09.051797+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-05-01T19:23:56.943653+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[04时21分 ~ 18时29分]"
+          "appearance_count": 18,
+          "time_info": "[04时21分 ~ 19时23分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时17分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[08时17分 ~ 19时23分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -248,6 +248,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普家族支持的无人机公司与美国签署武器采购协议",
           "url": "https://flash.jin10.com/detail/20260430235413637800",
           "source": "金十数据",
@@ -319,17 +330,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -439,11 +439,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
@@ -551,6 +552,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "一位白宫官员表示，特朗普政府正与国会进行“积极磋商”，探讨是否寻求对伊朗战争的授权。",
           "url": "https://flash.jin10.com/detail/20260501034758501800",
           "source": "金十数据",
@@ -637,6 +649,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普：我将取消与苏格兰和肯塔基州在威士忌和波旁威士忌领域合作相关的威士忌关税和限制。",
@@ -769,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "埃克森美孚石油(XOM.N)和雪佛龙(CVX.N)顶住美国总统特朗普施压，拒绝提高石油产量。",
+          "url": "https://flash.jin10.com/detail/20260501183405543800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "特朗普称只有他和少数几个人知道伊朗谈判的真实情况。",
@@ -950,7 +984,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -976,28 +1010,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "科创板连续七年保持近13%的研发投入强度，稳居A股各板块研发投入强度首位",
-          "url": "https://wallstreetcn.com/livenews/3097871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3097869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "在Q1财报发布后，Rivian(RIVN.O)美股盘前跌4.3%。",
           "url": "https://flash.jin10.com/detail/20260501160813040800",
           "source": "金十数据",
@@ -1020,6 +1032,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时16分 ~ 08时17分]"
+        },
+        {
+          "title": "科创板连续七年保持近13%的研发投入强度，稳居A股各板块研发投入强度首位",
+          "url": "https://wallstreetcn.com/livenews/3097871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时23分]"
         },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
@@ -1072,6 +1096,18 @@
           "time_info": "[05时19分 ~ 06时16分]"
         },
         {
+          "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时23分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
           "url": "https://wallstreetcn.com/livenews/3097675",
           "source": "华尔街见闻-快讯",
@@ -1097,6 +1133,18 @@
           "time_info": "[08时17分 ~ 11时01分]"
         },
         {
+          "title": "沪市公司去年业绩出炉：主板全年分红1.82万亿，科创板营收净利双位数增长",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088723",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时23分]"
+        },
+        {
           "title": "A股年度派现金额创历史新高",
           "url": "https://wallstreetcn.com/livenews/3097805",
           "source": "华尔街见闻-快讯",
@@ -1107,6 +1155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时44分 ~ 16时35分]"
+        },
+        {
+          "title": "雅诗兰黛美股盘前涨超10%，公司第三财季财报好于预期",
+          "url": "https://wallstreetcn.com/livenews/3097866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时23分]"
         },
         {
           "title": "A股年度派现金额创历史新高",
@@ -1145,28 +1205,6 @@
           "time_info": "[06时16分 ~ 07时16分]"
         },
         {
-          "title": "沪市公司去年业绩出炉：主板全年分红1.82万亿，科创板营收净利双位数增长",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088723",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "雅诗兰黛美股盘前涨超10%，公司第三财季财报好于预期",
-          "url": "https://wallstreetcn.com/livenews/3097866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "美股盘前 闪迪跌约5%、西部数据跌约7%",
           "url": "https://flash.jin10.com/detail/20260501160345664800",
           "source": "金十数据",
@@ -1187,6 +1225,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "“科创板八条”发布以来，科创板公司累计新增产业并购200余单",
+          "url": "https://wallstreetcn.com/livenews/3097874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "埃克森美孚第一季度收入及其他收益851.4亿美元。 第一季度调整后每股收益1.16美元，预估0.96美元。 埃克森美孚美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "新闻交易员：油价都三位数了，美股还在笑，究竟谁在扛雷？",
@@ -1284,6 +1344,17 @@
           "time_info": "09时33分"
         },
         {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时23分]"
+        },
+        {
           "title": "德国两年期国债收益率于欧洲央行决议日跌10个基点",
           "url": "https://wallstreetcn.com/livenews/3097645",
           "source": "华尔街见闻-快讯",
@@ -1318,17 +1389,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.6%，投标倍数2.92。 拍卖八周期国债，得标利率3.620%，投标倍数2.79。",
@@ -1445,8 +1505,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时16分 ~ 18时29分]"
+          "appearance_count": 16,
+          "time_info": "[06时16分 ~ 19时23分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1471,8 +1531,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 18时29分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 19时23分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1515,6 +1575,19 @@
           "time_info": "[00时28分 ~ 05时19分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -1551,18 +1624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时29分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时29分]"
         },
         {
           "title": "谷歌A收涨10%，创收盘历史新高。",
@@ -1603,7 +1664,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿根廷石油生产商达成协议，以减轻原油价格上涨的影响。",
@@ -1700,6 +1761,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)：中东供应中断及亚太地区业务原油供应减少，导致第一季度全球能源产品吞吐量较2025年第四季度下降约1%。",
+          "url": "https://flash.jin10.com/detail/20260501184016945800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "日本首相高市早苗：召开了关于中东局势的部长会议。关于原油，预计通过不经过霍尔木兹海峡的替代采购路线将能够确保每天约140万桶的稳定供应。",
           "url": "https://flash.jin10.com/detail/20260501095234540800",
           "source": "金十数据",
@@ -1737,11 +1809,12 @@
             6,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 18时29分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 19时23分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
