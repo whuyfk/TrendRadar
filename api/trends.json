@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T04:47:54.421099+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-05-06T05:20:21.145812+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -82,8 +82,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
@@ -103,11 +103,12 @@
           "ranks": [
             28,
             17,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "特朗普避谈伊朗何种行为将被视为违反停火协议：你们会知道的",
@@ -198,7 +199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -209,7 +210,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -260,8 +261,207 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美国至5月1日当周API投产原油量 4.1万桶/日，前值15.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260506044007026800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "美国至5月1日当周API原油进口 -14.4万桶，前值13.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260506043938328800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "伊朗石油部长：在战争期间，伊朗的原油产量并未减少。",
+          "url": "https://flash.jin10.com/detail/20260506002732519800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "美国至5月1日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260506042000001800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3098933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
+          "title": "荷兰国际集团（ING）大宗商品策略师Warren Patterson和Ewa Manthey表示，随着波斯湾局势再度升级，市场再次对供应中断的持续时间进行重新定价，原油和天然气价格在周一再次跳涨。",
+          "url": "https://wallstreetcn.com/livenews/3098889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时31分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达4.0%，报109.82美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时31分]"
+        },
+        {
+          "title": "美国芝加哥BondBloxx投资管理公司合伙人兼高级投资策略师JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。 自3月初以来，这确实是一次大幅波动，因此我们目前处于更高的水平。看起来，如果布伦特原油价格继续按照每天3-5美元的速度上涨，利率可能会上升，但这也开始使固定收益资产更具吸引力，特别是在收益率曲线的中段。",
+          "url": "https://wallstreetcn.com/livenews/3098911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油锐减超800万桶",
+          "url": "https://wallstreetcn.com/livenews/3098939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美国至5月1日当周API库欣原油库存 -104.5万桶，前值-82万桶。",
+          "url": "https://flash.jin10.com/detail/20260506043916735800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。 布伦特7月原油期货收跌4.57美元，跌幅3.99%，报109.87美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国至5月1日当周API原油库存 -814.1万桶，预期-275万桶，前值-179.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260506043829147800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "消息人士：尼日利亚国家石油公司将为6月装船分配6船原油给丹戈特炼油厂，5月为7船。",
+          "url": "https://flash.jin10.com/detail/20260506001204319800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "沙特阿美公司将6月份销往亚洲的阿拉伯轻质原油官方售价（OSP）下调23.50美元/桶，至每桶贴水4.00美元（相对于阿曼/迪拜均价）。",
+          "url": "https://flash.jin10.com/detail/20260506031324867800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "市场消息：沙特阿美公司将销往亚洲的阿拉伯轻质原油官方售价设定为每桶升水15.50美元。",
+          "url": "https://flash.jin10.com/detail/20260506031002208800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "从纪录高点回落：沙特下调6月销往亚洲的阿拉伯轻质原油官方售价",
+          "url": "https://wallstreetcn.com/livenews/3098914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -271,8 +471,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -280,22 +480,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
           "url": "https://www.cls.cn/detail/2362589",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -309,17 +511,6 @@
           "time_info": "01时32分"
         },
         {
-          "title": "AMD(AMD.O)美股盘后涨2%。",
-          "url": "https://flash.jin10.com/detail/20260506042115421800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260506011205693800",
           "source": "金十数据",
@@ -331,37 +522,40 @@
           "time_info": "01时32分"
         },
         {
+          "title": "AMD(AMD.O)美股盘后涨2%。",
+          "url": "https://flash.jin10.com/detail/20260506042115421800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
           "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
           "url": "https://wallstreetcn.com/livenews/3098934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
         },
         {
           "title": "Lumentum第三财季营收8.084亿美元，IBES预期8.043亿美元。 第三财季调整后每股收益（EPS）为2.37美元，IBES预期2.27美元。 第三财季调整后净利润2.257亿美元，分析师预期2.025亿美元。 预计第四财季营收9.60亿-10.1亿美元，预计调整后EPS为2.85-3.05美元。 Lumentum美股盘后跌4%。",
           "url": "https://wallstreetcn.com/livenews/3098932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3098931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.18%，报25860点。 恒生科技指数主连夜盘收涨0.04%，报4940点。",
@@ -376,15 +570,39 @@
           "time_info": "[03时31分 ~ 04时47分]"
         },
         {
+          "title": "AMD一季度调整后每股收益（EPS）为1.37美元，IBES预期1.29美元。 一季度调整后净利润22.65亿美元，IBES预期21.14亿美元。 一季度净利润13.83亿美元。 客户对MI450系列和Helios的（订单）参与正在增强。 AMD美股盘后跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3098931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
           "title": "美股行业ETF普遍收涨，半导体ETF涨超3.1%",
           "url": "https://wallstreetcn.com/livenews/3098929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
+          "url": "https://wallstreetcn.com/livenews/3098937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时20分"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股收盘）",
@@ -393,7 +611,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -404,7 +622,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -415,7 +633,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -423,7 +641,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -518,6 +736,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "OpenAI总裁：今年预计在算力上花费500亿美元",
           "url": "https://flash.jin10.com/detail/20260506025522677800",
           "source": "金十数据",
@@ -564,150 +793,9 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美国至5月1日当周API原油库存将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260506042000001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3098933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
-          "title": "伊朗石油部长：在战争期间，伊朗的原油产量并未减少。",
-          "url": "https://flash.jin10.com/detail/20260506002732519800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "荷兰国际集团（ING）大宗商品策略师Warren Patterson和Ewa Manthey表示，随着波斯湾局势再度升级，市场再次对供应中断的持续时间进行重新定价，原油和天然气价格在周一再次跳涨。",
-          "url": "https://wallstreetcn.com/livenews/3098889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
-        },
-        {
-          "title": "布伦特原油日内跌幅达4.0%，报109.82美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时31分]"
-        },
-        {
-          "title": "WTI 6月原油期货收跌4.15美元，跌幅3.90%，报102.27美元/桶。 布伦特7月原油期货收跌4.57美元，跌幅3.99%，报109.87美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "消息人士：尼日利亚国家石油公司将为6月装船分配6船原油给丹戈特炼油厂，5月为7船。",
-          "url": "https://flash.jin10.com/detail/20260506001204319800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "沙特阿美公司将6月份销往亚洲的阿拉伯轻质原油官方售价（OSP）下调23.50美元/桶，至每桶贴水4.00美元（相对于阿曼/迪拜均价）。",
-          "url": "https://flash.jin10.com/detail/20260506031324867800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "市场消息：沙特阿美公司将销往亚洲的阿拉伯轻质原油官方售价设定为每桶升水15.50美元。",
-          "url": "https://flash.jin10.com/detail/20260506031002208800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美国芝加哥BondBloxx投资管理公司合伙人兼高级投资策略师JoAnne Bianco：目前确实缺乏足以推动市场大幅单边波动的重大消息，但我们的利率水平确实已达到年初——即美伊冲突爆发前——未曾预料的高度。 自3月初以来，这确实是一次大幅波动，因此我们目前处于更高的水平。看起来，如果布伦特原油价格继续按照每天3-5美元的速度上涨，利率可能会上升，但这也开始使固定收益资产更具吸引力，特别是在收益率曲线的中段。",
-          "url": "https://wallstreetcn.com/livenews/3098911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3098935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
         {
           "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
           "url": "https://flash.jin10.com/detail/20260506024845206800",
@@ -719,6 +807,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时31分]"
+        },
+        {
+          "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3098935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
         },
         {
           "title": "谷歌(GOOG.O)首席科学家将于周三与欧盟反垄断监管机构会面。",
@@ -781,6 +881,28 @@
           "time_info": "[02时52分 ~ 03时31分]"
         },
         {
+          "title": "Anthropic拟向谷歌投入2000亿美元",
+          "url": "https://flash.jin10.com/detail/20260506043310242800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260506042737308800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
           "title": "谷歌正在测试AI代理“Remy”，或对标OpenClaw",
           "url": "https://flash.jin10.com/detail/20260506015839157800",
           "source": "金十数据",
@@ -790,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "Anthropic 承诺在谷歌的云服务和芯片上投资2000亿美元。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260506042238368800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时20分"
         },
         {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
@@ -817,8 +950,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         },
         {
           "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
@@ -826,22 +959,53 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 04时47分]"
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 05时20分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
           "url": "https://wallstreetcn.com/livenews/3098912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。",
+          "url": "https://wallstreetcn.com/livenews/3098915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时20分]"
+        },
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260506043446324800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时47分"
+          "time_info": "05时20分"
         }
       ]
     },
@@ -857,11 +1021,12 @@
             12,
             24,
             13,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时20分]"
         }
       ]
     },
@@ -881,25 +1046,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 04时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周二（5月5日）纽约尾盘，ICE美元指数持平，报98.47点，日内交投区间为98.58-98.31点。",
-          "url": "https://wallstreetcn.com/livenews/3098915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 05时20分]"
         }
       ]
     }
