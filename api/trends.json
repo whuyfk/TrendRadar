@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T12:22:59.524577+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-05-06T14:01:10.522355+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 53,
+      "match_count": 66,
       "titles": [
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
@@ -35,6 +35,35 @@
           "time_info": "[00时39分 ~ 08时17分]"
         },
         {
+          "title": "A股4月决断后是Sell in May？",
+          "url": "https://wallstreetcn.com/articles/3771587",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时18分 ~ 14时01分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时17分 ~ 14时01分]"
+        },
+        {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
           "url": "https://www.cls.cn/detail/2362589",
           "source": "财联社热门",
@@ -47,32 +76,15 @@
           "time_info": "[00时39分 ~ 07时31分]"
         },
         {
-          "title": "A股4月决断后是Sell in May？",
-          "url": "https://wallstreetcn.com/articles/3771587",
-          "source": "华尔街见闻",
+          "title": "A股这波行情在涨什么",
+          "url": "https://www.toutiao.com/trending/7635506413829177382/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 12时22分]"
-        },
-        {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 12时22分]"
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -95,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "A股电网设备板块震荡拉升，中恒电气封涨停，科林电气触及涨停，安靠智电涨超10%，四方股份、思源电气、双杰电气、顺钠股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3099150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股盘中）",
@@ -128,6 +151,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "港股重型机械股触底反弹，森松国际(02155.HK)涨超8%，三一重工(06031.HK)涨超6%，埃斯顿(02715.HK)涨超4%，中联重科(01157.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506134405526800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "港股黄金股午后震荡走高，山东黄金、灵宝黄金涨超5%，洛阳钼业涨超3%，周大福、紫金矿业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3099145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2362959",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时01分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时01分]"
         },
         {
           "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
@@ -243,30 +313,6 @@
           "time_info": "[04时47分 ~ 06时18分]"
         },
         {
-          "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2362959",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时22分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时22分]"
-        },
-        {
           "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨2%，布油基金跌超3.2%",
           "url": "https://wallstreetcn.com/livenews/3098937",
           "source": "华尔街见闻-快讯",
@@ -289,6 +335,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时33分 ~ 11时02分]"
+        },
+        {
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
         },
         {
           "title": "恒指高开0.51%，报26029.65点；恒生科技指数涨0.85%。华虹半导体、中芯国际涨超4%。",
@@ -378,7 +435,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -389,7 +446,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -411,7 +468,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -422,9 +479,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "港股黄金股午后再度走强，山东黄金(01787.HK)涨超5%，灵宝黄金(03330.HK)、赤峰黄金(0693.HK)、紫金黄金国际(02259.HK)均涨超4.5%，紫金矿业(02899.HK)、中国白银集团(00815.HK)均正常2.5%。",
+          "url": "https://flash.jin10.com/detail/20260506134012767800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "恒生科技指数盘中一度涨近2%，华虹半导体大涨逾12%，中芯国际涨逾9%。",
@@ -433,7 +501,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -460,6 +528,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "A股电池产业链震荡拉升，容百科技涨超10%，丰元股份此前涨停，宁德时代涨近7%，蔚蓝锂芯、海科新源、国轩高科多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3099139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "金十图示：2026年05月05日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260506040624972800",
           "source": "金十数据",
@@ -469,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "A股PET铜箔板块午后继续拉升，德福科技触及20cm涨停，方邦股份涨超15%，汇成真空、铜冠铜箔、隆扬电子涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-05-06）",
@@ -504,6 +594,28 @@
           "time_info": "04时47分"
         },
         {
+          "title": "百度港股午后涨近5.5%，报130.80港元。",
+          "url": "https://wallstreetcn.com/livenews/3099132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
+          "title": "A股养殖业午后震荡拉升，益生股份涨超4.5%，国联水产、天邦食品、申联生物、*ST天山、圣农发展等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506133518205800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "A股汉得信息盘中直线拉升涨超10%，消息面上，英伟达全球副总裁到访汉得。",
           "url": "https://flash.jin10.com/detail/20260506102227316800",
           "source": "金十数据",
@@ -532,7 +644,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -543,9 +655,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "A股中际旭创成交额达200亿元，现跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260506132641123800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "A股半导体产业链开盘强势，存储芯片方向领涨，通富微电、盈新发展、中国长城竞价涨停，大普微涨超10%，澜起科技、海光信息、德明利、佰维存储涨超8%。",
@@ -598,9 +721,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "A股民爆概念板块午后上扬，晓程科技涨超6%，金奥博涨超4%，航天智造、国泰集团、金石资源、新余国科等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506132434787800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "港股半导体股盘中持续上攻，澜起科技(06809.HK)涨超18%，兆易创新(03986.HK)涨超14%，中芯国际(00981.HK)、华虹半导体(01347.HK)均涨超10%，豪威集团(00501.HK)、晶门半导体(02878.HK)等跟涨。",
@@ -614,13 +748,24 @@
           "time_info": "11时02分"
         },
         {
+          "title": "宁德时代港股配售交易完成后 空头兴趣迅速降温",
+          "url": "https://flash.jin10.com/detail/20260506132305209800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
+        {
           "title": "机构：A股市场震荡上行趋势未改",
           "url": "https://www.toutiao.com/trending/7635611011156623386/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -628,7 +773,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -686,8 +831,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 12时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 14时01分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -739,6 +884,42 @@
           "time_info": "[00时39分 ~ 07时31分]"
         },
         {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
+        },
+        {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 14时01分]"
+        },
+        {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
           "url": "https://flash.jin10.com/detail/20260506032048829800",
           "source": "金十数据",
@@ -786,17 +967,27 @@
           "time_info": "[02时52分 ~ 03时31分]"
         },
         {
-          "title": "特朗普承认自己曾“不得不”常买中国货",
-          "url": "https://www.cls.cn/detail/2363024",
-          "source": "财联社热门",
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
-            10,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时01分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时01分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
@@ -809,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 08时17分]"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
         },
         {
           "title": "美国总统特朗普：燃油价格上涨是（美国和以色列发动战争）需要付出的一点小小的代价。",
@@ -847,17 +1049,6 @@
           "time_info": "[00时39分 ~ 01时32分]"
         },
         {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
           "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
           "url": "https://wallstreetcn.com/livenews/3098993",
           "source": "华尔街见闻-快讯",
@@ -889,17 +1080,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
-          "url": "https://www.cls.cn/detail/2363248",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
         },
         {
           "title": "美国总统特朗普：“自由计划”将暂停一段时间。",
@@ -977,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗媒体称特朗普暂停“自由计划”是为掩盖失败",
+          "url": "https://wallstreetcn.com/livenews/3099125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         },
         {
           "title": "特朗普称疏导霍尔木兹海峡行动暂停",
@@ -1081,8 +1272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时31分 ~ 12时22分]"
+          "appearance_count": 8,
+          "time_info": "[07时31分 ~ 14时01分]"
         },
         {
           "title": "布伦特原油期货下跌近2美元，至108.15美元/桶。",
@@ -1318,7 +1509,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1350,6 +1541,18 @@
       "keyword_group": "chatgpt openai",
       "match_count": 15,
       "titles": [
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时33分 ~ 14时01分]"
+        },
         {
           "title": "OpenAI或加速手机开发",
           "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=10&Refer=top",
@@ -1387,18 +1590,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 02时52分]"
-        },
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时33分 ~ 12时22分]"
         },
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -1527,7 +1718,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
@@ -1615,6 +1806,17 @@
           "time_info": "[02时52分 ~ 03时31分]"
         },
         {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时01分]"
+        },
+        {
           "title": "Anthropic拟向谷歌投入2000亿美元",
           "url": "https://flash.jin10.com/detail/20260506043310242800",
           "source": "金十数据",
@@ -1689,8 +1891,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时31分 ~ 12时22分]"
+          "appearance_count": 12,
+          "time_info": "[03时31分 ~ 14时01分]"
         },
         {
           "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
@@ -1748,7 +1950,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1759,7 +1961,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1770,7 +1972,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -1802,7 +2004,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         },
@@ -1835,7 +2037,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
@@ -1886,11 +2088,12 @@
             30,
             14,
             27,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时22分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 14时01分]"
         }
       ]
     }
