@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-06T15:09:13.642113+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-05-06T16:46:17.793015+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 71,
+      "match_count": 78,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时17分 ~ 16时46分]"
+        },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3771589",
@@ -22,20 +37,6 @@
           "time_info": "[00时39分 ~ 06时18分]"
         },
         {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时17分 ~ 15时09分]"
-        },
-        {
           "title": "A股4月决断后是Sell in May？",
           "url": "https://wallstreetcn.com/articles/3771587",
           "source": "华尔街见闻",
@@ -47,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时18分 ~ 15时09分]"
+          "appearance_count": 12,
+          "time_info": "[06时18分 ~ 16时46分]"
         },
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -82,11 +83,25 @@
           "ranks": [
             19,
             13,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时01分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[11时01分 ~ 16时46分]"
+        },
+        {
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时46分]"
         },
         {
           "title": "A股这波行情在涨什么",
@@ -94,11 +109,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 15时09分]"
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时46分]"
         },
         {
           "title": "金十图示：2026年05月05日（周二）美股热门股票行情一览（美股盘中）",
@@ -173,9 +189,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "港股收评：恒指收涨1.22% 内房及黄金股回暖",
+          "url": "https://flash.jin10.com/detail/20260506162458021800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
@@ -252,18 +279,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时18分]"
-        },
-        {
-          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
-          "url": "https://www.cls.cn/detail/2363413",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 15时09分]"
         },
         {
           "title": "美股三大股指期货走高，纳指期货涨幅扩大至0.9%。",
@@ -434,6 +449,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "A股大涨，成交破3.2万亿！科创50飙涨超5%，存储芯片集体爆发，恒科指涨1%，华虹大涨12%",
+          "url": "https://wallstreetcn.com/articles/3771617",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-05-06）",
           "url": "https://flash.jin10.com/detail/20260506091353459800",
           "source": "金十数据",
@@ -462,7 +488,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -632,6 +658,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "A股收评：科创50指数放量反弹涨5.47%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%94%BE%E9%87%8F%E5%8F%8D%E5%BC%B9%E6%B6%A85.47%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "A股养殖业午后震荡拉升，益生股份涨超4.5%，国联水产、天邦食品、申联生物、*ST天山、圣农发展等跟涨。",
           "url": "https://flash.jin10.com/detail/20260506133518205800",
           "source": "金十数据",
@@ -652,6 +689,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "香港恒生指数5月6日（周三）收盘上涨315.17点，涨幅1.22%，报26213.78点；<br/>香港恒生科技指数5月6日（周三）收盘上涨39.52点，涨幅0.8%，报4969.2点；<br/>国企指数5月6日（周三）收盘上涨70.26点，涨幅0.8%，报8800.75点；<br/>红筹指数5月6日（周三）收盘上涨80.95点，涨幅1.84%，报4487.37点。",
+          "url": "https://flash.jin10.com/detail/20260506161234085800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "2025年A股上市公司营收净利增速双双转正",
@@ -682,9 +730,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.22%，恒生科技指数收涨0.8%；华虹半导体涨超9%，中国海外发展涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3099228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "A股黄金股震荡走高，晓程科技涨近10%，四川黄金涨超8%，赤峰黄金、山金国际、湖南黄金纷纷拉升。",
@@ -693,9 +752,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "美股盘前，AMD大涨超16%，公司Q1营收超预期增长38%，二季度指引超预期；存储芯片概念股延续涨势，美光科技涨超5%，闪迪涨超6%。英特尔涨超5%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3099222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "港股恒生指数盘中涨超1%，恒生科技指数涨超1.7%，信义玻璃(00868.HK)、中芯国际(00981.HK)均涨近10%，龙湖集团(00960.HK)、华润置地(01109.HK)均涨超5%，百度(09888.HK)、阿里巴巴(09988.HK)均涨超4%。",
@@ -740,6 +810,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "港股收盘，恒指收涨1.22%，科指收涨0.8%；信义玻璃(00868.HK)、华虹半导体(01347.HK)涨超9%，中国海外发展(00688.HK)涨超7%，华润置地(01109.HK)涨超6.5%。",
+          "url": "https://flash.jin10.com/detail/20260506160856312800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "A股能源金属板块异动拉升，永杉锂业封板涨停，融捷股份、赣锋锂业、天齐锂业、盛新锂能、远航精密等跟涨。",
@@ -825,7 +906,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         }
@@ -833,7 +914,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -917,22 +998,22 @@
           "time_info": "[00时39分 ~ 08时17分]"
         },
         {
-          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 15时09分]"
-        },
-        {
           "title": "伊朗怎样才算违反停火？特朗普避而不谈",
           "url": "https://news.ifeng.com/c/8su3Btl2lle",
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时46分]"
+        },
+        {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -980,6 +1061,54 @@
           "time_info": "[09时33分 ~ 14时01分]"
         },
         {
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 16时46分]"
+        },
+        {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 16时46分]"
+        },
+        {
+          "title": "中方再回应特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%86%8D%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "伊朗战争丨以总理或再访美劝特朗普重启战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国特使威特科夫和特朗普女婿库什纳正在努力推动外交进程。",
           "url": "https://flash.jin10.com/detail/20260506032048829800",
           "source": "金十数据",
@@ -991,28 +1120,27 @@
           "time_info": "03时31分"
         },
         {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
+          "title": "特朗普建议中国停止进口伊朗原油，外交部：能源政策建议向有关方面了解",
+          "url": "https://wallstreetcn.com/livenews/3099254",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 15时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
-          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
-          "url": "https://www.cls.cn/detail/2363248",
-          "source": "财联社热门",
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11,
-            7
+            8,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时22分 ~ 15时09分]"
+          "time_info": "[13时59分 ~ 16时46分]"
         },
         {
           "title": "美国宣布对伊“攻势结束”，特朗普突然叫停“自由计划”",
@@ -1039,18 +1167,6 @@
           "time_info": "[01时32分 ~ 02时52分]"
         },
         {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 15时09分]"
-        },
-        {
           "title": "据以色列公共广播公司：阿联酋告诉以色列大使，以色列应向特朗普施压，要求其对伊朗采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260506024804024800",
           "source": "金十数据",
@@ -1061,6 +1177,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时31分]"
+        },
+        {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 16时46分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
@@ -1109,17 +1237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "特朗普称暂停“自由计划”行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
@@ -1276,6 +1393,17 @@
           "time_info": "08时17分"
         },
         {
+          "title": "巴基斯坦总理：我对特朗普总统勇敢的领导和关于霍尔木兹海峡“自由计划”暂停的及时宣布表示感激。",
+          "url": "https://flash.jin10.com/detail/20260506161118830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "特朗普称美军或需进入伊朗境内获取核材料",
           "url": "https://flash.jin10.com/detail/20260505235851019800",
           "source": "金十数据",
@@ -1334,7 +1462,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊局势暂趋缓和，芯片股力挺标普纳指新高，原油下挫，盘后AMD大涨",
@@ -1345,8 +1473,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 15时09分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 16时46分]"
         },
         {
           "title": "布伦特原油期货下跌近2美元，至108.15美元/桶。",
@@ -1399,7 +1527,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1571,7 +1699,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1629,6 +1757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达3%，报106.38美元/桶；WTI原油日内跌幅达3.5%，报98.57美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3099213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
@@ -1813,8 +1952,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时46分]"
+        },
         {
           "title": "Anthropic PBC承诺，将在谷歌公司云服务和芯片上投资2000亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3098935",
@@ -1863,18 +2015,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 03时31分]"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 15时09分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
@@ -1966,12 +2106,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "Alphabet股价在盘前上涨1.5%，因有报道称Anthropic承诺在谷歌的云计算和芯片上投资2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260506160515862800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
@@ -2005,6 +2156,17 @@
           "time_info": "[00时39分 ~ 09时33分]"
         },
         {
+          "title": "财政部今年将在香港发行840亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3099252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.27%，10年期主力合约跌0.06%，5年期主力合约跌0.02%，2年期主力合约跌0.01%。",
           "url": "https://wallstreetcn.com/livenews/3099041",
           "source": "华尔街见闻-快讯",
@@ -2035,7 +2197,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -2087,7 +2249,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价跳水是机会还是坑",
@@ -2111,9 +2273,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
+        },
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "金价终于喘了口气，但“下半场”恐还没开始？",
@@ -2147,6 +2320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "现货铂金价格上涨近3%，至2011.80 美元/盎司。 现货钯金价格上涨3%，至1530.33 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "国际金银价格走高",
