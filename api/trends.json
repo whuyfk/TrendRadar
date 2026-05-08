@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T04:20:21.417995+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-05-09T05:19:58.053075+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -51,8 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
@@ -62,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -206,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3100921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "法庭文件显示，特朗普就关税问题最新败诉提起上诉。",
@@ -353,9 +364,162 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 7,
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 11,
       "titles": [
+        {
+          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
+          "url": "https://www.cls.cn/detail/2366511",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
+          "url": "https://www.cls.cn/detail/2366454",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
+          "url": "https://wallstreetcn.com/articles/3771813",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
+          "url": "https://flash.jin10.com/detail/20260509040234696800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍收涨，纳指ETF涨超2.3%，布油基金今年迄今涨超87%",
+          "url": "https://wallstreetcn.com/livenews/3100919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "美股行业ETF多数收跌，网络股ETF跌超0.8%，半导体指数涨4.9%",
+          "url": "https://wallstreetcn.com/livenews/3100917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.06%，报26250点。 恒生科技指数主连夜盘收跌0.49%，报5078点。",
+          "url": "https://wallstreetcn.com/livenews/3100883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "六大方向谁会成为A股新主线",
+          "url": "https://www.toutiao.com/trending/7637471067008237619/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "花旗：当前基本情景预计，2026年第二季度布伦特原油价格平均为110美元，随后在第三季度降至95美元，第四季度降至80美元。",
+          "url": "https://flash.jin10.com/detail/20260509041442169800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
+        {
+          "title": "花旗：维持对未来3个月原油价格120美元的预测。",
+          "url": "https://flash.jin10.com/detail/20260509041423086800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
         {
           "title": "WTI 6月原油期货收涨0.61美元，涨幅0.64%，报95.42美元/桶。 中东Abu Dhabi Murban原油期货涨2.78%，报99.35美元/桶，本周累跌4.25%。 NYMEX 6月天然气期货收报2.7570美元/百万英热单位。 NYMEX 6月汽油期货收报3.5267美元/加仑，NYMEX 6月取暖油期货收报3.8991美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3100878",
@@ -407,9 +571,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "花旗维持0-3个月石油价格预期在120美元不变。 当前基本情景预计，2026年第二季度布伦特原油价格平均为110美元，随后在第三季度降至95美元，第四季度降至80美元。",
+          "url": "https://wallstreetcn.com/livenews/3100913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
         },
         {
           "title": "洲际交易所（ICE）：截至5月5日当周，布伦特原油投机者将净多头头寸削减9,000份合约，降至374,205份；燃料油投机者将净多头头寸减少1,621份合约，降至59,651份。",
@@ -418,7 +593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         },
@@ -429,122 +604,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
-        },
-        {
-          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
-          "url": "https://www.cls.cn/detail/2366511",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
-        },
-        {
-          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
-          "url": "https://www.cls.cn/detail/2366454",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
-        },
-        {
-          "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
-          "url": "https://wallstreetcn.com/articles/3771813",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 04时20分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 英特尔涨近14%",
-          "url": "https://flash.jin10.com/detail/20260509040234696800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.06%，报26250点。 恒生科技指数主连夜盘收跌0.49%，报5078点。",
-          "url": "https://wallstreetcn.com/livenews/3100883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
-          "url": "https://flash.jin10.com/detail/20260509024606066800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
-          "url": "https://flash.jin10.com/detail/20260509030041580800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时20分]"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3100893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
@@ -552,8 +612,19 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周五（5月8日）纽约尾盘，美国10年期基准国债收益率跌3.19个基点，报4.3541%，本周累计下跌1.57个基点，整体持续走低，交投于4.4624%-4.3140%区间。 两年期美债收益率跌2.66个基点，报3.8846%，北京时间20:30发布美国非农就业报告时拉升至3.9262%刷新日高、随后快速转跌，本周累涨0.71个基点，整体交投于3.8220%-3.9913%区间。",
+          "url": "https://wallstreetcn.com/livenews/3100929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时19分"
+        },
         {
           "title": "德国两年期国债收益率本周跌约5个基点",
           "url": "https://wallstreetcn.com/livenews/3100844",
@@ -592,6 +663,46 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
+          "url": "https://flash.jin10.com/detail/20260509024606066800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
+          "url": "https://flash.jin10.com/detail/20260509030041580800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时20分]"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 银价",
       "match_count": 1,
       "titles": [
@@ -620,7 +731,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
         }
