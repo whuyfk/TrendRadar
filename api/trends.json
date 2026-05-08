@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T06:18:01.301314+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-05-09T07:17:18.106055+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "特朗普全球关税又受阻！122关税被指缺乏依据，后续也能退款？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -38,33 +38,36 @@
             19,
             7,
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
           "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -109,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
+          "url": "https://wallstreetcn.com/livenews/3100958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美国总统特朗普针对122关税条款的判决结果提出上诉。",
@@ -210,6 +224,28 @@
           "time_info": "[05时19分 ~ 06时18分]"
         },
         {
+          "title": "美国总统特朗普：可能会（在霍尔木兹海峡通航问题上）重拾“自由计划”。 可能会是一个“加强版的自由计划”（project freedom plus）。 如果伊朗不签署协议，美方可能重启“自由计划”。",
+          "url": "https://wallstreetcn.com/livenews/3100956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
+          "url": "https://wallstreetcn.com/livenews/3100955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "特朗普称俄乌9日起停火三天并交换战俘",
           "url": "https://flash.jin10.com/detail/20260509024102423800",
           "source": "金十数据",
@@ -219,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉讨论了所有事，包括关税。",
+          "url": "https://wallstreetcn.com/livenews/3100954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "法庭文件显示，特朗普就关税问题最新败诉提起上诉。",
@@ -243,6 +290,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
+          "url": "https://wallstreetcn.com/livenews/3100953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "美国贸易法院裁定特朗普10%全球关税无效",
           "url": "https://wallstreetcn.com/articles/3771788",
           "source": "华尔街见闻",
@@ -263,6 +321,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国总统特朗普称赞股市上涨，称赞就业数据。",
+          "url": "https://wallstreetcn.com/livenews/3100952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美国总统特朗普：与波兰关系非常好。",
+          "url": "https://wallstreetcn.com/livenews/3100951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯与乌克兰的停火协议可能会超过三天。",
+          "url": "https://wallstreetcn.com/livenews/3100950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "Replimune Group股价上涨 21%，因有消息称美国总统特朗普正计划解雇美国食品药品监督管理局（FDA） 局长马蒂·马卡里。",
@@ -367,7 +458,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -378,8 +469,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
@@ -391,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
@@ -403,8 +494,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
         },
         {
           "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
@@ -415,8 +506,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时17分]"
+        },
+        {
+          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
+          "url": "https://wallstreetcn.com/livenews/3100961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美股收盘：三大股指收涨 英特尔涨近14%",
@@ -428,6 +552,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "美股信息科技指数收涨约4.2%",
+          "url": "https://wallstreetcn.com/livenews/3100957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时17分]"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时17分]"
         },
         {
           "title": "美股大类资产类ETF普遍收涨，纳指ETF涨超2.3%，布油基金今年迄今涨超87%",
@@ -454,26 +611,26 @@
           "time_info": "[05时19分 ~ 06时18分]"
         },
         {
-          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260509040608974800",
-          "source": "金十数据",
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
           "ranks": [
-            18
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
-          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260509040559474800",
-          "source": "金十数据",
+          "title": "周五（5月8日），美股存储芯片与硬件供应链指数收涨8.05%，报188.37点，创收盘历史新高，本周累计上涨18.60%。 成分股悉数走高，Sandisk收涨16.60%，美光科技涨15.49%，应用材料、西部数据、拉姆研究、希捷科技、Rambus、泰瑞达TER涨6.04%-1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3100945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.06%，报26250点。 恒生科技指数主连夜盘收跌0.49%，报5078点。",
@@ -511,8 +668,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时17分]"
         },
         {
           "title": "花旗：维持对未来3个月原油价格120美元的预测。",
@@ -522,8 +679,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时17分]"
         },
         {
           "title": "WTI 6月原油期货收涨0.61美元，涨幅0.64%，报95.42美元/桶。 中东Abu Dhabi Murban原油期货涨2.78%，报99.35美元/桶，本周累跌4.25%。 NYMEX 6月天然气期货收报2.7570美元/百万英热单位。 NYMEX 6月汽油期货收报3.5267美元/加仑，NYMEX 6月取暖油期货收报3.8991美元/加仑。",
@@ -616,6 +773,57 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
+          "url": "https://flash.jin10.com/detail/20260509024606066800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
+          "url": "https://flash.jin10.com/detail/20260509030041580800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时20分]"
+        },
+        {
+          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
+          "url": "https://wallstreetcn.com/livenews/3100943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
+          "url": "https://wallstreetcn.com/livenews/3100893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 国债",
       "match_count": 4,
       "titles": [
@@ -625,11 +833,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时17分]"
         },
         {
           "title": "德国两年期国债收益率本周跌约5个基点",
@@ -665,46 +874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
-          "url": "https://flash.jin10.com/detail/20260509024606066800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs将筹集超20亿美元新资金",
-          "url": "https://flash.jin10.com/detail/20260509030041580800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时20分]"
-        },
-        {
-          "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
-          "url": "https://wallstreetcn.com/livenews/3100893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         }
       ]
     },
