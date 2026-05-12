@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T12:23:36.147497+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-05-12T14:02:44.533656+08:00",
+  "total_titles_processed": 1227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 83,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -90,11 +90,24 @@
           "ranks": [
             5,
             8,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时05分 ~ 12时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时05分 ~ 14时02分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 14时02分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -123,18 +136,6 @@
           "time_info": "[01时38分 ~ 08时19分]"
         },
         {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 12时23分]"
-        },
-        {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
           "url": "https://www.zhihu.com/question/2037161087863353508",
           "source": "知乎",
@@ -145,8 +146,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 14时02分]"
         },
         {
           "title": "特朗普：中国是一个令人惊叹的国家",
@@ -157,8 +158,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 14时02分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 14时02分]"
         },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
@@ -225,18 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 12时23分]"
         },
         {
           "title": "美国总统特朗普：封锁伊朗是军事天才之举。",
@@ -351,11 +353,12 @@
           "source": "微博",
           "ranks": [
             10,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时02分]"
         },
         {
           "title": "特朗普金卡翻车",
@@ -439,6 +442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时33分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "美国议员撺掇特朗普对华强硬",
@@ -542,6 +557,17 @@
           "time_info": "02时33分"
         },
         {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美国官员：特朗普召集高层 研判对伊重新动武",
           "url": "https://flash.jin10.com/detail/20260512004738890800",
           "source": "金十数据",
@@ -573,6 +599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "特朗普称正在认真考虑「将委内瑞拉纳为美国第 51 个州」，意在 40 万亿美元的石油财富，有可能实现吗？",
+          "url": "https://www.zhihu.com/question/2037474314413238203",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美国总统特朗普：伊朗提案不可接受。",
@@ -608,6 +645,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美国总统特朗普声称，一大群将军正等着就伊朗问题与他会面。",
           "url": "https://wallstreetcn.com/livenews/3101748",
           "source": "华尔街见闻-快讯",
@@ -628,6 +676,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "如何看待特朗普撮合英特尔重新回到苹果核心供应链中？",
+          "url": "https://www.zhihu.com/question/2037109518547380076",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "美国总统特朗普在社交平台上称《纽约时报》水准低劣，并自夸能以远低于奥巴马与拜登政府所耗5500万美元的成本和极短时间修复华盛顿的倒影池，且效果远胜从前。",
+          "url": "https://flash.jin10.com/detail/20260512131542596800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "乌克兰总统泽连斯基：显然，伊朗战争目前吸引了美国及特朗普的最多关注。但美国人民也优先支持结束这场俄乌冲突。",
@@ -672,17 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "美媒：特朗普推迟降低进口牛肉关税计划",
@@ -897,7 +967,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -918,8 +988,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时20分 ~ 12时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时20分 ~ 14时02分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
+          "url": "https://www.cls.cn/detail/2368457",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时20分 ~ 14时02分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -934,20 +1018,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时05分 ~ 11时02分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时20分 ~ 12时23分]"
         },
         {
           "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
@@ -988,6 +1058,19 @@
           "time_info": "[00时05分 ~ 08时19分]"
         },
         {
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时17分 ~ 14时02分]"
+        },
+        {
           "title": "学者：A股涨说明经济真的在复苏",
           "url": "https://www.toutiao.com/trending/7638599674026266139/",
           "source": "今日头条",
@@ -1003,16 +1086,27 @@
           "time_info": "[00时05分 ~ 05时27分]"
         },
         {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
+          "title": "A股重回4200点 国家队买了谁",
+          "url": "https://www.toutiao.com/trending/7638837837990743606/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "科创板最大并购过会意味着什么？半导体产业整合大幕拉开",
+          "url": "https://www.cls.cn/detail/2368636",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时17分 ~ 12时23分]"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -1053,6 +1147,18 @@
           "time_info": "[09时33分 ~ 11时02分]"
         },
         {
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时02分]"
+        },
+        {
           "title": "A股连续4天百股涨停",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD4%E5%A4%A9%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
           "source": "百度热搜",
@@ -1064,18 +1170,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 03时31分]"
-        },
-        {
-          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
-          "url": "https://www.cls.cn/detail/2368550",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时23分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -1125,6 +1219,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时33分 ~ 11时02分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
+        },
+        {
+          "title": "上证指数早盘收报4208.00点，跌0.40%。 深证成指早盘收报15757.36点，跌0.89%。 创业板指早盘收报3914.55点，跌0.37%。 沪深300早盘收报4936.52点，跌0.31%。 科创50早盘收报1712.75点，跌0.23%。 中证500早盘收报8755.08点，跌0.96%。 中证1000早盘收报8775.90点，跌1.02%。",
+          "url": "https://wallstreetcn.com/livenews/3102008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "A股资产备受基金青睐，“专业买手”连续加仓6个月",
@@ -1187,28 +1305,6 @@
           "time_info": "[05时27分 ~ 06时20分]"
         },
         {
-          "title": "科创板最大并购过会意味着什么？半导体产业整合大幕拉开",
-          "url": "https://www.cls.cn/detail/2368636",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "上证指数早盘收报4208.00点，跌0.40%。 深证成指早盘收报15757.36点，跌0.89%。 创业板指早盘收报3914.55点，跌0.37%。 沪深300早盘收报4936.52点，跌0.31%。 科创50早盘收报1712.75点，跌0.23%。 中证500早盘收报8755.08点，跌0.96%。 中证1000早盘收报8775.90点，跌1.02%。",
-          "url": "https://wallstreetcn.com/livenews/3102008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
           "title": "金十图示：2026年05月11日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260512040519288800",
           "source": "金十数据",
@@ -1231,15 +1327,26 @@
           "time_info": "09时33分"
         },
         {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
+          "title": "A股创新药概念局部异动，津药药业午后涨停，恒瑞医药涨超7%，泽璟制药、益方生物、博瑞医药、科伦药业等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3102036",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时23分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "港股恒瑞医药涨超14%，A股恒瑞医药涨超6%。公司与BMS达成全球重磅合作，携手开发13款早期创新药。",
+          "url": "https://wallstreetcn.com/livenews/3102035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型芯片股齐创新高",
@@ -1264,13 +1371,24 @@
           "time_info": "00时06分"
         },
         {
+          "title": "深成指午后跌超1%，沪指跌0.43%，创业板指跌0.63%，锂矿、猪肉、创新药、稀土等板块领跌，沪深京三市下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3102033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "A股券商板块异动拉升，长城证券涨停，锦龙股份、长江证券、东方证券、财通证券、财达证券跟涨。",
           "url": "https://wallstreetcn.com/livenews/3102000",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1281,7 +1399,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1325,7 +1443,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1339,6 +1457,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股稀土永磁板块震荡走低，华宏科技、北方稀土、西磁科技跌超6%，盛和资源、中国稀土、有研新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512130901594800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股航空发动机板块午后走低，飞沃科技、神剑股份跌超8%，航亚科技、隆达股份跌超7%，博云新材、广联航空跟跌。",
+          "url": "https://flash.jin10.com/detail/20260512130732605800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "港股恒瑞医药(01276.HK)涨超14%，A股恒瑞医药涨超6%。消息面上，公司与BMS达成全球重磅合作，携手开发13款早期创新药。",
+          "url": "https://flash.jin10.com/detail/20260512130153947800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "周一（5月11日），美股信息科技指数收涨2.30%，报397.38点，再创收盘历史新高。 成分股Lumentum Holdings Inc.（LITE）收涨16.52%领跑，创2025年11月以来最大单日涨幅；IonQ涨15.54%，高意公司/相干公司Coherent涨13.25%，Credo科技集团涨11.52%，康宁公司涨10.94%，高通涨8.42%表现第六，SoundHound则收跌4.84%跌幅第五大，Workday跌5.01%，戴尔科技跌5.15%，超微电脑跌5.23%，IREN跌9.89%。",
@@ -1361,6 +1512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "深成指午后跌超1%，沪指跌0.4%，创业板指跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260512130055915800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美股费城半导体指数收涨2.6%，与标普、纳指创收盘历史新高，银行指数跌超1.1%",
@@ -1489,11 +1651,12 @@
           "url": "https://wallstreetcn.com/livenews/3102005",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "美国至5月11日6个月国债竞拍-投标倍数 2.91，前值2.79。",
@@ -1568,7 +1731,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1579,7 +1742,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1803,7 +1966,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
@@ -1814,7 +1977,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
@@ -1863,19 +2026,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时19分 ~ 12时23分]"
+          "appearance_count": 6,
+          "time_info": "[08时19分 ~ 14时02分]"
         },
         {
           "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
           "url": "https://wallstreetcn.com/livenews/3102015",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 14时02分]"
         },
         {
           "title": "莫迪一句话砸落金价？真正元凶另有其人！",
@@ -1884,7 +2048,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         },
