@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-18T11:02:09.944824+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-05-18T12:37:21.956103+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时19分 ~ 12时37分]"
+        },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
           "url": "https://www.zhihu.com/question/2039007666429583394",
@@ -30,33 +41,24 @@
             14,
             15,
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时19分 ~ 11时02分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 12时37分]"
         },
         {
           "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
           "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时19分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时19分 ~ 12时37分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -78,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时37分]"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -92,6 +94,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时14分 ~ 07时17分]"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
@@ -181,6 +194,18 @@
           "time_info": "[05时15分 ~ 07时17分]"
         },
         {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时37分]"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260518024439981800",
           "source": "金十数据",
@@ -266,17 +291,6 @@
           "time_info": "[07时17分 ~ 08时19分]"
         },
         {
-          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
-          "url": "https://www.zhihu.com/question/2038948707844846917",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
           "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
           "url": "https://flash.jin10.com/detail/20260518012607481800",
           "source": "金十数据",
@@ -339,7 +353,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -391,7 +405,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -420,6 +434,17 @@
           "time_info": "[00时18分 ~ 09时38分]"
         },
         {
+          "title": "港股午评：恒指半日跌逾1% 芯片股逆势造好",
+          "url": "https://flash.jin10.com/detail/20260518120811012800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2038737314017432936",
           "source": "知乎",
@@ -434,6 +459,29 @@
           "time_info": "[06时16分 ~ 11时02分]"
         },
         {
+          "title": "上市未“满月”成为A股“新股王”，联讯仪器回应",
+          "url": "https://wallstreetcn.com/livenews/3105103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时37分]"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-05-18）",
           "url": "https://flash.jin10.com/detail/20260518090602019800",
           "source": "金十数据",
@@ -443,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
-          "url": "https://www.cls.cn/detail/2373552",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
           "title": "联讯仪器成A股“新股王”",
@@ -484,9 +521,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "上证指数早盘收报4126.35点，跌0.22%。 深证成指早盘收报15513.13点，跌0.31%。 创业板指早盘收报3909.26点，跌0.50%。 沪深300早盘收报4826.19点，跌0.69%。 科创50早盘收报1712.79点，涨0.97%。 中证500早盘收报8554.27点，涨0.21%。 中证1000早盘收报8715.43点，涨0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3105094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "5月18日午间收评：创业板指冲高回落跌0.5%，存储芯片板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3105093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "A股商业航天概念震荡拉升，信维通信大涨超15%，索辰科技、海格通信、派克新材、东方钽业等多股涨停，西部材料、通宇通讯、霍莱沃、中环海陆等涨幅居前。",
@@ -495,9 +554,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -528,9 +598,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "联讯仪器反超茅台成为A股“新股王”",
+          "url": "https://www.baidu.com/s?wd=%E8%81%94%E8%AE%AF%E4%BB%AA%E5%99%A8%E5%8F%8D%E8%B6%85%E8%8C%85%E5%8F%B0%E6%88%90%E4%B8%BAA%E8%82%A1%E2%80%9C%E6%96%B0%E8%82%A1%E7%8E%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -544,13 +625,24 @@
           "time_info": "07时17分"
         },
         {
+          "title": "A股午评：三大股指震荡盘整 存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260518113454558800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "港股芯片股走势分化，兆易创新(03986.HK)涨超9%，澜起科技(06809.HK)涨超3%，华虹半导体(01347.HK)等跟涨，英诺赛科(02577.HK)跌超5%，天数智芯(09903.HK)跌近2%。",
           "url": "https://flash.jin10.com/detail/20260518103026311800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -577,13 +669,24 @@
           "time_info": "09时38分"
         },
         {
+          "title": "机构：A股将再起夏季攻势行情",
+          "url": "https://www.toutiao.com/trending/7640642770335547419/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
           "title": "联讯仪器成A股新股王",
           "url": "https://flash.jin10.com/detail/20260518102048407800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -591,7 +694,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -615,6 +718,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
+          "url": "https://wallstreetcn.com/articles/3772455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时17分 ~ 12时37分]"
         },
         {
           "title": "日本10年期国债收益率上行10个基点至2.8%。",
@@ -643,23 +759,23 @@
           "url": "https://wallstreetcn.com/livenews/3105069",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时37分]"
+        },
+        {
+          "title": "印度10年期国债收益率上行5个基点至7.11%。",
+          "url": "https://wallstreetcn.com/livenews/3105098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "抛美债、买日债--华尔街准备应对“日资回流”",
-          "url": "https://wallstreetcn.com/articles/3772455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 11时02分]"
+          "time_info": "12时37分"
         },
         {
           "title": "日本10年期国债收益率上升10个基点，达到2.8%。",
@@ -671,6 +787,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.12%，10年期主力合约跌0.03%，5年期主力合约与昨日持平，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3105089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "日本5年期国债拍卖投标倍数为3.22。",
+          "url": "https://flash.jin10.com/detail/20260518114322400800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260518113112253800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "策略师：日本国债抛售源于利率压力与财政担忧，但非系统性风险",
+          "url": "https://flash.jin10.com/detail/20260518112802154800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "日本20年期国债收益率上升9.5个基点至3.735%。",
@@ -687,7 +847,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "SC原油主力合约日内暴涨6.00%，现报679.90元/桶。低硫燃料油（LU）主力合约日内大涨6.00%，现报5224.00元/吨。燃油主力合约日内大涨4.00%，现报4237.00元/吨。",
@@ -764,9 +924,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一，低硫燃料油（LU）涨近8%，SC原油涨近6%，合成橡胶、燃油涨超4%，集运欧线涨近4%，液化石油气（LPG）涨超3%。跌幅方面，沪银跌超9%，沪锡、苹果跌超3%，铂、红枣跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260518113052735800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         },
         {
           "title": "卡塔尔将6月海洋原油官方售价定为阿曼/迪拜均价升水10.50美元/桶；陆地原油官方售价定为阿曼/迪拜均价升水11美元/桶。",
@@ -775,9 +946,93 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33186880",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 11时02分]"
+        },
+        {
+          "title": "白银价格“过山车” 何时重回巅峰",
+          "url": "https://www.toutiao.com/trending/7640785693907619371/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时17分 ~ 03时25分]"
+        },
+        {
+          "title": "油价和债市联手后，金价如何才能反击？",
+          "url": "https://flash.jin10.com/detail/20260518115414844800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3105091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "金价跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "摩根大通：因2026年下半年需求重新加速，基本情景仍然预计到年底黄金价格将达到6000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518112611087800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        },
+        {
+          "title": "摩根大通：将2026年平均黄金价格预测下调5243美元/盎司，之前为5708美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518112516148800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时37分"
         }
       ]
     },
@@ -804,8 +1059,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时38分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时38分 ~ 12时37分]"
         },
         {
           "title": "伊朗威胁掐断霍尔木兹海峡海底光缆，要对谷歌、微软收“海底买路钱”",
@@ -817,46 +1072,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "白银价格“过山车”：强势七连涨后大跳水，何时重回巅峰？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33186880",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 11时02分]"
-        },
-        {
-          "title": "白银价格“过山车” 何时重回巅峰",
-          "url": "https://www.toutiao.com/trending/7640785693907619371/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时17分 ~ 03时25分]"
-        },
-        {
-          "title": "金价跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         }
       ]
     },
