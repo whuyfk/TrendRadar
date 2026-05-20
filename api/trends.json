@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-05-21T00:18:33.553914+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-21T01:57:36.664967+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 国债",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "意大利、希腊国债收益率重挫约14个基点",
-          "url": "https://wallstreetcn.com/livenews/3106845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
+        },
+        {
+          "title": "意大利、希腊国债收益率重挫约14个基点",
+          "url": "https://wallstreetcn.com/livenews/3106845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
+        },
+        {
+          "title": "美国财政部拍卖160亿美元20年期国债，得标利率5.122%（4月22日为4.883%），投标倍数2.55（前次为2.68）。",
+          "url": "https://wallstreetcn.com/livenews/3106864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时57分"
         },
         {
           "title": "美国30年期国债收益率继续下滑，最新报5.1085%。",
@@ -52,6 +65,28 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国至5月20日20年期国债竞拍-投标倍数 2.55，前值2.68。",
+          "url": "https://flash.jin10.com/detail/20260521010206540800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国至5月20日20年期国债竞拍-得标利率配置百分比 1.67%，前值56.28%。",
+          "url": "https://flash.jin10.com/detail/20260521010206465800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
           "title": "美国至5月20日4个月国债竞拍-得标利率配置百分比 99.6%，前值69.81%。",
           "url": "https://flash.jin10.com/detail/20260520233257701800",
           "source": "金十数据",
@@ -61,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美国至5月20日20年期国债竞拍-得标利率 5.122%，前值4.88%。",
+          "url": "https://flash.jin10.com/detail/20260521010206458800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.590%，投标倍数3.34。",
@@ -129,6 +175,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "英国国债收益率跌超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3106848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
           "title": "美国国债收益率下跌，因美伊协议接近达成，2年期国债收益率最新下跌7.8个基点，报4.045%；10年期国债收益率下跌8.2个基点，报4.588%。",
           "url": "https://flash.jin10.com/detail/20260520232816691800",
           "source": "金十数据",
@@ -154,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -164,8 +221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -175,8 +232,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
+        },
+        {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         },
         {
           "title": "美国总统特朗普：关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
@@ -195,17 +263,6 @@
           "source": "金十数据",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
-          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -232,6 +289,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "特朗普继续口头威胁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3106851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国总统特朗普：就破冰船问题感谢芬兰。 短期内将形成55艘破冰船的（船队）规模。",
+          "url": "https://wallstreetcn.com/livenews/3106849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "特朗普：美国与伊朗谈判已进入最后阶段",
@@ -310,22 +389,24 @@
           "url": "https://wallstreetcn.com/livenews/3106842",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         },
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
           "url": "https://www.zhihu.com/question/2040264998916712429",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         }
       ]
     },
@@ -338,11 +419,24 @@
           "url": "https://wallstreetcn.com/articles/3772708",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -352,19 +446,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         },
         {
           "title": "存储“双星”冲刺A股 谁是最大赢家",
@@ -402,8 +485,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时57分]"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -415,6 +498,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3106863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3106852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
@@ -448,8 +559,19 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "WTI原油期货回落至97美元/桶下方，日内跌6.87%。",
+          "url": "https://flash.jin10.com/detail/20260521011906083800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
         {
           "title": "美国上周原油总库存创纪录暴跌1780万桶，出口创历史新高引发供应紧缺隐忧",
           "url": "https://wallstreetcn.com/livenews/3106836",
