@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T01:57:36.664967+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-21T02:46:38.710502+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 国债",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
+        },
+        {
+          "title": "高盛：至少在眼下，美债收益率恐“很难”掉头下行",
+          "url": "https://wallstreetcn.com/livenews/3106887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "意大利、希腊国债收益率重挫约14个基点",
@@ -36,11 +47,34 @@
           "url": "https://wallstreetcn.com/livenews/3106864",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时46分]"
+        },
+        {
+          "title": "美联储会议纪要：决策者们提到美国国债市场中的对冲基金风险。",
+          "url": "https://wallstreetcn.com/livenews/3106885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美联储会议纪要发布后，美国10年期国债收益率维持下跌大约8.3个基点的状态不变，目前持稳于日低4.5617%附近，暂报4.5835%。 两年期美债收益率维持6.7个基点的跌幅，暂报4.0508%。 现货黄金涨1.1%，持稳于4530美元一线。 标普500指数目前涨0.89%，道指涨557点、涨幅1.1%，纳指涨348点、涨幅1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "美国30年期国债收益率继续下滑，最新报5.1085%。",
@@ -71,7 +105,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -82,7 +116,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -104,7 +138,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -181,7 +215,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -211,7 +245,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -221,8 +255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -232,8 +266,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
+        },
+        {
+          "title": "特朗普：我们还记着古巴，起诉前古巴总统卡斯特罗是一个非常重要的时刻。古巴是一个失败的国家，无法预测他们的未来。",
+          "url": "https://flash.jin10.com/detail/20260521024115124800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "特朗普政府将提供另外2亿美元，以在明年启动改造后的纽约宾州车站。",
+          "url": "https://flash.jin10.com/detail/20260521023857768800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -243,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         },
         {
           "title": "美国总统特朗普：关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
@@ -280,6 +336,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "美国参议员肯尼迪：参议院未获得通过特朗普舞厅资金提案的足够支持。",
+          "url": "https://flash.jin10.com/detail/20260521023330632800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
           "title": "美国总统特朗普：在伊朗问题上，美国受到广泛尊重。 关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
           "url": "https://wallstreetcn.com/livenews/3106837",
           "source": "华尔街见闻-快讯",
@@ -291,13 +358,57 @@
           "time_info": "00时18分"
         },
         {
+          "title": "土耳其总统府：埃尔多安对特朗普表示，延长与伊朗的停火是积极的，认为有争议的问题可以得到解决。",
+          "url": "https://flash.jin10.com/detail/20260521022407177800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "土耳其总统府：土耳其总统埃尔多安与特朗普进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260521022129482800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "特朗普坚持伊朗问题的外交解决方案 内塔尼亚胡强烈反对",
+          "url": "https://flash.jin10.com/detail/20260521022114581800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3106875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
           "title": "特朗普继续口头威胁伊朗",
           "url": "https://wallstreetcn.com/livenews/3106851",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -308,7 +419,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         },
@@ -402,11 +513,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         }
       ]
     },
@@ -423,8 +535,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -435,8 +547,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         },
         {
           "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
@@ -446,8 +558,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         },
         {
           "title": "存储“双星”冲刺A股 谁是最大赢家",
@@ -474,6 +586,56 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "WTI 6月原油期货收跌5.89美元，跌幅5.66%，报98.26美元/桶。 中东Abu Dhabi Murban原油期货跌4.52%，报102.50美元/桶。 NYMEX 6月天然气期货收报3.0040美元/百万英热单位。 NYMEX 6月汽油期货收报3.4874美元/加仑，NYMEX 6月取暖油期货收报3.9471美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3106890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌5.24%，报647.00元人民币/桶。 沪金夜盘收涨0.88%，沪银收涨2.70%。",
+          "url": "https://wallstreetcn.com/livenews/3106889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "WTI原油期货回落至97美元/桶下方，日内跌6.87%。",
+          "url": "https://flash.jin10.com/detail/20260521011906083800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国上周原油总库存创纪录暴跌1780万桶，出口创历史新高引发供应紧缺隐忧",
+          "url": "https://wallstreetcn.com/livenews/3106836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -485,8 +647,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时46分]"
         },
         {
           "title": "对标Claude Code！DeepSeek组建Harness团队 入局编程智能体",
@@ -510,11 +672,12 @@
           "url": "https://wallstreetcn.com/livenews/3106863",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时46分]"
         },
         {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
@@ -523,7 +686,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
         }
@@ -550,34 +713,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "WTI原油期货回落至97美元/桶下方，日内跌6.87%。",
-          "url": "https://flash.jin10.com/detail/20260521011906083800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "美国上周原油总库存创纪录暴跌1780万桶，出口创历史新高引发供应紧缺隐忧",
-          "url": "https://wallstreetcn.com/livenews/3106836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
