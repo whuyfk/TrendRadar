@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T04:32:25.575373+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-05-22T05:29:39.850140+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "中方回应特朗普称将与赖清德对话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "中方回应特朗普称将与赖清德谈军售",
@@ -63,8 +63,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
+        },
+        {
+          "title": "据美国政治新闻网Politico：特朗普政府暂停发往刚果（金）的遣返航班，因当地埃博拉疫情肆虐。",
+          "url": "https://flash.jin10.com/detail/20260522050949939800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -78,16 +101,15 @@
           "time_info": "01时39分"
         },
         {
-          "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
-          "source": "澎湃新闻",
+          "title": "特朗普宣布将向波兰增兵5000人 推翻五角大楼一周前撤军计划",
+          "url": "https://flash.jin10.com/detail/20260522050714239800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            14
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -162,6 +184,28 @@
           "time_info": "00时04分"
         },
         {
+          "title": "特朗普称将向波兰增派5000名美军",
+          "url": "https://wallstreetcn.com/livenews/3107628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美国总统特朗普：美国将向波兰增派5000名士兵。",
+          "url": "https://flash.jin10.com/detail/20260522042656396800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3107523",
           "source": "华尔街见闻-快讯",
@@ -171,6 +215,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
+          "url": "https://wallstreetcn.com/livenews/3107623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
+          "url": "https://flash.jin10.com/detail/20260522041941266800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。 目前，标普跌超0.3%，道指跌107点，纳指跌0.47%。",
@@ -319,7 +385,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -330,8 +396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -341,8 +407,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率2.169%，投标倍数2.52。",
@@ -458,6 +524,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "美国至5月15日当周外国央行持有美国国债 -202.38亿美元，前值-392.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522043120630800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "美国至5月21日4周国债竞拍-投标倍数 2.6，前值2.66。",
           "url": "https://flash.jin10.com/detail/20260521233204626800",
           "source": "金十数据",
@@ -516,7 +593,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -526,19 +603,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 Arm涨16%",
-          "url": "https://flash.jin10.com/detail/20260522040124425800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时32分"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
@@ -550,6 +616,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Arm涨16%",
+          "url": "https://flash.jin10.com/detail/20260522040124425800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时29分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.69%，报25568点。 恒生科技指数主连夜盘收涨0.71%，报4816点。",
@@ -564,6 +642,29 @@
           "time_info": "[03时33分 ~ 04时32分]"
         },
         {
+          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
+          "url": "https://wallstreetcn.com/articles/3772781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 05时29分]"
+        },
+        {
+          "title": "曝葛卫东不到2个月在A股赚100亿元",
+          "url": "https://www.toutiao.com/trending/7642150449764745262/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时29分]"
+        },
+        {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
           "url": "https://wallstreetcn.com/livenews/3107576",
           "source": "华尔街见闻-快讯",
@@ -576,29 +677,6 @@
           "time_info": "[02时33分 ~ 03时33分]"
         },
         {
-          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
-          "url": "https://wallstreetcn.com/articles/3772781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 04时32分]"
-        },
-        {
-          "title": "曝葛卫东不到2个月在A股赚100亿元",
-          "url": "https://www.toutiao.com/trending/7642150449764745262/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时32分]"
-        },
-        {
           "title": "专家：A股短线调整不改牛市大方向",
           "url": "https://www.toutiao.com/trending/7642338764366286362/",
           "source": "今日头条",
@@ -608,6 +686,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3107626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3107625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041945523800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "微软和安永将联合投资超10亿美元，帮助客户启动重大AI项目",
@@ -630,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041555580800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         },
         {
           "title": "基金经理否认A股因量化砸盘高开低走",
@@ -667,8 +789,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         },
         {
           "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
@@ -732,7 +854,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.79%，暂报2735.65点。 MarketVectorTM数字资产100中盘指数涨0.51%，报3005.80点。 MarketVector数字资产100指数跌0.27%，报15166.54点。 目前，Solana跌0.05%，狗狗币持平，XRP跌0.97%。 比特币跌0.72%，暂报76964.96美元；以太坊跌0.64%，暂报2122.45美元。",
@@ -769,13 +891,24 @@
           "time_info": "02时33分"
         },
         {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260522040912332800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
           "title": "周四（5月21日）纽约尾盘，ICE美元指数涨0.15%，报99.241点，日内交投区间为99.064-99.515点，整体持续走高，北京时间15:25-18:40、01:04以来先后出现一波V形走势。 彭博美元指数涨0.10%，报1202.12点，日内交投区间为1200.67-1205.24点。 美元兑日元涨0.07%，报159.03日元，日内交投区间为158.81-159.34日元。",
           "url": "https://wallstreetcn.com/livenews/3107596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
         },
@@ -869,11 +1002,12 @@
             6,
             10,
             5,
-            7
+            7,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时29分]"
         }
       ]
     }
