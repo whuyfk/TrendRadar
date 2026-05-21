@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T02:33:29.070592+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-05-22T03:33:18.209917+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "中方回应特朗普称将与赖清德对话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "特朗普政府推动量子战略升级：20亿美元扶持9家企业 政府将直接持股",
@@ -50,19 +50,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
-          "title": "IBM涨幅扩大至10%，该公司获得特朗普政府的资金支持。",
-          "url": "https://wallstreetcn.com/livenews/3107584",
-          "source": "华尔街见闻-快讯",
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
           "ranks": [
-            1
+            4,
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -76,28 +78,29 @@
           "time_info": "01时39分"
         },
         {
-          "title": "中方回应特朗普称将与赖清德谈军售",
-          "url": "https://www.toutiao.com/trending/7642244493529321014/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
-        },
-        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://wallstreetcn.com/livenews/3107567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 03时33分]"
+        },
+        {
+          "title": "IBM涨幅扩大至10%，该公司获得特朗普政府的资金支持。",
+          "url": "https://wallstreetcn.com/livenews/3107584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时39分 ~ 02时33分]"
+          "time_info": "[02时33分 ~ 03时33分]"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -108,8 +111,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "美国总统特朗普：如果DC（华盛顿特区）和波多黎各成为州，那将是“灾难”。",
@@ -156,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "IBM(IBM.N)涨超11%，公司获得特朗普政府的资金支持。",
+          "url": "https://flash.jin10.com/detail/20260522022754736800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
         },
         {
           "title": "美国总统特朗普兜售股市上涨。 目前，标普跌超0.3%，道指跌107点，纳指跌0.47%。",
@@ -304,7 +318,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -315,8 +329,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -326,8 +340,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         },
         {
           "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率2.169%，投标倍数2.52。",
@@ -386,6 +400,30 @@
           "time_info": "[01时39分 ~ 02时33分]"
         },
         {
+          "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
+          "url": "https://wallstreetcn.com/livenews/3107570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时33分]"
+        },
+        {
+          "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率2.169%，创最近一年新高，投标倍数2.52。",
+          "url": "https://wallstreetcn.com/livenews/3107566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时33分]"
+        },
+        {
           "title": "美国至5月21日8周国债竞拍-得标利率 3.6%，前值3.61%。",
           "url": "https://flash.jin10.com/detail/20260521233254897800",
           "source": "金十数据",
@@ -395,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国30年期国债收益率刷新日低至5.089%。",
+          "url": "https://wallstreetcn.com/livenews/3107588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
         },
         {
           "title": "美国至5月21日8周国债竞拍-投标倍数 2.77，前值2.72。",
@@ -447,7 +496,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -458,29 +507,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
-          "url": "https://wallstreetcn.com/livenews/3107570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率2.169%，创最近一年新高，投标倍数2.52。",
-          "url": "https://wallstreetcn.com/livenews/3107566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         }
@@ -488,7 +515,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -498,8 +525,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.69%，报25568点。 恒生科技指数主连夜盘收涨0.71%，报4816点。",
+          "url": "https://wallstreetcn.com/livenews/3107593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
@@ -513,6 +551,18 @@
           "time_info": "01时39分"
         },
         {
+          "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
+          "url": "https://wallstreetcn.com/livenews/3107576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时33分]"
+        },
+        {
           "title": "专家：A股短线调整不改牛市大方向",
           "url": "https://www.toutiao.com/trending/7642338764366286362/",
           "source": "今日头条",
@@ -522,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
-          "url": "https://wallstreetcn.com/livenews/3107576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
         },
         {
           "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
@@ -563,7 +602,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -579,11 +618,156 @@
           "time_info": "00时04分"
         },
         {
+          "title": "曝葛卫东不到2个月在A股赚100亿元",
+          "url": "https://www.toutiao.com/trending/7642150449764745262/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
           "title": "A股突然下跌原因找到了",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
+        },
+        {
+          "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
+          "url": "https://flash.jin10.com/detail/20260522010324377800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
+          "url": "https://www.zhihu.com/question/2040751125725278389",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "报道：OpenAI在第一季度创造57亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3107589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
+          "url": "https://flash.jin10.com/detail/20260522022949905800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
+          "url": "https://flash.jin10.com/detail/20260522022849271800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "WTI 7月原油期货收跌1.91美元，跌幅1.94%，报96.35美元/桶。 布伦特7月原油期货收跌2.44美元，跌幅2.32%，报102.58美元/桶。 NYMEX 6月天然气期货收报3.0180美元/百万英热单位。 NYMEX 6月汽油期货收报3.3796美元/加仑，NYMEX 6月取暖油期货收报3.8316美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3107591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌3.41%，报633.60元人民币/桶。 沪金夜盘收涨0.43%，沪银收涨1.85%。",
+          "url": "https://wallstreetcn.com/livenews/3107590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达2.5%，报102.33美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3107578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时33分]"
+        },
+        {
+          "title": "WTI原油日内跌幅扩大至2.00%，现报100.45美元/桶。布伦特原油现跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260522014910623800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "高盛称全球原油库存正以创纪录速度下降，主要因海上在途原油减少",
+          "url": "https://www.cls.cn/detail/2377769",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -625,7 +809,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
         },
@@ -643,84 +827,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
-          "url": "https://www.zhihu.com/question/2040738759281473391",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
-        },
-        {
-          "title": "OpenAI：AdventHealth正在部署Chatgpt以减轻行政负担，并优化其系统内的临床工作流程。",
-          "url": "https://flash.jin10.com/detail/20260522010324377800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
-          "url": "https://www.zhihu.com/question/2040751125725278389",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "布伦特原油日内跌幅达2.5%，报102.33美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3107578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "WTI原油日内跌幅扩大至2.00%，现报100.45美元/桶。布伦特原油现跌1.7%。",
-          "url": "https://flash.jin10.com/detail/20260522014910623800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "高盛称全球原油库存正以创纪录速度下降，主要因海上在途原油减少",
-          "url": "https://www.cls.cn/detail/2377769",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -731,11 +837,12 @@
           "ranks": [
             8,
             6,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时33分]"
         }
       ]
     }
