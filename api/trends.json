@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-21T14:22:49.095208+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-05-21T16:11:54.994491+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 57,
+      "match_count": 63,
       "titles": [
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 16时11分]"
+        },
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
           "url": "https://www.cls.cn/detail/2377305",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[06时28分 ~ 14时22分]"
-        },
-        {
-          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
-          "url": "https://www.cls.cn/detail/2377339",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 14时22分]"
         },
         {
           "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
@@ -81,15 +81,37 @@
           "time_info": "04时39分"
         },
         {
+          "title": "港股收盘，恒指收跌1.03%，科指收跌2.15%，科网股表现疲软，哔哩哔哩(09626.HK)收跌7.46%，百度(09888.HK)收跌5.74%。",
+          "url": "https://flash.jin10.com/detail/20260521160854011800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "A股三大指数午后集体翻绿，创业板指早盘一度涨超2%，算力硬件、半导体产业链领跌。",
           "url": "https://wallstreetcn.com/livenews/3107193",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "如何看待当前的恒生科技",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E5%89%8D%E7%9A%84%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-05-21）",
@@ -203,7 +225,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -236,9 +258,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "英伟达美股盘前跌0.5%，公司Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息。",
+          "url": "https://wallstreetcn.com/livenews/3107285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "港股科网股午后下挫，哔哩哔哩跌超7%，百度集团跌近5%，阿里巴巴跌超4%，腾讯控股跌超3%。",
@@ -247,7 +280,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -302,7 +335,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -335,7 +368,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -357,7 +390,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -390,9 +423,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "A股和港股午后突然下跌，分析人士：两大原因",
+          "url": "https://wallstreetcn.com/livenews/3107276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
@@ -417,6 +461,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "A股跌破4100",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E7%A0%B44100%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "A股半导体设备板块持续拉升，北方华创逼近涨停，长川科技、中微公司、芯源微、联动科技盘中创新高。",
           "url": "https://flash.jin10.com/detail/20260521101927841800",
           "source": "金十数据",
@@ -434,7 +489,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -445,7 +500,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -456,7 +511,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -516,6 +571,17 @@
           "time_info": "09时36分"
         },
         {
+          "title": "A股和港股午后突然下跌，分析人士：两大原因",
+          "url": "https://flash.jin10.com/detail/20260521155413636800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "周三（5月20日），美股行业ETF多数收涨，全球航空业ETF反弹6.57%，半导体ETF涨3.81%，可选消费ETF涨2.53%，区域银行ETF涨2.38%，能源业ETF跌2.43%。",
           "url": "https://wallstreetcn.com/livenews/3106910",
           "source": "华尔街见闻-快讯",
@@ -533,7 +599,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -577,7 +643,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -599,7 +665,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -651,7 +717,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -684,8 +750,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时23分 ~ 14时22分]"
+          "appearance_count": 8,
+          "time_info": "[08时23分 ~ 16时11分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 16时11分]"
+        },
+        {
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时23分 ~ 16时11分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -699,29 +791,15 @@
           "time_info": "[00时18分 ~ 12时37分]"
         },
         {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
           "source": "凤凰网",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时22分]"
-        },
-        {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时23分 ~ 14时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 16时11分]"
         },
         {
           "title": "特朗普回应中俄元首会晤",
@@ -737,15 +815,26 @@
           "time_info": "[09时36分 ~ 14时22分]"
         },
         {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
           "source": "凤凰网",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "特朗普回应中俄元首会晤",
@@ -800,11 +889,12 @@
           "url": "https://www.cls.cn/detail/2377369",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 14时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 16时11分]"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡周二就伊朗问题进行了气氛紧张的通话。（Axios）",
@@ -828,6 +918,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 16时11分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "美国总统特朗普：关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
@@ -894,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "特朗普：土耳其总统埃尔多安一直是盟友。",
@@ -984,6 +1108,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "特朗普称卸任后不排除去竞选以总理",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8D%B8%E4%BB%BB%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8E%BB%E7%AB%9E%E9%80%89%E4%BB%A5%E6%80%BB%E7%90%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
           "title": "特朗普：（关于伊朗）我们正在与理性的人打交道。",
           "url": "https://flash.jin10.com/detail/20260521024427486800",
           "source": "金十数据",
@@ -1039,17 +1174,6 @@
           "time_info": "03时42分"
         },
         {
-          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
           "title": "伊朗新和平协议引发激烈争吵：特朗普要“协议”，内塔尼亚胡要“接着打”！",
           "url": "https://flash.jin10.com/detail/20260521073857240800",
           "source": "金十数据",
@@ -1089,7 +1213,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1141,8 +1265,19 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时23分 ~ 16时11分]"
+        },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
           "url": "https://wallstreetcn.com/articles/3772671",
@@ -1154,17 +1289,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 08时23分]"
-        },
-        {
-          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
-          "url": "https://wallstreetcn.com/articles/3772708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时23分 ~ 14时22分]"
         },
         {
           "title": "美伊冲突降温，WIT原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -1184,7 +1308,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1358,7 +1482,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1482,6 +1606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.21%，10年期主力合约跌0.13%，5年期主力合约跌0.07%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3107261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "美国10年期国债收益率当日下跌10个基点，至4.56%。",
@@ -1609,7 +1744,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1642,7 +1777,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -1942,7 +2077,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         }
