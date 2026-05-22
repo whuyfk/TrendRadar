@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T03:31:24.934876+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-23T04:31:25.041756+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
         },
         {
           "title": "特朗普：将缺席儿子的婚礼",
@@ -211,6 +211,17 @@
           "time_info": "[01时32分 ~ 02时31分]"
         },
         {
+          "title": "美国总统特朗普：伊朗非常渴望达成和解。",
+          "url": "https://wallstreetcn.com/livenews/3108228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美联储主席沃什：感谢美国总统特朗普。我们正处于一个重要的时刻。",
           "url": "https://flash.jin10.com/detail/20260523001217430800",
           "source": "金十数据",
@@ -266,6 +277,17 @@
           "time_info": "00时42分"
         },
         {
+          "title": "美国总统特朗普夸耀股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3108220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美国总统特朗普：沃什将得到政府的全力支持。",
           "url": "https://flash.jin10.com/detail/20260523000136461800",
           "source": "金十数据",
@@ -319,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "美国总统特朗普：想要遏制通胀，但不想阻碍我们伟大的进程。",
@@ -390,7 +423,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "“A股不死鸟”终折翼：*ST岩石确定退市",
@@ -400,8 +433,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -411,8 +444,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -452,6 +485,18 @@
           "time_info": "[00时42分 ~ 03时31分]"
         },
         {
+          "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
+          "url": "https://wallstreetcn.com/livenews/3108206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时31分]"
+        },
+        {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
           "url": "https://wallstreetcn.com/livenews/3108158",
           "source": "华尔街见闻-快讯",
@@ -464,22 +509,55 @@
           "time_info": "[00时42分 ~ 01时32分]"
         },
         {
-          "title": "恒生指数主连夜盘收跌0.49%，报25430点。 恒生科技指数主连夜盘收跌0.74%，报4824点。",
-          "url": "https://wallstreetcn.com/livenews/3108206",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040728628800",
+          "source": "金十数据",
           "ranks": [
-            6
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260523040726833800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 高通涨超11%",
+          "url": "https://flash.jin10.com/detail/20260523040305525800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
+        },
         {
           "title": "美国财政部：外国投资者在最新的双周报告期内购买了56.29亿美元3年期国债，较上月的68.34亿美元有所减少；购买了62.30亿美元10年期国债，较上月的57.89亿美元有所增加；购买了27.67亿美元的30年期债券，较上月的23.13亿美元有所增加。",
           "url": "https://flash.jin10.com/detail/20260523030323360800",
@@ -487,7 +565,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -498,20 +576,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
         },
         {
           "title": "德国10年期国债收益率跌6个基点，本周累计跌幅扩大至13个基点",
@@ -524,6 +591,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时31分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至5月19日当周，投机者将CBOT美国2年期国债期货的净空头头寸减少41,775份合约，降至1,560,837份；将CBOT美国10年期国债期货的净空头头寸增加66,885份合约，达到848,052份；将CBOT美国超长期国债期货的净空头头寸增加了15,470份合约，达到254,464份；将CBOT美国5年期国债期货的净空头头寸减少了11,629份合约，降至1,350,516份。",
+          "url": "https://flash.jin10.com/detail/20260523033601123800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至5月19日当周，投机者在CBOT美国国债期货上的净空头头寸增加5820份合约，达到178674份。",
+          "url": "https://flash.jin10.com/detail/20260523033424971800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "英国国债收益率有望创下2023年以来最大单周跌幅",
@@ -551,7 +640,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "国际原油期货结算价收涨",
@@ -560,7 +649,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -577,6 +666,30 @@
           "time_info": "[02时31分 ~ 03时31分]"
         },
         {
+          "title": "WTI 6月原油期货收涨0.25美元，涨幅0.26%，报96.60美元/桶。 布伦特7月原油期货收涨0.96美元，涨幅0.94%，报103.54美元/桶。 中东Abu Dhabi Murban原油期货die 1.76%，报100.35美元/桶，本周累计下跌7.08%。 NYMEX 6月天然气期货收报2.9070美元/百万英热单位。 NYMEX 6月汽油期货收报3.4539美元/加仑，NYMEX 6月取暖油期货收报3.8878美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3108204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时31分]"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌1.88%，报638.40元人民币/桶。 沪金夜盘收跌0.10%，沪银收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3108203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时31分]"
+        },
+        {
           "title": "WTI原油期货目前跌0.75%，报95.63美元。",
           "url": "https://wallstreetcn.com/livenews/3108189",
           "source": "华尔街见闻-快讯",
@@ -589,26 +702,26 @@
           "time_info": "[02时31分 ~ 03时31分]"
         },
         {
-          "title": "WTI 6月原油期货收涨0.25美元，涨幅0.26%，报96.60美元/桶。 布伦特7月原油期货收涨0.96美元，涨幅0.94%，报103.54美元/桶。 中东Abu Dhabi Murban原油期货die 1.76%，报100.35美元/桶，本周累计下跌7.08%。 NYMEX 6月天然气期货收报2.9070美元/百万英热单位。 NYMEX 6月汽油期货收报3.4539美元/加仑，NYMEX 6月取暖油期货收报3.8878美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3108204",
+          "title": "美国商品期货交易委员会（CFTC）：5月19日当周，投机者所持NYMEX WTI原油净多头头寸增加9,191手合约，至138,774手合约，创四周新高。 所持布伦特与WTI原油净多头头寸增加2,361手合约，至461,892手合约。 所持NYMEX汽油净多头头寸降低至62,629手合约。 所持NYMEX天然气净多头头寸降低至15,270手合约，创18个月新低。",
+          "url": "https://wallstreetcn.com/livenews/3108216",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时31分"
         },
         {
-          "title": "上期所原油期货2607合约夜盘收跌1.88%，报638.40元人民币/桶。 沪金夜盘收跌0.10%，沪银收涨0.51%。",
-          "url": "https://wallstreetcn.com/livenews/3108203",
-          "source": "华尔街见闻-快讯",
+          "title": "美国商品期货交易委员会（CFTC）：截至5月19日当周，原油投机者将WTI净多头头寸增加15,017份合约，达到110,348份。",
+          "url": "https://flash.jin10.com/detail/20260523033219717800",
+          "source": "金十数据",
           "ranks": [
-            9
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时31分"
         }
       ]
     },
@@ -621,11 +734,12 @@
           "url": "https://wallstreetcn.com/livenews/3108213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时31分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.51%，暂报2785.12点，上周五结束交易以来（7*24）累计上涨0.25%，整体呈现出钝化（平坦）的V形反转，5月18日北京时间07:13曾跌至2608.96点。 MarketVectorTM数字资产100中盘指数涨1.60%，报3065.76点，期内本周累涨0.95%。 MarketVector数字资产100指数跌0.19%，报15173.89点，期内累跌2.86%，5月16-18日持续走低，5月18日以来持续交投于15100点附近。 最近七天迄今，Solana累跌2.63%，狗狗币累跌6.41%，XRP累跌5.64%。 比特币累跌2.80%，暂报76870美元；以太坊累跌4.41%，暂报2121.030美元。",
@@ -654,8 +768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
         }
       ]
     },
@@ -671,8 +785,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 04时31分]"
         }
       ]
     }
