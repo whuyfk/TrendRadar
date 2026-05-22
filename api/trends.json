@@ -1,11 +1,613 @@
 {
-  "generated_at": "2026-05-22T12:34:03.385565+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-05-22T14:21:25.566070+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 52,
+      "titles": [
+        {
+          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
+          "url": "https://www.cls.cn/detail/2378280",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 12时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时26分 ~ 14时21分]"
+        },
+        {
+          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
+          "url": "https://wallstreetcn.com/articles/3772781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时39分 ~ 14时21分]"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.46%，深证成指涨0.89%，创业板指涨1.20%。",
+          "url": "https://flash.jin10.com/detail/20260522092519691800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "港股存储概念短线拉升，兆易创新一度涨近12%，澜起科技涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3107839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
+          "url": "https://flash.jin10.com/detail/20260522121130127800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "港股存储概念短线拉升，兆易创新(03986.HK)一度涨逾11%，澜起科技(06809.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260522141655004800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260522010102692800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "香港恒生指数5月22日（周五）开盘上涨255.28点，涨幅1.01%，报25641.8点；<br/>香港恒生科技指数5月22日（周五）开盘上涨75.05点，涨幅1.57%，报4843.95点；<br/>国企指数5月22日（周五）开盘上涨85.49点，涨幅1.01%，报8560.81点；<br/>红筹指数5月22日（周五）开盘上涨32.61点，涨幅0.74%，报4466.62点。",
+          "url": "https://flash.jin10.com/detail/20260522092333458800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨1%，CPO、PCB、培育钻石板块涨幅居前，全市场超4200支个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3107835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260522120616602800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "曝葛卫东不到2个月在A股赚100亿元",
+          "url": "https://www.toutiao.com/trending/7642150449764745262/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时33分 ~ 08时21分]"
+        },
+        {
+          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
+          "url": "https://wallstreetcn.com/livenews/3107635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 08时21分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 Arm涨16%",
+          "url": "https://flash.jin10.com/detail/20260522040124425800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时32分 ~ 05时29分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.69%，报25568点。 恒生科技指数主连夜盘收涨0.71%，报4816点。",
+          "url": "https://wallstreetcn.com/livenews/3107593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时32分]"
+        },
+        {
+          "title": "A股科技行情调整，业内人士：整体风险或相对可控",
+          "url": "https://wallstreetcn.com/livenews/3107649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 08时21分]"
+        },
+        {
+          "title": "A股突然下跌原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 07时19分]"
+        },
+        {
+          "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3107626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时19分]"
+        },
+        {
+          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
+          "url": "https://wallstreetcn.com/livenews/3107625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时19分]"
+        },
+        {
+          "title": "A股绿电概念异动拉升，晋控电力直线涨停，天富能源、京能电力、协鑫能科、京能热力、杭州热电涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3107739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时34分]"
+        },
+        {
+          "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
+          "url": "https://wallstreetcn.com/livenews/3107576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 03时33分]"
+        },
+        {
+          "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
+          "url": "https://wallstreetcn.com/livenews/3107737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时34分]"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041945523800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "A股巨头被美国司法部指控操纵价格",
+          "url": "https://www.toutiao.com/trending/7641776691010912262/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260522041555580800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "韩国投资者抄底A股",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E6%8A%84%E5%BA%95A%E8%82%A1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "专家：A股短线调整不改牛市大方向",
+          "url": "https://www.toutiao.com/trending/7642338764366286362/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "港股开盘，恒指开涨1.01%，科指开涨1.57%，丹诺医药(06872.HK)上市首日开涨98.15%，昨日暗盘收涨94%。",
+          "url": "https://flash.jin10.com/detail/20260522092106025800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "A股通信设备板块持续走强，慧智微冲击涨停，杰普特、天孚通信、国盾量子等股大涨。",
+          "url": "https://flash.jin10.com/detail/20260522140917199800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "借机A股回调，这些ETF被韩国资金逆势扫货",
+          "url": "https://www.cls.cn/detail/2378767",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "史诗级资金“抽水泵”来了：三大世纪IPO恐触发美股“大换血”？",
+          "url": "https://www.cls.cn/detail/2378668",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "创业板指高开高走涨逾3%，沪指涨超1%，深证成指现涨2.4%，两市超4000只个股上涨，PCB概念、CPO等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260522140644221800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "微软和安永将联合投资超10亿美元，帮助客户启动重大AI项目",
+          "url": "https://wallstreetcn.com/livenews/3107520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3107770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "上证指数早盘收报4096.24点，涨0.47%。 深证成指早盘收报15458.88点，涨1.39%。 创业板指早盘收报3902.74点，涨1.91%。 沪深300早盘收报4816.59点，涨0.70%。 科创50早盘收报1763.27点，跌0.05%。 中证500早盘收报8496.29点，涨0.91%。 中证1000早盘收报8629.50点，涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3107769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "A股电池板块震荡走高，雄韬股份涨停，正业科技涨超10%，信德新材、德福科技、安孚科技、铜冠铜箔、蔚蓝锂芯跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522103510805800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "5月22日午间收评：创业板指半日涨近2%，算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3107768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260522013155382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时33分"
+        },
+        {
+          "title": "A股大反转原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%A7%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时21分"
+        },
+        {
+          "title": "基金经理否认A股因量化砸盘高开低走",
+          "url": "https://www.toutiao.com/trending/7641407005811441670/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-05-22）",
+          "url": "https://flash.jin10.com/detail/20260522090619628800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "A股兆易创新成交额超200亿元，现涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260522140012451800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.44%，深成指涨1.48%，培育钻石、PCB、CPO、稀土永磁等方向领涨，沪深京三市上涨个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/3107718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-05-22）",
+          "url": "https://flash.jin10.com/detail/20260522090459451800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "A股房地产板块异动拉升，华丽家族涨停，京投发展、三湘印象涨超7%，京能置业、张江高科、深振业A跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "恒生科技指数持续走强涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260522113748755800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股光学光电子午后反弹拉升，京东方A涨停收获二连板，此前公司与康宁公司宣布达成合作。福光股份、波长光电、水晶光电、蓝特光学等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3107815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "深成指、创业板指午后均涨超2%，沪指拉升涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3107813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "A股午评：创业板指高开高走收涨1.91% 算力硬件方向集体爆发",
+          "url": "https://flash.jin10.com/detail/20260522113451966800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "A股新股N嘉德盘中涨625.89%，现报114.40元，触及临停。",
+          "url": "https://flash.jin10.com/detail/20260522102347343800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "上证指数开盘报4096.17点，涨0.46%。 深证成指开盘报15382.29点，涨0.89%。 创业板指开盘报3875.81点，涨1.20%。 沪深300开盘报4818.84点，涨0.75%。 科创50开盘报1790.74点，涨1.51%。 中证500开盘报8473.61点，涨0.64%。 中证1000开盘报8578.90点，涨0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3107695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
@@ -17,8 +619,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 12时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 14时21分]"
         },
         {
           "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
@@ -56,6 +658,19 @@
           "time_info": "[00时04分 ~ 07时19分]"
         },
         {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时21分 ~ 14时21分]"
+        },
+        {
           "title": "中方回应特朗普称将与赖清德谈军售",
           "url": "https://www.toutiao.com/trending/7642244493529321014/",
           "source": "今日头条",
@@ -70,19 +685,6 @@
           "time_info": "[00时04分 ~ 08时21分]"
         },
         {
-          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
-          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时21分 ~ 12时34分]"
-        },
-        {
           "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
           "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
           "source": "凤凰网",
@@ -90,8 +692,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 14时21分]"
         },
         {
           "title": "特朗普称将与赖清德就对台军售交谈，外交部回应",
@@ -103,11 +705,12 @@
             12,
             13,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 12时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 14时21分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -120,8 +723,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时21分 ~ 12时34分]"
+          "appearance_count": 8,
+          "time_info": "[08时21分 ~ 14时21分]"
         },
         {
           "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
@@ -131,8 +734,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 14时21分]"
         },
         {
           "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
@@ -142,8 +745,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时21分]"
         },
         {
           "title": "特朗普儿媳再忆中国行直呼震撼",
@@ -154,8 +757,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时37分 ~ 12时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时37分 ~ 14时21分]"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -186,9 +789,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "北约秘书长吕特对特朗普宣布美军在波兰部署兵力表示欢迎。",
+          "url": "https://wallstreetcn.com/livenews/3107834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -427,6 +1041,17 @@
           "time_info": "01时39分"
         },
         {
+          "title": "北约秘书长吕特：我欢迎美国总统特朗普宣布向波兰增派更多部队，军事专家正在研究细节。",
+          "url": "https://flash.jin10.com/detail/20260522140407191800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "美国总统特朗普：我推迟了人工智能（AI）行政命令签字仪式的会议。 不喜欢行政命令中的某些内容。 AI行政命令可能会妨碍美国在AI领域保持领先地位。",
           "url": "https://wallstreetcn.com/livenews/3107551",
           "source": "华尔街见闻-快讯",
@@ -572,500 +1197,20 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 42,
-      "titles": [
-        {
-          "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
-          "url": "https://www.cls.cn/detail/2378280",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 12时34分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
-          "url": "https://www.cls.cn/detail/2378488",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时26分 ~ 12时34分]"
-        },
-        {
-          "title": "A股午后集体下探，三大股指均跌超2%，京东方逆势涨停，芯片、算力全面下挫，恒科指跌超2%，科网股杀跌",
-          "url": "https://wallstreetcn.com/articles/3772781",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时39分 ~ 12时34分]"
-        },
-        {
-          "title": "A股开盘，上证指数涨0.46%，深证成指涨0.89%，创业板指涨1.20%。",
-          "url": "https://flash.jin10.com/detail/20260522092519691800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "“三巨头”竞相登陆华尔街，美股或迎“强制大换血”",
-          "url": "https://flash.jin10.com/detail/20260522121130127800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260522010102692800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
-        },
-        {
-          "title": "香港恒生指数5月22日（周五）开盘上涨255.28点，涨幅1.01%，报25641.8点；<br/>香港恒生科技指数5月22日（周五）开盘上涨75.05点，涨幅1.57%，报4843.95点；<br/>国企指数5月22日（周五）开盘上涨85.49点，涨幅1.01%，报8560.81点；<br/>红筹指数5月22日（周五）开盘上涨32.61点，涨幅0.74%，报4466.62点。",
-          "url": "https://flash.jin10.com/detail/20260522092333458800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "港股午评：恒指高开高走收涨1.22% AI应用、存储芯片板块领涨大盘",
-          "url": "https://flash.jin10.com/detail/20260522120616602800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "曝葛卫东不到2个月在A股赚100亿元",
-          "url": "https://www.toutiao.com/trending/7642150449764745262/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时33分 ~ 08时21分]"
-        },
-        {
-          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
-          "url": "https://wallstreetcn.com/livenews/3107635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 08时21分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 Arm涨16%",
-          "url": "https://flash.jin10.com/detail/20260522040124425800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时29分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.69%，报25568点。 恒生科技指数主连夜盘收涨0.71%，报4816点。",
-          "url": "https://wallstreetcn.com/livenews/3107593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时33分 ~ 04时32分]"
-        },
-        {
-          "title": "A股科技行情调整，业内人士：整体风险或相对可控",
-          "url": "https://wallstreetcn.com/livenews/3107649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 08时21分]"
-        },
-        {
-          "title": "A股突然下跌原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 07时19分]"
-        },
-        {
-          "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3107626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时19分]"
-        },
-        {
-          "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
-          "url": "https://wallstreetcn.com/livenews/3107625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时19分]"
-        },
-        {
-          "title": "A股绿电概念异动拉升，晋控电力直线涨停，天富能源、京能电力、协鑫能科、京能热力、杭州热电涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3107739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时34分]"
-        },
-        {
-          "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
-          "url": "https://wallstreetcn.com/livenews/3107576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时33分]"
-        },
-        {
-          "title": "智谱大涨逾20% 公司推出ZCube组网架构且有望入恒生科技指数",
-          "url": "https://wallstreetcn.com/livenews/3107737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时34分]"
-        },
-        {
-          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260522041945523800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "A股巨头被美国司法部指控操纵价格",
-          "url": "https://www.toutiao.com/trending/7641776691010912262/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
-        },
-        {
-          "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260522041555580800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "韩国投资者抄底A股",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E6%8A%84%E5%BA%95A%E8%82%A1%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
-        },
-        {
-          "title": "专家：A股短线调整不改牛市大方向",
-          "url": "https://www.toutiao.com/trending/7642338764366286362/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "港股开盘，恒指开涨1.01%，科指开涨1.57%，丹诺医药(06872.HK)上市首日开涨98.15%，昨日暗盘收涨94%。",
-          "url": "https://flash.jin10.com/detail/20260522092106025800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "微软和安永将联合投资超10亿美元，帮助客户启动重大AI项目",
-          "url": "https://wallstreetcn.com/livenews/3107520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "恒生指数涨幅扩大至1.1%，恒生科技指数涨1.8%。联想集团涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3107770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "上证指数早盘收报4096.24点，涨0.47%。 深证成指早盘收报15458.88点，涨1.39%。 创业板指早盘收报3902.74点，涨1.91%。 沪深300早盘收报4816.59点，涨0.70%。 科创50早盘收报1763.27点，跌0.05%。 中证500早盘收报8496.29点，涨0.91%。 中证1000早盘收报8629.50点，涨1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3107769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "A股电池板块震荡走高，雄韬股份涨停，正业科技涨超10%，信德新材、德福科技、安孚科技、铜冠铜箔、蔚蓝锂芯跟涨。",
-          "url": "https://flash.jin10.com/detail/20260522103510805800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "5月22日午间收评：创业板指半日涨近2%，算力硬件股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3107768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260522013155382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时33分"
-        },
-        {
-          "title": "A股大反转原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%A7%E5%8F%8D%E8%BD%AC%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时21分"
-        },
-        {
-          "title": "基金经理否认A股因量化砸盘高开低走",
-          "url": "https://www.toutiao.com/trending/7641407005811441670/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-05-22）",
-          "url": "https://flash.jin10.com/detail/20260522090619628800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.44%，深成指涨1.48%，培育钻石、PCB、CPO、稀土永磁等方向领涨，沪深京三市上涨个股近3600只。",
-          "url": "https://wallstreetcn.com/livenews/3107718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-05-22）",
-          "url": "https://flash.jin10.com/detail/20260522090459451800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时38分"
-        },
-        {
-          "title": "A股房地产板块异动拉升，华丽家族涨停，京投发展、三湘印象涨超7%，京能置业、张江高科、深振业A跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3107715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "恒生科技指数持续走强涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260522113748755800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3107712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "A股午评：创业板指高开高走收涨1.91% 算力硬件方向集体爆发",
-          "url": "https://flash.jin10.com/detail/20260522113451966800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "A股新股N嘉德盘中涨625.89%，现报114.40元，触及临停。",
-          "url": "https://flash.jin10.com/detail/20260522102347343800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "上证指数开盘报4096.17点，涨0.46%。 深证成指开盘报15382.29点，涨0.89%。 创业板指开盘报3875.81点，涨1.20%。 沪深300开盘报4818.84点，涨0.75%。 科创50开盘报1790.74点，涨1.51%。 中证500开盘报8473.61点，涨0.64%。 中证1000开盘报8578.90点，涨0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3107695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
       "match_count": 27,
       "titles": [
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时21分 ~ 14时21分]"
+        },
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
           "url": "https://wallstreetcn.com/articles/3772708",
@@ -1088,17 +1233,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时04分 ~ 06时27分]"
-        },
-        {
-          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
-          "url": "https://wallstreetcn.com/articles/3772777",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时21分 ~ 12时34分]"
         },
         {
           "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率2.169%，投标倍数2.52。",
@@ -1156,6 +1290,18 @@
           "time_info": "00时04分"
         },
         {
+          "title": "报道：土耳其在三月份几乎清仓美国国债，以力挺里拉",
+          "url": "https://wallstreetcn.com/articles/3772849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时21分]"
+        },
+        {
           "title": "两年期美债收益率涨2.8个基点",
           "url": "https://wallstreetcn.com/livenews/3107639",
           "source": "华尔街见闻-快讯",
@@ -1167,18 +1313,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 08时21分]"
-        },
-        {
-          "title": "报道：土耳其在三月份几乎清仓美国国债，以力挺里拉",
-          "url": "https://wallstreetcn.com/articles/3772849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 12时34分]"
         },
         {
           "title": "美国至5月15日当周外国央行持有美国国债 -202.38亿美元，前值-392.39亿美元。",
@@ -1323,7 +1457,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         },
@@ -1367,7 +1501,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
         }
@@ -1622,6 +1756,47 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "利空共振银价急跌，机构认为短期上行阻力较大",
+          "url": "https://wallstreetcn.com/livenews/3107653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时19分 ~ 09时38分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "金价又“坐过山车”",
+          "url": "https://www.douyin.com/hot/2507965",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1652,36 +1827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "利空共振银价急跌，机构认为短期上行阻力较大",
-          "url": "https://wallstreetcn.com/livenews/3107653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时19分 ~ 09时38分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     }
