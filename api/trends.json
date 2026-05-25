@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T18:28:53.905942+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-05-25T20:08:52.445028+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "算力巨头超聚变闯关创业板，80亿募资要下怎样一盘棋？",
@@ -101,7 +101,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -213,13 +213,24 @@
           "time_info": "12时39分"
         },
         {
+          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
+          "url": "https://wallstreetcn.com/articles/3773021",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "A股今日128只涨停股24只跌停股",
           "url": "https://www.toutiao.com/trending/7643362275482894355/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -235,6 +246,28 @@
           "time_info": "08时21分"
         },
         {
+          "title": "A股芯片股强势拉升",
+          "url": "https://www.douyin.com/hot/2511577",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
+          "title": "A股出现三大异象",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%87%BA%E7%8E%B0%E4%B8%89%E5%A4%A7%E5%BC%82%E8%B1%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "A股电池板块午后继续下挫，天际股份此前跌停，天赐材料、恩捷股份、圣阳股份、龙蟠科技纷纷下挫。",
           "url": "https://wallstreetcn.com/livenews/3108693",
           "source": "华尔街见闻-快讯",
@@ -244,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
+          "url": "https://www.cls.cn/detail/2380774",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-05-25）",
@@ -345,6 +389,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "A股培育钻石板块再度拉升，黄河旋风涨停，恒林股份此前涨停，惠丰钻石涨超11%，博云新材、四方达、恒盛能源、力量钻石跟涨。",
           "url": "https://flash.jin10.com/detail/20260525100753939800",
           "source": "金十数据",
@@ -362,7 +417,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -370,7 +425,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -463,6 +518,19 @@
           "time_info": "[00时18分 ~ 06时17分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 20时08分]"
+        },
+        {
           "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
           "url": "https://www.cls.cn/detail/2380246",
           "source": "财联社热门",
@@ -522,27 +590,26 @@
           "time_info": "[04时18分 ~ 08时21分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 18时28分]"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗问题）与伊朗达成的协议要么是伟大且有意义的，要么就不会达成协议。",
           "url": "https://flash.jin10.com/detail/20260525181117122800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
@@ -669,7 +736,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -694,12 +761,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "特朗普：不会签署让伊朗获得核武器的协议",
+          "url": "https://wallstreetcn.com/livenews/3108835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "意大利10年期国债收益率下跌7.3个基点，报3.694%；意大利2年期国债收益率下跌4个基点，报2.778%。",
@@ -719,7 +797,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -795,6 +873,17 @@
           "time_info": "[11时02分 ~ 12时39分]"
         },
         {
+          "title": "国际现货黄金成交量低迷存双向风险！美债继续恶化反成利好？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260525194708741800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
+        },
+        {
           "title": "德国两年期国债收益率下跌4.1%个基点至2.599%，德国10年期国债收益率下跌4.7个基点至2.989%。",
           "url": "https://wallstreetcn.com/livenews/3108704",
           "source": "华尔街见闻-快讯",
@@ -859,6 +948,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "德国10年期国债收益率跌至4月8日以来的最低点，报2.943%，日内跌9个基点。",
+          "url": "https://flash.jin10.com/detail/20260525193445620800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "国债期货收盘，30年期主力合约涨0.23%，10年期主力合约涨0.04%，5年期主力合约涨0.02%，2年期主力合约跌0.00%。",
@@ -1036,11 +1136,12 @@
             17,
             18,
             21,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时18分 ~ 20时08分]"
         }
       ]
     },
