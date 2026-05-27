@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T11:01:57.783119+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-05-27T12:38:08.618650+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "A股尾盘拉升，沪指险翻红，有色金属拉升，芯片半导体集体下挫，恒科指涨超1%，智谱再创新高",
@@ -18,8 +18,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时38分]"
+        },
+        {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时23分 ~ 12时38分]"
         },
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -35,6 +47,19 @@
           "time_info": "[00时23分 ~ 09时39分]"
         },
         {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 12时38分]"
+        },
+        {
           "title": "【每日收评】创业板指探底回升成功翻红，全市场超4000股收跌，PCB、有色金属板块走强",
           "url": "https://www.cls.cn/detail/2381755",
           "source": "财联社热门",
@@ -45,31 +70,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时27分]"
-        },
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时23分 ~ 11时01分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 11时01分]"
         },
         {
           "title": "中国上证综指5月27日（周三）开盘下跌6.57点，跌幅：0.16%，报4138.81点；<br/>中国深证成指5月27日（周三）开盘下跌7.26点，跌幅：0.05%，报15868.9点；<br/>中国沪深300指数5月27日（周三）开盘下跌6.9点，跌幅：0.14%，报4940.95点；<br/>中国创业板指数5月27日（周三）开盘上涨10.61点，涨幅：0.26%，报4053.68点；<br/>中国科创50指数5月27日（周三）开盘上涨7.71点，涨幅：0.41%，报1875.42点。",
@@ -169,6 +169,18 @@
           "time_info": "[08时23分 ~ 09时39分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时38分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.07%，报25508点。 恒生科技指数主连夜盘收跌0.12%，报4936点。",
           "url": "https://wallstreetcn.com/livenews/3109621",
           "source": "华尔街见闻-快讯",
@@ -245,7 +257,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -289,7 +301,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -303,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "上证指数早盘收报4099.23点，跌1.11%。 深证成指早盘收报15809.79点，跌0.42%。 创业板指早盘收报4071.41点，涨0.70%。 沪深300早盘收报4912.07点，跌0.72%。 科创50早盘收报1851.68点，跌0.86%。 中证500早盘收报8587.65点，跌0.82%。 中证1000早盘收报8594.62点，跌1.07%。",
+          "url": "https://wallstreetcn.com/livenews/3109814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 美光涨19%",
@@ -322,7 +345,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -333,9 +356,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "港股午评：恒生指数跌0.85% 恒生科技指数跌0.25%",
+          "url": "https://flash.jin10.com/detail/20260527120450056800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "年内578家A股公司发布回购预案 涉及金额超1000亿元",
@@ -349,15 +383,15 @@
           "time_info": "09时39分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "沪指跌幅扩大至1%，深成指下行翻绿，创业板指涨幅收窄至1%以内，贵金属、机器人、油气等板块跌幅居前，全市场下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3109808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时38分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2026-05-27）",
@@ -388,7 +422,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -410,7 +444,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         }
@@ -418,7 +452,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -428,11 +462,12 @@
             18,
             17,
             16,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 12时38分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -443,8 +478,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时23分 ~ 11时01分]"
+          "appearance_count": 6,
+          "time_info": "[08时23分 ~ 12时38分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
         },
         {
           "title": "特朗普：美国CFTC对预测市场的专属管辖权“至关重要”",
@@ -643,6 +689,17 @@
           "time_info": "[06时27分 ~ 07时23分]"
         },
         {
+          "title": "国台办回应特朗普称将和赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7643605127043399699/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 12时38分]"
+        },
+        {
           "title": "特朗普：内阁会议将由戴维营改至白宫举行",
           "url": "https://wallstreetcn.com/livenews/3109658",
           "source": "华尔街见闻-快讯",
@@ -756,7 +813,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
@@ -844,6 +901,18 @@
           "time_info": "[01时59分 ~ 02时54分]"
         },
         {
+          "title": "新西兰两年期国债收益率上行4个基点至3.54%。",
+          "url": "https://wallstreetcn.com/livenews/3109782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时38分]"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.620%，投标倍数2.71。",
           "url": "https://wallstreetcn.com/livenews/3109587",
           "source": "华尔街见闻-快讯",
@@ -866,17 +935,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 02时54分]"
-        },
-        {
-          "title": "新西兰两年期国债收益率上行4个基点至3.54%。",
-          "url": "https://wallstreetcn.com/livenews/3109782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         },
         {
           "title": "金十提示：美国至5月26日6周国债竞拍数据暂未公布。",
@@ -921,6 +979,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "日本40年期国债拍卖需求强于平均水平",
+          "url": "https://flash.jin10.com/detail/20260527120643157800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "日本拍卖40年期国债，认购倍数2.7，过去12个月均值为2.47。",
+          "url": "https://wallstreetcn.com/livenews/3109817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国至5月26日3个月国债竞拍-得标利率配置百分比 25.6%，前值12.47%。",
@@ -978,6 +1058,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.04%，10年期主力合约涨0.06%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3109810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3109699",
           "source": "华尔街见闻-快讯",
@@ -1012,7 +1103,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
