@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T14:25:15.074234+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-05-29T16:15:40.596133+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 60,
+      "match_count": 67,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时25分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[08时25分 ~ 16时15分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时25分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[08时25分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
@@ -65,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时25分 ~ 14时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时25分 ~ 16时15分]"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -158,7 +158,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -180,7 +180,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -330,7 +330,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -341,7 +341,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -377,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "恒生科技指数转跌，此前一度涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3111239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "港股午评：恒生科技指数收涨1.66% 联想系大涨",
@@ -418,7 +429,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -432,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "戴尔(DELL.N)美股盘前大涨近40%，第一财季业绩远超预期。",
+          "url": "https://flash.jin10.com/detail/20260529160216964800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "港股持续走高，恒指、恒生科技指数双双涨逾1%，恒生生物科技指数涨逾3%。",
@@ -511,13 +533,24 @@
           "time_info": "11时02分"
         },
         {
+          "title": "A股收盘：科创50指数跌超5%，大消费板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3111227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "A股液冷服务器概念股局部走低，飞龙股份触及跌停，英维克、同飞股份、南芯科技跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3111156",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -531,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "上证指数收报4068.57点，跌0.73%。 深证成指收报15575.13点，跌1.81%。 创业板指收报4037.95点，跌2.11%。 沪深300收报4892.12点，跌0.45%。 科创50收报1751.32点，跌5.04%。 中证500收报8359.56点，跌2.38%。 中证1000收报8408.74点，跌2.65%。",
+          "url": "https://wallstreetcn.com/livenews/3111223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.60%，报24995点。 恒生科技指数主连夜盘收涨0.70%，报4907点。",
@@ -572,7 +616,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -594,9 +638,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "港股大模型股下挫，智谱跌超4%",
+          "url": "https://wallstreetcn.com/livenews/3111219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "A股免税店概念股爆发，中国中免触及涨停。",
@@ -616,7 +671,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -627,7 +682,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -641,6 +696,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "港股智谱短线下挫，涨幅收窄至1.5%，此前一度涨超23%。",
+          "url": "https://wallstreetcn.com/livenews/3111215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "CBOE全球市场公司计划于12月在其CBOE EDGX股票交易所推出23X5美国股票交易；预计在上线初期将有约20种股票可供交易，其中包括“美股七巨头”。",
@@ -685,12 +751,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股5月收官",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A15%E6%9C%88%E6%94%B6%E5%AE%98&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "日本30年期国债收益率下跌5个基点，报3.915%。",
@@ -699,7 +776,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -764,6 +841,17 @@
           "time_info": "[02时02分 ~ 03时06分]"
         },
         {
+          "title": "德国10年期国债收益率下跌0.4个基点至2.955%。",
+          "url": "https://flash.jin10.com/detail/20260529160509374800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "日本10年期国债收益率下行5.5个基点至2.64%。",
           "url": "https://wallstreetcn.com/livenews/3111030",
           "source": "华尔街见闻-快讯",
@@ -773,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "德国两年期国债收益率在四月份德国CPI数据公布后转跌，最新下跌1.7个基点至2.5363%。",
+          "url": "https://flash.jin10.com/detail/20260529160359759800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "日本10年期国债收益率下跌5.5个基点，至2.640%；日本5年期国债收益率下跌3.0个基点，至1.875%。",
@@ -912,8 +1011,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 14时25分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 16时15分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -953,11 +1052,12 @@
           "url": "https://news.ifeng.com/c/8tW3etoYczE",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 14时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时15分]"
         },
         {
           "title": "美国财长贝森特：美国财政部正着手筹备一款印有特朗普总统头像的250美元新版纸币。",
@@ -1073,8 +1173,20 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "5月29日投资避雷针：高盛测算显示全球原油库存逼近“百日警戒线”",
+          "url": "https://www.cls.cn/detail/2384833",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 16时15分]"
+        },
         {
           "title": "美国至5月22日当周EIA原油产量引伸需求数据 1940.2万桶/日，前值2084.1万桶/日。",
           "url": "https://flash.jin10.com/detail/20260529000141254800",
@@ -1107,18 +1219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "5月29日投资避雷针：高盛测算显示全球原油库存逼近“百日警戒线”",
-          "url": "https://www.cls.cn/detail/2384833",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时25分]"
         },
         {
           "title": "美国5月22日当周EIA库欣地区原油库存变动 -279.4万桶，前值 -160.4万桶。",
@@ -1222,6 +1322,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "日本4月进口原油量创有统计以来最低水平",
+          "url": "https://flash.jin10.com/detail/20260529155520925800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "商品期货收盘，集运欧线主力合约涨超7%，鸡蛋、沪银、沪金涨超2%，20号胶涨2%。豆一、原油跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3111221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3110896",
           "source": "华尔街见闻-快讯",
@@ -1231,6 +1353,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI将通过亚洲云服务商Datasection进行最新模型部署",
+          "url": "https://flash.jin10.com/detail/20260529122311916800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3110889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
+          "url": "https://flash.jin10.com/detail/20260529023507958800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
+          "url": "https://wallstreetcn.com/livenews/3111141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -1293,56 +1476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI将通过亚洲云服务商Datasection进行最新模型部署",
-          "url": "https://flash.jin10.com/detail/20260529122311916800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3110889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
-          "url": "https://flash.jin10.com/detail/20260529023507958800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
-          "url": "https://wallstreetcn.com/livenews/3111141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
         }
       ]
     },
