@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T09:36:44.533240+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-05-29T11:02:11.623856+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 35,
+      "match_count": 44,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时02分]"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时02分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -57,6 +59,41 @@
           "time_info": "[00时25分 ~ 08时25分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时25分 ~ 11时02分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时25分 ~ 11时02分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 11时02分]"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -68,35 +105,13 @@
           "time_info": "[05时36分 ~ 07时27分]"
         },
         {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 09时36分]"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 09时36分]"
-        },
-        {
           "title": "A股培育钻石板块高开，四方达高开超13%，黄河旋风高开超9%，惠丰钻石、楚江新材跟涨。",
           "url": "https://flash.jin10.com/detail/20260529092914407800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -107,7 +122,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -118,21 +133,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
+          "title": "创业板指拉升翻红，此前一度跌1.7%，深证成指跌幅收窄至0.18%，沪指跌0.05%。",
+          "url": "https://flash.jin10.com/detail/20260529103846650800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "A股进入2025年年度分红密集实施期",
@@ -194,6 +208,18 @@
           "time_info": "[05时36分 ~ 06时31分]"
         },
         {
+          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
+          "url": "https://www.cls.cn/detail/2384732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时36分 ~ 11时02分]"
+        },
+        {
           "title": "戴尔科技美股盘后涨幅扩大至22%。",
           "url": "https://wallstreetcn.com/livenews/3110943",
           "source": "华尔街见闻-快讯",
@@ -206,13 +232,24 @@
           "time_info": "[05时36分 ~ 06时31分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
           "title": "比亚迪AH股齐涨，比亚迪A股涨超3%，比亚迪股份(01211.HK)H股涨超2%；公司日前发布自研4nm制程智驾芯片璇玑A3，这是中国首款4nm智驾芯片，支持L3、L4自动驾驶。",
           "url": "https://flash.jin10.com/detail/20260529092654174800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -234,9 +271,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
+        },
+        {
+          "title": "创业板指拉升翻红，此前一度跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3111084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "A股开盘，沪指开涨0.29%，深证成指开涨0.6%，创业板指开涨0.41%，培育钻石、超级电容板块、英伟达概念涨幅居前。",
@@ -245,7 +293,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -283,17 +331,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
           "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
           "url": "https://wallstreetcn.com/livenews/3110972",
           "source": "华尔街见闻-快讯",
@@ -305,13 +342,24 @@
           "time_info": "07时27分"
         },
         {
+          "title": "A股半导体产业链集体调整，华大九天跌超10%，龙图光罩、士兰微、国芯科技、明微电子、中芯国际等多股跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3111069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "香港恒生指数5月29日（周五）开盘上涨155.36点，涨幅0.62%，报25161.52点；<br/>香港恒生科技指数5月29日（周五）开盘上涨51.33点，涨幅1.05%，报4939.91点；<br/>国企指数5月29日（周五）开盘上涨41.97点，涨幅0.5%，报8406.38点；<br/>红筹指数5月29日（周五）开盘上涨2.61点，涨幅0.06%，报4338.67点。",
           "url": "https://flash.jin10.com/detail/20260529092130816800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -333,7 +381,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -371,6 +419,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "创业板指跌超1%，沪指跌0.11%，深成指跌0.72%，半导体、光伏设备、军工、机器人等板块跌幅居前，沪深京三市下跌个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3111064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.60%，报24995点。 恒生科技指数主连夜盘收涨0.70%，报4907点。",
           "url": "https://wallstreetcn.com/livenews/3110906",
           "source": "华尔街见闻-快讯",
@@ -380,6 +439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "A股地产股大涨，万科A直线涨停。",
+          "url": "https://wallstreetcn.com/livenews/3111052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "多家A股公司布局固态变压器赛道",
@@ -393,6 +463,17 @@
           "time_info": "08时25分"
         },
         {
+          "title": "信达生物港股一度涨逾10%，创近一年来最大盘中涨幅。此前公司与辉瑞签署一项价值高达105亿美元的全球协议，用于开发抗癌药物。",
+          "url": "https://wallstreetcn.com/livenews/3111046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "CBOE全球市场公司计划于12月在其CBOE EDGX股票交易所推出23X5美国股票交易；预计在上线初期将有约20种股票可供交易，其中包括“美股七巨头”。",
           "url": "https://flash.jin10.com/detail/20260529021834083800",
           "source": "金十数据",
@@ -402,6 +483,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "A股地产股开盘拉升，阳光股份3天2板，光大嘉宝逼近涨停，城建发展、荣盛发展、金融街、荣安地产跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3111042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股超级电容概念延续强势，华锋股份2连板，江海股份、风华高科、祥和实业、金时科技、宏明电子涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3111040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -414,11 +517,12 @@
           "url": "https://wallstreetcn.com/livenews/3111036",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 11时02分]"
         },
         {
           "title": "美联储Musalem：FOMC货币政策似乎处于、或略微低于长期中性利率。 美国国债收益率上涨，有75%是由于预计中性利率上升。 我曾在4月份（FOMC货币政策会议上）认为，决议声明中的宽松基调不再与形势吻合。 无论美联储加息、降息、或按兵不动，都有必要取决于美国的经济形势。（彭博）",
@@ -475,7 +579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -486,7 +590,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -552,7 +656,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时36分"
         },
@@ -566,6 +670,168 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美国至5月22日当周EIA原油产量引伸需求数据 1940.2万桶/日，前值2084.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260529000141254800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少333万桶，彭博用户预计下降320万桶、分析师预期减少362.020万桶，之前一周下降786.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3110857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3110896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国5月22日当周EIA库欣地区原油库存变动 -279.4万桶，前值 -160.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3110855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 02时02分]"
+        },
+        {
+          "title": "上期所原油期货2607合约夜盘收跌0.61%，报590.60元人民币/桶。 沪金夜盘收涨1.91%，沪银收涨2.71%。",
+          "url": "https://wallstreetcn.com/livenews/3110895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时45分]"
+        },
+        {
+          "title": "5月29日投资避雷针：高盛测算显示全球原油库存逼近“百日警戒线”",
+          "url": "https://www.cls.cn/detail/2384833",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "美国至5月22日当周EIA原油进口 36万桶，前值0.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260529000004363800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国5月22日当周EIA原油库存变动 -332.7万桶，预期 -300万桶，前值 -786.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3110852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "提醒：北京时间00:00，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3110850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "商品期货开盘，沪银、沪锡主力合约涨超2%，20号胶、沪金、棉纱涨超1%。原油、LU燃油跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3111024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时36分"
+        },
+        {
+          "title": "美国至5月22日当周EIA投产原油量 65.2万桶/日，前值-8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260529000003564800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国至5月22日当周EIA原油库存 -332.7万桶，预期-414.3万桶，前值-786.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260529000003490800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "美国至5月22日当周EIA俄克拉荷马州库欣原油库存 -279.4万桶，前值-160.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260529000003482800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3110896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时45分"
         }
       ]
     },
@@ -595,8 +861,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时02分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -617,8 +883,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时02分]"
         },
         {
           "title": "美财长称特朗普不会接受“糟糕的伊朗协议”",
@@ -722,159 +988,8 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美国至5月22日当周EIA原油产量引伸需求数据 1940.2万桶/日，前值2084.1万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260529000141254800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少333万桶，彭博用户预计下降320万桶、分析师预期减少362.020万桶，之前一周下降786.3万桶。",
-          "url": "https://wallstreetcn.com/livenews/3110857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3110896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国5月22日当周EIA库欣地区原油库存变动 -279.4万桶，前值 -160.4万桶。",
-          "url": "https://wallstreetcn.com/livenews/3110855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时02分]"
-        },
-        {
-          "title": "上期所原油期货2607合约夜盘收跌0.61%，报590.60元人民币/桶。 沪金夜盘收涨1.91%，沪银收涨2.71%。",
-          "url": "https://wallstreetcn.com/livenews/3110895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 04时45分]"
-        },
-        {
-          "title": "美国至5月22日当周EIA原油进口 36万桶，前值0.3万桶。",
-          "url": "https://flash.jin10.com/detail/20260529000004363800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美国5月22日当周EIA原油库存变动 -332.7万桶，预期 -300万桶，前值 -786.3万桶。",
-          "url": "https://wallstreetcn.com/livenews/3110852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "提醒：北京时间00:00，美国能源信息署（EIA）将发布政府版原油库存周报。",
-          "url": "https://wallstreetcn.com/livenews/3110850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "商品期货开盘，沪银、沪锡主力合约涨超2%，20号胶、沪金、棉纱涨超1%。原油、LU燃油跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3111024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时36分"
-        },
-        {
-          "title": "美国至5月22日当周EIA投产原油量 65.2万桶/日，前值-8万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260529000003564800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美国至5月22日当周EIA原油库存 -332.7万桶，预期-414.3万桶，前值-786.3万桶。",
-          "url": "https://flash.jin10.com/detail/20260529000003490800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "美国至5月22日当周EIA俄克拉荷马州库欣原油库存 -279.4万桶，前值-160.4万桶。",
-          "url": "https://flash.jin10.com/detail/20260529000003482800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "WTI 7月原油期货收涨0.22美元，涨幅0.25%，报88.90美元/桶，报道称美国与伊朗达成谅解备忘录之际，从91美元跳水至接近87美元的水平——瞬间又反弹至接近90美元。 布伦特7月原油期货收跌0.58美元，跌幅0.62%，报93.71美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报93.31美元/桶。 NYMEX 6月天然气期货收报3.2850美元/百万英热单位。 NYMEX 6月汽油期货收报3.1852美元/加仑，NYMEX 6月取暖油期货收报3.6187美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3110896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
@@ -898,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "美国4月核心PCE物价指数年率升至3.3%，为2023年11月以来最高水平，美联储6月按兵不动已成定局；现货黄金昨日跌破4400美元关口后回升，当前多头占比高达93%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260529103346129800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "周四（5月28日）纽约尾盘，彭博谷物分类指数涨0.46%，报31.6386点。 CBOT玉米期货涨0.83%，CBOT小麦期货涨0.24%。 CBOT大豆期货涨0.89%，刷新日高至11.96美元/蒲式耳，豆粕期货涨0.97%，豆油期货涨1.86%。",
@@ -997,11 +1123,12 @@
           "source": "微博",
           "ranks": [
             27,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时25分 ~ 09时36分]"
+          "appearance_count": 4,
+          "time_info": "[08时25分 ~ 11时02分]"
         }
       ]
     },
@@ -1047,8 +1174,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 09时36分]"
+          "appearance_count": 14,
+          "time_info": "[00时25分 ~ 11时02分]"
         }
       ]
     }
