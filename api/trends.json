@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-30T09:34:57.905125+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-05-30T11:02:07.009603+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时29分 ~ 11时02分]"
+        },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
           "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时05分 ~ 08时23分]"
-        },
-        {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时29分 ~ 09时34分]"
         },
         {
           "title": "据华盛顿邮报：美国官员称，特朗普在战情室关于伊朗谅解备忘录的会议已经结束。",
@@ -59,11 +60,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%96%E5%83%8F%E7%BA%AA%E5%BF%B5%E9%92%9E%E8%83%BD%E6%B5%81%E9%80%9A%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时34分 ~ 11时02分]"
         },
         {
           "title": "特朗普签署法令，放宽美国联邦土地准入限制",
@@ -152,6 +154,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时45分]"
+        },
+        {
+          "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
+          "url": "https://www.cls.cn/detail/2385988",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
+          "url": "https://flash.jin10.com/detail/20260530085921874800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时34分 ~ 11时02分]"
         },
         {
           "title": "美媒：特朗普推迟就伊朗相关协议作最终决定",
@@ -254,17 +279,6 @@
           "time_info": "01时06分"
         },
         {
-          "title": "美国国防部长赫格塞思：美国总统特朗普今年将在国防上进行1.5万亿美元的代际投资。",
-          "url": "https://flash.jin10.com/detail/20260530085921874800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时34分"
-        },
-        {
           "title": "美国法官裁定，特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭。",
           "url": "https://flash.jin10.com/detail/20260530031447535800",
           "source": "金十数据",
@@ -356,7 +370,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -380,8 +394,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 09时34分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 11时02分]"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
@@ -402,11 +416,12 @@
           "ranks": [
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 09时34分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 11时02分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -418,8 +433,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 09时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 11时02分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -590,6 +605,17 @@
           "time_info": "[06时30分 ~ 08时23分]"
         },
         {
+          "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
+          "url": "https://www.cls.cn/detail/2386025",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.11%，报15780点。 恒生科技指数主连夜盘收涨0.44%，报25098点。",
           "url": "https://wallstreetcn.com/livenews/3111601",
           "source": "华尔街见闻-快讯",
@@ -601,13 +627,24 @@
           "time_info": "03时46分"
         },
         {
+          "title": "MiniMax启动A股IPO辅导备案",
+          "url": "https://wallstreetcn.com/livenews/3111690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "MiniMax启动A股上市辅导",
           "url": "https://flash.jin10.com/detail/20260530082902923800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时34分"
         }
@@ -617,6 +654,19 @@
       "keyword_group": "原油",
       "match_count": 13,
       "titles": [
+        {
+          "title": "标普九周连涨、创2023年底最长，原油创六年来最大月跌幅，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3773437",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 11时02分]"
+        },
         {
           "title": "高盛测算全球原油库存逼近百日警戒线，可视库存预计仅剩 73 天需求量，这意味着什么？",
           "url": "https://www.zhihu.com/question/2043628658565309846",
@@ -632,19 +682,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时46分 ~ 09时34分]"
-        },
-        {
-          "title": "标普九周连涨、创2023年底最长，原油创六年来最大月跌幅，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3773437",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 09时34分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至5月26日当周，原油投机者将WTI净多头头寸减少19,186份合约，至91,163份。",
