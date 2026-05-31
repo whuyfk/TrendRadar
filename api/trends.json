@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T07:20:02.783904+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-31T08:21:51.442293+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -44,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -57,8 +57,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
         },
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -119,12 +119,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时19分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问批特朗普背弃外交原则",
+          "url": "https://news.ifeng.com/c/8tYiCwmfwnC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时21分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
@@ -132,11 +143,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -146,20 +158,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
-        },
-        {
-          "title": "业内：A股交易拥挤度达历史罕见水平",
-          "url": "https://www.toutiao.com/trending/7645571992297685038/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -170,8 +170,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 07时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
+        },
+        {
+          "title": "业内：A股交易拥挤度达历史罕见水平",
+          "url": "https://www.toutiao.com/trending/7645571992297685038/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 08时21分]"
+        },
+        {
+          "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
+          "url": "https://www.cls.cn/detail/2386240",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时21分"
         }
       ]
     },
@@ -191,8 +215,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时19分 ~ 07时20分]"
+          "appearance_count": 11,
+          "time_info": "[02时19分 ~ 08时21分]"
         }
       ]
     },
