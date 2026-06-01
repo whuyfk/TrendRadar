@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T11:02:10.863756+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-06-01T12:42:46.287385+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 11时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 12时42分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时21分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时21分 ~ 12时42分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
@@ -93,37 +93,27 @@
           "time_info": "09时43分"
         },
         {
-          "title": "创业板指跌超1%，此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3112126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
           "title": "港股大模型概念股持续下挫，智谱(02513.HK)跌超10%，MINIMAX-W(00100.HK)跌超7%。",
           "url": "https://flash.jin10.com/detail/20260601105342168800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
         {
-          "title": "创业板指翻绿，此前一度涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3112121",
+          "title": "创业板指跌超1%，此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3112126",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时42分]"
         },
         {
           "title": "恒生科技指数快速拉升，涨幅扩大至1.4%。",
@@ -138,6 +128,18 @@
           "time_info": "[09时43分 ~ 11时02分]"
         },
         {
+          "title": "创业板指翻绿，此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3112121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时42分]"
+        },
+        {
           "title": "6月基金经理调研：A股仍是最受青睐的方向之一",
           "url": "https://wallstreetcn.com/livenews/3111988",
           "source": "华尔街见闻-快讯",
@@ -148,6 +150,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 08时22分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时42分]"
         },
         {
           "title": "美股的“午夜钟声”或将敲响",
@@ -183,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时21分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
           "title": "李大霄：为何鲜有人提醒美股风险",
@@ -246,9 +249,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "港股午评：恒生指数半日收涨0.87% 科技、应用软件类股大涨",
+          "url": "https://flash.jin10.com/detail/20260601120908896800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "上证指数开盘报4067.16点，跌0.03%。 深证成指开盘报15601.03点，涨0.17%。 创业板指开盘报4057.39点，涨0.48%。 沪深300开盘报4897.90点，涨0.12%。 科创50开盘报1751.23点，跌0.01%。 中证500开盘报8358.49点，跌0.01%。 中证1000开盘报8393.52点，跌0.18%。",
@@ -279,9 +293,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "多股涨停！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2385911",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "创业板指跌1%，此前一度涨超1%；上证综指现涨0.05%，深证成指跌0.57%。",
@@ -290,7 +315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -312,7 +337,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -323,9 +348,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "上证指数早盘收报4063.72点，跌0.12%。 深证成指早盘收报15481.10点，跌0.60%。 创业板指早盘收报4001.52点，跌0.90%。 沪深300早盘收报4865.14点，跌0.55%。 科创50早盘收报1694.60点，跌3.24%。 中证500早盘收报8331.55点，跌0.34%。 中证1000早盘收报8402.27点，跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3112147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "A股CPO概念持续走弱，东山精密触及跌停，环旭电子、长盈通、蘅东光、长光华芯、东田微、长芯博创等跟跌。",
@@ -334,9 +370,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "6月1日午间收评：创业板指半日跌近1%，煤炭、AI PC概念逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3112146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "A股科技与消费“高低切”行情来了吗",
+          "url": "https://www.toutiao.com/trending/7645983035040645139/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-06-01）",
@@ -356,9 +414,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指日内跌幅收窄至1%，此前一度跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3112142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "A股半导体产业链延续调整，长光华芯跌超10%，东芯股份、赛微电子、燕东微、炬光科技、盛美上海、中微公司等十余股跌超5%。",
@@ -367,15 +436,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "博主：A股科技行情远未结束",
+          "url": "https://www.toutiao.com/trending/7646063803779518003/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -435,15 +515,16 @@
           "time_info": "[01时23分 ~ 07时21分]"
         },
         {
-          "title": "特朗普坚称美伊协议“明确禁止”伊朗拥核",
-          "url": "https://wallstreetcn.com/livenews/3112127",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
           "ranks": [
-            1
+            9,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
@@ -470,6 +551,18 @@
           "time_info": "[03时28分 ~ 05时19分]"
         },
         {
+          "title": "特朗普坚称美伊协议“明确禁止”伊朗拥核",
+          "url": "https://wallstreetcn.com/livenews/3112127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时42分]"
+        },
+        {
           "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
           "url": "https://flash.jin10.com/detail/20260601044554841800",
           "source": "金十数据",
@@ -493,17 +586,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时02分]"
         },
         {
           "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
@@ -536,9 +618,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "叙过渡总统与特朗普通话谈取消制裁",
+          "url": "https://wallstreetcn.com/livenews/3112157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "鲍威尔的“体面”警告：没有提特朗普，但每个字都在说特朗普",
@@ -550,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "铜价迎来关键月份 特朗普政府进口关税计划或更明朗",
+          "url": "https://flash.jin10.com/detail/20260601120522237800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "特朗普称，伊朗协议指出了伊朗不会拥有核武器，伊朗协议的大部分内容都与核问题有关。",
@@ -594,6 +698,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 11时02分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：Anthropic、OpenAI、SpaceXAI、字节跳动、Coreweave(CRWV.O)和甲骨文云基础设施均计划采用Vera芯片。",
+          "url": "https://flash.jin10.com/detail/20260601121839275800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "OpenAI、Anthropic和SpaceX成为英伟达(NVDA.O)Vera芯片的首批采用者。",
+          "url": "https://flash.jin10.com/detail/20260601121518785800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时42分]"
+        },
+        {
+          "title": "OpenAI、Anthropic和SpaceX成为英伟达Vera芯片的首批采用者。",
+          "url": "https://wallstreetcn.com/livenews/3112159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3112012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时22分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.16%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3112067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "银行间主要利率债收益率下行，10年期国债“26附息国债10”收益率破1.70%关口，下行0.9bp报1.6980%；30年期国债“26超长特别国债02”收益率破2.19%关口，下行1.8bp报1.1880%。",
+          "url": "https://wallstreetcn.com/livenews/3112095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.28%，10年期主力合约涨0.04%，5年期主力合约与昨日持平，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3112143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -650,74 +867,6 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3112012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.16%，10年期主力合约涨0.05%，5年期主力合约涨0.03%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3112067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时43分"
-        },
-        {
-          "title": "银行间主要利率债收益率下行，10年期国债“26附息国债10”收益率破1.70%关口，下行0.9bp报1.6980%；30年期国债“26超长特别国债02”收益率破2.19%关口，下行1.8bp报1.1880%。",
-          "url": "https://wallstreetcn.com/livenews/3112095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 11时02分]"
-        },
-        {
-          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
-          "url": "https://wallstreetcn.com/articles/3773518",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -734,6 +883,40 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时23分 ~ 08时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌今夏将在日本东京开设美国以外首家零售店",
+          "url": "https://wallstreetcn.com/livenews/3112161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多头只敢试探不敢冲锋？目前金价反弹还缺什么",
+          "url": "https://flash.jin10.com/detail/20260601115313889800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     }
