@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T08:32:35.365514+08:00",
-  "total_titles_processed": 734,
+  "generated_at": "2026-06-03T09:51:02.376872+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 27,
+      "match_count": 40,
       "titles": [
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时28分 ~ 08时32分]"
+          "appearance_count": 13,
+          "time_info": "[01时28分 ~ 09时51分]"
         },
         {
           "title": "A股或将重返强势格局",
@@ -35,6 +36,31 @@
           "time_info": "[01时28分 ~ 07时31分]"
         },
         {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 09时51分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 09时51分]"
+        },
+        {
           "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
           "url": "https://wallstreetcn.com/articles/3773650",
           "source": "华尔街见闻",
@@ -46,40 +72,61 @@
           "time_info": "[01时28分 ~ 06时01分]"
         },
         {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 08时32分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
-        },
-        {
           "title": "创业板大涨超2%，算力硬件全线爆发，恒科指狂飙超4%，美团、阿里、腾讯集体猛拉",
           "url": "https://wallstreetcn.com/articles/3773623",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 08时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 09时51分]"
+        },
+        {
+          "title": "5月A股新开户同比大增78%，逼近2.6亿，“科技行情”拉动入市",
+          "url": "https://www.cls.cn/detail/2389049",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "A股半导体板块走强，裕太微涨超15%，优迅股份、盛科通信涨超10%，康强电子涨停，帝奥微、扬杰科技、卓胜微涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260603093746849800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股玻璃基板概念反复走强，红星发展走出7天5板，TCL科技一度逼近涨停，美迪凯、鸿利智汇、京东方A、沃格光电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260603093640727800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "创业板指日内涨幅达1%，深证成指涨0.5%，上证综指现跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260603093632932800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "6月百基新发、多点开花，机构：A股市场中长期配置价值不改",
@@ -115,6 +162,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时49分 ~ 07时31分]"
+        },
+        {
+          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2044829108081775769",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 09时51分]"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -189,6 +247,28 @@
           "time_info": "[06时01分 ~ 06时50分]"
         },
         {
+          "title": "A股影视院线板块下挫，北京文化跌停，博纳影业、百纳千成、中国电影、上海电影、奥飞娱乐跟跌。",
+          "url": "https://flash.jin10.com/detail/20260603093556976800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股CPO、光纤概念股延续涨势，天洋新材3连板，一博科技一字涨停，天孚通信涨近10%，股价创历史新高，亨通光电、意华股份、罗博特科涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3113398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260603005621906800",
           "source": "金十数据",
@@ -198,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "上证指数开盘报4068.34点，跌0.17%。 深证成指开盘报15646.68点，涨0.36%。 创业板指开盘报4089.02点，涨0.82%。 沪深300开盘报4921.34点，涨0.14%。 科创50开盘报1697.66点，涨0.42%。 中证500开盘报8317.00点，跌0.05%。 中证1000开盘报8386.86点，涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3113395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "周二（6月2日），美股存储芯片与硬件供应链指数涨2.07%，报222.31点，连续六个交易日创收盘历史新高。",
@@ -211,6 +302,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "恒指低开0.33%，报25953.01点；恒生科技指数跌0.7%。联想集团低开7.8%，蔚来、金蝶国际跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3113392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（6月2日），美国科技股七巨头（Magnificent 7）指数跌1.03%，报225.46点。 “超大”市值科技股指数跌0.07%，报473.57点。",
           "url": "https://wallstreetcn.com/livenews/3113276",
           "source": "华尔街见闻-快讯",
@@ -220,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "A股光纤概念板块高开，天孚通信、蘅东光高开超9%，亨通光电、科瑞技术、炬光科技涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260603093120087800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "GitLab对全职员工裁员大约14%，退出22个国家。 该公司一季度调整后每股收益（EPS）为0.23美元，分析师预期0.21美元。 预计全年营收11.1亿-11.2亿美元，公司原本预计11.0亿-11.2亿美元。 预计二季度营收2.72亿-27.4亿美元，分析师预期2.732亿美元。 GitLab美股盘后涨13%。",
@@ -266,6 +379,28 @@
           "time_info": "04时59分"
         },
         {
+          "title": "SpaceX的IPO募资计划包括扩大AI算力以及拓展卫星网络。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3113381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中国上证综指6月3日（周三）开盘下跌6.76点，跌幅：0.17%，报4068.34点；<br/>中国深证成指6月3日（周三）开盘上涨55.56点，涨幅：0.36%，报15646.68点；<br/>中国沪深300指数6月3日（周三）开盘上涨6.79点，涨幅：0.14%，报4921.34点；<br/>中国创业板指数6月3日（周三）开盘上涨33.15点，涨幅：0.82%，报4089.02点；<br/>中国科创50指数6月3日（周三）开盘上涨7.1点，涨幅：0.42%，报1697.66点。",
+          "url": "https://flash.jin10.com/detail/20260603092921998800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
           "url": "https://wallstreetcn.com/livenews/3113269",
           "source": "华尔街见闻-快讯",
@@ -299,15 +434,15 @@
           "time_info": "04时59分"
         },
         {
-          "title": "宇树科技科创板 IPO 过会，这意味着什么？将给国产人形机器人行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2044829108081775769",
-          "source": "知乎",
+          "title": "A股CPO概念股延续涨势，天洋新材3连板，一博科技一字涨停，天孚通信、亨通光电、意华股份、罗博特科涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260603092814262800",
+          "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时32分"
+          "time_info": "09时51分"
         },
         {
           "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
@@ -319,12 +454,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "A股开盘，上证指数开跌0.17%，深证成指开涨0.36%，创业板指开涨0.82%；F5G、铜缆高速连接概念股涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260603092543813800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -371,8 +517,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时28分 ~ 08时32分]"
+          "appearance_count": 13,
+          "time_info": "[01时28分 ~ 09时51分]"
+        },
+        {
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 09时51分]"
         },
         {
           "title": "被特朗普斥\"疯了\"后，内塔尼亚胡最新强硬表态",
@@ -381,7 +538,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -452,6 +609,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普被曝同以总理通话爆粗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 09时51分]"
         },
         {
           "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
@@ -542,17 +710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
-        },
-        {
-          "title": "特朗普被曝同以总理通话爆粗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
         },
         {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
@@ -689,7 +846,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -708,18 +865,18 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
-          "title": "日本2年期国债收益率上行2个基点至1.395%。",
-          "url": "https://wallstreetcn.com/livenews/3113367",
+          "title": "国债期货开盘，30年期主力合约跌0.17%，10年期主力合约跌0.01%，5年期主力合约跌0.01%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3113400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时32分"
+          "time_info": "09时51分"
         },
         {
           "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
@@ -734,15 +891,16 @@
           "time_info": "[06时01分 ~ 06时50分]"
         },
         {
-          "title": "日本10年期国债收益率上行2.5个基点至2.59%。",
-          "url": "https://wallstreetcn.com/livenews/3113362",
+          "title": "日本2年期国债收益率上行2个基点至1.395%。",
+          "url": "https://wallstreetcn.com/livenews/3113367",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            4,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 09时51分]"
         },
         {
           "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
@@ -751,7 +909,18 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 09时51分]"
+        },
+        {
+          "title": "日本10年期国债收益率上行2.5个基点至2.59%。",
+          "url": "https://wallstreetcn.com/livenews/3113362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -762,9 +931,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260603093104577800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：可在不影响国债市场的情况下实施追加预算。",
+          "url": "https://wallstreetcn.com/livenews/3113383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "日本内阁批准190亿美元补充预算以应对中东局势。 日本将维持按日历计算的国债发行总量不变。",
@@ -773,7 +964,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时32分"
         },
@@ -811,11 +1002,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时49分 ~ 08时32分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 09时51分]"
         },
         {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
@@ -940,11 +1132,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 09时51分]"
         }
       ]
     }
