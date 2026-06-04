@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T13:32:56.179798+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-06-04T15:29:47.975887+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 51,
+      "match_count": 57,
       "titles": [
         {
           "title": "《新闻联播》披露A股重要数据",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时36分 ~ 13时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时36分 ~ 15时29分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -43,6 +43,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时36分 ~ 07时31分]"
+        },
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时29分]"
+        },
+        {
+          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
+          "url": "https://www.cls.cn/detail/2390171",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时29分]"
         },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
@@ -70,6 +94,19 @@
           "time_info": "[01时36分 ~ 13时32分]"
         },
         {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时02分 ~ 15时29分]"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -81,30 +118,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时36分 ~ 11时02分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时32分]"
-        },
-        {
-          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
-          "url": "https://www.cls.cn/detail/2390171",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时32分]"
         },
         {
           "title": "评论员：A股正成为全民财富新蓄水池",
@@ -123,19 +136,6 @@
           "time_info": "[01时36分 ~ 09时50分]"
         },
         {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时02分 ~ 13时32分]"
-        },
-        {
           "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
           "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
           "source": "澎湃新闻",
@@ -146,8 +146,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时32分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时29分]"
         },
         {
           "title": "A股再登新闻联播释放何种信息",
@@ -159,8 +159,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时33分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时33分 ~ 15时29分]"
         },
         {
           "title": "A股中船系概念股局部走高，中船特气涨超9%，久之洋涨超5%，中国动力涨超3%。",
@@ -180,9 +180,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "上证指数收报4057.78点，跌0.64%。 深证成指收报15661.57点，跌0.27%。 创业板指收报4088.88点，跌0.83%。 沪深300收报4904.75点，跌0.69%。 科创50收报1738.06点，涨0.69%。 中证500收报8356.74点，跌0.06%。 中证1000收报8420.09点，跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3114261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "下半年A股市场展望",
+          "url": "https://www.toutiao.com/trending/7647391113614986788/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "中国上证综指6月4日（周四）开盘下跌30.3点，跌幅：0.74%，报4053.67点；<br/>中国深证成指6月4日（周四）开盘下跌164.65点，跌幅：1.05%，报15540.06点；<br/>中国沪深300指数6月4日（周四）开盘下跌41.49点，跌幅：0.84%，报4897.32点；<br/>中国创业板指数6月4日（周四）开盘下跌50.44点，跌幅：1.22%，报4072.55点；<br/>中国科创50指数6月4日（周四）开盘下跌25.87点，跌幅：1.5%，报1700.31点。",
@@ -202,7 +224,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -285,7 +307,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -323,6 +345,17 @@
           "time_info": "09时50分"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "A股开盘，上证指数开跌0.74%，深证成指开跌1.05%，创业板指开跌1.22%；F5G、CPO、AI PC概念股跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260604092522189800",
           "source": "金十数据",
@@ -340,7 +373,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -373,9 +406,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-06-04）",
+          "url": "https://flash.jin10.com/detail/20260604152115538800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "A股电力板块午后持续拉升，华电能源、豫能控股、新中港、梅雁吉祥、百通能源涨停，京能电力、金开新能、江苏国信、华电辽能冲高。",
@@ -384,7 +428,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -406,7 +450,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -549,7 +593,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -571,7 +615,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -587,15 +631,37 @@
           "time_info": "05时00分"
         },
         {
+          "title": "A股的本质与系统奥义是什么",
+          "url": "https://www.toutiao.com/trending/7647380549501193782/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "A股铜缆高速连接板块午后短线拉升，鼎通科技20cm涨停，奕东电子涨超14%，鑫科材料此前涨停，金信诺、中航光电、意华股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260604130400756800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "美股芯片巨头暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -613,8 +679,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时36分 ~ 13时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时36分 ~ 15时29分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -629,6 +695,18 @@
           "time_info": "[01时36分 ~ 09时50分]"
         },
         {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普任命房屋监管主管兼任情报总监",
           "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
           "source": "凤凰网",
@@ -639,18 +717,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时36分 ~ 06时02分]"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时32分]"
         },
         {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
@@ -678,6 +744,17 @@
           "time_info": "[07时31分 ~ 11时02分]"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普称对伊封锁“比轰炸更有影响力” 美伊将联手挖掘核材料",
           "url": "https://flash.jin10.com/detail/20260604054420456800",
           "source": "金十数据",
@@ -698,17 +775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         },
         {
           "title": "特朗普团队内斗再被翻出，美财长这回承认了",
@@ -790,8 +856,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 15时29分]"
         },
         {
           "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
@@ -803,8 +869,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时33分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 15时29分]"
         },
         {
           "title": "美众院通过决议限制特朗普对伊朗动武",
@@ -942,7 +1008,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1192,7 +1258,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中信建投：预计后续债市走强节奏有所放缓，短期内10Y国债在1.70%一线盘整震荡",
@@ -1263,6 +1329,17 @@
           "time_info": "08时33分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260604151606652800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "日本至5月29日当周买进外国债券 -1848亿日元，前值由103亿日元修正为129亿日元。",
           "url": "https://flash.jin10.com/detail/20260604075002929800",
           "source": "金十数据",
@@ -1280,7 +1357,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1301,6 +1378,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 15时29分]"
+        },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
           "url": "https://wallstreetcn.com/livenews/3114037",
@@ -1323,17 +1412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
@@ -1364,7 +1442,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
