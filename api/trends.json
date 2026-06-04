@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T21:59:53.207829+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-06-04T23:09:52.484998+08:00",
+  "total_titles_processed": 1832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时31分 ~ 21时59分]"
+          "appearance_count": 11,
+          "time_info": "[07时31分 ~ 23时09分]"
         },
         {
           "title": "《新闻联播》披露A股重要数据",
@@ -176,8 +176,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时29分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[15时29分 ~ 23时09分]"
         },
         {
           "title": "房利美股价升至盘中高点5.5%。",
@@ -186,7 +186,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -308,6 +308,18 @@
           "time_info": "[19时01分 ~ 20时06分]"
         },
         {
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时09分]"
+        },
+        {
           "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
           "url": "https://wallstreetcn.com/livenews/3114053",
           "source": "华尔街见闻-快讯",
@@ -318,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 08时33分]"
+        },
+        {
+          "title": "瑞银：A股科技股拥挤程度远未到峰值",
+          "url": "https://www.toutiao.com/trending/7646379761480089636/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时09分]"
         },
         {
           "title": "新闻联播披露A股重要数据",
@@ -396,7 +420,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -445,17 +469,6 @@
           "time_info": "11时02分"
         },
         {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "港股汽车股盘初走低，蔚来-SW(09866.HK)跌近4%，奇瑞汽车(09973.HK)、零跑汽车(09863.HK)、理想汽车(02015.HK)跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260604092640389800",
           "source": "金十数据",
@@ -489,24 +502,13 @@
           "time_info": "13时32分"
         },
         {
-          "title": "瑞银：A股科技股拥挤程度远未到峰值",
-          "url": "https://www.toutiao.com/trending/7646379761480089636/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
           "title": "美股三大股指涨跌不一，博通大跌近14%",
           "url": "https://wallstreetcn.com/livenews/3114472",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -638,7 +640,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -671,7 +673,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -682,9 +684,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "卓创资讯：港股上市申请资料因过期失效，拟重新递交申请",
+          "url": "https://wallstreetcn.com/livenews/3114495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "Five Below美股盘后跌8%。 该公司一季度净销售12.9亿美元。",
@@ -852,6 +865,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "A股铜缆高速连接板块午后短线拉升，鼎通科技20cm涨停，奕东电子涨超14%，鑫科材料此前涨停，金信诺、中航光电、意华股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260604130400756800",
           "source": "金十数据",
@@ -877,7 +901,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -927,8 +951,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 21时59分]"
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 23时09分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -990,6 +1014,28 @@
           "time_info": "05时00分"
         },
         {
+          "title": "美国财长贝森特：总统特朗普的投资完全由第三方管理。",
+          "url": "https://wallstreetcn.com/livenews/3114513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普的投资经理对交易拥有决定权。",
+          "url": "https://flash.jin10.com/detail/20260604225103943800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "特朗普团队内斗再被翻出，美财长这回承认了",
           "url": "https://news.ifeng.com/c/8tg1e0si3el",
           "source": "凤凰网",
@@ -999,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普的投资完全由第三方管理。",
+          "url": "https://flash.jin10.com/detail/20260604225015201800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
@@ -1194,6 +1251,17 @@
           "time_info": "[05时00分 ~ 06时02分]"
         },
         {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 23时09分]"
+        },
+        {
           "title": "美众议院通过决议 限制特朗普对伊动武权力",
           "url": "https://flash.jin10.com/detail/20260604053252416800",
           "source": "金十数据",
@@ -1332,7 +1400,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1359,6 +1427,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "美国财长贝森特重申，无法对美国总统特朗普与国税局的和解问题发表评论。",
+          "url": "https://flash.jin10.com/detail/20260604222240545800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "特朗普宣称：伊朗原则上接近签署协议",
           "url": "https://wallstreetcn.com/livenews/3114005",
           "source": "华尔街见闻-快讯",
@@ -1370,15 +1449,15 @@
           "time_info": "05时00分"
         },
         {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
-          "source": "澎湃新闻",
+          "title": "特朗普认为赞成限制其战争权力的众议员“不爱国”",
+          "url": "https://wallstreetcn.com/livenews/3114496",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时59分"
+          "time_info": "23时09分"
         },
         {
           "title": "美媒：内塔尼亚胡在特朗普和国内大选之间左右为难",
@@ -1549,7 +1628,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -1562,8 +1641,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 23时09分]"
         },
         {
           "title": "市场消息：普华永道与谷歌云合作加速人工智能威胁防御。",
@@ -1572,7 +1651,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1583,9 +1662,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
+        },
+        {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时01分 ~ 23时09分]"
         },
         {
           "title": "谷歌计划释放3200万只蚊子",
@@ -1598,18 +1689,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时01分 ~ 20时06分]"
-        },
-        {
-          "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 21时59分]"
         },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
@@ -1646,6 +1725,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "Gemini 美国豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
+        },
+        {
           "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
           "url": "https://wallstreetcn.com/livenews/3114361",
           "source": "华尔街见闻-快讯",
@@ -1674,7 +1764,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1791,7 +1881,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -1813,7 +1903,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
@@ -2083,7 +2173,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
