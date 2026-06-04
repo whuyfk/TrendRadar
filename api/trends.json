@@ -1,11 +1,607 @@
 {
-  "generated_at": "2026-06-04T11:02:29.314342+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-06-04T13:32:56.179798+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 51,
+      "titles": [
+        {
+          "title": "《新闻联播》披露A股重要数据",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时36分 ~ 08时33分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时36分 ~ 13时32分]"
+        },
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时36分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 06时02分]"
+        },
+        {
+          "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
+          "url": "https://wallstreetcn.com/articles/3773737",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时36分 ~ 13时32分]"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时36分 ~ 11时02分]"
+        },
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时32分]"
+        },
+        {
+          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
+          "url": "https://www.cls.cn/detail/2390171",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时32分]"
+        },
+        {
+          "title": "评论员：A股正成为全民财富新蓄水池",
+          "url": "https://www.toutiao.com/trending/7647043750434180627/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            2,
+            15,
+            19,
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 09时50分]"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时02分 ~ 13时32分]"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时32分]"
+        },
+        {
+          "title": "A股再登新闻联播释放何种信息",
+          "url": "https://www.toutiao.com/trending/7647311695521549870/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 13时32分]"
+        },
+        {
+          "title": "A股中船系概念股局部走高，中船特气涨超9%，久之洋涨超5%，中国动力涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260604092802229800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走强，德明利触及涨停，佰维存储涨超10%，江波龙、香农芯创跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "中国上证综指6月4日（周四）开盘下跌30.3点，跌幅：0.74%，报4053.67点；<br/>中国深证成指6月4日（周四）开盘下跌164.65点，跌幅：1.05%，报15540.06点；<br/>中国沪深300指数6月4日（周四）开盘下跌41.49点，跌幅：0.84%，报4897.32点；<br/>中国创业板指数6月4日（周四）开盘下跌50.44点，跌幅：1.22%，报4072.55点；<br/>中国科创50指数6月4日（周四）开盘下跌25.87点，跌幅：1.5%，报1700.31点。",
+          "url": "https://flash.jin10.com/detail/20260604092743637800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股铜缆高速连接概念反复活跃，鼎通科技20cm涨停，奕东电子涨超15%，鑫科材料此前封板，金信诺、中航光电、意华股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "A股工业气体概念再度拉升，中船特气涨超15%，股价续创历史新高，华特气体、和远气体、三孚股份、广钢气体、凯美特气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3114125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时02分]"
+        },
+        {
+          "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
+          "url": "https://wallstreetcn.com/livenews/3114053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 08时33分]"
+        },
+        {
+          "title": "新闻联播披露A股重要数据",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 08时33分]"
+        },
+        {
+          "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3114012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 06时02分]"
+        },
+        {
+          "title": "上证指数开盘报4053.67点，跌0.74%。 深证成指开盘报15540.06点，跌1.05%。 创业板指开盘报4072.55点，跌1.22%。 沪深300开盘报4897.32点，跌0.84%。 科创50开盘报1700.31点，跌1.50%。 中证500开盘报8279.86点，跌0.98%。 中证1000开盘报8338.85点，跌1.11%。",
+          "url": "https://wallstreetcn.com/livenews/3114112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时02分]"
+        },
+        {
+          "title": "博通美股盘后跌幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3114029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时31分]"
+        },
+        {
+          "title": "A股燃气轮机概念持续走强，博盈特焊20cm涨停，杰瑞股份、中国动力此前封板，联德股份、应流股份、万泽股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3114212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "A股煤炭开采加工板块震荡走高，安泰集团涨停，大有能源此前涨停，平煤股份、郑州煤电、陕西黑猫跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604105414742800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "港股汽车股盘初走低，蔚来-SW(09866.HK)跌近4%，奇瑞汽车(09973.HK)、零跑汽车(09863.HK)、理想汽车(02015.HK)跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260604092640389800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股开盘，上证指数开跌0.74%，深证成指开跌1.05%，创业板指开跌1.22%；F5G、CPO、AI PC概念股跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260604092522189800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股零售板块持续下挫，中央商场触及跌停，中百集团此前跌停，步步高跌超9%，宁波中百、国芳集团、东百集团跟跌。",
+          "url": "https://flash.jin10.com/detail/20260604132321280800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "港股热门科技股普遍低开，联想集团(00992.HK)开跌超5%，哔哩哔哩(09626.HK)开跌超2%，百度(09888.HK)、华虹半导体(01347.HK)、中芯国际(00981.HK)均开跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260604092352935800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "恒指低开0.66%，报25465.3点；恒生科技指数跌1.23%。联想集团跌超5%，蔚来、金蝶国际、比亚迪股份跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3114109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走强，德明利触及涨停，佰维存储涨超10%，江波龙、香农芯创跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604131333588800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "A股电力板块午后持续拉升，华电能源、豫能控股、新中港、梅雁吉祥、百通能源涨停，京能电力、金开新能、江苏国信、华电辽能冲高。",
+          "url": "https://flash.jin10.com/detail/20260604131204338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "区域银行ETF收跌将近2.4%，领跌美股行业ETF，标普能源板块涨约1.4%",
+          "url": "https://wallstreetcn.com/livenews/3114008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "A股燃气轮机概念持续拉升，博盈特焊20CM涨停，此前中国动力、杰瑞股份涨停，联德股份、万泽股份、应流股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604131124413800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3114026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "A股PCB概念股低开回升，世运电路涨停，矩子科技涨超10%，新锐股份、亨通股份、东威科技、东山精密涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3114141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "香港恒生指数6月4日（周四）开盘下跌167.91点，跌幅0.66%，报25465.3点；<br/>香港恒生科技指数6月4日（周四）开盘下跌62.03点，跌幅1.23%，报4994.94点；<br/>国企指数6月4日（周四）开盘下跌51.86点，跌幅0.6%，报8544.73点；<br/>红筹指数6月4日（周四）开盘下跌13.01点，跌幅0.29%，报4443.83点。",
+          "url": "https://flash.jin10.com/detail/20260604092124773800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股BC电池板块短线拉升，芯碁微装涨超10%，有研粉材、广信材料、永和智控、TCL中环、晶盛机电等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604104331007800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "金十图示：2026年06月03日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260604005221712800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "港股开盘，恒生指数开跌0.66%，恒生科技指数开跌1.23%；比亚迪股份(01211.HK)开跌3.43%。",
+          "url": "https://flash.jin10.com/detail/20260604092121299800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "Five Below美股盘后跌8%。 该公司一季度净销售12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "A股公司再掀回购热潮 年内披露金额已超千亿元",
+          "url": "https://wallstreetcn.com/livenews/3114072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时33分"
+        },
+        {
+          "title": "A股存储芯片板块低开高走，大为股份冲击涨停，江化微、云汉芯城、太极实业、概伦电子、雅创电子均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3114129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3114001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "金十图示：2026年06月03日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260604003805317800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "美股iShares软件ETF两天下跌7%，创2025年以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3113999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "上证指数早盘收报4066.56点，跌0.43%。 深证成指早盘收报15632.79点，跌0.46%。 创业板指早盘收报4077.75点，跌1.10%。 沪深300早盘收报4910.21点，跌0.58%。 科创50早盘收报1738.54点，涨0.72%。 中证500早盘收报8349.38点，跌0.15%。 中证1000早盘收报8411.71点，跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3114187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "A股房地产板块逆势拉升，香江控股9天7板，阳光股份涨停，南山控股、合肥城建、栖霞建设、福星股份、津投城开等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3114120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "6月4日午间收评：创业板指半日跌超1%，全市场下跌个股超4200只",
+          "url": "https://wallstreetcn.com/livenews/3114186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "标普500指数收跌56.10点，跌幅0.74%，报7553.68点，美股盘初显著下跌，绝大部分时间低位震荡——交投于7570点附近。 道琼斯工业平均指数收跌620.72点，跌幅1.21%，报50687.07点。 纳斯达克综合指数（纳指）收跌239.925点，跌幅0.89%，报26853.976点。 纳斯达克100指数收跌89.364点，跌幅0.29%，报30571.237点。 纳斯达克科技市值加权指数收跌0.39%，报3040.2136点，美股盘初高开低走，绝大部分时间维持下跌状态。 费城半导体指数收涨1.39%，报13916.957点，连续第三个交易日创收盘历史新高，盘初出现V形反转行情，绝大部分时间高位震荡。 费城证交所KBW银行指数收跌1.44%，报169.19点。 道琼斯KBW地区银行指数收跌2.15%，报131.27点。 罗素2000指数收跌1.31%，报2893.514点。 纳斯达克生物科技指数收盘反弹1.87%，报5807.22点。 标普中盘股400指数收跌0.10%，纳斯达克美国中等市值指数跌0.69%。 恐慌指数VIX收涨2.09%，报16.10，日内绝大部分时间持稳于这样的水平、北京时间22:00前后尖锐地冲高回落——一度达到16.63。",
+          "url": "https://wallstreetcn.com/livenews/3113997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "A股铜缆高速连接板块午后短线拉升，鼎通科技20cm涨停，奕东电子涨超14%，鑫科材料此前涨停，金信诺、中航光电、意华股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260604130400756800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -17,8 +613,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 11时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时36分 ~ 13时32分]"
         },
         {
           "title": "特朗普为何骂内塔尼亚胡“疯了”？",
@@ -45,6 +641,18 @@
           "time_info": "[01时36分 ~ 06时02分]"
         },
         {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时32分]"
+        },
+        {
           "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
           "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
@@ -56,18 +664,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时36分 ~ 08时33分]"
-        },
-        {
-          "title": "美众议院通过决议，限制特朗普对伊动武权力",
-          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时02分]"
         },
         {
           "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
@@ -104,15 +700,37 @@
           "time_info": "05时00分"
         },
         {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "特朗普团队内斗再被翻出，美财长这回承认了",
           "url": "https://news.ifeng.com/c/8tg1e0si3el",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 13时32分]"
         },
         {
           "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
@@ -139,6 +757,18 @@
           "time_info": "[08时33分 ~ 09时50分]"
         },
         {
+          "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
+          "url": "https://news.ifeng.com/c/8tfpnbgvAEj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时33分 ~ 13时32分]"
+        },
+        {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
           "url": "https://wallstreetcn.com/livenews/3114038",
           "source": "华尔街见闻-快讯",
@@ -151,27 +781,30 @@
           "time_info": "[06时02分 ~ 07时31分]"
         },
         {
-          "title": "美众议院通过决议限制特朗普对伊动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
+          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
+          "url": "https://www.cls.cn/detail/2390202",
+          "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普点名万斯、鲁比奥：两人大选联手将是一支难以被击败的团队",
-          "url": "https://news.ifeng.com/c/8tfpnbgvAEj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
+            13,
+            11,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时33分 ~ 11时02分]"
+          "time_info": "[09时50分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2390155",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时33分 ~ 13时32分]"
         },
         {
           "title": "美众院通过决议限制特朗普对伊朗动武",
@@ -234,18 +867,6 @@
           "time_info": "[08时33分 ~ 09时50分]"
         },
         {
-          "title": "美伊局势追踪：特朗普称协议或在周末达成，美国会众议院要求结束动武！",
-          "url": "https://www.cls.cn/detail/2390202",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时02分]"
-        },
-        {
           "title": "美国总统特朗普：一旦签署协议，霍尔木兹海峡将立即开放。",
           "url": "https://wallstreetcn.com/livenews/3114011",
           "source": "华尔街见闻-快讯",
@@ -268,18 +889,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时33分 ~ 09时50分]"
-        },
-        {
-          "title": "特朗普称美伊协议可能在本周末达成 SpaceX官方拟定IPO发行价为135美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2390155",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时33分 ~ 11时02分]"
         },
         {
           "title": "美国总统特朗普：企图将伊朗与黎巴嫩问题分开处理。",
@@ -322,9 +931,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "特朗普将提名其前私人律师任美国司法部长",
+          "url": "https://wallstreetcn.com/livenews/3114206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -571,492 +1191,8 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 41,
-      "titles": [
-        {
-          "title": "《新闻联播》披露A股重要数据",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E3%80%8B%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时36分 ~ 08时33分]"
-        },
-        {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 11时02分]"
-        },
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时36分 ~ 06时02分]"
-        },
-        {
-          "title": "创业板冲高回落涨逾1.5%，算力硬件再爆发、“易中天”齐创新高，恒科指跌近3%，科网股集体下跌",
-          "url": "https://wallstreetcn.com/articles/3773737",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 11时02分]"
-        },
-        {
-          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2389957",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 11时02分]"
-        },
-        {
-          "title": "评论员：A股正成为全民财富新蓄水池",
-          "url": "https://www.toutiao.com/trending/7647043750434180627/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            2,
-            15,
-            19,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时36分 ~ 09时50分]"
-        },
-        {
-          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
-          "url": "https://wallstreetcn.com/articles/3773742",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时02分]"
-        },
-        {
-          "title": "【早报】A股上新闻联播；光纤企业爆单；富时A50，纳入多只牛股",
-          "url": "https://www.cls.cn/detail/2390171",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
-          "url": "https://www.cls.cn/detail/2390139",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时02分 ~ 11时02分]"
-        },
-        {
-          "title": "A股再登新闻联播释放何种信息",
-          "url": "https://www.toutiao.com/trending/7647311695521549870/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时33分 ~ 11时02分]"
-        },
-        {
-          "title": "A股中船系概念股局部走高，中船特气涨超9%，久之洋涨超5%，中国动力涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260604092802229800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中国上证综指6月4日（周四）开盘下跌30.3点，跌幅：0.74%，报4053.67点；<br/>中国深证成指6月4日（周四）开盘下跌164.65点，跌幅：1.05%，报15540.06点；<br/>中国沪深300指数6月4日（周四）开盘下跌41.49点，跌幅：0.84%，报4897.32点；<br/>中国创业板指数6月4日（周四）开盘下跌50.44点，跌幅：1.22%，报4072.55点；<br/>中国科创50指数6月4日（周四）开盘下跌25.87点，跌幅：1.5%，报1700.31点。",
-          "url": "https://flash.jin10.com/detail/20260604092743637800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股工业气体概念再度拉升，中船特气涨超15%，股价续创历史新高，华特气体、和远气体、三孚股份、广钢气体、凯美特气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3114125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时02分]"
-        },
-        {
-          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时31分 ~ 11时02分]"
-        },
-        {
-          "title": "时隔8年A股再迎航司IPO，长龙航空拟募资20亿元",
-          "url": "https://wallstreetcn.com/livenews/3114053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 08时33分]"
-        },
-        {
-          "title": "新闻联播披露A股重要数据",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E6%8A%AB%E9%9C%B2A%E8%82%A1%E9%87%8D%E8%A6%81%E6%95%B0%E6%8D%AE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 08时33分]"
-        },
-        {
-          "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
-          "url": "https://wallstreetcn.com/livenews/3114012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 06时02分]"
-        },
-        {
-          "title": "上证指数开盘报4053.67点，跌0.74%。 深证成指开盘报15540.06点，跌1.05%。 创业板指开盘报4072.55点，跌1.22%。 沪深300开盘报4897.32点，跌0.84%。 科创50开盘报1700.31点，跌1.50%。 中证500开盘报8279.86点，跌0.98%。 中证1000开盘报8338.85点，跌1.11%。",
-          "url": "https://wallstreetcn.com/livenews/3114112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时02分]"
-        },
-        {
-          "title": "博通美股盘后跌幅扩大至12%。",
-          "url": "https://wallstreetcn.com/livenews/3114029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时31分]"
-        },
-        {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "A股煤炭开采加工板块震荡走高，安泰集团涨停，大有能源此前涨停，平煤股份、郑州煤电、陕西黑猫跟涨。",
-          "url": "https://flash.jin10.com/detail/20260604105414742800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "港股汽车股盘初走低，蔚来-SW(09866.HK)跌近4%，奇瑞汽车(09973.HK)、零跑汽车(09863.HK)、理想汽车(02015.HK)跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260604092640389800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股开盘，上证指数开跌0.74%，深证成指开跌1.05%，创业板指开跌1.22%；F5G、CPO、AI PC概念股跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260604092522189800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "港股热门科技股普遍低开，联想集团(00992.HK)开跌超5%，哔哩哔哩(09626.HK)开跌超2%，百度(09888.HK)、华虹半导体(01347.HK)、中芯国际(00981.HK)均开跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260604092352935800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "恒指低开0.66%，报25465.3点；恒生科技指数跌1.23%。联想集团跌超5%，蔚来、金蝶国际、比亚迪股份跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3114109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "区域银行ETF收跌将近2.4%，领跌美股行业ETF，标普能源板块涨约1.4%",
-          "url": "https://wallstreetcn.com/livenews/3114008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "摩根士丹利将中兴通讯A股评级上调至平配，目标价34.30元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3114026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "A股PCB概念股低开回升，世运电路涨停，矩子科技涨超10%，新锐股份、亨通股份、东威科技、东山精密涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3114141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "香港恒生指数6月4日（周四）开盘下跌167.91点，跌幅0.66%，报25465.3点；<br/>香港恒生科技指数6月4日（周四）开盘下跌62.03点，跌幅1.23%，报4994.94点；<br/>国企指数6月4日（周四）开盘下跌51.86点，跌幅0.6%，报8544.73点；<br/>红筹指数6月4日（周四）开盘下跌13.01点，跌幅0.29%，报4443.83点。",
-          "url": "https://flash.jin10.com/detail/20260604092124773800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股BC电池板块短线拉升，芯碁微装涨超10%，有研粉材、广信材料、永和智控、TCL中环、晶盛机电等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260604104331007800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "金十图示：2026年06月03日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260604005221712800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "港股开盘，恒生指数开跌0.66%，恒生科技指数开跌1.23%；比亚迪股份(01211.HK)开跌3.43%。",
-          "url": "https://flash.jin10.com/detail/20260604092121299800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "Five Below美股盘后跌8%。 该公司一季度净销售12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "A股公司再掀回购热潮 年内披露金额已超千亿元",
-          "url": "https://wallstreetcn.com/livenews/3114072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "A股存储芯片板块低开高走，大为股份冲击涨停，江化微、云汉芯城、太极实业、概伦电子、雅创电子均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3114129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
-          "url": "https://wallstreetcn.com/livenews/3114001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "金十图示：2026年06月03日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260604003805317800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        },
-        {
-          "title": "美股iShares软件ETF两天下跌7%，创2025年以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3113999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "A股房地产板块逆势拉升，香江控股9天7板，阳光股份涨停，南山控股、合肥城建、栖霞建设、福星股份、津投城开等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3114120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "标普500指数收跌56.10点，跌幅0.74%，报7553.68点，美股盘初显著下跌，绝大部分时间低位震荡——交投于7570点附近。 道琼斯工业平均指数收跌620.72点，跌幅1.21%，报50687.07点。 纳斯达克综合指数（纳指）收跌239.925点，跌幅0.89%，报26853.976点。 纳斯达克100指数收跌89.364点，跌幅0.29%，报30571.237点。 纳斯达克科技市值加权指数收跌0.39%，报3040.2136点，美股盘初高开低走，绝大部分时间维持下跌状态。 费城半导体指数收涨1.39%，报13916.957点，连续第三个交易日创收盘历史新高，盘初出现V形反转行情，绝大部分时间高位震荡。 费城证交所KBW银行指数收跌1.44%，报169.19点。 道琼斯KBW地区银行指数收跌2.15%，报131.27点。 罗素2000指数收跌1.31%，报2893.514点。 纳斯达克生物科技指数收盘反弹1.87%，报5807.22点。 标普中盘股400指数收跌0.10%，纳斯达克美国中等市值指数跌0.69%。 恐慌指数VIX收涨2.09%，报16.10，日内绝大部分时间持稳于这样的水平、北京时间22:00前后尖锐地冲高回落——一度达到16.63。",
-          "url": "https://wallstreetcn.com/livenews/3113997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中信建投：预计后续债市走强节奏有所放缓，短期内10Y国债在1.70%一线盘整震荡",
@@ -1138,6 +1274,17 @@
           "time_info": "08时33分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.13%，10年期主力合约涨0.03%，5年期主力合约涨0.01%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3114184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "2/10年期美债收益率涨约4个基点",
           "url": "https://wallstreetcn.com/livenews/3113992",
           "source": "华尔街见闻-快讯",
@@ -1147,6 +1294,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时31分]"
+        },
+        {
+          "title": "据知情人士透露，谷歌母公司Alphabet Inc.股权销售获得多倍超额认购。 6月3日稍早，该公司已经将融资规模从800亿美元提高至847.5亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌：推出新品“DreamBeans”",
+          "url": "https://wallstreetcn.com/livenews/3113924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时36分"
+        },
+        {
+          "title": "英国监管机构给谷歌AI搜索“立新规”",
+          "url": "https://wallstreetcn.com/livenews/3114177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -1284,57 +1504,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
-          "url": "https://wallstreetcn.com/livenews/3114037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时31分]"
-        },
-        {
-          "title": "据知情人士透露，谷歌母公司Alphabet Inc.股权销售获得多倍超额认购。 6月3日稍早，该公司已经将融资规模从800亿美元提高至847.5亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3113977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "谷歌：推出新品“DreamBeans”",
-          "url": "https://wallstreetcn.com/livenews/3113924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
