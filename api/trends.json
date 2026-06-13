@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T16:07:03.962465+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-06-13T18:00:04.232421+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "165天！长鑫科技IPO注册生效 科创板迎来国产DRAM龙头",
@@ -36,11 +36,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时29分 ~ 16时07分]"
+          "appearance_count": 12,
+          "time_info": "[06时29分 ~ 18时00分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -48,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时28分 ~ 16时07分]"
+          "appearance_count": 11,
+          "time_info": "[07时28分 ~ 18时00分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -78,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时29分 ~ 16时07分]"
+          "appearance_count": 12,
+          "time_info": "[06时29分 ~ 18时00分]"
         },
         {
           "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
@@ -158,17 +160,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时41分 ~ 08时29分]"
-        },
-        {
-          "title": "中国证券报：要发挥科创板“硬科技”成色足优势，持续丰富为科技型企业提供的全生命周期金融服务",
-          "url": "https://wallstreetcn.com/livenews/3119128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -259,6 +250,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时41分]"
+        },
+        {
+          "title": "中国证券报：要发挥科创板“硬科技”成色足优势，持续丰富为科技型企业提供的全生命周期金融服务",
+          "url": "https://wallstreetcn.com/livenews/3119128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 18时00分]"
+        },
+        {
+          "title": "A股投资者已超2.5亿",
+          "url": "https://www.toutiao.com/trending/7649992226688925738/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时00分]"
         },
         {
           "title": "A股今日共105只个股涨停",
@@ -357,11 +371,38 @@
             5,
             13,
             15,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 16时07分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 18时00分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 18时00分]"
+        },
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时37分 ~ 18时00分]"
         },
         {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
@@ -398,17 +439,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时41分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 16时07分]"
         },
         {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
@@ -458,19 +488,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 16时07分]"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时37分 ~ 16时07分]"
         },
         {
           "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
@@ -683,52 +700,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            11,
-            19,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时29分 ~ 16时07分]"
-        },
-        {
-          "title": "美多州总检察长联合调查OpenAI",
-          "url": "https://flash.jin10.com/detail/20260613080751669800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "消息人士：美国多州总检察长联合对OpenAI展开调查。",
-          "url": "https://flash.jin10.com/detail/20260613080242771800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价回落女子一口气买入90克金手镯",
@@ -770,6 +743,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时26分 ~ 16时07分]"
+        },
+        {
+          "title": "金银价格大涨",
+          "url": "https://www.douyin.com/hot/2533051",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            11,
+            19,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时29分 ~ 16时07分]"
+        },
+        {
+          "title": "美多州总检察长联合调查OpenAI",
+          "url": "https://flash.jin10.com/detail/20260613080751669800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "消息人士：美国多州总检察长联合对OpenAI展开调查。",
+          "url": "https://flash.jin10.com/detail/20260613080242771800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
         }
       ]
     },
