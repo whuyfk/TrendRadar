@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T09:45:07.890499+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-06-14T11:02:15.935510+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时02分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 09时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 11时02分]"
         },
         {
           "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时02分]"
         },
         {
           "title": "美媒细数特朗普曾39次说与伊朗谈好",
@@ -48,11 +50,27 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时02分]"
+        },
+        {
+          "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
+          "url": "https://flash.jin10.com/detail/20260614045258501800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            7,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时26分 ~ 11时02分]"
         },
         {
           "title": "美国总统特朗普：将任命詹姆斯·麦克唐纳为纽约南区联邦检察官。",
@@ -70,29 +88,17 @@
           "time_info": "[03时29分 ~ 08时25分]"
         },
         {
-          "title": "学者：协议的不确定性折射特朗普外交的“混乱”",
-          "url": "https://flash.jin10.com/detail/20260614045258501800",
-          "source": "金十数据",
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            6,
             7,
-            14
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[05时26分 ~ 09时45分]"
-        },
-        {
-          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
-          "url": "https://wallstreetcn.com/livenews/3119179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "time_info": "[08时25分 ~ 11时02分]"
         },
         {
           "title": "国际原子能机构前总干事批评特朗普：试图让美伊新协议显得优于伊核协议",
@@ -101,11 +107,12 @@
           "ranks": [
             5,
             6,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时21分 ~ 09时45分]"
+          "appearance_count": 5,
+          "time_info": "[06时21分 ~ 11时02分]"
         },
         {
           "title": "亚马逊CEO向美官员汇报后 特朗普政府收紧Anthropic模型使用限制",
@@ -136,6 +143,18 @@
           "time_info": "[01时29分 ~ 04时26分]"
         },
         {
+          "title": "美伊协议何时签署 特朗普说14日 伊朗否认",
+          "url": "https://wallstreetcn.com/livenews/3119179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时02分]"
+        },
+        {
           "title": "特朗普将在G7峰会期间会晤中东伙伴",
           "url": "https://flash.jin10.com/detail/20260614000131278800",
           "source": "金十数据",
@@ -160,18 +179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 03时29分]"
-        },
-        {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时25分 ~ 09时45分]"
         },
         {
           "title": "特朗普社交媒体发文：明天将签署协议，霍尔木兹海峡即刻开放",
@@ -263,6 +270,29 @@
           "time_info": "[08时25分 ~ 09时45分]"
         },
         {
+          "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://flash.jin10.com/detail/20260614080502801800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时02分]"
+        },
+        {
+          "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
+          "url": "https://wallstreetcn.com/articles/3774599",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 11时02分]"
+        },
+        {
           "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260613234554532800",
           "source": "金十数据",
@@ -298,17 +328,6 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "美军被曝曾制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://flash.jin10.com/detail/20260614080502801800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
-        },
-        {
           "title": "美国高级政府官员：以色列总理内塔尼亚胡将不会参加美国总统特朗普与中东领导人在七国集团会议上的双边会晤。",
           "url": "https://flash.jin10.com/detail/20260613223904277800",
           "source": "金十数据",
@@ -341,11 +360,12 @@
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 09时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 11时02分]"
         },
         {
           "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
@@ -393,6 +413,18 @@
           "time_info": "[00时26分 ~ 07时22分]"
         },
         {
+          "title": "A股又现重大调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时02分]"
+        },
+        {
           "title": "A股多个指数样本股即将调整",
           "url": "https://www.toutiao.com/trending/7650409837184696358/",
           "source": "今日头条",
@@ -403,17 +435,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时25分 ~ 09时45分]"
-        },
-        {
-          "title": "A股又现重大调整",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
@@ -434,19 +455,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 09时45分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 11时02分]"
         },
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时02分]"
         },
         {
           "title": "OpenAI突遭联合调查、Anthropic顶级模型被叫停，美国AI监管风暴升级",
@@ -456,8 +478,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时02分]"
         }
       ]
     },
@@ -471,11 +493,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 09时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 11时02分]"
         }
       ]
     }
