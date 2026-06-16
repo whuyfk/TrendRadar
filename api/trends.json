@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-16T08:33:11.702425+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-06-16T09:50:35.830562+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时50分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -27,17 +39,6 @@
             5,
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 08时33分]"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -176,11 +177,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 08时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 09时50分]"
         },
         {
           "title": "谁为特朗普白宫格斗赛买单",
@@ -316,7 +318,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -371,7 +373,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -385,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
@@ -404,7 +417,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -448,7 +461,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -514,7 +527,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         }
@@ -522,8 +535,33 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 17,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 09时50分]"
+        },
+        {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 09时50分]"
+        },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
           "url": "https://wallstreetcn.com/articles/3774633",
@@ -536,31 +574,6 @@
           "time_info": "[00时45分 ~ 05时50分]"
         },
         {
-          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2400410",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 08时33分]"
-        },
-        {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 08时33分]"
-        },
-        {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
           "url": "https://www.cls.cn/detail/2400615",
           "source": "财联社热门",
@@ -569,8 +582,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 08时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 09时50分]"
         },
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
@@ -591,11 +604,67 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 08时33分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 09时50分]"
+        },
+        {
+          "title": "A股国晟科技触及跌停，成交额5.68亿元；消息面上，公司收到北京证监局警示函，同时上交所也对公司及相关责任人予以监管警示。",
+          "url": "https://flash.jin10.com/detail/20260616094406605800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股有色板块再度拉升，盛龙股份4连板，厦门钨业2连板，中钨高新、盛和资源、翔鹭钨业、东方钽业涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3119970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅达1%。",
+          "url": "https://wallstreetcn.com/livenews/3119967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股稀土永磁板块盘初拉升，厦门钨业、中科三环均封板涨停，有研新材涨超8%，惠城环保、盛和资源均涨超7%，奔朗新材、中稀有色等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260616094339844800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股PCB概念股继续走强，宝鼎科技2连板，逸豪新材、国际复材涨超10%，华正新材、生益科技、大族数控涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3119965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "美伊协议落地，拉美股汇走势分化",
@@ -707,6 +776,94 @@
           "time_info": "[05时50分 ~ 06时39分]"
         },
         {
+          "title": "A股液冷服务器板块盘初震荡上涨，淳中科技逼近涨停，强瑞技术、川环科技、飞龙股份、腾龙股份、大元泵业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260616094038708800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.23%，深成指涨0.36%，铜箔、锂电池、军工、半导体芯片等方向涨幅居前，沪深京三市上涨个股近1300只。",
+          "url": "https://wallstreetcn.com/livenews/3119959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股PCB概念板块延续强势，宝鼎科技两连板，逸豪新材、国际复材涨超10%，华正新材、生益科技、大族数控涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260616093919552800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股超级电容板块震荡走强，麦格米特封板涨停，宏达电子涨超19%，振华科技、风华高科、中国西电、火炬电子、法拉电子、时代新材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260616093809452800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "上证指数开盘报4094.21点，跌0.06%。 深证成指开盘报15584.37点，涨0.34%。 创业板指开盘报4065.27点，涨0.79%。 沪深300开盘报4894.88点，涨0.06%。 科创50开盘报1751.71点，涨0.19%。 中证500开盘报8430.92点，涨0.29%。 中证1000开盘报8534.27点，涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3119952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "港股恒生科技指数盘初跌超1%，恒生指数跌近0.6%，中国宏桥(01378.HK)、中国铝业(02600.HK)均跌超4%，百度(09888.HK)、美团(03690.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260616093601370800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "恒指低开0.07%，报24826.19点；恒生科技指数开盘基本持平。美团、哔哩哔哩跌超1%；MINIMAX、联想集团、小鹏集团、中芯国际等上涨。",
+          "url": "https://wallstreetcn.com/livenews/3119949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股电子化学品板块震荡拉升，光华科技两连板，濮阳惠成、中巨芯、海星股份、中船特气、南大光电等多股均涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260616093437933800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.13%，报24799点。 恒生科技指数主连夜盘收跌0.15%，报4763点。",
           "url": "https://wallstreetcn.com/livenews/3119839",
           "source": "华尔街见闻-快讯",
@@ -716,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "A股工业金属板块短线走低，盛达资源封板跌停，新威凌、天山铝业、明泰铝业、金诚信、中国铝业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260616093230649800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "A股算力两大方向大面积涨停",
@@ -732,18 +900,19 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3119924",
-          "source": "华尔街见闻-快讯",
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 09时50分]"
         },
         {
           "title": "德国2/10年期国债收益率跌超4个基点",
@@ -770,15 +939,38 @@
           "time_info": "[04时08分 ~ 05时50分]"
         },
         {
-          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
-          "url": "https://wallstreetcn.com/articles/3774702",
-          "source": "华尔街见闻",
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3119924",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            4,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 08时33分]"
+          "time_info": "[08时33分 ~ 09时50分]"
+        },
+        {
+          "title": "财政部今天在香港发行150亿元人民币国债",
+          "url": "https://flash.jin10.com/detail/20260616093822174800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.04%，10年期主力合约涨0.02%，5年期主力合约跌0.01%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3119955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "英国两年期国债收益率跌超6个基点",
@@ -792,6 +984,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "日本10年期国债收益率上行3个基点至2.605%。 日本2年期国债收益率上行1.5个基点至1.410%。",
+          "url": "https://wallstreetcn.com/livenews/3119937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.640%，投标倍数2.47。 拍卖六个月期国债，得标利率3.680%，投标倍数2.76。",
           "url": "https://wallstreetcn.com/livenews/3119792",
           "source": "华尔街见闻-快讯",
@@ -801,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260616093113100800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -884,6 +1098,35 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "花旗：上调未来0-3个月黄金价格预期至4500美元/盎司，预计白银价格将为70美元。",
+          "url": "https://wallstreetcn.com/livenews/3119828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 04时08分]"
+        },
+        {
+          "title": "金价大涨女子后悔880元没上车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%90%8E%E6%82%94880%E5%85%83%E6%B2%A1%E4%B8%8A%E8%BD%A6%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -925,24 +1168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "花旗：上调未来0-3个月黄金价格预期至4500美元/盎司，预计白银价格将为70美元。",
-          "url": "https://wallstreetcn.com/livenews/3119828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 04时08分]"
         }
       ]
     }
