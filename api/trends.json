@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T15:40:21.468212+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-06-17T17:31:57.619163+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时36分 ~ 15时40分]"
+          "appearance_count": 10,
+          "time_info": "[06时36分 ~ 17时31分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -110,11 +110,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 15时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 17时31分]"
         },
         {
           "title": "中国上证综指6月17日（周三）开盘下跌17.6点，跌幅：0.43%，报4074.29点；<br/>中国深证成指6月17日（周三）开盘下跌105.32点，跌幅：0.67%，报15569.92点；<br/>中国沪深300指数6月17日（周三）开盘下跌24.53点，跌幅：0.5%，报4859.7点；<br/>中国创业板指数6月17日（周三）开盘下跌41.65点，跌幅：1.01%，报4061.3点；<br/>中国科创50指数6月17日（周三）开盘下跌29.19点，跌幅：1.66%，报1729.23点。",
@@ -346,6 +347,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "证券行业佣金率下行势头仍在延续，沪上A股平均佣金率低至1.73‱",
           "url": "https://wallstreetcn.com/livenews/3120557",
           "source": "华尔街见闻-快讯",
@@ -473,7 +485,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -506,7 +518,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -558,7 +570,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -586,6 +598,18 @@
           "time_info": "[01时38分 ~ 09时47分]"
         },
         {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 17时31分]"
+        },
+        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -595,17 +619,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时38分 ~ 09时47分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时40分]"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -637,6 +650,19 @@
           "time_info": "[01时38分 ~ 13时33分]"
         },
         {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 17时31分]"
+        },
+        {
           "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
           "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
           "source": "凤凰网",
@@ -646,6 +672,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时28分 ~ 15时40分]"
+        },
+        {
+          "title": "80岁特朗普上台阶扶75岁莫迪借力",
+          "url": "https://www.toutiao.com/trending/7651197088764149766/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "特朗普：美方或恢复对俄石油制裁",
@@ -659,17 +696,15 @@
           "time_info": "08时28分"
         },
         {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
+          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
+          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时47分 ~ 15时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "特朗普政府再次推动转移教育部职能",
@@ -742,6 +777,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
+          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
+          "url": "https://v.ifeng.com/c/8u1lYy22fhi",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "沃什的“首秀”尴尬了，特朗普选他来降息，如今美联储却在谈加息",
@@ -857,7 +925,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "日本10年期国债收益率下降5.5个基点，至2.590%。",
@@ -947,7 +1015,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1018,6 +1086,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "金融监管总局：支持符合条件的金融机构落户上海，支持符合条件的外资银行申请国债期货等金融业务试点",
+          "url": "https://wallstreetcn.com/livenews/3120882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
           "url": "https://flash.jin10.com/detail/20260617064209134800",
           "source": "金十数据",
@@ -1035,7 +1114,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1049,6 +1128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
+        },
+        {
+          "title": "金融监管总局：支持符合条件的金融机构落户上海，支持符合条件的外资银行申请国债期货等金融业务试点",
+          "url": "https://flash.jin10.com/detail/20260617165344267800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
@@ -1079,7 +1169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1353,7 +1443,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1405,6 +1495,19 @@
           "time_info": "[01时38分 ~ 07时29分]"
         },
         {
+          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2050261467174101567",
+          "source": "知乎",
+          "ranks": [
+            9,
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 17时31分]"
+        },
+        {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1417,19 +1520,6 @@
           "time_info": "[01时38分 ~ 07时29分]"
         },
         {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            9,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 15时40分]"
-        },
-        {
           "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
@@ -1439,8 +1529,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 17时31分]"
+        },
+        {
+          "title": "豆包DeepSeek答题两极分化",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时31分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -1455,24 +1557,13 @@
           "time_info": "[08时28分 ~ 11时02分]"
         },
         {
-          "title": "豆包DeepSeek答题两极分化",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
-        },
-        {
           "title": "美国商务部暂缓将DeepSeek等中企加入限制清单，外交部回应",
           "url": "https://wallstreetcn.com/livenews/3120818",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -1666,7 +1757,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
