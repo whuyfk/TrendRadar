@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-19T15:43:25.388962+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-06-19T17:32:04.968293+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 17时32分]"
+        },
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
           "url": "https://wallstreetcn.com/articles/3774952",
@@ -59,17 +71,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时03分 ~ 09时54分]"
-        },
-        {
-          "title": "特朗普吐露的真相，比战争结局更让人警醒",
-          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 15时43分]"
         },
         {
           "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
+          "url": "https://www.zhihu.com/question/2051222502768992382",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时32分]"
         },
         {
           "title": "美国副总统万斯：现在，总统特朗普是唯一同情以色列的全球领导人。",
@@ -246,17 +258,6 @@
           "time_info": "03时50分"
         },
         {
-          "title": "美军已解除对伊朗海上封锁，特朗普称预计「所有战线将实现全面停火」，霍尔木兹海峡的「和平」能维持多久？",
-          "url": "https://www.zhihu.com/question/2051222502768992382",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
           "title": "【万斯称美伊60天谈判期已开始】美国副总统万斯今天（6月18日）在白宫记者会上对媒体表示，由美国总统特朗普和伊朗总统佩泽希齐扬签署的谅解备忘录中规定的 60天谈判窗口期已正式启动。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3121812",
           "source": "华尔街见闻-快讯",
@@ -332,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "北约秘书长吕特定于6月24日在华盛顿与特朗普会晤。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3122019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
@@ -348,8 +360,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[01时03分 ~ 17时32分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 17时32分]"
         },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -376,8 +400,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[01时03分 ~ 17时32分]"
         },
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
@@ -392,20 +416,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 15时43分]"
-        },
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[01时03分 ~ 17时32分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -625,7 +637,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "德国两年期国债收益率于沃什首秀次日涨2个基点",
@@ -703,7 +715,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -774,6 +786,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "英国国债延续跌势，10年期收益率上升5个基点至4.81%。",
+          "url": "https://wallstreetcn.com/livenews/3122021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "高盛认为沃什的立场将加剧短端美债波动性，使长端曲线更趋平稳",
           "url": "https://wallstreetcn.com/livenews/3121802",
           "source": "华尔街见闻-快讯",
@@ -787,96 +810,20 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 7,
+      "keyword_group": "原油",
+      "match_count": 9,
       "titles": [
         {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时42分 ~ 15时43分]"
-        },
-        {
-          "title": "美元指数DXY日内涨超0.50%，现报100.89。",
-          "url": "https://flash.jin10.com/detail/20260619030346669800",
+          "title": "据贸易消息人士透露，阿联酋阿布扎比国家石油公司ADNOC发布了第四份招标，出售6月至8月装运的原油。",
+          "url": "https://flash.jin10.com/detail/20260619171125979800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
-          "url": "https://wallstreetcn.com/articles/3775074",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时43分"
+          "time_info": "17时32分"
         },
-        {
-          "title": "美元指数创13个月新高，两天涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/3121867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404205",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 15时43分]"
-        },
-        {
-          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
-          "url": "https://wallstreetcn.com/livenews/3121872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 05时41分]"
-        },
-        {
-          "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3121982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 7,
-      "titles": [
         {
           "title": "伊拉克石油部长：原油产量正逐步恢复至战前水平",
           "url": "https://wallstreetcn.com/livenews/3121913",
@@ -889,6 +836,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时42分 ~ 08时32分]"
+        },
+        {
+          "title": "装载8000万桶原油的超级油轮蓄势待发 准备穿越霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3122041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "WTI原油期货突破76美元/桶，日内涨0.20%。",
@@ -959,8 +917,96 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时42分 ~ 17时32分]"
+        },
+        {
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时32分]"
+        },
+        {
+          "title": "美元指数升至一年多新高 美国电力监管下场推动数据中心入网 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404205",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 17时32分]"
+        },
+        {
+          "title": "美元指数DXY日内涨超0.50%，现报100.89。",
+          "url": "https://flash.jin10.com/detail/20260619030346669800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "美元指数创13个月新高，两天涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/3121867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/3121872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 05时41分]"
+        },
+        {
+          "title": "美元指数涨破101.00关口，创下2025年5月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3121982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
@@ -974,8 +1020,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时32分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时32分 ~ 17时32分]"
         },
         {
           "title": "如何评价 DeepSeek 的识图模式？",
@@ -986,8 +1032,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时39分 ~ 17时32分]"
         },
         {
           "title": "DeepSeek正式上线识图模式",
@@ -999,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "DeepSeek识图把梁文锋认成张一鸣",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%AF%86%E5%9B%BE%E6%8A%8A%E6%A2%81%E6%96%87%E9%94%8B%E8%AE%A4%E6%88%90%E5%BC%A0%E4%B8%80%E9%B8%A3",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "DeepSeek能火只靠便宜吗",
@@ -1015,8 +1072,31 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价银价大跌 国际油价涨跌不一",
+          "url": "https://www.toutiao.com/trending/7652482530892988470/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时32分]"
+        },
+        {
+          "title": "金价银价双双下跌",
+          "url": "https://www.douyin.com/hot/2540227",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
         {
           "title": "金价上下乱跳",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8A%E4%B8%8B%E4%B9%B1%E8%B7%B3%23&t=31&band_rank=25&Refer=top",
@@ -1027,17 +1107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "金价银价大跌 国际油价涨跌不一",
-          "url": "https://www.toutiao.com/trending/7652482530892988470/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时43分"
         },
         {
           "title": "高盛将金价目标下调500美元",
@@ -1066,11 +1135,12 @@
             14,
             11,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 15时43分]"
+          "appearance_count": 17,
+          "time_info": "[01时03分 ~ 17时32分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
