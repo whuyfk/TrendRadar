@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T17:11:39.862002+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-06-21T19:02:31.932861+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：今年将再次访问中国",
@@ -108,6 +108,20 @@
           "time_info": "[08时25分 ~ 15时32分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
           "url": "https://flash.jin10.com/detail/20260621035019632800",
           "source": "金十数据",
@@ -144,17 +158,15 @@
           "time_info": "15时32分"
         },
         {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
+          "url": "https://flash.jin10.com/detail/20260621184020175800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 17时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -269,6 +281,17 @@
           "time_info": "[01时29分 ~ 02时25分]"
         },
         {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "评论员：特朗普“抗俄保欧”策略生变",
           "url": "https://www.toutiao.com/trending/7653453189940822025/",
           "source": "今日头条",
@@ -283,7 +306,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
@@ -327,11 +350,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 17时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -356,12 +380,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时01分 ~ 17时11分]"
+        },
+        {
+          "title": "五只科技股杀入A股市值前十",
+          "url": "https://www.toutiao.com/trending/7653657296974646825/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
@@ -402,6 +437,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时32分 ~ 15时32分]"
+        },
+        {
+          "title": "金价大跌消费者涌入柜台",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E6%B6%8C%E5%85%A5%E6%9F%9C%E5%8F%B0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -445,11 +491,12 @@
           "url": "https://wallstreetcn.com/articles/3775117",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 17时11分]"
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 19时02分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
