@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-24T21:41:45.748468+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-06-24T22:54:14.990236+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时03分 ~ 22时54分]"
+        },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
           "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
@@ -34,16 +46,20 @@
           "time_info": "[00时02分 ~ 07时23分]"
         },
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            3
+            19,
+            16,
+            14,
+            10,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时03分 ~ 21时41分]"
+          "appearance_count": 10,
+          "time_info": "[12时33分 ~ 22时54分]"
         },
         {
           "title": "特朗普提前宣布斯塔默辞职有何意味",
@@ -59,22 +75,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 06时24分]"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时33分 ~ 21时41分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -119,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我没有向特朗普请求攻击伊朗的许可，我只是向他通报了此事。",
+          "url": "https://flash.jin10.com/detail/20260624224205944800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
@@ -199,6 +210,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美国民主党参议员沃伦：（就特朗普取消住房法案签署仪式一事作出回应）特朗普明确表示他并不担心开支的增加。",
+          "url": "https://flash.jin10.com/detail/20260624223823241800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普：伊朗已告知美国，霍尔木兹海峡没有收费。 将释放部分伊朗资金。",
@@ -575,6 +597,17 @@
           "time_info": "18时03分"
         },
         {
+          "title": "美国总统特朗普取消原定周三签署住房立法草案为法律的日程。",
+          "url": "https://wallstreetcn.com/livenews/3124102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
           "url": "https://flash.jin10.com/detail/20260624034400729800",
           "source": "金十数据",
@@ -669,7 +702,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -886,7 +919,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
@@ -1008,6 +1041,17 @@
           "time_info": "[09时35分 ~ 16时07分]"
         },
         {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
           "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货白银失守60美元，布油跌超2%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
@@ -1030,13 +1074,38 @@
           "time_info": "[18时03分 ~ 19时54分]"
         },
         {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时54分 ~ 22时54分]"
+        },
+        {
           "title": "静待美光财报，美股盘前半导体股上扬、美光涨4%，现货黄金跌破4000美元，布油跌超2%",
           "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1047,7 +1116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1134,17 +1203,29 @@
           "time_info": "[09时36分 ~ 11时02分]"
         },
         {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
+          "title": "A股再现半导体“大肉签”",
+          "url": "https://www.toutiao.com/trending/7654818559617400875/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            10,
-            9
+            19,
+            23,
+            28
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时54分 ~ 21时41分]"
+          "time_info": "[18时03分 ~ 22时54分]"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时54分]"
         },
         {
           "title": "美股芯片股全线重挫",
@@ -1313,18 +1394,6 @@
           "time_info": "[07时23分 ~ 08时20分]"
         },
         {
-          "title": "A股再现半导体“大肉签”",
-          "url": "https://www.toutiao.com/trending/7654818559617400875/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 19时54分]"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.78%，报23498点。 恒生科技指数主连夜盘收涨0.98%，报4438点。",
           "url": "https://wallstreetcn.com/livenews/3123613",
           "source": "华尔街见闻-快讯",
@@ -1354,7 +1423,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1420,18 +1489,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1489,6 +1547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "全球航空业ETF美股盘初一度涨约3.4%，报32.24美元，创2020年1月份以来盘中新高，国际油价下跌有助于缓解航空燃油成本。",
+          "url": "https://wallstreetcn.com/livenews/3124095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "A股收盘：深成指、创业板指均涨超1%",
@@ -1691,8 +1760,341 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3123610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时34分]"
+        },
+        {
+          "title": "WTI原油期货维持4.2%的跌幅，目前交投于70美元关口上方，最新数据显示，美国上周EIA原油库存下降609万桶，降幅超过彭博用户与受访分析师的预期。",
+          "url": "https://wallstreetcn.com/livenews/3124110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国中西部原油库存上周降至2014年11月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260624223926276800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存下降609万桶，彭博用户预计减少380万桶、分析师预期下降393.783万桶，之前一周减少826.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3124108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国6月19日当周EIA库欣地区原油库存变动 -107.7万桶，前值 -160.6万桶。",
+          "url": "https://wallstreetcn.com/livenews/3124107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收跌1.52%，报492元人民币/桶。 沪金夜盘收跌0.82%，沪银收跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/3123609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时39分]"
+        },
+        {
+          "title": "布伦特原油近月价差自2月以来首次转为期货溢价。",
+          "url": "https://flash.jin10.com/detail/20260624210949296800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "夜盘期货开盘，沪银跌逾5%，纯苯跌逾3%，PTA、苯乙烯、沪金、原油、乙二醇、低硫燃油跌逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3124061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国6月19日当周EIA原油库存变动 -608.8万桶，预期 -300万桶，前值 -826.3万桶。",
+          "url": "https://wallstreetcn.com/livenews/3124106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
+          "url": "https://wallstreetcn.com/livenews/3124023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时41分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3123635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时31分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达3.0%，报74.46美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 21时41分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存下降超70万桶，成品油库存增超100万桶",
+          "url": "https://wallstreetcn.com/livenews/3123640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时24分]"
+        },
+        {
+          "title": "商品期货开盘，沪银、沪锡主力合约跌超4%，沪镍跌超2%，原油、纯苯、丙烯、沪锌、沪金、沪铝、不锈钢、国际铜、橡胶跌超1%。菜籽粕涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3123717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时36分 ~ 11时02分]"
+        },
+        {
+          "title": "美国至6月19日当周API投产原油量 -20.5万桶/日，前值-1.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260624044332380800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时24分]"
+        },
+        {
+          "title": "美国西海岸原油库存降至2004年以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260624223638630800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "【金十数据整理：美国当周EIA数据最值一览】 <span class=\"section-news\">1. 美国至6月19日当周EIA原油库存为连续第9周录得下降。</span> <span class=\"section-news\">2. 美国至6月19日当周EIA战略石油储备库存为1983年6月24日当周以来最低。</span> <span class=\"section-news\">3. 美国至6月19日当周EIA精炼油库存增幅录得2026年1月16日当周以来最大。</span> <span class=\"section-news\">4. 美国至6月19日当周国内原油产量为2025年12月26日当周以来最高。</span> <span class=\"section-news\">5. 美国至6月19日当周除却战略储备的商业原油库存为2025年1月17日当周以来最低。 </span>",
+          "url": "https://flash.jin10.com/detail/20260624223220889800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3124099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国至6月19日当周API原油进口 22.6万桶，前值-27.6万桶。",
+          "url": "https://flash.jin10.com/detail/20260624044315904800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "布伦特原油日内下跌2.02美元，现报74.60美元/桶，跌幅2.63%。",
+          "url": "https://flash.jin10.com/detail/20260624200013066800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.00%，现报72.17美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260624172731867800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "美国至6月19日当周EIA原油产量引伸需求数据 2025.9万桶/日，前值2012万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260624223033575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "美国至6月19日当周API库欣原油库存 -98.2万桶，前值-152.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260624044259361800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "WTI原油回落至71美元/桶下方，日内跌3.62%；布伦特原油向下触及74美元/桶，日内跌3.57%。",
+          "url": "https://flash.jin10.com/detail/20260624210409842800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国至6月19日当周API原油库存 -76.5万桶，预期-499.5万桶，前值-833万桶。",
+          "url": "https://flash.jin10.com/detail/20260624044224306800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "WTI原油向下触及72美元/桶，日内跌2.27%；布伦特原油日内走低2.00%，现报75.07美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260624192939619800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 布伦特7月原油期货收跌0.82美元，跌幅1.05%，报77.08美元/桶。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3123610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时39分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约跌多涨少，沪银跌超5%，纯苯跌超3%，低硫燃料油（LU）跌近3%，乙二醇（EG）、SC原油、沪金、苯乙烯（EB）、PTA、沪锡跌超2%。涨幅方面，铁矿石、菜粕小幅上涨。",
+          "url": "https://flash.jin10.com/detail/20260624210004013800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "商品期货收盘，碳酸锂主力合约涨近4%，鸡蛋涨超2%，菜籽粕、多晶硅、集运欧线、生猪涨超1%。沪银、丙烯、沪锡、纯苯、沪镍跌超3%，苯乙烯、聚丙烯、乙二醇、原油、塑料、甲醇、PTA跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3123854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 国债",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -1703,8 +2105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时20分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[08时20分 ~ 22时54分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -1761,7 +2163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1783,7 +2185,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1885,7 +2287,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1978,6 +2380,17 @@
           "time_info": "16时07分"
         },
         {
+          "title": "美国10年期国债收益率跌至4.4138%，创5月11日以来新低，国际油价下跌，缓解投资者对通胀风险的担忧。 30年期美债收益率跌至4.8572%，创4月15日以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3124090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "日本央行6月货币政策会议摘要：一位委员表示，金融环境依然宽松。 一位委员表示，需尽早将利率提升至接近中性水平。 一位委员表示，中性利率约为2%。 一位委员表示，每隔几个月考虑一次利率变动是可取的。 一位委员表示，必须更加警惕企业积极的定价行为推高整体通胀。 一位委员表示，日本央行完全没有理由停止缩减日本国债的购买规模。",
           "url": "https://wallstreetcn.com/livenews/3123705",
           "source": "华尔街见闻-快讯",
@@ -2002,242 +2415,8 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3123610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时34分]"
-        },
-        {
-          "title": "上期所原油期货2608合约夜盘收跌1.52%，报492元人民币/桶。 沪金夜盘收跌0.82%，沪银收跌4.36%。",
-          "url": "https://wallstreetcn.com/livenews/3123609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时39分]"
-        },
-        {
-          "title": "布伦特原油近月价差自2月以来首次转为期货溢价。",
-          "url": "https://flash.jin10.com/detail/20260624210949296800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "夜盘期货开盘，沪银跌逾5%，纯苯跌逾3%，PTA、苯乙烯、沪金、原油、乙二醇、低硫燃油跌逾2%。",
-          "url": "https://wallstreetcn.com/livenews/3124061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "布伦特原油失守75美元/桶，内跌幅达2.5%，报74.88美元/桶，为伊朗冲突爆发以来的首次。",
-          "url": "https://wallstreetcn.com/livenews/3124023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时41分]"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3123635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 05时31分]"
-        },
-        {
-          "title": "布伦特原油日内跌幅达3.0%，报74.46美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3124043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时41分]"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存下降超70万桶，成品油库存增超100万桶",
-          "url": "https://wallstreetcn.com/livenews/3123640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时24分]"
-        },
-        {
-          "title": "商品期货开盘，沪银、沪锡主力合约跌超4%，沪镍跌超2%，原油、纯苯、丙烯、沪锌、沪金、沪铝、不锈钢、国际铜、橡胶跌超1%。菜籽粕涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3123717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时36分 ~ 11时02分]"
-        },
-        {
-          "title": "美国至6月19日当周API投产原油量 -20.5万桶/日，前值-1.7万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260624044332380800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时24分]"
-        },
-        {
-          "title": "美国至6月19日当周API原油进口 22.6万桶，前值-27.6万桶。",
-          "url": "https://flash.jin10.com/detail/20260624044315904800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "布伦特原油日内下跌2.02美元，现报74.60美元/桶，跌幅2.63%。",
-          "url": "https://flash.jin10.com/detail/20260624200013066800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时39分"
-        },
-        {
-          "title": "WTI原油日内跌幅达2.00%，现报72.17美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260624172731867800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
-          "title": "美国至6月19日当周API库欣原油库存 -98.2万桶，前值-152.3万桶。",
-          "url": "https://flash.jin10.com/detail/20260624044259361800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "WTI原油回落至71美元/桶下方，日内跌3.62%；布伦特原油向下触及74美元/桶，日内跌3.57%。",
-          "url": "https://flash.jin10.com/detail/20260624210409842800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "美国至6月19日当周API原油库存 -76.5万桶，预期-499.5万桶，前值-833万桶。",
-          "url": "https://flash.jin10.com/detail/20260624044224306800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "WTI原油向下触及72美元/桶，日内跌2.27%；布伦特原油日内走低2.00%，现报75.07美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260624192939619800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "WTI 7月原油期货收跌0.65美元，跌幅0.88%，报73.21美元/桶，逼近3月5日收盘价71.46美元、3月4日收盘价69.24美元，200日均线已经上移至69.98美元。 布伦特7月原油期货收跌0.82美元，跌幅1.05%，报77.08美元/桶。 中东Abu Dhabi Murban原油期货跌1.91%，报69.44美元/桶，逼近2月17日彭博报价66.89美元。 NYMEX 7月天然气期货收报3.1470美元/百万英热单位。 NYMEX 7月汽油期货收报2.9590美元/加仑，NYMEX 7月取暖油期货收报3.1546美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3123610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约跌多涨少，沪银跌超5%，纯苯跌超3%，低硫燃料油（LU）跌近3%，乙二醇（EG）、SC原油、沪金、苯乙烯（EB）、PTA、沪锡跌超2%。涨幅方面，铁矿石、菜粕小幅上涨。",
-          "url": "https://flash.jin10.com/detail/20260624210004013800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
-        },
-        {
-          "title": "商品期货收盘，碳酸锂主力合约涨近4%，鸡蛋涨超2%，菜籽粕、多晶硅、集运欧线、生猪涨超1%。沪银、丙烯、沪锡、纯苯、沪镍跌超3%，苯乙烯、聚丙烯、乙二醇、原油、塑料、甲醇、PTA跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3123854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
@@ -2268,6 +2447,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 06时24分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 22时54分]"
         },
         {
           "title": "120亿资金“跑路”！金价不断逼近4000大关，一切只因沃什上位？",
@@ -2370,7 +2560,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2381,7 +2571,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2392,7 +2582,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2403,7 +2593,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2414,7 +2604,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2425,7 +2615,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -2436,7 +2626,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -2453,7 +2643,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
