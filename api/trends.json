@@ -1,11 +1,159 @@
 {
-  "generated_at": "2026-06-26T03:33:01.619273+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-06-26T04:37:07.741561+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3124851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260626040602916800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.33%，报23005点。 恒生科技指数主连夜盘收跌0.70%，报4378点。",
+          "url": "https://wallstreetcn.com/livenews/3124827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时37分]"
+        },
+        {
+          "title": "A股这轮牛市你赚钱了吗",
+          "url": "https://www.toutiao.com/trending/7655278728469024299/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 03时33分]"
+        },
+        {
+          "title": "数字货币市场在美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3124793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时33分]"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260626040602072800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
+          "url": "https://flash.jin10.com/detail/20260626040107087800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260626004054108800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260626024418805800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国至6月25日7年期国债竞拍-得标利率配置百分比 36.22%，前值71.23%。",
@@ -112,115 +260,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3775467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时33分]"
         },
         {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
+          "title": "美债收益率于美国PCE通胀数据发布时跳水，随后逐步收复失地",
+          "url": "https://wallstreetcn.com/livenews/3124840",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
             11
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时33分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时33分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.33%，报23005点。 恒生科技指数主连夜盘收跌0.70%，报4378点。",
-          "url": "https://wallstreetcn.com/livenews/3124827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
-          "title": "A股这轮牛市你赚钱了吗",
-          "url": "https://www.toutiao.com/trending/7655278728469024299/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 03时33分]"
-        },
-        {
-          "title": "数字货币市场在美股盘初跳水",
-          "url": "https://wallstreetcn.com/livenews/3124793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 03时33分]"
-        },
-        {
-          "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260626004054108800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260626024418805800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时33分"
+          "time_info": "04时37分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -230,8 +286,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时37分]"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -243,8 +299,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时43分 ~ 03时33分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
+          "url": "https://flash.jin10.com/detail/20260626041609697800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -326,7 +393,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         },
@@ -337,9 +404,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨1.58美元，涨幅2.25%，报71.92美元/桶。 布伦特7月原油期货收涨1.52美元，涨幅2.06%，报75.26美元/桶。 中东Abu Dhabi Murban原油期货涨3.13%，报68.53美元/桶。 NYMEX 7月天然气期货收报3.3430美元/百万英热单位。 NYMEX 7月汽油期货收报3.0273美元/加仑，NYMEX 7月取暖油期货收报3.2982美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3124820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时37分]"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收涨2.29%，报478.70元人民币/桶。 沪金夜盘收涨1.17%，沪银收涨1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3124819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 04时37分]"
         },
         {
           "title": "美国原油期货结算价为每桶71.92美元，上涨1.58美元，涨幅2.25%。",
@@ -353,17 +444,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "WTI 8月原油期货收涨1.58美元，涨幅2.25%，报71.92美元/桶。 布伦特7月原油期货收涨1.52美元，涨幅2.06%，报75.26美元/桶。 中东Abu Dhabi Murban原油期货涨3.13%，报68.53美元/桶。 NYMEX 7月天然气期货收报3.3430美元/百万英热单位。 NYMEX 7月汽油期货收报3.0273美元/加仑，NYMEX 7月取暖油期货收报3.2982美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3124820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时33分"
-        },
-        {
           "title": "布伦特原油日内涨3.00%，现报75.63美元/桶。WTI原油日内涨3.00%，现报72.60美元/桶。",
           "url": "https://flash.jin10.com/detail/20260626023049963800",
           "source": "金十数据",
@@ -373,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "上期所原油期货2608合约夜盘收涨2.29%，报478.70元人民币/桶。 沪金夜盘收涨1.17%，沪银收涨1.24%。",
-          "url": "https://wallstreetcn.com/livenews/3124819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时33分"
         },
         {
           "title": "市场消息：波斯湾原油出口回升至战前水平的75%；截至周三的过去三天内，该地区出口了1300万桶原油。",
@@ -400,7 +469,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
@@ -411,8 +480,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 03时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 04时37分]"
+        },
+        {
+          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
+          "url": "https://flash.jin10.com/detail/20260626040729452800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -453,8 +533,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
+          "url": "https://flash.jin10.com/detail/20260626041922109800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3124849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "据The Information：根据销售AI账单审计工具的公司Vaudit的数据，由于计费错误，一些客户支付给Anthropic和OpenAI产品的费用可能高于实际应支付的金额。",
+          "url": "https://flash.jin10.com/detail/20260626040241840800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
@@ -467,6 +586,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时33分]"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
+          "url": "https://wallstreetcn.com/livenews/3124835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         }
       ]
     }
