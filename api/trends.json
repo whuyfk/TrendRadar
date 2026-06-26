@@ -1,296 +1,11 @@
 {
-  "generated_at": "2026-06-26T08:27:06.550759+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-06-26T09:40:41.110773+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时27分]"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            14,
-            19,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时27分]"
-        },
-        {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 08时27分]"
-        },
-        {
-          "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
-          "url": "https://flash.jin10.com/detail/20260626072103294800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美国总统特朗普：将签署一项允许全年销售E15汽油（含有15%乙醇的汽油）的法案。",
-          "url": "https://flash.jin10.com/detail/20260626071705462800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "特朗普称将用伊朗的钱买美国农产品",
-          "url": "https://wallstreetcn.com/livenews/3124906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
-          "title": "白宫：特朗普签署了一项与农业相关的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260626070338375800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
-          "url": "https://flash.jin10.com/detail/20260626052048013800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时27分]"
-        },
-        {
-          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
-          "url": "https://flash.jin10.com/detail/20260626041609697800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时37分 ~ 06时28分]"
-        },
-        {
-          "title": "特朗普：我们有一个叫做伊朗的新市场。 伊朗将购买小麦、大豆和玉米。",
-          "url": "https://wallstreetcn.com/livenews/3124890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 08时27分]"
-        },
-        {
-          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
-          "url": "https://wallstreetcn.com/livenews/3124865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 01时37分]"
-        },
-        {
-          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
-          "url": "https://wallstreetcn.com/livenews/3124855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
-          "url": "https://flash.jin10.com/detail/20260626055515833800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
-          "url": "https://wallstreetcn.com/livenews/3124768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时37分]"
-        },
-        {
-          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
-          "url": "https://flash.jin10.com/detail/20260626043110139800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时28分]"
-        },
-        {
-          "title": "美国总统特朗普：提名克里斯·克隆普为下一任卫生与公共服务部副部长。",
-          "url": "https://flash.jin10.com/detail/20260626065545744800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "特朗普请求为陷入困境的农民提供111亿美元新援助",
-          "url": "https://flash.jin10.com/detail/20260626001125461800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://flash.jin10.com/detail/20260626000849119800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "特朗普称，霍尔木兹海峡开放了。",
-          "url": "https://wallstreetcn.com/livenews/3124893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
-          "title": "特朗普称将用伊朗的钱买美国农产品",
-          "url": "https://flash.jin10.com/detail/20260626074836562800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
-          "title": "特朗普：将签署法案，允许全年销售E15汽油（即含有15%乙醇的汽油）。 我们的农民将获得110亿美元的救济款。",
-          "url": "https://wallstreetcn.com/livenews/3124892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        },
-        {
-          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3124758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三没有与美国总统特朗普讨论美墨加协定（USMCA）。",
-          "url": "https://flash.jin10.com/detail/20260626000055706800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 19,
+      "match_count": 32,
       "titles": [
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -305,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 08时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 09时40分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -343,11 +58,24 @@
           "ranks": [
             8,
             4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时28分 ~ 09时40分]"
+        },
+        {
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
+          "ranks": [
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时28分 ~ 08时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时26分 ~ 09时40分]"
         },
         {
           "title": "A股这轮牛市你赚钱了吗",
@@ -365,15 +93,15 @@
           "time_info": "[00时43分 ~ 07时27分]"
         },
         {
-          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
-          "url": "https://www.cls.cn/detail/2409666",
-          "source": "财联社热门",
+          "title": "A股光伏设备板块盘初冲高，金刚光伏涨超8%，TCL中环、易成新能、协鑫集成、华民股份、晶澳科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260626093550263800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 08时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
@@ -476,6 +204,83 @@
           "time_info": "[04时37分 ~ 05时31分]"
         },
         {
+          "title": "港股科网股盘初走低，BOSS直聘(02076.HK)、阿里巴巴(09988.HK)跌超4%，携程集团-S(09961.HK)跌超3%，小米集团(01810.HK)、哔哩哔哩(09626.HK)跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260626093356391800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单调入领益智造",
+          "url": "https://wallstreetcn.com/livenews/3124918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "港股汽车股多数下跌，北京汽车(01958.HK)、蔚来-SW(09866.HK)跌超5%，零跑汽车(09863.HK)跌超4%，比亚迪股份(01211.HK)跌超3%，理想汽车(02015.HK)跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260626093238547800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "A股电网设备板块高开，宝胜股份涨停，白云电器、亿能电力、安科瑞、杭州柯林、长城科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260626093111916800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "恒生指数跌1%，恒生科技指数跌1.8%。",
+          "url": "https://flash.jin10.com/detail/20260626093058211800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "港股新股集体走强，科拓股份(02272.HK)涨178.38%，中科闻歌(01956.HK)涨81.22%，芯碁微装(09630.HK)涨73.70%。",
+          "url": "https://flash.jin10.com/detail/20260626092955572800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "A股CPO板块盘初下挫，利和兴跌超8%，太辰光跌超7%，同惠电子跌超6%，立讯精密、长盈通跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260626092910723800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260626004054108800",
           "source": "金十数据",
@@ -485,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "A股培育钻石板块今日调整，惠丰钻石跌超7%，力量钻石跌超5%，黄河旋风跌超4%，四方达、楚江新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260626092822955800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
@@ -509,6 +325,28 @@
           "time_info": "07时27分"
         },
         {
+          "title": "中国上证综指6月26日（周五）开盘下跌21.59点，跌幅：0.52%，报4098.69点；<br/>中国深证成指6月26日（周五）开盘下跌132.68点，跌幅：0.81%，报16211.41点；<br/>中国沪深300指数6月26日（周五）开盘下跌38.28点，跌幅：0.76%，报4981.83点；<br/>中国创业板指数6月26日（周五）开盘下跌52.58点，跌幅：1.2%，报4319.41点；<br/>中国科创50指数6月26日（周五）开盘下跌31.9点，跌幅：1.54%，报2034.43点。",
+          "url": "https://flash.jin10.com/detail/20260626092718753800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "A股开盘，上证指数跌0.52%，深证成指跌0.81%，创业板指跌1.2%。CPO、存储芯片、培育钻石板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260626092519575800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周四（6月25日），美国科技股七巨头（Magnificent 7）指数跌2.79%，报198.56点，美股盘初显著下跌，整体呈现出长尾L形走势。成分股苹果收跌6.1%，创2025年4月以来最大单日跌幅。 “超大”市值科技股指数跌1.36%，报414.51点，微幅高开后盘初转跌，整体也呈现出长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/3124848",
           "source": "华尔街见闻-快讯",
@@ -529,12 +367,334 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "香港恒生指数6月26日（周五）开盘下跌124.82点，跌幅0.54%，报22952.09点；<br/>香港恒生科技指数6月26日（周五）开盘下跌34.38点，跌幅0.78%，报4371.54点；<br/>国企指数6月26日（周五）开盘下跌33.2点，跌幅0.44%，报7575.18点；<br/>红筹指数6月26日（周五）开盘下跌2.96点，跌幅0.08%，报3794.07点。",
+          "url": "https://flash.jin10.com/detail/20260626092044091800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "港股开盘，恒指开跌0.54%，科指开跌0.78%。友邦保险(01299.HK)跌近4%，阿里巴巴(09988.HK)跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260626092042069800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 07时27分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19,
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时27分]"
+        },
+        {
+          "title": "美最高法院裁决支持特朗普强硬移民政策",
+          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时26分 ~ 09时40分]"
+        },
+        {
+          "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
+          "url": "https://flash.jin10.com/detail/20260626072103294800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "美国总统特朗普：将签署一项允许全年销售E15汽油（含有15%乙醇的汽油）的法案。",
+          "url": "https://flash.jin10.com/detail/20260626071705462800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "白宫：特朗普签署了一项与农业相关的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260626070338375800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
+          "url": "https://flash.jin10.com/detail/20260626052048013800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时27分]"
+        },
+        {
+          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
+          "url": "https://flash.jin10.com/detail/20260626041609697800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时37分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普：我们有一个叫做伊朗的新市场。 伊朗将购买小麦、大豆和玉米。",
+          "url": "https://wallstreetcn.com/livenews/3124890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 08时27分]"
+        },
+        {
+          "title": "特朗普称将用伊朗的钱买美国农产品",
+          "url": "https://wallstreetcn.com/livenews/3124906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 09时40分]"
+        },
+        {
+          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3124865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时37分]"
+        },
+        {
+          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
+          "url": "https://wallstreetcn.com/livenews/3124855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
+          "url": "https://flash.jin10.com/detail/20260626055515833800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
+          "url": "https://wallstreetcn.com/livenews/3124768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 01时37分]"
+        },
+        {
+          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
+          "url": "https://flash.jin10.com/detail/20260626043110139800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时28分]"
+        },
+        {
+          "title": "特朗普称，霍尔木兹海峡开放了。",
+          "url": "https://wallstreetcn.com/livenews/3124893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普：将签署法案，允许全年销售E15汽油（即含有15%乙醇的汽油）。 我们的农民将获得110亿美元的救济款。",
+          "url": "https://wallstreetcn.com/livenews/3124892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 09时40分]"
+        },
+        {
+          "title": "美国总统特朗普：提名克里斯·克隆普为下一任卫生与公共服务部副部长。",
+          "url": "https://flash.jin10.com/detail/20260626065545744800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "特朗普请求为陷入困境的农民提供111亿美元新援助",
+          "url": "https://flash.jin10.com/detail/20260626001125461800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "美最高法院裁决支持特朗普强硬移民政策",
+          "url": "https://flash.jin10.com/detail/20260626000849119800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "特朗普称将用伊朗的钱买美国农产品",
+          "url": "https://flash.jin10.com/detail/20260626074836562800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时27分"
+        },
+        {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3124758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "加拿大总理卡尼：周三没有与美国总统特朗普讨论美墨加协定（USMCA）。",
+          "url": "https://flash.jin10.com/detail/20260626000055706800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国至6月25日7年期国债竞拍-得标利率配置百分比 36.22%，前值71.23%。",
@@ -657,6 +817,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "日本30年期国债收益率上行1.5个基点至3.840%。",
+          "url": "https://wallstreetcn.com/livenews/3124916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
           "title": "据日经新闻：随着日本央行减少购债，日本银行业对购买日本国债持观望态度。",
           "url": "https://flash.jin10.com/detail/20260626005524890800",
           "source": "金十数据",
@@ -666,6 +837,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20260626093113900800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         }
       ]
     },
@@ -827,6 +1009,18 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时26分 ~ 09时40分]"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
           "url": "https://wallstreetcn.com/livenews/3124781",
           "source": "华尔街见闻-快讯",
@@ -837,17 +1031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时39分]"
-        },
-        {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 08时27分]"
         },
         {
           "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
@@ -948,6 +1131,108 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "全速扩容！DeepSeek“招兵买马”扩编一倍",
+          "url": "https://www.cls.cn/detail/2409672",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "DeepSeek发英雄帖：扩大所有部门规模",
+          "url": "https://www.toutiao.com/trending/7654952957498195994/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "DeepSeek大规模招聘",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "DeepSeek大规模招聘：至少扩大一倍",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        },
+        {
+          "title": "金价回落至900元以下",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时26分 ~ 09时40分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时27分 ~ 09时40分]"
+        },
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -995,35 +1280,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价回落至900元以下",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时26分 ~ 08时27分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时27分"
         }
