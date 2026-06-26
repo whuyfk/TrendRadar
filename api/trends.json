@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T12:36:17.699260+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-06-26T14:22:45.881049+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -18,8 +18,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时28分 ~ 12时36分]"
+          "appearance_count": 10,
+          "time_info": "[06时28分 ~ 14时22分]"
+        },
+        {
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时26分 ~ 14时22分]"
         },
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -31,23 +43,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 12时36分]"
-        },
-        {
-          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
-          "url": "https://www.cls.cn/detail/2409666",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时26分 ~ 12时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 14时22分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -126,13 +127,24 @@
           "time_info": "09时40分"
         },
         {
+          "title": "A股商业航天板块再度拉升，中国卫星涨停，航天动力此前封板，电科蓝天、上海瀚讯、广联航空涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3125074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "港股午评：恒生指数跌1.87%，恒生科技指数跌3.21%",
           "url": "https://flash.jin10.com/detail/20260626120730844800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -224,6 +236,18 @@
           "time_info": "[05时31分 ~ 07时27分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 14时22分]"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260626040602072800",
           "source": "金十数据",
@@ -248,18 +272,6 @@
           "time_info": "[04时37分 ~ 05时31分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时36分]"
-        },
-        {
           "title": "港股科网股盘初走低，BOSS直聘(02076.HK)、阿里巴巴(09988.HK)跌超4%，携程集团-S(09961.HK)跌超3%，小米集团(01810.HK)、哔哩哔哩(09626.HK)跌近3%。",
           "url": "https://flash.jin10.com/detail/20260626093356391800",
           "source": "金十数据",
@@ -282,6 +294,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "A股半导体硅片概念持续活跃，有研硅触及20CM涨停，TCL中环此前封板，立昂微、沪硅产业、西安奕材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3125065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "深交所：港股通标的证券名单调入领益智造",
           "url": "https://wallstreetcn.com/livenews/3124918",
           "source": "华尔街见闻-快讯",
@@ -291,6 +314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "A股锂电池板块持续走弱，永杉锂业、融捷股份触及跌停，海科新源、容百科技、蔚蓝锂芯、丰元股份、孚日股份等跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3125063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "港股AI概念股震荡走低，长飞光纤光缆跌超14%，天数智芯跌超13%，智谱跌超11%，MINIMAX跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3125061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "港股汽车股多数下跌，北京汽车(01958.HK)、蔚来-SW(09866.HK)跌超5%，零跑汽车(09863.HK)跌超4%，比亚迪股份(01211.HK)跌超3%，理想汽车(02015.HK)跌近3%。",
@@ -313,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "来福谐波港股IPO价格定在区间的高端。（IFR）",
+          "url": "https://wallstreetcn.com/livenews/3125059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "A股电网设备板块高开，宝胜股份涨停，白云电器、亿能电力、安科瑞、杭州柯林、长城科技跟涨。",
@@ -381,6 +437,28 @@
           "time_info": "09时40分"
         },
         {
+          "title": "A股有机硅板块震荡上扬，三孚股份、新亚强涨停，润禾材料涨超10%，锦华新材、东岳硅材、江瀚新材、硅宝科技、回天新材跟涨。",
+          "url": "https://flash.jin10.com/detail/20260626135654933800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股三大指数集体飘绿",
+          "url": "https://www.douyin.com/hot/2548178",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260626004054108800",
           "source": "金十数据",
@@ -442,7 +520,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -475,7 +553,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -500,6 +578,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "A股商业航天板块再度拉升，中国卫星涨停，航天动力此前封板，上海瀚讯涨超14%，电科蓝天涨超13%，广联航空涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260626133740341800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "港股开盘，恒指开跌0.54%，科指开跌0.78%。友邦保险(01299.HK)跌近4%，阿里巴巴(09988.HK)跌约3%。",
@@ -552,7 +641,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -646,6 +735,18 @@
           "time_info": "07时27分"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 14时22分]"
+        },
+        {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
           "url": "https://flash.jin10.com/detail/20260626052048013800",
           "source": "金十数据",
@@ -706,17 +807,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时36分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -872,8 +962,19 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "日本40年期国债收益率下行5个基点至3.665%。",
+          "url": "https://wallstreetcn.com/livenews/3125075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
         {
           "title": "美国至6月25日7年期国债竞拍-得标利率配置百分比 36.22%，前值71.23%。",
           "url": "https://flash.jin10.com/detail/20260626010206196800",
@@ -1034,7 +1135,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -1048,13 +1149,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "分析师：美国10年期国债收益率或将缺乏明确趋势",
+          "url": "https://flash.jin10.com/detail/20260626133640800800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普政府首次介入AI模型发布：要求OpenAI限制首批开放范围",
+          "url": "https://flash.jin10.com/detail/20260626141456067800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
         {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
           "url": "https://flash.jin10.com/detail/20260626041922109800",
@@ -1159,7 +1282,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -1216,6 +1339,18 @@
           "time_info": "[03时33分 ~ 04时37分]"
         },
         {
+          "title": "WTI原油期货日内跌幅扩大至1.9%，报70.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3125042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 14时22分]"
+        },
+        {
           "title": "美国原油期货结算价为每桶71.92美元，上涨1.58美元，涨幅2.25%。",
           "url": "https://flash.jin10.com/detail/20260626023100075800",
           "source": "金十数据",
@@ -1238,17 +1373,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "WTI原油期货日内跌幅扩大至1.9%，报70.55美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3125042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "市场消息：波斯湾原油出口回升至战前水平的75%；截至周三的过去三天内，该地区出口了1300万桶原油。",
           "url": "https://flash.jin10.com/detail/20260626000455066800",
           "source": "金十数据",
@@ -1266,7 +1390,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         }
@@ -1296,11 +1420,12 @@
           "ranks": [
             17,
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时26分 ~ 12时36分]"
+          "appearance_count": 7,
+          "time_info": "[08时26分 ~ 14时22分]"
         },
         {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
@@ -1365,6 +1490,86 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价跌回3字头半年回撤30%",
+          "url": "https://www.toutiao.com/trending/7655352007544278564/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 14时22分]"
+        },
+        {
+          "title": "金价跌回3字头 半年回撤30%",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 14时22分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            6,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时22分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时27分 ~ 14时22分]"
+        },
+        {
+          "title": "金价回落至900元以下",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时26分 ~ 09时40分]"
+        },
+        {
+          "title": "凯投宏观：美联储加息预期推升实际收益率，今年年底金价或跌至3500美元",
+          "url": "https://flash.jin10.com/detail/20260626135717059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 5,
       "titles": [
@@ -1376,8 +1581,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -1385,11 +1590,12 @@
           "source": "微博",
           "ranks": [
             17,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 14时22分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
@@ -1397,11 +1603,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -1425,72 +1632,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价跌回3字头半年回撤30%",
-          "url": "https://www.toutiao.com/trending/7655352007544278564/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时36分]"
-        },
-        {
-          "title": "金价跌回3字头 半年回撤30%",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E3%E5%AD%97%E5%A4%B4+%E5%8D%8A%E5%B9%B4%E5%9B%9E%E6%92%A430%25",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时36分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时36分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时27分 ~ 12时36分]"
-        },
-        {
-          "title": "金价回落至900元以下",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时26分 ~ 09时40分]"
         }
       ]
     },
