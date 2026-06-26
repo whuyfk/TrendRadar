@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T11:02:23.453854+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-06-26T12:36:17.699260+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时28分 ~ 11时02分]"
+          "appearance_count": 9,
+          "time_info": "[06时28分 ~ 12时36分]"
         },
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -34,8 +34,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 11时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 12时36分]"
         },
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -46,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时26分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时26分 ~ 12时36分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -99,7 +99,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -110,7 +110,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -126,13 +126,24 @@
           "time_info": "09时40分"
         },
         {
+          "title": "港股午评：恒生指数跌1.87%，恒生科技指数跌3.21%",
+          "url": "https://flash.jin10.com/detail/20260626120730844800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "沪指跌幅扩大至2%，深成指跌2.77%，创业板指跌3.31%，有色金属、医药医疗、保险、算力硬件等方向跌幅居前，沪深京三市下跌个股近4600只。",
           "url": "https://wallstreetcn.com/livenews/3124997",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -237,6 +248,18 @@
           "time_info": "[04时37分 ~ 05时31分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时36分]"
+        },
+        {
           "title": "港股科网股盘初走低，BOSS直聘(02076.HK)、阿里巴巴(09988.HK)跌超4%，携程集团-S(09961.HK)跌超3%，小米集团(01810.HK)、哔哩哔哩(09626.HK)跌近3%。",
           "url": "https://flash.jin10.com/detail/20260626093356391800",
           "source": "金十数据",
@@ -254,7 +277,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -287,7 +310,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -320,7 +343,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -331,7 +354,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -413,6 +436,17 @@
           "time_info": "09时40分"
         },
         {
+          "title": "上证指数早盘收报4032.30点，跌2.14%。 深证成指早盘收报15846.98点，跌3.04%。 创业板指早盘收报4209.29点，跌3.72%。 沪深300早盘收报4878.74点，跌2.82%。 科创50早盘收报2012.53点，跌2.60%。 中证500早盘收报8734.60点，跌2.28%。 中证1000早盘收报8609.54点，跌2.45%。",
+          "url": "https://wallstreetcn.com/livenews/3125029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "A股开盘，上证指数跌0.52%，深证成指跌0.81%，创业板指跌1.2%。CPO、存储芯片、培育钻石板块跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260626092519575800",
           "source": "金十数据",
@@ -433,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "6月26日午间收评：创业板指半日跌3.72%，全市场下跌个股超4600只",
+          "url": "https://wallstreetcn.com/livenews/3125028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股盘中）",
@@ -457,17 +502,6 @@
           "time_info": "09时40分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
           "title": "港股开盘，恒指开跌0.54%，科指开跌0.78%。友邦保险(01299.HK)跌近4%，阿里巴巴(09988.HK)跌约3%。",
           "url": "https://flash.jin10.com/detail/20260626092042069800",
           "source": "金十数据",
@@ -485,7 +519,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -496,7 +530,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -507,9 +541,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股午评：创业板指跌3.72% 全市场近4600只个股下跌",
+          "url": "https://flash.jin10.com/detail/20260626113604423800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "A股光伏设备板块震荡拉升，TCL中环触及涨停，华民股份、金刚光伏、双良节能、隆基绿能、易成新能均涨超5%。",
@@ -518,7 +563,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -564,8 +609,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时26分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[08时26分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
@@ -663,6 +708,17 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
+          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时36分]"
+        },
+        {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
@@ -685,17 +741,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时27分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
         },
         {
           "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
@@ -827,7 +872,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国至6月25日7年期国债竞拍-得标利率配置百分比 36.22%，前值71.23%。",
@@ -983,13 +1028,24 @@
           "time_info": "09时40分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.11%，10年期主力合约涨0.05%，5年期主力合约涨0.04%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3125026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "黄金恐在2026年持续承压！避险地位正被美国国债取代",
           "url": "https://flash.jin10.com/detail/20260626103037023800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -997,7 +1053,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
@@ -1095,103 +1151,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 07时27分]"
         },
         {
-          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
-          "url": "https://www.zhihu.com/question/2052444159282082405",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时26分 ~ 11时02分]"
-        },
-        {
-          "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
-          "url": "https://wallstreetcn.com/livenews/3124775",
+          "title": "特朗普政府要求OpenAI分阶段发布新模型。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3125019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            17,
-            29
+            28
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时39分]"
-        },
-        {
-          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
-          "url": "https://flash.jin10.com/detail/20260626040729452800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时37分 ~ 05时31分]"
-        },
-        {
-          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3124866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
-          "url": "https://wallstreetcn.com/livenews/3124781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时39分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
-          "url": "https://flash.jin10.com/detail/20260626000257368800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "12时36分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "布伦特原油突破76美元/桶，日内涨3.52%。",
@@ -1262,11 +1238,125 @@
           "time_info": "02时39分"
         },
         {
+          "title": "WTI原油期货日内跌幅扩大至1.9%，报70.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3125042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        },
+        {
           "title": "市场消息：波斯湾原油出口回升至战前水平的75%；截至周三的过去三天内，该地区出口了1300万桶原油。",
           "url": "https://flash.jin10.com/detail/20260626000455066800",
           "source": "金十数据",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时43分"
+        },
+        {
+          "title": "消息人士：卡塔尔通过招标提供7月至8月装船的原油。",
+          "url": "https://flash.jin10.com/detail/20260626114412113800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 07时27分]"
+        },
+        {
+          "title": "网传 Google 内部称 Gemini 模型竞争力下降至行业第四，具体情况如何？下降原因可能有哪些？",
+          "url": "https://www.zhihu.com/question/2052444159282082405",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时26分 ~ 12时36分]"
+        },
+        {
+          "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
+          "url": "https://wallstreetcn.com/livenews/3124775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时39分]"
+        },
+        {
+          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
+          "url": "https://flash.jin10.com/detail/20260626040729452800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时37分 ~ 05时31分]"
+        },
+        {
+          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3124866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时39分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：今天，我们还面向安卓平台推出了全新的Google财务应用。从本周起，我们将在全新的Google Finance中向全球推出“投资组合”功能。今年晚些时候还将推出iOS版应用。",
+          "url": "https://flash.jin10.com/detail/20260626000257368800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1286,8 +1376,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -1298,8 +1388,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时36分]"
+        },
+        {
+          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
+          "time_info": "[11时01分 ~ 12时36分]"
         },
         {
           "title": "DeepSeek大规模招聘：至少扩大一倍",
@@ -1312,17 +1414,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时40分 ~ 11时02分]"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
         },
         {
           "title": "DeepSeek发英雄帖：扩大所有部门规模",
@@ -1350,8 +1441,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时36分]"
         },
         {
           "title": "金价跌回3字头 半年回撤30%",
@@ -1362,8 +1453,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时40分 ~ 12时36分]"
+        },
+        {
+          "title": "金价持续下跌",
+          "url": "https://www.douyin.com/hot/2547979",
+          "source": "抖音",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时40分 ~ 11时02分]"
+          "time_info": "[11时01分 ~ 12时36分]"
+        },
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时27分 ~ 12时36分]"
         },
         {
           "title": "金价回落至900元以下",
@@ -1376,29 +1491,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时26分 ~ 09时40分]"
-        },
-        {
-          "title": "金价持续下跌",
-          "url": "https://www.douyin.com/hot/2547979",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时27分 ~ 09时40分]"
         }
       ]
     },
