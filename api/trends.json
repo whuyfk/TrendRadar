@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T12:28:51.761759+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-06-27T14:11:03.297024+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 12时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 14时11分]"
         },
         {
           "title": "美国总统特朗普：许多欧洲国家一直在讨论即将对美国公司征收数字服务税。其中一些国家已接近付诸实施。特此声明，任何征收此类税项的国家，其所有销往美国的商品都将立即被征收100%的关税。",
@@ -151,6 +152,19 @@
           "time_info": "[02时32分 ~ 04时31分]"
         },
         {
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://wallstreetcn.com/livenews/3125517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 14时11分]"
+        },
+        {
           "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
           "url": "https://wallstreetcn.com/livenews/3125391",
           "source": "华尔街见闻-快讯",
@@ -187,16 +201,15 @@
           "time_info": "[11时02分 ~ 12时28分]"
         },
         {
-          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
-          "url": "https://wallstreetcn.com/livenews/3125517",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称特朗普不遵守谈判和停火原则",
+          "url": "https://www.toutiao.com/trending/7655588812406407178/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时28分]"
+          "time_info": "[14时10分 ~ 14时11分]"
         },
         {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
@@ -358,8 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时23分 ~ 12时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时23分 ~ 14时11分]"
         },
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -369,8 +382,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[08时24分 ~ 14时11分]"
+        },
+        {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时24分 ~ 14时11分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -396,19 +422,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 08时24分]"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 12时28分]"
         },
         {
           "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
@@ -449,6 +462,18 @@
           "time_info": "[09时36分 ~ 11时02分]"
         },
         {
+          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
+          "url": "https://wallstreetcn.com/articles/3775625",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时11分]"
+        },
+        {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3125469",
           "source": "华尔街见闻-快讯",
@@ -462,26 +487,16 @@
           "time_info": "[06时24分 ~ 08时24分]"
         },
         {
-          "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
-          "url": "https://wallstreetcn.com/articles/3775625",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2410708",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时11分]"
         },
         {
           "title": "金十图示：2026年06月26日（周五）热门中概股行情一览（美股收盘）",
@@ -545,6 +560,19 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时36分 ~ 14时11分]"
+        },
+        {
           "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
           "url": "https://wallstreetcn.com/livenews/3125429",
           "source": "华尔街见闻-快讯",
@@ -579,18 +607,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 05时27分]"
-        },
-        {
-          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
-          "url": "https://wallstreetcn.com/articles/3775589",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时36分 ~ 12时28分]"
         },
         {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
@@ -669,7 +685,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -677,7 +693,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股拖累全球股市，纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -689,6 +705,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时24分]"
+        },
+        {
+          "title": "时隔近4个月，沙特重启海湾原油出口终端",
+          "url": "https://wallstreetcn.com/livenews/3125547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
+          "url": "https://flash.jin10.com/detail/20260627095343701800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 14时11分]"
         },
         {
           "title": "WTI 8月原油期货收跌2.69美元，跌幅3.74%，报69.23美元/桶，本周累计跌9.55%。 布伦特7月原油期货收跌3.27美元，跌幅4.34%，报71.99美元/桶，本周累跌超9.85%。",
@@ -728,18 +768,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时24分]"
-        },
-        {
-          "title": "一周热榜精选：黄金4000关口能否顺利守住？原油打回伊朗冲突前原形",
-          "url": "https://flash.jin10.com/detail/20260627095343701800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时28分]"
         },
         {
           "title": "布伦特原油日内跌幅达4.5%，报72.06美元/桶；WTI原油日内跌幅达4.5%，报68.64美元/桶。",
@@ -871,11 +899,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时11分]"
         }
       ]
     }
