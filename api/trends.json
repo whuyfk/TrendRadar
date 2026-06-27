@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-06-27T21:32:28.321039+08:00",
-  "total_titles_processed": 1548,
-  "failed_sources": [],
+  "generated_at": "2026-06-27T22:32:16.644183+08:00",
+  "total_titles_processed": 1624,
+  "failed_sources": [
+    "thepaper",
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -30,6 +33,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[07时23分 ~ 21时32分]"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时29分 ~ 22时32分]"
         },
         {
           "title": "美国总统特朗普：许多欧洲国家一直在讨论即将对美国公司征收数字服务税。其中一些国家已接近付诸实施。特此声明，任何征收此类税项的国家，其所有销往美国的商品都将立即被征收100%的关税。",
@@ -65,6 +79,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://wallstreetcn.com/livenews/3125610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国总统特朗普：（纽约）市长马姆达尼看起来是个和蔼可亲的人，他说他会确保人们的房租不会上涨，尽管能源价格上涨了。",
           "url": "https://flash.jin10.com/detail/20260627022141001800",
           "source": "金十数据",
@@ -74,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 21时32分]"
         },
         {
           "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
@@ -152,6 +166,19 @@
           "time_info": "[06时24分 ~ 08时24分]"
         },
         {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时32分]"
+        },
+        {
           "title": "伊朗官员：特朗普在谈判原则及停火协议上毫无诚意",
           "url": "https://wallstreetcn.com/livenews/3125475",
           "source": "华尔街见闻-快讯",
@@ -163,18 +190,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 08时24分]"
-        },
-        {
-          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
-          "url": "https://flash.jin10.com/detail/20260627191008880800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
@@ -409,8 +424,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时24分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[08时24分 ~ 22时32分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -433,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时24分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[08时24分 ~ 22时32分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -447,8 +462,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时23分 ~ 21时32分]"
+          "appearance_count": 21,
+          "time_info": "[06时23分 ~ 22时32分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -461,8 +476,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时56分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[15时56分 ~ 22时32分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -488,8 +503,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 22时32分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -547,11 +562,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时32分]"
         },
         {
           "title": "今年港股首发募资前十大IPO名单中，A+H企业独占8席",
@@ -566,6 +582,19 @@
           "time_info": "[09时36分 ~ 11时02分]"
         },
         {
+          "title": "下周A股解禁市值逾1000亿元",
+          "url": "https://wallstreetcn.com/livenews/3125593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时32分]"
+        },
+        {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3125469",
           "source": "华尔街见闻-快讯",
@@ -577,18 +606,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 08时24分]"
-        },
-        {
-          "title": "下周A股解禁市值逾1000亿元",
-          "url": "https://wallstreetcn.com/livenews/3125593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时32分]"
         },
         {
           "title": "30家A股公司集体提示风险",
@@ -672,7 +689,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -683,8 +700,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 22时32分]"
         },
         {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
@@ -784,6 +801,17 @@
           "time_info": "[11时01分 ~ 11时02分]"
         },
         {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时32分]"
+        },
+        {
           "title": "OpenAI发布GPT5.6",
           "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
           "source": "百度热搜",
@@ -866,11 +894,24 @@
             16,
             12,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时40分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 22时32分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 22时32分]"
         },
         {
           "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
@@ -885,6 +926,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时52分 ~ 19时29分]"
+        },
+        {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek招聘薪资待遇",
@@ -909,28 +962,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时40分 ~ 19时29分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2054255700407055156",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
-        },
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek新晋独角兽第一",
@@ -1086,11 +1117,12 @@
           "ranks": [
             4,
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[19时29分 ~ 22时32分]"
         },
         {
           "title": "金价大跌 有商家称跌没一辆迈巴赫",
