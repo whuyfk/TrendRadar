@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T11:02:27.826419+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-06-29T12:41:10.700823+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 32,
+      "match_count": 42,
       "titles": [
         {
           "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 11时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 12时41分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -49,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -93,7 +93,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -102,11 +102,12 @@
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时41分]"
         },
         {
           "title": "下半年A股怎么走",
@@ -133,13 +134,35 @@
           "time_info": "[09时41分 ~ 11时02分]"
         },
         {
+          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "港股午评：恒指单边走强收涨2.12% 医药板块全线爆发",
+          "url": "https://flash.jin10.com/detail/20260629120904570800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "A股PCB概念股震荡下挫，宝鼎科技、光华科技触及跌停，天承科技、德福科技、东威科技、南亚新材跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3125815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -161,7 +184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -172,7 +195,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -186,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "恒生科技指数日内涨超4%。地平线机器人涨超15%，哔哩哔哩涨超8%，携程、百度、美团涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3125854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "6月份A股公司密集分红，派现总额近5700亿元",
@@ -205,7 +239,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -221,6 +255,28 @@
           "time_info": "07时21分"
         },
         {
+          "title": "上证指数早盘收报4034.08点，涨0.17%。 深证成指早盘收报15591.37点，跌1.21%。 创业板指早盘收报4140.65点，跌1.28%。 沪深300早盘收报4871.03点，涨0.06%。 科创50早盘收报2063.94点，涨1.56%。 中证500早盘收报8676.33点，跌0.31%。 中证1000早盘收报8458.74点，跌1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3125849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "6月29日午间收评：创业板指冲高回落跌1.28%，医药、消费股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3125848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
           "url": "https://flash.jin10.com/detail/20260629060021389800",
           "source": "金十数据",
@@ -232,13 +288,24 @@
           "time_info": "07时21分"
         },
         {
+          "title": "恒生指数涨幅扩大至2%，恒生科技指数现涨3.4%，恒生生物科技指数涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3125842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "A股创新药板块持续走强，万邦医药此前20CM封板涨停，双鹭药业、康缘药业、凯莱英10CM涨停，恒瑞医药涨超8%，药明康德、常山药业等跟涨。",
           "url": "https://flash.jin10.com/detail/20260629102852039800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -249,7 +316,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -260,7 +327,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -271,7 +338,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -282,9 +349,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "恒生科技指数早盘持续走强，半日涨逾4%。",
+          "url": "https://flash.jin10.com/detail/20260629113917529800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "A股半导体产业链延续涨势，银河微电20cm涨停，神工股份涨超10%，宏微科技、扬杰科技、雅克科技、富满微涨超5%。",
@@ -293,9 +371,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指日内跌超2%，此前一度涨1%。沪指跌0.4%，深成指跌1.64%。算力硬件、消费电子、港口航运等方向跌幅居前，沪深京三市下跌个股近3500只。",
+          "url": "https://wallstreetcn.com/livenews/3125828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "上证指数开盘报4026.69点，跌0.01%。 深证成指开盘报15781.79点，跌0.00%。 创业板指开盘报4200.67点，涨0.15%。 沪深300开盘报4866.04点，跌0.04%。 科创50开盘报2039.67点，涨0.36%。 中证500开盘报8731.58点，涨0.32%。 中证1000开盘报8616.42点，涨0.17%。",
@@ -304,7 +393,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -315,9 +404,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "港股联想集团(00992.HK)持续走弱，日内跌逾10%。",
+          "url": "https://flash.jin10.com/detail/20260629113454152800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "恒指高开0.69%，报22827.65点；恒生科技指数涨1.6%。网易、携程集团涨超4%，京东集团、美团涨超3%。",
@@ -326,7 +426,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -337,7 +437,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -359,15 +459,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "A股午评：创业板指冲高回落跌逾1% 创新药板块强势大涨",
+          "url": "https://flash.jin10.com/detail/20260629113411622800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -475,6 +586,29 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "特朗普要拆掉美国几十年对伊制裁体系！真正难倒他的，却是华尔街",
+          "url": "https://flash.jin10.com/detail/20260629121218998800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
+          "url": "https://www.cls.cn/detail/2411269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时41分]"
+        },
+        {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
           "url": "https://flash.jin10.com/detail/20260629024615359800",
           "source": "金十数据",
@@ -524,24 +658,13 @@
           "time_info": "09时41分"
         },
         {
-          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
-          "url": "https://www.cls.cn/detail/2411269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
           "title": "特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照",
           "url": "https://www.cls.cn/detail/2411031",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -549,7 +672,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本20年期国债收益率上行4个基点至3.55%。",
@@ -609,6 +732,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.09%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3125846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "日本10年期国债收益率上行3.5个基点至2.63%。",
           "url": "https://wallstreetcn.com/livenews/3125750",
           "source": "华尔街见闻-快讯",
@@ -626,7 +760,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -681,7 +815,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -762,6 +896,56 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价银价下跌 油价上涨",
+          "url": "https://www.toutiao.com/trending/7656224620856623114/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 12时41分]"
+        },
+        {
+          "title": "PCE只带来喘息，金价修复仍等就业验证",
+          "url": "https://flash.jin10.com/detail/20260629120148011800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
+          "url": "https://flash.jin10.com/detail/20260629084911485800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时41分"
+        },
+        {
+          "title": "金十图示：2026年06月29日（周一）上海金早盘价为888.54元/克，较国际金价(889.88元/克)，低1.34元/克",
+          "url": "https://flash.jin10.com/detail/20260629101748796800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -807,8 +991,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 11时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 12时41分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告称，Apple Maps和Google Maps出现故障。",
@@ -820,34 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "分析师：风险偏好影响黄金价格 未来金价料进一步承压",
-          "url": "https://flash.jin10.com/detail/20260629084911485800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时41分"
-        },
-        {
-          "title": "金十图示：2026年06月29日（周一）上海金早盘价为888.54元/克，较国际金价(889.88元/克)，低1.34元/克",
-          "url": "https://flash.jin10.com/detail/20260629101748796800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         }
       ]
     }
