@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T12:32:24.821180+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-07-02T14:15:57.970997+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 50,
+      "match_count": 63,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 12时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时15分]"
         },
         {
           "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
@@ -357,6 +357,28 @@
           "time_info": "04时32分"
         },
         {
+          "title": "港股南方两倍做多海力士午后跌超23%。",
+          "url": "https://wallstreetcn.com/livenews/3127837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "A股创新药板块午后回暖，科伦药业、泽璟制药盘中创新高，海南海药4连板，石药景峰、联化科技涨停，热景生物涨超15%，石药创新、万邦医药、津药药业、康芝药业、双鹭药业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702140208280800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至2.1%，地平线机器人、比亚迪股份涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3127741",
           "source": "华尔街见闻-快讯",
@@ -368,6 +390,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "创业板指跌幅扩大至5%，沪指跌1.53%，深证成指跌3.17%。算力硬件、存储芯片、证券、光伏等方向跌幅居前，沪深京三市下跌个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3127834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-02）",
           "url": "https://flash.jin10.com/detail/20260702090543633800",
           "source": "金十数据",
@@ -377,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "A股小金属板块短线拉升，翔鹭钨业涨停，国城矿业、章源钨业、中钨高新、华阳新材、浩通科技等纷纷走高。",
@@ -396,7 +440,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -423,13 +467,46 @@
           "time_info": "09时38分"
         },
         {
+          "title": "港股映美控股(02028.HK)午后涨超110%。",
+          "url": "https://flash.jin10.com/detail/20260702135846694800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "科创50指数跌超6%，创业板指跌4.6%，沪指跌近1.3%，算力硬件、存储芯片、证券等方向跌幅居前，沪深京三市下跌个股近2400只。",
+          "url": "https://wallstreetcn.com/livenews/3127829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "港股AI硬件股持续下挫，剑桥科技港股、广合科技港股跌超20%，长飞光纤光缆港股跌超19%，ASAMT、天数智芯跌超17%。",
+          "url": "https://wallstreetcn.com/livenews/3127828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "上证指数早盘收报4075.31点，跌0.90%。 深证成指早盘收报15782.35点，跌2.09%。 创业板指早盘收报4112.97点，跌3.47%。 沪深300早盘收报4867.43点，跌1.85%。 科创50早盘收报2053.69点，跌4.61%。 中证500早盘收报8877.03点，跌1.68%。 中证1000早盘收报8816.06点，跌0.68%。",
           "url": "https://wallstreetcn.com/livenews/3127783",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -443,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "港股南方两倍做多三星电子(07747.HK)午后跌超25%。",
+          "url": "https://flash.jin10.com/detail/20260702135128191800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国财政部：特朗普账户的注资将投资于SPYM ETF。 SPYM将被视作所有账户的默认投资标的。 道富银行ETF（State Street SPDR Portfolio标普500 ETF）将是“特朗普账户”的默认投资（标的）。 iShares核心标普500 ETF、Vanguard Total Stock Market ETF、State Street SPDR Portfolio标普1500综合股市ETF、iShares核心标普总体美股ETF也被列入“投资（标的）阵容”。",
@@ -473,7 +561,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -489,15 +577,48 @@
           "time_info": "07时27分"
         },
         {
+          "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3127823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "韩国交易所启动韩国创业板指（KOSDAQ） 的侧车机制，暂停KOSDAQ程序化交易。",
           "url": "https://flash.jin10.com/detail/20260702115219149800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "创业板指跌幅扩大至5%，深证成指现跌3%，沪指现跌1.43%。",
+          "url": "https://flash.jin10.com/detail/20260702133930738800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "A股CPO概念午后持续走弱，新易盛跌近10%，此前东山精密跌停，光迅科技逼近跌停，长芯博创、剑桥科技、天孚通信、华工科技、中际旭创均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3127820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美股存储板块一度重挫约9%，闪迪跌11%，铠侠ADR跌超10%",
@@ -517,9 +638,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "A股兴业科技午后触及涨停，上演“地天板”，成交近9亿元。该股此前连续2日报收跌停，今早一度触及跌停。",
+          "url": "https://flash.jin10.com/detail/20260702133711672800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "A股电机板块震荡反弹，方正电机直线涨停，瑜欣电子、三协电机、华阳智能、微光股份、江苏雷利、中电电机等跟涨。",
@@ -531,6 +663,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "科创50指数午后跌超6%，创业板指现跌4.8%。先进封装、算力硬件、存储芯片等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260702133605141800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "标普500指数收跌16.13点，跌幅0.22%，报7483.23点。 道琼斯工业平均指数收跌13.96点，跌幅0.03%，报52305.24点。 纳斯达克综合指数（纳指）收跌173.688点，跌幅0.66%，报26040.031点。 纳斯达克100指数收跌467.216点，跌幅1.54%，报29809.133点。 纳斯达克科技市值加权指数收跌1.33%，报2921.0461点，跳空低开之后持续低位震荡。 费城半导体指数收跌893.682点，跌幅6.27%，报13353.279点，跳空低开之后持续扩大跌幅，北京时间02:56刷新日低至13322.630点。 费城证交所KBW银行指数收涨1.79%，报184.54点，突破6月25日所创收盘历史最高位184.64点、逼近当天所创盘中历史最高位187.55点。 道琼斯KBW地区银行指数收涨1.70%，报147.88点，美股早盘持续上扬、00:40刷新盘中历史高位至148.38点，收盘突破6月26日所创收盘历史最高位146.21点。 罗素2000指数收跌0.39%，报3012.59点。 纳斯达克生物科技指数收跌0.05%，报6561.65点。 标普中盘股400指数收跌0.86%，纳斯达克美国中等市值指数跌0.12%，双双低开之后冲高回落。 恐慌指数VIX收涨0.73%，报16.57，欧股盘初跳空高开至17关口上方，随后持续回吐涨幅、21:35刷新日高至17.30、之后快速转跌。",
@@ -616,6 +759,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时38分 ~ 14时15分]"
+        },
+        {
           "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
           "url": "https://wallstreetcn.com/livenews/3127574",
           "source": "华尔街见闻-快讯",
@@ -672,17 +826,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时38分 ~ 12时32分]"
-        },
-        {
-          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
-          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -923,7 +1066,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -943,7 +1086,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -954,9 +1097,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "日本20年期国债收益率上行11个基点至3.775%。",
+          "url": "https://wallstreetcn.com/livenews/3127845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.795%，投标倍数2.66。",
@@ -1012,7 +1166,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -1034,7 +1188,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -1056,7 +1210,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -1078,7 +1232,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -1229,13 +1383,26 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
+          "url": "https://wallstreetcn.com/articles/3775976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时24分 ~ 14时15分]"
+        },
+        {
           "title": "据报OpenAI提出向特朗普政府提供5%的股权",
           "url": "https://flash.jin10.com/detail/20260702121147449800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -1246,22 +1413,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时24分 ~ 12时32分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -1319,7 +1473,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -1409,7 +1563,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }
@@ -1479,11 +1633,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 14时15分]"
         },
         {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
