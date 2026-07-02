@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T08:24:57.892531+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-07-02T09:38:23.273139+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -73,11 +73,12 @@
           "url": "https://www.cls.cn/detail/2414790",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 08时24分]"
+          "appearance_count": 3,
+          "time_info": "[07时27分 ~ 09时38分]"
         },
         {
           "title": "A股交易规则下周一起重大调整",
@@ -87,11 +88,23 @@
             16,
             4,
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时30分 ~ 08时24分]"
+          "appearance_count": 6,
+          "time_info": "[05时30分 ~ 09时38分]"
+        },
+        {
+          "title": "港股半导体多股低开，兆易创新(03986.HK)开跌12.46%，澜起科技(06809.HK)开跌6.8%，中芯国际(00981.HK)开跌5.93%，英诺赛科(02577.HK)、纳芯微(02676.HK)等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260702092156245800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -105,6 +118,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时35分 ~ 05时31分]"
+        },
+        {
+          "title": "恒指高开0.83%，报23071.43点；恒生科技指数涨1.25%。小鹏、百度、比亚迪股份涨近5%，零跑汽车、京东、快手等多股涨超3%。华虹宏力跌逾7%，中芯国际跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3127708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "香港恒生指数7月2日（周四）开盘上涨190.41点，涨幅0.83%，报23071.43点；<br/>香港恒生科技指数7月2日（周四）开盘上涨56.01点，涨幅1.25%，报4528.24点；<br/>国企指数7月2日（周四）开盘上涨54.83点，涨幅0.73%，报7613.13点；<br/>红筹指数7月2日（周四）开盘上涨29.25点，涨幅0.8%，报3698.67点。",
+          "url": "https://flash.jin10.com/detail/20260702092100064800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "港股开盘，恒指开涨0.83%，科指开涨1.25%，汽车股普遍高开，比亚迪股份(01211.HK)开涨4.9%，吉利汽车(00175.HK)开涨3.14%。",
+          "url": "https://flash.jin10.com/detail/20260702092056941800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
@@ -144,6 +190,19 @@
           "time_info": "[01时35分 ~ 02时34分]"
         },
         {
+          "title": "A股将取消5%涨跌停板",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 09时38分]"
+        },
+        {
           "title": "A股科技股真的过热了吗",
           "url": "https://www.toutiao.com/trending/7657519502266994230/",
           "source": "今日头条",
@@ -155,19 +214,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 02时34分]"
-        },
-        {
-          "title": "A股将取消5%涨跌停板",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%86%E5%8F%96%E6%B6%885%25%E6%B6%A8%E8%B7%8C%E5%81%9C%E6%9D%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 08时24分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股盘中）",
@@ -204,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 05时31分]"
+        },
+        {
+          "title": "韩国首尔综指跌超5%，芯片股跟随美股科技股隔夜跌势。SK海力士盘初跌7.6%，三星电子跌6.5%。",
+          "url": "https://wallstreetcn.com/livenews/3127675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时38分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股收盘）",
@@ -253,17 +311,6 @@
           "time_info": "07时27分"
         },
         {
-          "title": "韩国首尔综指跌超5%，芯片股跟随美股科技股隔夜跌势。SK海力士盘初跌7.6%，三星电子跌6.5%。",
-          "url": "https://wallstreetcn.com/livenews/3127675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
           "title": "标普500指数初步收跌0.2%，科技板块跌1.7%，能源板块跌0.8%，金融板块涨2.1%，电信板块涨2.6%。 纳斯达克100指数初步收跌1.5%，成分股中，Nebius Group初步收跌16.2%，CoreWeave跌13.6%，科磊、泰瑞达、闪迪跌超10%，美光跌9.9%，阿斯麦ADR跌7.5%，Strategy则涨7.9%，Palantir、拼多多ADR涨8.1%，Meta涨9%，Applovin涨9.6%。 美股存储芯片指数跌超8%，成分股闪迪、泰瑞达、拉姆研究跌约10%。费城半导体指数跌6.3%。 Salesforce、耐克初步收涨超4%，与美国运通、微软、联合健康、IBM领跑道指成分股，思科则跌0.6%，霍尼韦尔、英伟达跌1%，Merck跌2.1%，沃尔玛跌3.8%，卡特彼勒跌6.6%。",
           "url": "https://wallstreetcn.com/livenews/3127599",
           "source": "华尔街见闻-快讯",
@@ -275,6 +322,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-07-02）",
+          "url": "https://flash.jin10.com/detail/20260702090543633800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
           "url": "https://wallstreetcn.com/livenews/3127538",
           "source": "华尔街见闻-快讯",
@@ -284,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时35分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-07-02）",
+          "url": "https://flash.jin10.com/detail/20260702090252652800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "美国财政部：特朗普账户的注资将投资于SPYM ETF。 SPYM将被视作所有账户的默认投资标的。 道富银行ETF（State Street SPDR Portfolio标普500 ETF）将是“特朗普账户”的默认投资（标的）。 iShares核心标普500 ETF、Vanguard Total Stock Market ETF、State Street SPDR Portfolio标普1500综合股市ETF、iShares核心标普总体美股ETF也被列入“投资（标的）阵容”。",
@@ -366,7 +435,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -375,7 +444,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
         },
@@ -464,6 +533,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时26分]"
+        },
+        {
+          "title": "特朗普：油价正在快速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3127674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时38分]"
         },
         {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
@@ -562,15 +643,26 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
-          "title": "特朗普：油价正在快速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3127674",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "09时38分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
@@ -674,104 +766,8 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 06时26分]"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.795%，投标倍数2.66。",
-          "url": "https://wallstreetcn.com/livenews/3127523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时35分]"
-        },
-        {
-          "title": "德国30年期国债收益率涨超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3127545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时34分]"
-        },
-        {
-          "title": "日本至6月26日当周买进外国债券 -2801亿日元，前值由1997亿日元修正为2021亿日元。",
-          "url": "https://flash.jin10.com/detail/20260702075003128800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3127671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
-          "url": "https://wallstreetcn.com/livenews/3127592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时32分"
-        },
-        {
-          "title": "英国两年期国债收益率跌超2个基点，投资者对央行加息预期降温",
-          "url": "https://wallstreetcn.com/livenews/3127536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "1.3万亿元超长期特别国债发行即将过半",
-          "url": "https://wallstreetcn.com/livenews/3127659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "布伦特原油期货结算价为每桶71.57美元，下跌1.38美元，跌幅1.89%。",
@@ -807,6 +803,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时32分]"
+        },
+        {
+          "title": "商品期货开盘，原油主力合约跌4%，集运欧线、液化气跌超3%，甲醇跌近3%，燃料油、LU燃油跌超2%。铂涨超2%，钯、铁矿石、沪银、沪金涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3127699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "WTI原油跌破68美元/桶，日内跌2.72%。",
@@ -853,6 +860,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，SC原油跌超4%，液化石油气（LPG）、集运欧线跌超3%，甲醇跌近3%，燃料油、低硫燃料油（LU）跌超2%，聚丙烯、沥青、纯苯、BR橡胶、塑料、对二甲苯、聚丙烯、乙二醇、丙烯、焦炭、多晶硅、苯乙烯跌超1%。涨幅方面，铂涨超2%，铁矿石、沪银涨超1%，沪金、豆粕、纸浆涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260702090013383800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "美国6月26日当周EIA库欣地区原油库存变动 70.9万桶，前值 -107.7万桶。",
           "url": "https://wallstreetcn.com/livenews/3127497",
           "source": "华尔街见闻-快讯",
@@ -862,6 +880,114 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 06时26分]"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.795%，投标倍数2.66。",
+          "url": "https://wallstreetcn.com/livenews/3127523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时35分]"
+        },
+        {
+          "title": "德国30年期国债收益率涨超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3127545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时34分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3127671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时38分]"
+        },
+        {
+          "title": "日本至6月26日当周买进外国债券 -2801亿日元，前值由1997亿日元修正为2021亿日元。",
+          "url": "https://flash.jin10.com/detail/20260702075003128800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
+          "url": "https://wallstreetcn.com/livenews/3127592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "英国两年期国债收益率跌超2个基点，投资者对央行加息预期降温",
+          "url": "https://wallstreetcn.com/livenews/3127536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "1.3万亿元超长期特别国债发行即将过半",
+          "url": "https://wallstreetcn.com/livenews/3127659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "日本30年期国债收益率上涨2.5个基点，至3.980%。",
+          "url": "https://flash.jin10.com/detail/20260702085331258800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
@@ -912,11 +1038,12 @@
           "url": "https://wallstreetcn.com/articles/3775976",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 09时38分]"
         },
         {
           "title": "据英国金融时报：在美国政府干预Anthropic和OpenAI的模型发布计划后，AI指导方针预计最快将于下周公布。",
