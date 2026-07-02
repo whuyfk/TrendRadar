@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T22:43:44.391111+08:00",
-  "total_titles_processed": 2059,
+  "generated_at": "2026-07-02T23:44:18.347618+08:00",
+  "total_titles_processed": 2146,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
@@ -90,11 +90,12 @@
             5,
             4,
             25,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时02分 ~ 22时43分]"
+          "appearance_count": 8,
+          "time_info": "[16时02分 ~ 23时44分]"
         },
         {
           "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
@@ -112,6 +113,46 @@
           "time_info": "[14时15分 ~ 21时32分]"
         },
         {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 23时44分]"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时44分]"
+        },
+        {
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 23时44分]"
+        },
+        {
           "title": "A股交易规则下周一起重大调整",
           "url": "https://www.toutiao.com/trending/7657522598550716422/",
           "source": "今日头条",
@@ -125,32 +166,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时30分 ~ 09时38分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 22时43分]"
-        },
-        {
-          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
-          "url": "https://www.cls.cn/detail/2415523",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时43分]"
         },
         {
           "title": "港股半导体多股低开，兆易创新(03986.HK)开跌12.46%，澜起科技(06809.HK)开跌6.8%，中芯国际(00981.HK)开跌5.93%，英诺赛科(02577.HK)、纳芯微(02676.HK)等跟跌。",
@@ -173,18 +188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
-        },
-        {
-          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3776030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 22时43分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -231,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "美股存储芯片指数跌超7%，成分股全线溃败，闪迪盘中跌幅扩大至10%，泰瑞达、拉姆研究、应用材料、希捷科技、西部数据、Rambus、美光科技至多跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3128126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "A股培育钻石概念快速拉升，黄河旋风直线涨停，四方达、惠丰钻石、力量钻石等股上涨。",
@@ -427,6 +441,18 @@
           "time_info": "[04时32分 ~ 05时31分]"
         },
         {
+          "title": "美股集体高开 黄金板块领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E9%BB%84%E9%87%91%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时44分]"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
           "url": "https://wallstreetcn.com/livenews/3127610",
           "source": "华尔街见闻-快讯",
@@ -456,7 +482,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -626,17 +652,6 @@
           "time_info": "09时38分"
         },
         {
-          "title": "美股集体高开 黄金板块领涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E9%BB%84%E9%87%91%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
           "title": "A股小金属板块短线拉升，翔鹭钨业涨停，国城矿业、章源钨业、中钨高新、华阳新材、浩通科技等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260702103219395800",
           "source": "金十数据",
@@ -736,6 +751,17 @@
           "time_info": "14时15分"
         },
         {
+          "title": "美股存储概念股走低，闪迪跌近5%，希捷科技跌超2%，西部数据跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3128110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "福立旺：向特定对象发行A股股票申请获得通过",
           "url": "https://flash.jin10.com/detail/20260702153716903800",
           "source": "金十数据",
@@ -775,7 +801,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -863,7 +889,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1069,7 +1095,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -1138,6 +1164,20 @@
           "time_info": "20时34分"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时44分]"
+        },
+        {
           "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
           "url": "https://wallstreetcn.com/livenews/3127574",
           "source": "华尔街见闻-快讯",
@@ -1187,20 +1227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 04时32分]"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 22时43分]"
         },
         {
           "title": "特朗普又来：绝不让中国接管巴拿马运河",
@@ -1345,6 +1371,18 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时44分]"
+        },
+        {
           "title": "美国总统特朗普：股市频频创新高。",
           "url": "https://wallstreetcn.com/livenews/3127611",
           "source": "华尔街见闻-快讯",
@@ -1357,13 +1395,24 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "高盛(GS.N)：将为员工符合条件的子女的“特朗普账户”提供资金支持。",
+          "url": "https://flash.jin10.com/detail/20260702233114196800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "特朗普的顾问哈塞特批评鲍威尔继续留在美联储",
           "url": "https://flash.jin10.com/detail/20260702222615551800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1412,17 +1461,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "特朗普参加活动后直接拿走剪刀",
-          "url": "https://www.toutiao.com/trending/7656820359463518259/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
           "title": "特朗普首乘卡塔尔赠送的新“空军一号”",
           "url": "https://flash.jin10.com/detail/20260702153817085800",
           "source": "金十数据",
@@ -1432,6 +1470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：6月就业报告显示，过去一年，美国外籍出生劳动力规模大幅下降，这表明特朗普总统打击非法移民的行动正在重塑美国劳动力市场的构成。",
+          "url": "https://flash.jin10.com/detail/20260702232652515800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普：假新闻最近对我还算不错。当你表现得像我们现在这样好时，他们大概不得不变得客气一些。",
@@ -1528,7 +1577,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1558,7 +1607,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -1570,6 +1619,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 06时26分]"
+        },
+        {
+          "title": "美国至7月2日8周国债竞拍-得标利率 3.65%，前值3.66%。",
+          "url": "https://flash.jin10.com/detail/20260702233340752800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "日本40年期国债收益率上行4.5个基点至3.840%。 日本10年期国债收益率上行5个基点至2.750%。",
@@ -1594,6 +1654,28 @@
           "time_info": "12时32分"
         },
         {
+          "title": "美国至7月2日8周国债竞拍-投标倍数 2.7，前值2.79。",
+          "url": "https://flash.jin10.com/detail/20260702233329669800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国至7月2日8周国债竞拍-得标利率配置百分比 53.99%，前值70.5%。",
+          "url": "https://flash.jin10.com/detail/20260702233319685800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "日本20年期国债收益率上行11个基点至3.775%。",
           "url": "https://wallstreetcn.com/livenews/3127845",
           "source": "华尔街见闻-快讯",
@@ -1603,6 +1685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "美国至7月2日4周国债竞拍-投标倍数 2.72，前值2.74。",
+          "url": "https://flash.jin10.com/detail/20260702233208654800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.795%，投标倍数2.66。",
@@ -1652,6 +1745,17 @@
           "time_info": "21时32分"
         },
         {
+          "title": "美国至7月2日4周国债竞拍-得标利率配置百分比 46.77%，前值24.04%。",
+          "url": "https://flash.jin10.com/detail/20260702233208653800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "日本至6月26日当周买进外国债券 -2801亿日元，前值由1997亿日元修正为2021亿日元。",
           "url": "https://flash.jin10.com/detail/20260702075003128800",
           "source": "金十数据",
@@ -1661,6 +1765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时24分"
+        },
+        {
+          "title": "美国至7月2日4周国债竞拍-得标利率 3.605%，前值3.61%。",
+          "url": "https://flash.jin10.com/detail/20260702233208651800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "中国央行：6月公开市场国债买卖净投放100亿元。",
@@ -1787,7 +1902,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "数据显示，沙特阿拉伯在截至周三的六天内出口原油630万桶/日，原油出口量已接近战前水平。",
@@ -1922,6 +2037,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "消息人士：科威特6月原油产量平均为165万桶/日，5月为57.8万桶/日。科威特原油产量在6月最后10天一度升至190万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260702232901448800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "布伦特原油日内大跌3.00%，现报71.20美元/桶。",
@@ -2217,7 +2343,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美元指数1日上涨",
@@ -2288,6 +2414,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -2357,7 +2494,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
@@ -2389,11 +2526,23 @@
           "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            23
+            23,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时44分]"
+        },
+        {
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
+          "source": "知乎",
+          "ranks": [
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时43分"
+          "time_info": "23时44分"
         }
       ]
     }
