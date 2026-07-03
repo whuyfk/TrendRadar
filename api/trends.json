@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T08:23:01.094590+08:00",
-  "total_titles_processed": 801,
+  "generated_at": "2026-07-03T09:32:42.478458+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 08时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时32分]"
         },
         {
           "title": "市场消息：摩根士丹利(MS.N)将为员工子女开设的特朗普账户匹配1000美元的捐款。",
@@ -519,7 +520,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -552,7 +553,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -577,12 +578,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美国总统特朗普7月2日讲话要点总结",
+          "url": "https://wallstreetcn.com/livenews/3128321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -593,8 +605,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 08时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时32分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -618,8 +630,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 08时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时32分]"
         },
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -629,8 +641,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时22分 ~ 08时23分]"
+          "appearance_count": 3,
+          "time_info": "[08时22分 ~ 09时32分]"
         },
         {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
@@ -641,8 +653,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 08时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 09时32分]"
         },
         {
           "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。",
@@ -786,6 +798,28 @@
           "time_info": "[08时22分 ~ 08时23分]"
         },
         {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-07-03）",
+          "url": "https://flash.jin10.com/detail/20260703090658973800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-07-03）",
+          "url": "https://flash.jin10.com/detail/20260703090607660800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
           "url": "https://wallstreetcn.com/livenews/3128205",
           "source": "华尔街见闻-快讯",
@@ -797,6 +831,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
           "url": "https://wallstreetcn.com/livenews/3128216",
           "source": "华尔街见闻-快讯",
@@ -806,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "深交所公告，根据有关规定，港股通标的证券名单调入大金重工并自2026年7月3日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3128301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
@@ -888,7 +944,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国至6月26日当周外国央行持有美国国债 -110.64亿美元，前值56.56亿美元。",
@@ -927,6 +983,18 @@
           "time_info": "[00时32分 ~ 02时29分]"
         },
         {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3128288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时32分]"
+        },
+        {
           "title": "德国两年期国债收益率于非农日跌超1个基点，30年期德债收益率涨约4个基点",
           "url": "https://wallstreetcn.com/livenews/3128159",
           "source": "华尔街见闻-快讯",
@@ -951,15 +1019,15 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3128288",
+          "title": "日本10年期国债收益率升至2.81%，创1996年以来最高水平，上日的日本国债拍卖表现疲软。",
+          "url": "https://wallstreetcn.com/livenews/3128296",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时23分"
+          "time_info": "09时32分"
         },
         {
           "title": "美国至7月2日8周国债竞拍-得标利率 3.65%，前值3.66%。",
@@ -990,7 +1058,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时23分"
         },
@@ -1015,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "巴克莱：日本国债收益率曲线在多重逆风中趋陡",
+          "url": "https://flash.jin10.com/detail/20260703084709305800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
@@ -1219,11 +1298,12 @@
             7,
             5,
             4,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 08时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 09时32分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -1239,8 +1319,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时32分 ~ 08时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时32分 ~ 09时32分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -1303,7 +1383,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价较年内最高下跌近30%",
@@ -1315,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时22分 ~ 08时23分]"
+        },
+        {
+          "title": "金价暴力拉涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E6%8B%89%E6%B6%A8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
           "title": "银价波动影响企业利润，光伏行业借金融工具破解保供难题",
