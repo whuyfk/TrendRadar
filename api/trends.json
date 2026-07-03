@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-07-03T09:32:42.478458+08:00",
-  "total_titles_processed": 909,
-  "failed_sources": [],
+  "generated_at": "2026-07-03T11:01:44.947589+08:00",
+  "total_titles_processed": 1054,
+  "failed_sources": [
+    "cls-hot",
+    "weibo",
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -17,8 +21,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 09时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 11时01分]"
         },
         {
           "title": "市场消息：摩根士丹利(MS.N)将为员工子女开设的特朗普账户匹配1000美元的捐款。",
@@ -292,6 +296,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普发AI视频变身医生开可乐药方",
+          "url": "https://www.toutiao.com/trending/7657679186635030554/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时01分]"
+        },
+        {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "美国总统特朗普：我认为马斯克会将SpaceX(SPCX.O)股票捐赠给“特朗普账户”。",
@@ -586,15 +612,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "特朗普公开“劝捐”：看好马斯克捐赠SpaceX股权",
+          "url": "https://flash.jin10.com/detail/20260703100626191800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 30,
+      "match_count": 48,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -630,8 +667,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 09时32分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 11时01分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 10时59分]"
         },
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -641,20 +691,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时22分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时22分 ~ 10时59分]"
         },
         {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
+          "title": "港股机器人板块持续走强，埃斯顿(02715.HK)涨超23%，优必选(09880.HK)涨超10%，地平线机器人(09660.HK)、微创机器人(02252.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703103637489800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            5
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 09时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。",
@@ -787,6 +836,18 @@
           "time_info": "[04时27分 ~ 05时23分]"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
+        },
+        {
           "title": "美股存储概念股还在跌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%A6%82%E5%BF%B5%E8%82%A1%E8%BF%98%E5%9C%A8%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -798,13 +859,24 @@
           "time_info": "[08时22分 ~ 08时23分]"
         },
         {
+          "title": "A股创新药概念早盘冲高回落，通化金马跌停，新赣江、益诺思、双鹭药业、海思科、泽璟制药、三生国健等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703103310017800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-07-03）",
           "url": "https://flash.jin10.com/detail/20260703090658973800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -815,7 +887,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -831,15 +903,48 @@
           "time_info": "04时27分"
         },
         {
-          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
-          "url": "https://www.cls.cn/detail/2415987",
-          "source": "财联社热门",
+          "title": "A股电网设备板块震荡走强，华明装备涨停，金智科技、金冠电气、明阳电气、神马电力、思源电气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703102626704800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.36%，深成指涨0.85%，贵金属、机器人、军工、造纸等方向领涨，沪深京三市上涨个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3128374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股小金属板块震荡走弱，翔鹭钨业跌停，中钨高新、厦门钨业、东方钽业、章源钨业、金钼股份、贵研铂业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703102321607800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "11时01分"
+        },
+        {
+          "title": "创业板指涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3128371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
@@ -853,13 +958,24 @@
           "time_info": "05时23分"
         },
         {
+          "title": "美股今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260703102241826800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "深交所公告，根据有关规定，港股通标的证券名单调入大金重工并自2026年7月3日起生效。",
           "url": "https://wallstreetcn.com/livenews/3128301",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -886,6 +1002,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "港股快手(01024.HK)盘中转跌，早盘一度涨逾6%。",
+          "url": "https://flash.jin10.com/detail/20260703101920327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "美股存储芯片指数跌超7%，成分股全线溃败，闪迪盘中跌幅扩大至10%，泰瑞达、拉姆研究、应用材料、希捷科技、西部数据、Rambus、美光科技至多跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3128126",
           "source": "华尔街见闻-快讯",
@@ -906,6 +1033,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "A股环保板块持续走强，惠城环保涨停，清研环境、劲旅环境、侨银股份、ST京蓝、华骐环保、玉禾田等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703101836861800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
@@ -930,6 +1068,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "A股液冷服务器概念震荡拉升，飞龙股份涨停，申菱环境涨超10%，腾龙股份、强瑞技术、川环科技、南方泵业、英维克跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703101239152800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
           "title": "周四（7月2日），美股信息科技指数跌5.79%，报413.81点，本周累跌4.92%。 周四当天，成分股闪迪、泰瑞达、科磊、康宁公司、IREN、希捷科技、拉姆研究收跌14.13%-10.19%表现最差，西部数据、迈威尔科技/美满电子、高意公司Coherent、Lumentum、Ciena至少跌8.65%紧随其后，微软则涨1.62%，Adobe涨4.14%表现第四，埃森哲涨4.74%，苹果涨4.84%，FICO涨5.32%。 在标普科技板块，伟创力国际收跌10.86%，与闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究、西部数据等领跌，Tyler科技涨5.45%，与FICO、苹果、埃森哲、Adobe领涨。",
           "url": "https://wallstreetcn.com/livenews/3128252",
           "source": "华尔街见闻-快讯",
@@ -939,6 +1088,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "A股燃气轮机概念表现活跃，图南股份、隆达股份均涨超10%，万泽股份、杰瑞股份、常宝股份、东方电气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703100908300800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "恒生科技指数盘中涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3128350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股军工板块震荡走强，航发科技、甘化科工、铖昌科技、航天发展涨停，爱乐达、超捷股份涨超10%，理工导航、隆达股份、航天环宇、立航科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股创业板指涨逾1%，人形机器人、军工、黄金等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260703100647967800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股创新药概念持续反弹，石药景峰2连板，苑东生物、申联生物涨超10%，维康药业、石药创新、益方生物涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3128343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股贵金属板块再度拉升，赤峰黄金、招金黄金2连板，山金国际涨停，晓程科技涨超10%，四川黄金、西部黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股人形机器人板块持续走强，凯龙高科20CM涨停，埃斯顿、卧龙电驱等多股涨停，拓斯达、绿的谐波、长盛轴承、上纬新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703100554853800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "A股机器人概念股继续活跃，北纬科技、雷赛智能、首开股份竞价涨停，景兴纸业、中大力德、日盈电子、卧龙电驱跟涨，消息上，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。",
+          "url": "https://wallstreetcn.com/livenews/3128339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         }
       ]
     },
@@ -1025,7 +1262,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -1091,7 +1328,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         }
@@ -1283,6 +1520,56 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价较年内最高下跌近30%",
+          "url": "https://www.douyin.com/hot/2555818",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 08时23分]"
+        },
+        {
+          "title": "金价暴力拉涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E6%8B%89%E6%B6%A8%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "金十图示：2026年07月03日（周五）上海金早盘价为911.31元/克，较国际金价(911.57元/克)，低0.26元/克",
+          "url": "https://flash.jin10.com/detail/20260703102229667800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "银价波动影响企业利润，光伏行业借金融工具破解保供难题",
+          "url": "https://wallstreetcn.com/livenews/3128257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -1378,45 +1665,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价较年内最高下跌近30%",
-          "url": "https://www.douyin.com/hot/2555818",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时22分 ~ 08时23分]"
-        },
-        {
-          "title": "金价暴力拉涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E5%8A%9B%E6%8B%89%E6%B6%A8%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "银价波动影响企业利润，光伏行业借金融工具破解保供难题",
-          "url": "https://wallstreetcn.com/livenews/3128257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         }
       ]
     }
