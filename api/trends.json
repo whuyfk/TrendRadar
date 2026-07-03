@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T02:25:00.357655+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-04T03:29:22.659464+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时29分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时29分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时29分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -49,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 03时29分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -122,29 +123,53 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "巴西政府：数据显示，6月原油出口量为848万吨，上年同期为795万吨。",
           "url": "https://flash.jin10.com/detail/20260704020311102800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时29分]"
         },
         {
           "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
           "url": "https://wallstreetcn.com/livenews/3128808",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时29分]"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收跌0.16%，报438.30元人民币/桶。 沪金夜盘收涨0.81%，沪银收涨1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3128817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
+          "url": "https://flash.jin10.com/detail/20260704025342619800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时25分"
+          "time_info": "03时29分"
         },
         {
           "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
@@ -153,7 +178,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
         },
@@ -194,58 +219,84 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价本周涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3128818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
         {
           "title": "推动金价上涨的“神秘央行”存在吗",
           "url": "https://www.toutiao.com/trending/7658284084967247369/",
           "source": "今日头条",
           "ranks": [
             28,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 03时29分]"
         },
         {
           "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
           "url": "https://wallstreetcn.com/livenews/3128809",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时29分]"
         },
         {
           "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
           "url": "https://flash.jin10.com/detail/20260704012107426800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时29分]"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "恒生指数主连夜盘收跌0.20%，报23253点。 恒生科技指数主连夜盘收跌0.13%，报4492点。",
+          "url": "https://wallstreetcn.com/livenews/3128820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时29分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -256,19 +307,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 02时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 03时29分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时29分]"
         }
       ]
     },
@@ -282,11 +334,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时29分]"
         },
         {
           "title": "德国2/10年期国债收益率周五涨超3个基点",
@@ -294,11 +347,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时29分]"
         }
       ]
     },
@@ -312,11 +366,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时25分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时29分]"
         }
       ]
     }
