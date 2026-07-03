@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T01:29:41.947068+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-07-04T02:25:00.357655+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时25分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -26,8 +26,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时25分]"
+        },
+        {
+          "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3128798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时29分]"
+          "time_info": "[01时29分 ~ 02时25分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -52,24 +64,13 @@
           "time_info": "00时29分"
         },
         {
-          "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3128798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
           "url": "https://flash.jin10.com/detail/20260704003454888800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
         },
@@ -120,49 +121,42 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 3,
+      "keyword_group": "原油",
+      "match_count": 6,
       "titles": [
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
+          "title": "巴西政府：数据显示，6月原油出口量为848万吨，上年同期为795万吨。",
+          "url": "https://flash.jin10.com/detail/20260704020311102800",
+          "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时29分]"
-        },
-        {
-          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
-          "url": "https://wallstreetcn.com/articles/3776091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时29分]"
-        },
-        {
-          "title": "Meta股价因AI进展不及预期下跌",
-          "url": "https://www.douyin.com/hot/2556589",
-          "source": "抖音",
-          "ranks": [
-            19
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 3,
-      "titles": [
+          "time_info": "02时25分"
+        },
+        {
+          "title": "布伦特9月原油期货收涨0.32美元，涨幅超过0.44%，报72.12美元/桶，本周累计下跌0.66%。 中东Abu Dhabi Murban原油期货涨1.47%，报66.18美元/桶，本周累跌1.61%。",
+          "url": "https://wallstreetcn.com/livenews/3128808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "ICE布伦特原油9月期货结算价为每桶72.12美元。",
+          "url": "https://flash.jin10.com/detail/20260704011953341800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
         {
           "title": "价格清单显示，利比亚将7月份Es Sider官方石油销售价格（OSP）定在较即期布伦特原油价格贴水0.30美元/桶，创2025年6月份以来新低；6月份为溢价1.30美元/桶。 将Sharara的OSP定在溢价0.50美元/桶，之前为溢价1.50美元/桶。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3128771",
@@ -199,6 +193,86 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "推动金价上涨的“神秘央行”存在吗",
+          "url": "https://www.toutiao.com/trending/7658284084967247369/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 02时25分]"
+        },
+        {
+          "title": "摩根大通：预计黄金价格将在近期区间震荡，然后才会出现复苏。 预计2026年三季度均价4300美元/盎司，四季度料位4500美元。 维持长期看涨金价的立场不变，预计将在2027年进一步复苏。",
+          "url": "https://wallstreetcn.com/livenews/3128809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "摩根大通维持对黄金的长期看涨展望，并预计金价将在2027年进一步回升。",
+          "url": "https://flash.jin10.com/detail/20260704012107426800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时25分]"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时25分]"
+        },
+        {
+          "title": "Meta股价因AI进展不及预期下跌",
+          "url": "https://www.douyin.com/hot/2556589",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 国债",
       "match_count": 2,
       "titles": [
@@ -207,39 +281,24 @@
           "url": "https://wallstreetcn.com/livenews/3128800",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时25分]"
         },
         {
           "title": "德国2/10年期国债收益率周五涨超3个基点",
           "url": "https://wallstreetcn.com/livenews/3128797",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "推动金价上涨的“神秘央行”存在吗",
-          "url": "https://www.toutiao.com/trending/7658284084967247369/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时25分]"
         }
       ]
     },
@@ -252,11 +311,12 @@
           "url": "https://wallstreetcn.com/livenews/3128802",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 02时25分]"
         }
       ]
     }
