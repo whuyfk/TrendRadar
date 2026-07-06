@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:29:43.589842+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-07-06T20:17:26.107859+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
@@ -88,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 20时17分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
@@ -114,8 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 18时29分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 20时17分]"
         },
         {
           "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -323,6 +323,18 @@
           "time_info": "[08时21分 ~ 09时32分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
+          "url": "https://www.cls.cn/detail/2418067",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时17分]"
+        },
+        {
           "title": "今起，A股交易规则重要调整",
           "url": "https://flash.jin10.com/detail/20260706064257878800",
           "source": "金十数据",
@@ -368,6 +380,18 @@
           "time_info": "[16时28分 ~ 16时29分]"
         },
         {
+          "title": "A股医药煤炭板块大涨",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8C%BB%E8%8D%AF%E7%85%A4%E7%82%AD%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时17分]"
+        },
+        {
           "title": "专家：A股的结构性行情还会存在",
           "url": "https://www.toutiao.com/trending/7659089109314440747/",
           "source": "今日头条",
@@ -380,13 +404,24 @@
           "time_info": "[08时21分 ~ 09时32分]"
         },
         {
+          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
+        },
+        {
           "title": "摩根士丹利：美股资金将从芯片股转向超大规模企业股票",
           "url": "https://flash.jin10.com/detail/20260706180743923800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -411,17 +446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
-          "url": "https://www.cls.cn/detail/2418067",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "创业板指跳水翻绿，稍早一度涨超1%。",
@@ -567,17 +591,6 @@
           "time_info": "14时30分"
         },
         {
-          "title": "A股医药煤炭板块大涨",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8C%BB%E8%8D%AF%E7%85%A4%E7%82%AD%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "创业板指跌1%，此前一度涨超1%；深证成指跌0.62%，沪指跌0.14%，PCB产业链震荡走低。",
           "url": "https://flash.jin10.com/detail/20260706102025505800",
           "source": "金十数据",
@@ -595,7 +608,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -650,9 +663,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "SK海力士正式启动美股上市营销推介流程",
+          "url": "https://flash.jin10.com/detail/20260706192535279800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "恒指高开0.23%，报23404.61点；恒生科技指数涨0.55%。中芯国际涨2.9%，华虹宏力涨2.2%。",
@@ -746,8 +770,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时21分 ~ 20时17分]"
+        },
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
           "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
@@ -771,20 +809,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 09时32分]"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时21分 ~ 18时29分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -1112,7 +1136,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1145,9 +1169,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在很多事情上看法一致。 我与特朗普的关系“没问题”。 尚未确定访美日期。",
+          "url": "https://wallstreetcn.com/livenews/3129367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的对话是向美国领导人直接传达俄罗斯立场的良好机会。",
@@ -1156,7 +1191,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1178,7 +1213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1211,9 +1246,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "油价跌到70不是市场认输，是特朗普在抢筹码！",
+          "url": "https://flash.jin10.com/detail/20260706193101613800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         },
         {
           "title": "据华尔街日报：美国航空航天局（NASA）局长贾里德·艾萨克曼不顾美国联邦航空管理局（FAA）反对，驾驶复古战机参加华盛顿航展。艾萨克曼曾邀请美国财长贝森特、白宫办公厅副主任丹·斯卡维诺以及特朗普高级顾问克里斯·拉西维塔等白宫官员乘坐飞机，但这些安排最终被取消。",
@@ -1244,9 +1290,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在许多问题上意见一致。我与特朗普的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260706192506914800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时17分"
         }
       ]
     },
@@ -1474,7 +1531,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         }
