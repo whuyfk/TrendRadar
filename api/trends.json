@@ -1,11 +1,839 @@
 {
-  "generated_at": "2026-07-07T20:52:44.385774+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-07-07T21:41:54.993696+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 71,
+      "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时23分 ~ 21时41分]"
+        },
+        {
+          "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
+          "url": "https://news.ifeng.com/c/8uYByScLdvD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时51分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普：就红牌与国际足联主席通话",
+          "url": "https://www.toutiao.com/trending/7659176770528395327/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            2,
+            4,
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普插手世界杯红牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            10,
+            9,
+            7,
+            8,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 06时25分]"
+        },
+        {
+          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
+          "url": "https://www.cls.cn/detail/2417917",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时51分 ~ 07时23分]"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时05分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 01时52分]"
+        },
+        {
+          "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
+          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时23分 ~ 09时32分]"
+        },
+        {
+          "title": "美国总统特朗普：美国将解除对土耳其的CAATSA制裁。",
+          "url": "https://flash.jin10.com/detail/20260707211148896800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 19时58分]"
+        },
+        {
+          "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
+          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普亲自“指导”沃尔玛降价，多类商品下调，其他零售商被点名“跟进”",
+          "url": "https://flash.jin10.com/detail/20260707065618722800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲现在的情况大不相同了。",
+          "url": "https://flash.jin10.com/detail/20260707211108750800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "据Axios：内塔尼亚胡在北约峰会前请求特朗普约束埃尔多安。",
+          "url": "https://flash.jin10.com/detail/20260707031749377800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。",
+          "url": "https://wallstreetcn.com/livenews/3129565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：（回应特朗普）你以一个只有250年历史国家总统的身份使用类似言论，却声称要摧毁拥有数千年文明的伊朗。",
+          "url": "https://flash.jin10.com/detail/20260707031647626800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普：（谈到格陵兰岛）我们可以把所有驻军从欧洲撤出。",
+          "url": "https://flash.jin10.com/detail/20260707211029645800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 19时58分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：（回应特朗普）请尊重伊朗人民，否则我们将用另一种语言回应。",
+          "url": "https://flash.jin10.com/detail/20260707031531301800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普批评欧洲的移民和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260707211004824800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时09分 ~ 21时41分]"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
+          "url": "https://flash.jin10.com/detail/20260707045256832800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3129485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时52分]"
+        },
+        {
+          "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
+          "url": "https://flash.jin10.com/detail/20260707053241420800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
+          "url": "https://flash.jin10.com/detail/20260707012328575800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时35分]"
+        },
+        {
+          "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
+          "url": "https://flash.jin10.com/detail/20260707022859049800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时35分 ~ 03时32分]"
+        },
+        {
+          "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
+          "url": "https://www.zhihu.com/question/2057732608214004902",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 16时05分]"
+        },
+        {
+          "title": "意大利表示不再理会特朗普的挑衅",
+          "url": "https://wallstreetcn.com/livenews/3129962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 20时52分]"
+        },
+        {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 20时52分]"
+        },
+        {
+          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
+          "url": "https://www.cls.cn/detail/2418537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 14时22分]"
+        },
+        {
+          "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
+          "url": "https://wallstreetcn.com/livenews/3129494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 03时32分]"
+        },
+        {
+          "title": "古巴前领导人孙子：愿同特朗普谈判",
+          "url": "https://www.toutiao.com/trending/7659274358080143401/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时36分]"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
+          "url": "https://flash.jin10.com/detail/20260707044730846800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时25分]"
+        },
+        {
+          "title": "美国总统特朗普：沃尔玛将降低价格。",
+          "url": "https://flash.jin10.com/detail/20260707044646086800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 06时25分]"
+        },
+        {
+          "title": "内塔尼亚胡要求特朗普“管管”埃尔多安",
+          "url": "https://wallstreetcn.com/livenews/3129959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 20时52分]"
+        },
+        {
+          "title": "美国总统特朗普：丰田正在从墨西哥迁往美国德克萨斯州。",
+          "url": "https://wallstreetcn.com/livenews/3129994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时41分]"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时41分]"
+        },
+        {
+          "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
+          "url": "https://wallstreetcn.com/livenews/3129565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
+          "url": "https://www.zhihu.com/question/2057769216468415013",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        },
+        {
+          "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
+          "url": "https://wallstreetcn.com/livenews/3129489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 02时35分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
+          "url": "https://wallstreetcn.com/livenews/3129533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时36分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普到访前，北约送上“数百亿美元军火大单”作见面礼",
+          "url": "https://flash.jin10.com/detail/20260707140443934800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "特朗普称不理解红牌还要禁赛",
+          "url": "https://flash.jin10.com/detail/20260707031208857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
+          "url": "https://flash.jin10.com/detail/20260707193628336800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛应由美国控制。",
+          "url": "https://flash.jin10.com/detail/20260707210931406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国总统特朗普：格陵兰岛应由美国控制。",
+          "url": "https://wallstreetcn.com/livenews/3130019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国总统特朗普：（关于格陵兰岛）这对丹麦没有帮助。格陵兰岛对美国至关重要。",
+          "url": "https://flash.jin10.com/detail/20260707210927993800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国总统特朗普：意大利总理梅洛尼在伊朗问题上没有支持我们，导致关系恶化。",
+          "url": "https://flash.jin10.com/detail/20260707210848056800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普说比利时赢球有黑幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%AF%94%E5%88%A9%E6%97%B6%E8%B5%A2%E7%90%83%E6%9C%89%E9%BB%91%E5%B9%95%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国总统特朗普：我们将解除制裁。我们与新任叙利亚领导人关系良好。我们不想制裁朋友。",
+          "url": "https://flash.jin10.com/detail/20260707210552914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
+          "url": "https://flash.jin10.com/detail/20260707005154588800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "特朗普一句话点燃戴尔股价！白宫首次“敲开盘钟”，总统亲自喊话：去买戴尔电脑",
+          "url": "https://flash.jin10.com/detail/20260707073356883800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "美国总统特朗普：昨天与普京进行了长时间的交谈，之后又与泽连斯基进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260707210359563800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普：今天将和土耳其谈贸易、军事事宜。 土耳其比其他国家更忠诚。 （谈F-35和土耳其）将就此作出决定。 我们已对北约进行了投资，盟友应该愿意提供帮助。 我们对伊朗采取行动的时候，我是在考验盟友。 法国、德国和其他国家当时都拒绝了我们。 对与土耳其的关系没有任何担忧。 美国-土耳其关系可能比以往任何时候都好。",
+          "url": "https://wallstreetcn.com/livenews/3130010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
+          "url": "https://flash.jin10.com/detail/20260707014648139800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰战争）希望尽快解决。",
+          "url": "https://flash.jin10.com/detail/20260707210328376800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "消息人士：内塔尼亚胡要求特朗普阻止美国向土耳其出售可提升其空军实力的武器。",
+          "url": "https://flash.jin10.com/detail/20260707014319420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰战争）我认为俄乌双方都想达成协议。我认为我们将会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260707210323061800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普称赞土耳其总统埃尔多安。",
+          "url": "https://wallstreetcn.com/livenews/3130007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "美国总统特朗普：土耳其已帮助我们努力结束与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260707210144326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
+          "url": "https://wallstreetcn.com/livenews/3129611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
+          "title": "美国总统特朗普：土耳其从美国购买了飞机。",
+          "url": "https://flash.jin10.com/detail/20260707210006155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "美媒：内塔尼亚胡求特朗普“约束”埃尔多安",
+          "url": "https://flash.jin10.com/detail/20260707033319103800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "经济学家：中期选举后特朗普或加大海外军事行动，市场需警惕",
+          "url": "https://flash.jin10.com/detail/20260707112604602800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "市场消息：土耳其总统埃尔多安在安卡拉机场迎接美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260707191743674800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时58分"
+        },
+        {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "特朗普称解决俄乌冲突将“比人们认为的要快得多”",
+          "url": "https://wallstreetcn.com/livenews/3129450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -133,6 +961,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.09%，标普500指数跌0.22%，纳指跌0.6%。存储概念股延续跌势，西部数据跌超8%，闪迪、美光科技跌超6%；Rivian跌超12%，公司计划通过增发股票筹集资金。SpaceX跌1.7%，今日正式纳入纳斯达克100指数。",
+          "url": "https://wallstreetcn.com/livenews/3130024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "港股量化派(02685.HK)异动拉升，尾盘一度涨近70%，现涨幅回落至55%。",
           "url": "https://flash.jin10.com/detail/20260707154130611800",
           "source": "金十数据",
@@ -195,6 +1034,18 @@
           "time_info": "[03时32分 ~ 04时36分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 21时41分]"
+        },
+        {
           "title": "大豆基金收涨将近3.3%，与农产品ETF、新兴市场ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3129555",
           "source": "华尔街见闻-快讯",
@@ -233,17 +1084,6 @@
           "time_info": "[16时05分 ~ 18时10分]"
         },
         {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时52分]"
-        },
-        {
           "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
           "url": "https://wallstreetcn.com/livenews/3129570",
           "source": "华尔街见闻-快讯",
@@ -280,6 +1120,18 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
+          "title": "博主：下半年A股2件大事",
+          "url": "https://www.toutiao.com/trending/7659733914218401330/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时41分]"
+        },
+        {
           "title": "A股风格切换真要来了吗",
           "url": "https://www.toutiao.com/trending/7659365090797293065/",
           "source": "今日头条",
@@ -300,6 +1152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时05分"
+        },
+        {
+          "title": "A股“新船王”上半年预计大赚36亿元，同比暴增456% | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260707210958825800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "港股量化派尾盘一度涨近70%，现涨幅回落至55%。",
@@ -366,6 +1229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3130018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "恒指低开0.2%，报23568.49点；恒生科技指数跌0.37%。快手跌近6%，MINIMAX、携程、华虹宏力跌超2%。",
@@ -550,7 +1424,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -588,17 +1462,6 @@
           "time_info": "19时58分"
         },
         {
-          "title": "博主：下半年A股2件大事",
-          "url": "https://www.toutiao.com/trending/7659733914218401330/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "A股四大行盘中逆势拉升，中国银行涨超3%，建设银行、工商银行、农业银行均涨超1.5%。",
           "url": "https://wallstreetcn.com/livenews/3129793",
           "source": "华尔街见闻-快讯",
@@ -619,622 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 52,
-      "titles": [
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时23分 ~ 20时52分]"
         },
         {
-          "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
-          "url": "https://news.ifeng.com/c/8uYByScLdvD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普：就红牌与国际足联主席通话",
-          "url": "https://www.toutiao.com/trending/7659176770528395327/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            2,
-            4,
-            6,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普插手世界杯红牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            10,
-            9,
-            7,
-            8,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 06时25分]"
-        },
-        {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 07时23分]"
-        },
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时05分 ~ 20时52分]"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时52分]"
-        },
-        {
-          "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
-          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时23分 ~ 09时32分]"
-        },
-        {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时21分 ~ 19时58分]"
-        },
-        {
-          "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
-          "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普亲自“指导”沃尔玛降价，多类商品下调，其他零售商被点名“跟进”",
-          "url": "https://flash.jin10.com/detail/20260707065618722800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "据Axios：内塔尼亚胡在北约峰会前请求特朗普约束埃尔多安。",
-          "url": "https://flash.jin10.com/detail/20260707031749377800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "美国总统特朗普：沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。",
-          "url": "https://wallstreetcn.com/livenews/3129565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书：（回应特朗普）你以一个只有250年历史国家总统的身份使用类似言论，却声称要摧毁拥有数千年文明的伊朗。",
-          "url": "https://flash.jin10.com/detail/20260707031647626800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            27,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 19时58分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书：（回应特朗普）请尊重伊朗人民，否则我们将用另一种语言回应。",
-          "url": "https://flash.jin10.com/detail/20260707031531301800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
-          "url": "https://flash.jin10.com/detail/20260707045256832800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时23分]"
-        },
-        {
-          "title": "美国总统特朗普赞赏股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3129485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时52分]"
-        },
-        {
-          "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
-          "url": "https://flash.jin10.com/detail/20260707053241420800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "美国加州州长纽森：任何协助特朗普干预加州选举或计票的人都将面临刑事起诉。",
-          "url": "https://flash.jin10.com/detail/20260707012328575800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时35分]"
-        },
-        {
-          "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
-          "url": "https://flash.jin10.com/detail/20260707022859049800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时32分]"
-        },
-        {
-          "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
-          "url": "https://www.zhihu.com/question/2057732608214004902",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 16时05分]"
-        },
-        {
-          "title": "意大利表示不再理会特朗普的挑衅",
-          "url": "https://wallstreetcn.com/livenews/3129962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时52分]"
-        },
-        {
-          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时52分]"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时09分 ~ 20时52分]"
-        },
-        {
-          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
-          "url": "https://www.cls.cn/detail/2418537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时22分]"
-        },
-        {
-          "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
-          "url": "https://wallstreetcn.com/livenews/3129494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 03时32分]"
-        },
-        {
-          "title": "古巴前领导人孙子：愿同特朗普谈判",
-          "url": "https://www.toutiao.com/trending/7659274358080143401/",
+          "title": "郭一鸣：A股万亿缩量 变盘信号来了吗",
+          "url": "https://www.toutiao.com/trending/7659760549286120970/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时36分]"
-        },
-        {
-          "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
-          "url": "https://flash.jin10.com/detail/20260707044730846800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时25分]"
-        },
-        {
-          "title": "美国总统特朗普：沃尔玛将降低价格。",
-          "url": "https://flash.jin10.com/detail/20260707044646086800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时25分]"
-        },
-        {
-          "title": "内塔尼亚胡要求特朗普“管管”埃尔多安",
-          "url": "https://wallstreetcn.com/livenews/3129959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时52分]"
-        },
-        {
-          "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
-          "url": "https://wallstreetcn.com/livenews/3129565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时23分]"
-        },
-        {
-          "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
-          "url": "https://www.zhihu.com/question/2057769216468415013",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 14时22分]"
-        },
-        {
-          "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
-          "url": "https://wallstreetcn.com/livenews/3129489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时35分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
-          "url": "https://wallstreetcn.com/livenews/3129533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普到访前，北约送上“数百亿美元军火大单”作见面礼",
-          "url": "https://flash.jin10.com/detail/20260707140443934800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "特朗普称不理解红牌还要禁赛",
-          "url": "https://flash.jin10.com/detail/20260707031208857800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时32分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
-          "url": "https://flash.jin10.com/detail/20260707193628336800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "美国总统特朗普：丰田正在从墨西哥迁往美国德克萨斯州。",
-          "url": "https://wallstreetcn.com/livenews/3129994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "特朗普一通电话毁了美国队",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "特朗普说比利时赢球有黑幕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%AF%94%E5%88%A9%E6%97%B6%E8%B5%A2%E7%90%83%E6%9C%89%E9%BB%91%E5%B9%95%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
-          "url": "https://flash.jin10.com/detail/20260707005154588800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        },
-        {
-          "title": "特朗普一句话点燃戴尔股价！白宫首次“敲开盘钟”，总统亲自喊话：去买戴尔电脑",
-          "url": "https://flash.jin10.com/detail/20260707073356883800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "美国众议院议长约翰逊：随着民主党无视、否认甚至助长欺诈，共和党正在与特朗普总统合作，根除腐败蓝州中的浪费、欺诈和滥用，确保纳税人的钱不被滥用。",
-          "url": "https://flash.jin10.com/detail/20260707014648139800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "消息人士：内塔尼亚胡要求特朗普阻止美国向土耳其出售可提升其空军实力的武器。",
-          "url": "https://flash.jin10.com/detail/20260707014319420800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
-          "url": "https://wallstreetcn.com/livenews/3129611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时23分"
-        },
-        {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美媒：内塔尼亚胡求特朗普“约束”埃尔多安",
-          "url": "https://flash.jin10.com/detail/20260707033319103800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时36分"
-        },
-        {
-          "title": "经济学家：中期选举后特朗普或加大海外军事行动，市场需警惕",
-          "url": "https://flash.jin10.com/detail/20260707112604602800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "市场消息：土耳其总统埃尔多安在安卡拉机场迎接美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260707191743674800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "特朗普称解决俄乌冲突将“比人们认为的要快得多”",
-          "url": "https://wallstreetcn.com/livenews/3129450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "21时41分"
         }
       ]
     },
@@ -1354,7 +1612,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1549,7 +1807,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "WTI 8月原油期货收跌0.14美元，跌幅0.20报68.55美元/桶。 NYMEX 8月天然气期货收报3.2450美元/百万英热单位。 NYMEX 8月汽油期货收报3.0033美元/加仑，NYMEX 8月取暖油期货收报3.2984美元/加仑。",
@@ -1613,6 +1871,17 @@
           "time_info": "[04时36分 ~ 05时31分]"
         },
         {
+          "title": "原油价格上涨至盘中高点，WTI原油价格接近每桶70美元。",
+          "url": "https://wallstreetcn.com/livenews/3130021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        },
+        {
           "title": "WTI原油日内涨超1.00%，现报69.56美元/桶。",
           "url": "https://flash.jin10.com/detail/20260707135234142800",
           "source": "金十数据",
@@ -1650,8 +1919,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时27分 ~ 20时52分]"
+          "appearance_count": 9,
+          "time_info": "[12时27分 ~ 21时41分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -1680,26 +1949,16 @@
           "time_info": "[12时27分 ~ 14时22分]"
         },
         {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时09分 ~ 18时10分]"
-        },
-        {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 21时41分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -1710,14 +1969,25 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 21时41分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时58分 ~ 20时52分]"
+          "time_info": "[18时09分 ~ 18时10分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美元指数6日微涨",
@@ -1770,6 +2040,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时36分 ~ 06时25分]"
+        },
+        {
+          "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
+          "url": "https://www.cls.cn/detail/2419496",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         }
       ]
     },
