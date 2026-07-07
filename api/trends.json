@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T05:29:09.669093+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-08T06:23:39.442217+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -27,30 +27,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "特朗普：对北约非常失望",
           "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 06时23分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -62,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普偶尔存在分歧。",
@@ -157,7 +159,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -209,7 +211,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "WTI 8月原油期货收涨1.89美元，涨幅2.76%，报70.44美元/桶。 中东Abu Dhabi Murban原油期货涨3.34%，报68.91美元/桶。 NYMEX 8月天然气期货收报3.2650美元/百万英热单位。 NYMEX 8月汽油期货收报2.9539美元/加仑，NYMEX 8月取暖油期货收报3.3017美元/加仑。",
@@ -234,15 +236,26 @@
           "time_info": "03时32分"
         },
         {
-          "title": "行业周报：美国上周API原油库存减少大约40万桶",
-          "url": "https://wallstreetcn.com/livenews/3130173",
+          "title": "美国原油涨约3%，美军空袭伊朗",
+          "url": "https://wallstreetcn.com/livenews/3130198",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "WTI原油周三高开0.3%，此前美军称开始对伊朗发动一系列打击。",
+          "url": "https://flash.jin10.com/detail/20260708060100195800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时23分"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报70.61美元/桶。",
@@ -256,6 +269,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时38分 ~ 03时32分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存减少大约40万桶",
+          "url": "https://wallstreetcn.com/livenews/3130173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时23分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3130168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时23分]"
         },
         {
           "title": "美财政部撤销伊朗原油销售许可证",
@@ -286,18 +323,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3130168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -308,7 +334,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -319,7 +345,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -330,7 +356,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -382,7 +408,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -390,11 +416,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -404,8 +431,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -415,8 +442,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 06时23分]"
         },
         {
           "title": "美股",
@@ -429,8 +456,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "A股失守4000点关口 后市如何演绎",
@@ -445,6 +472,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
+          "url": "https://wallstreetcn.com/livenews/3130197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
@@ -475,22 +513,35 @@
           "url": "https://wallstreetcn.com/livenews/3130167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时23分]"
         },
         {
           "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
           "url": "https://wallstreetcn.com/livenews/3130166",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时29分 ~ 06时23分]"
+        },
+        {
+          "title": "美股三大股指期货周三小幅低开。",
+          "url": "https://flash.jin10.com/detail/20260708060036398800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时29分"
+          "time_info": "06时23分"
         },
         {
           "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
@@ -499,7 +550,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -606,7 +657,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
@@ -626,8 +677,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -637,8 +688,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -690,8 +741,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时23分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
@@ -713,7 +764,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         },
@@ -799,7 +850,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
         }
