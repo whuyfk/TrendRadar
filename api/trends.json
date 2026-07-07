@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T02:38:01.786051+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-08T03:32:38.131087+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 03时32分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -61,8 +61,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：与特朗普偶尔存在分歧。",
@@ -101,6 +101,19 @@
           "time_info": "[00时46分 ~ 01时38分]"
         },
         {
+          "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
+          "url": "https://wallstreetcn.com/livenews/3130112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时32分]"
+        },
+        {
           "title": "布伦特原油日内涨幅达3.0%，报74.15美元/桶。此前，特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期。",
           "url": "https://wallstreetcn.com/livenews/3130095",
           "source": "华尔街见闻-快讯",
@@ -137,18 +150,6 @@
           "time_info": "[00时46分 ~ 01时38分]"
         },
         {
-          "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
-          "url": "https://wallstreetcn.com/livenews/3130112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时38分]"
-        },
-        {
           "title": "特朗普：对北约在美对伊军事行动中表现感到“失望”",
           "url": "https://wallstreetcn.com/livenews/3130086",
           "source": "华尔街见闻-快讯",
@@ -166,7 +167,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -195,246 +196,65 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "A股失守4000点关口 后市如何演绎",
-          "url": "https://www.toutiao.com/trending/7659771141031988799/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "跌个不停！美股半导体连跌第四天",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002522705800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时38分]"
-        },
-        {
-          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260708002519398800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时38分]"
-        },
-        {
-          "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
-          "url": "https://wallstreetcn.com/livenews/3130079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 国债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国3年期国债收益率在3年期国债竞拍后小幅收窄涨幅，最新上涨2.5个基点，报4.173%。",
-          "url": "https://flash.jin10.com/detail/20260708010459357800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国至7月7日3年期国债竞拍-得标利率 4.179%，前值4.19%。",
-          "url": "https://flash.jin10.com/detail/20260708010207274800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国三年期国债发行一级交易商中标比例创历史新低",
-          "url": "https://wallstreetcn.com/livenews/3130116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时38分]"
-        },
-        {
-          "title": "美国至7月7日3年期国债竞拍-投标倍数 2.6，前值2.64。",
-          "url": "https://flash.jin10.com/detail/20260708010207275800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国至7月7日3年期国债竞拍-得标利率配置百分比 2.17%，前值42.92%。",
-          "url": "https://flash.jin10.com/detail/20260708010207267800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.74。 拍卖52周期国债，得标利率3.860%，投标倍数3.14。",
-          "url": "https://wallstreetcn.com/livenews/3130082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
-        },
-        {
-          "title": "DeepSeek被曝自研芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 00时46分]"
-        },
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://www.toutiao.com/trending/7658530038409969718/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "WTI 8月原油期货收涨1.89美元，涨幅2.76%，报70.44美元/桶。 中东Abu Dhabi Murban原油期货涨3.34%，报68.91美元/桶。 NYMEX 8月天然气期货收报3.2650美元/百万英热单位。 NYMEX 8月汽油期货收报2.9539美元/加仑，NYMEX 8月取暖油期货收报3.3017美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3130137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "上期所原油期货2608合约夜盘收涨2.82%，报451.80元人民币/桶。 沪金夜盘收涨0.08%，沪银收跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3130136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
         {
           "title": "WTI原油日内涨幅达3.0%，报70.61美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3130124",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时32分]"
+        },
+        {
+          "title": "美财政部撤销伊朗原油销售许可证",
+          "url": "https://flash.jin10.com/detail/20260708025712912800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "WTI原油期货日内大涨4.00%，现报71.30美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260708025604905800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
         },
         {
           "title": "EIA：大多数原油产量将在今年年底前恢复至战前水平",
@@ -483,6 +303,246 @@
       ]
     },
     {
+      "keyword_group": "美债 国债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美国3年期国债收益率在3年期国债竞拍后小幅收窄涨幅，最新上涨2.5个基点，报4.173%。",
+          "url": "https://flash.jin10.com/detail/20260708010459357800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国至7月7日3年期国债竞拍-得标利率 4.179%，前值4.19%。",
+          "url": "https://flash.jin10.com/detail/20260708010207274800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国三年期国债发行一级交易商中标比例创历史新低",
+          "url": "https://wallstreetcn.com/livenews/3130116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时32分]"
+        },
+        {
+          "title": "美国至7月7日3年期国债竞拍-投标倍数 2.6，前值2.64。",
+          "url": "https://flash.jin10.com/detail/20260708010207275800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国至7月7日3年期国债竞拍-得标利率配置百分比 2.17%，前值42.92%。",
+          "url": "https://flash.jin10.com/detail/20260708010207267800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国国债收益率继续走高，10年期美债收益率升至四周新高，最新上涨5.4个基点，报4.533%。",
+          "url": "https://flash.jin10.com/detail/20260708025648666800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时32分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.74。 拍卖52周期国债，得标利率3.860%，投标倍数3.14。",
+          "url": "https://wallstreetcn.com/livenews/3130082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "A股失守4000点关口 后市如何演绎",
+          "url": "https://www.toutiao.com/trending/7659771141031988799/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "跌个不停！美股半导体连跌第四天",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 02时38分]"
+        },
+        {
+          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260708002522705800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时38分]"
+        },
+        {
+          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260708002519398800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 01时38分]"
+        },
+        {
+          "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
+          "url": "https://wallstreetcn.com/livenews/3130079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
+        },
+        {
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 00时46分]"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -493,11 +553,12 @@
           "ranks": [
             4,
             18,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 03时32分]"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
@@ -537,8 +598,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 03时32分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
@@ -546,11 +607,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时38分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 03时32分]"
         },
         {
           "title": "恒天然：7月7日全球乳品贸易（GDT）拍卖价格指数下降4.9%，奶粉各合同期FAS拍卖均价3,793美元/吨。 批发奶粉价格指数下降4.4%，报3,425美元/吨。",
@@ -576,11 +638,12 @@
           "ranks": [
             1,
             14,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 03时32分]"
         }
       ]
     }
