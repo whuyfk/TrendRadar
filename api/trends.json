@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T07:25:46.784472+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-07-10T08:23:15.342417+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时23分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -52,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时23分]"
         },
         {
           "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
@@ -64,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时23分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -90,6 +91,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时28分 ~ 07时25分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 08时23分]"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 08时23分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
@@ -165,6 +188,29 @@
           "time_info": "[03时31分 ~ 04时32分]"
         },
         {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 08时23分]"
+        },
+        {
+          "title": "美股收盘：纳指涨超1% 存储光通信领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%B6%851%25+%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 08时23分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20260710040126846800",
           "source": "金十数据",
@@ -200,17 +246,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
           "title": "A股反弹能否持续",
           "url": "https://www.toutiao.com/trending/7660518240442912306/",
           "source": "今日头条",
@@ -244,15 +279,15 @@
           "time_info": "01时35分"
         },
         {
-          "title": "美股收盘：纳指涨超1% 存储光通信领涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%B6%851%25+%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E9%A2%86%E6%B6%A8",
-          "source": "百度热搜",
+          "title": "华泰证券：A股有色超跌或存修复空间",
+          "url": "https://flash.jin10.com/detail/20260710072734865800",
+          "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时25分"
+          "time_info": "08时23分"
         },
         {
           "title": "周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 “超大”市值科技股指数涨2.15%，报442.37点。 美股存储芯片与硬件供应链指数涨5.11%，报227.13点，大部分时间持稳于232点、02:30开始持续回吐涨幅。 美股超大规模云服务商（Hyperscalers）涨1.24%，报盘93.47点，走势与七巨头指数相仿。 信息科技指数涨3.35%，报426.06点，走势与存储芯片指数类似。 人工智能（AI）赢家指数涨3.14%，报418.79点。 AI软件先驱指数涨1.48%，报112.09点。",
@@ -269,7 +304,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -291,30 +326,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时23分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
           "url": "https://news.ifeng.com/c/8ucxOCMpd4c",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时23分]"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 08时23分]"
         },
         {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
@@ -412,6 +449,28 @@
           "time_info": "[04时32分 ~ 05时28分]"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 08时23分]"
+        },
+        {
+          "title": "据路透：特朗普刚刚解雇了剩余的三名联邦选举委员会成员。",
+          "url": "https://flash.jin10.com/detail/20260710075316439800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
+        {
           "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普进行了通话，达成继续在各个领域协调的共识。",
           "url": "https://flash.jin10.com/detail/20260710035516714800",
           "source": "金十数据",
@@ -473,7 +532,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -503,8 +562,19 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3131598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时23分"
+        },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率5.058%（6月11日为5.020%），投标倍数2.44（前次为2.30）。",
           "url": "https://wallstreetcn.com/livenews/3131485",
@@ -701,41 +771,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "OpenAI高管Fidji Simo将卸任",
-          "url": "https://flash.jin10.com/detail/20260710070918440800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
-          "url": "https://flash.jin10.com/detail/20260710070247898800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "OpenAI高管Fidji Simo将离职，未来将成为该公司兼职顾问。 Simo周四向OpenAI的员工们表达了辞职意愿。 此前，Simo接受的医学治疗时间已经被延长。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3131583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
         {
           "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
           "url": "https://flash.jin10.com/detail/20260709233707293800",
@@ -795,6 +832,53 @@
           "time_info": "[04时32分 ~ 05时28分]"
         },
         {
+          "title": "OpenAI高管Fidji Simo将卸任",
+          "url": "https://flash.jin10.com/detail/20260710070918440800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时23分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
+          "url": "https://flash.jin10.com/detail/20260710070247898800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时23分]"
+        },
+        {
+          "title": "OpenAI高管Fidji Simo将离职，未来将成为该公司兼职顾问。 Simo周四向OpenAI的员工们表达了辞职意愿。 此前，Simo接受的医学治疗时间已经被延长。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3131583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时23分]"
+        },
+        {
+          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
+          "url": "https://www.zhihu.com/question/2058734226548250080",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 08时23分]"
+        },
+        {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
           "url": "https://flash.jin10.com/detail/20260710040229258800",
           "source": "金十数据",
@@ -843,7 +927,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国中央司令部：伊朗并不控制霍尔木兹海峡。自5月初以来，美军一直协助保障该重要国际贸易通道的航行安全，已有超过800艘商船以及3.8亿桶原油成功通过该海峡。",
@@ -868,6 +952,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时25分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 08时23分]"
         },
         {
           "title": "巴西维持12%原油出口税，将于30天内重新评估该措施",
