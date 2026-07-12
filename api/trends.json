@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T19:24:28.517399+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-07-12T20:15:46.660628+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -80,11 +80,12 @@
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 20时15分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -100,6 +101,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "两党住房法案未经特朗普签署自动生效",
@@ -233,7 +245,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -269,8 +281,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 20时15分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -284,8 +296,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时15分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时15分 ~ 20时15分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -327,17 +339,6 @@
           "time_info": "[04时16分 ~ 08时18分]"
         },
         {
-          "title": "中信证券：港股扰动趋缓卖空料将收敛 短期推荐创新药、航空、机器人及工业金属",
-          "url": "https://flash.jin10.com/detail/20260712190843394800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "A股下周怎么走",
           "url": "https://www.toutiao.com/trending/7661256578196049450/",
           "source": "今日头条",
@@ -351,6 +352,18 @@
           "time_info": "[00时15分 ~ 03时24分]"
         },
         {
+          "title": "中信证券：港股扰动趋缓卖空料将收敛 短期推荐创新药、航空、机器人及工业金属",
+          "url": "https://flash.jin10.com/detail/20260712190843394800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时15分]"
+        },
+        {
           "title": "A股大盘为何总是在4000点徘徊",
           "url": "https://www.toutiao.com/trending/7661412974749289993/",
           "source": "今日头条",
@@ -361,6 +374,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 10时59分]"
+        },
+        {
+          "title": "下周A股机会来了吗",
+          "url": "https://www.toutiao.com/trending/7660731729879220266/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时15分"
         },
         {
           "title": "A股一周熊股出炉：最熊股跌超84%",
@@ -385,11 +409,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时41分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时15分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
