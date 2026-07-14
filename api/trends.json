@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-14T20:25:13.239593+08:00",
-  "total_titles_processed": 2004,
-  "failed_sources": [],
+  "generated_at": "2026-07-14T21:32:21.983091+08:00",
+  "total_titles_processed": 2083,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 87,
+      "match_count": 88,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -17,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时16分 ~ 20时25分]"
+          "appearance_count": 21,
+          "time_info": "[08时16分 ~ 21时32分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -58,6 +60,19 @@
           "time_info": "[00时46分 ~ 05时18分]"
         },
         {
+          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
+          "url": "https://www.cls.cn/detail/2425963",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 21时32分]"
+        },
+        {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
           "url": "https://wallstreetcn.com/articles/3776816",
           "source": "华尔街见闻",
@@ -67,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时16分 ~ 20时25分]"
+          "appearance_count": 21,
+          "time_info": "[08时16分 ~ 21时32分]"
         },
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -92,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时45分 ~ 20时25分]"
+          "appearance_count": 13,
+          "time_info": "[13时45分 ~ 21时32分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -105,19 +120,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时46分 ~ 07时18分]"
-        },
-        {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 20时25分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -164,6 +166,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "美国通胀降温，美股期指拉升，IBM盘前跌超22%，原油涨超4%，黄金涨近2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时32分]"
+        },
+        {
+          "title": "A股暴力拉升原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 21时32分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -238,7 +264,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -287,16 +313,17 @@
           "time_info": "10时59分"
         },
         {
-          "title": "A股暴力拉升原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2425939",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            16
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 20时25分]"
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 21时32分]"
         },
         {
           "title": "A股今日大跌原因",
@@ -346,18 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 14时40分]"
-        },
-        {
-          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2425939",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 20时25分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.18%，报24158点。 恒生科技指数主连夜盘收跌0.26%，报4671点。",
@@ -634,7 +649,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -711,7 +726,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -898,7 +913,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时25分"
         },
@@ -1005,7 +1020,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -1018,8 +1033,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时17分 ~ 20时25分]"
+          "appearance_count": 23,
+          "time_info": "[07时17分 ~ 21时32分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -1031,8 +1046,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 20时25分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 21时32分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -1045,8 +1060,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时46分 ~ 20时25分]"
+          "appearance_count": 31,
+          "time_info": "[00时46分 ~ 21时32分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -1082,11 +1097,12 @@
             12,
             11,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时46分 ~ 20时25分]"
+          "appearance_count": 31,
+          "time_info": "[00时46分 ~ 21时32分]"
         },
         {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
@@ -1102,6 +1118,21 @@
           "time_info": "[10时58分 ~ 18时32分]"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普点名以色列和海湾5国",
           "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
           "source": "凤凰网",
@@ -1111,20 +1142,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 09时32分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时41分 ~ 20时25分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -1331,6 +1348,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时29分 ~ 20时25分]"
+        },
+        {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
@@ -1593,6 +1621,17 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时32分]"
+        },
+        {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
           "url": "https://flash.jin10.com/detail/20260714020323664800",
           "source": "金十数据",
@@ -1827,7 +1866,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "地缘风险溢价再起，原油领涨能化板块",
@@ -2048,6 +2087,17 @@
           "time_info": "08时17分"
         },
         {
+          "title": "夜盘开盘，国内期货主力合约涨跌不一，低硫燃料油（LU）、SC原油涨超4%，苯乙烯涨超3%。下跌方面，棉花、棉纱小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260714210005029800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "商品期货收盘，原油主力合约涨超9%，燃料油涨超8%，LU燃油涨超7%，苯乙烯、丙烯、塑料涨超6%，集运欧线、沥青、纯苯、乙二醇、液化气、聚丙烯涨超5%。鸡蛋、多晶硅、沪银、沪金、纯碱跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3133385",
           "source": "华尔街见闻-快讯",
@@ -2161,7 +2211,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -2173,8 +2223,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 20时25分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 21时32分]"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -2460,6 +2510,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "CPI数据低于预期，美联储7月加息押注降至20%，美债价格大涨",
+          "url": "https://flash.jin10.com/detail/20260714205249167800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "日本30年期国债收益率下行5个基点至3.855%。",
           "url": "https://wallstreetcn.com/livenews/3133227",
           "source": "华尔街见闻-快讯",
@@ -2474,7 +2535,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -2510,8 +2571,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 21时32分]"
+        },
+        {
+          "title": "金价反弹全吐，CPI+沃什会不会再补一刀？",
+          "url": "https://flash.jin10.com/detail/20260714210149706800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金十图示：2026年07月14日（周二）上海金午盘价为878.9元/克，较国际金价（约为877.31元/克），高1.59元/克。",
@@ -2539,11 +2611,12 @@
             8,
             5,
             4,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 20时25分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 21时32分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -2625,22 +2698,24 @@
             10,
             9,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时58分 ~ 20时25分]"
+          "appearance_count": 17,
+          "time_info": "[10时58分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek梁文锋成AI公司新首富",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 20时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 21时32分]"
         }
       ]
     },
