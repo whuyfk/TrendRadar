@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-14T21:32:21.983091+08:00",
-  "total_titles_processed": 2083,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-07-14T22:33:52.550795+08:00",
+  "total_titles_processed": 2200,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 88,
+      "match_count": 95,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -19,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时16分 ~ 21时32分]"
+          "appearance_count": 22,
+          "time_info": "[08时16分 ~ 22时33分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -49,17 +47,6 @@
           "time_info": "[00时46分 ~ 08时17分]"
         },
         {
-          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 05时18分]"
-        },
-        {
           "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
           "url": "https://www.cls.cn/detail/2425963",
           "source": "财联社热门",
@@ -69,8 +56,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时33分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[17时33分 ~ 22时33分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 05时18分]"
         },
         {
           "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
@@ -107,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时45分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[13时45分 ~ 22时33分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -225,6 +223,20 @@
           "time_info": "19时29分"
         },
         {
+          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2425939",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 22时33分]"
+        },
+        {
           "title": "A股午评：三大股指冲高回落 上证综指跌破3900",
           "url": "https://flash.jin10.com/detail/20260714113352155800",
           "source": "金十数据",
@@ -269,6 +281,17 @@
           "time_info": "20时25分"
         },
         {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "港股有色股午后触底反弹，中国铝业(02600.HK)涨超9.5%，中国宏桥(01378.HK)、江西铜业股份(00358.HK)涨超7%，五矿资源(01208.HK)、灵宝黄金(03330.HK)、洛阳钼业(03993.HK)、紫金黄金国际(02259.HK)均涨超6%。",
           "url": "https://flash.jin10.com/detail/20260714141145629800",
           "source": "金十数据",
@@ -311,19 +334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
-        },
-        {
-          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2425939",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 21时32分]"
         },
         {
           "title": "A股今日大跌原因",
@@ -698,6 +708,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近3%，全球科技股指数ETF涨超1%，医疗业ETF跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3133693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "创业板指涨超3%，沪指涨0.61%，深成指涨2.05%，全市场上涨个股超4100只。",
           "url": "https://flash.jin10.com/detail/20260714131337131800",
           "source": "金十数据",
@@ -784,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.6%，存储芯片股大涨，SK海力士涨约12%，IBM跌约23%",
+          "url": "https://wallstreetcn.com/livenews/3133686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "香港恒生指数7月14日（周二）开盘下跌32.2点，跌幅0.13%，报24181.52点；<br/>香港恒生科技指数7月14日（周二）开盘下跌11.82点，跌幅0.25%，报4664.61点；<br/>国企指数7月14日（周二）开盘下跌0.81点，跌幅0.01%，报8065.16点；<br/>红筹指数7月14日（周二）开盘上涨3.32点，涨幅0.09%，报3886.36点。",
@@ -885,6 +917,17 @@
           "time_info": "19时29分"
         },
         {
+          "title": "美股开盘：AI硬件股上涨 IBM跌22%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9AAI%E7%A1%AC%E4%BB%B6%E8%82%A1%E4%B8%8A%E6%B6%A8+IBM%E8%B7%8C22%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
           "url": "https://flash.jin10.com/detail/20260714015018155800",
           "source": "金十数据",
@@ -951,6 +994,17 @@
           "time_info": "19时29分"
         },
         {
+          "title": "美股芯片股在早盘交易中上涨，费城半导体指数上涨3.1%，iShares半导体ETF上涨3.1%。AMD(AMD.O)上涨3.6%，美光科技(MU.O)上涨3.5%，西部数据(WDC.O)上涨4.2%，迈威尔科技集团(MRVL.O)上涨4.2%。",
+          "url": "https://flash.jin10.com/detail/20260714214857241800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "A股中际旭创成交额达300亿元，现涨6.06%。",
           "url": "https://flash.jin10.com/detail/20260714130812052800",
           "source": "金十数据",
@@ -973,6 +1027,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260714214803168800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "沪指涨幅扩大至1%，深证成指涨2.33%，创业板指涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3133377",
           "source": "华尔街见闻-快讯",
@@ -982,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3133674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "沪指翻红，创业板指涨幅扩大至1.3%。",
@@ -1020,7 +1096,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 78,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -1033,8 +1109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时17分 ~ 21时32分]"
+          "appearance_count": 24,
+          "time_info": "[07时17分 ~ 22时33分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -1043,11 +1119,12 @@
           "ranks": [
             12,
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 22时33分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -1076,17 +1153,6 @@
           "time_info": "[10时58分 ~ 14时40分]"
         },
         {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时46分 ~ 08时17分]"
-        },
-        {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
           "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
           "source": "澎湃新闻",
@@ -1098,11 +1164,39 @@
             11,
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时46分 ~ 21时32分]"
+          "appearance_count": 32,
+          "time_info": "[00时46分 ~ 22时33分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 08时17分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时41分 ~ 22时33分]"
         },
         {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
@@ -1116,21 +1210,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时58分 ~ 18时32分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时41分 ~ 21时32分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -1201,6 +1280,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "白宫顾问哈塞特被问及对霍尔木兹海峡过行货物收费20%，称：这是（美国总统特朗普的）一个想法。",
+          "url": "https://wallstreetcn.com/livenews/3133699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
@@ -1338,6 +1428,30 @@
           "time_info": "[08时16分 ~ 09时32分]"
         },
         {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时33分]"
+        },
+        {
+          "title": "特朗普转变态度力挺乌克兰有何意图",
+          "url": "https://www.toutiao.com/trending/7662341237323599366/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时30分 ~ 22时33分]"
+        },
+        {
           "title": "曝特朗普支持沙特对胡塞采取军事行动",
           "url": "https://www.toutiao.com/trending/7662172518904365062/",
           "source": "今日头条",
@@ -1348,17 +1462,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时29分 ~ 20时25分]"
-        },
-        {
-          "title": "如何看特朗普在霍尔木兹收费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
@@ -1621,17 +1724,6 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "特朗普转变态度力挺乌克兰有何意图",
-          "url": "https://www.toutiao.com/trending/7662341237323599366/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时32分]"
-        },
-        {
           "title": "伊朗外长：保障海峡通行该收费，但特朗普收20%就太高了",
           "url": "https://flash.jin10.com/detail/20260714020323664800",
           "source": "金十数据",
@@ -1643,6 +1735,28 @@
           "time_info": "02时31分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：（在被问及伊拉克问题时）特朗普可能讨论银行体系。",
+          "url": "https://flash.jin10.com/detail/20260714215834047800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "白宫顾问哈塞特：我们（特朗普政府）尊重美联储的独立性。",
+          "url": "https://wallstreetcn.com/livenews/3133698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "联合国航运机构发言人：联合国航运机构正在等待关于美国总统特朗普提到的美国将对通过霍尔木兹海峡的货物收取20%费用的进一步细节。",
           "url": "https://flash.jin10.com/detail/20260714000537543800",
           "source": "金十数据",
@@ -1652,6 +1766,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "白宫顾问哈塞特被问及伊拉克问题，称：美国总统特朗普可能会讨论（伊拉克的）银行系统。",
+          "url": "https://wallstreetcn.com/livenews/3133697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈及特朗普征收20%货船费用）这的确是一个想法。",
+          "url": "https://flash.jin10.com/detail/20260714215806960800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "分析人士：特朗普对霍尔木兹海峡收取20%通行费可能使航运成本翻倍",
@@ -1696,6 +1832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：这是我们近六年来看到的最好的通胀报告。 能源价格已经大幅下降。 将汽油价格降至每加仑3美元是现实的。 当前物价波动由伊朗局势引发。 我们在CPI数据中看到了特朗普政策取得成效的迹象。 有信心让石油从海湾流出，以稳定市场。 核心通胀势头正朝美联储目标靠近。",
+          "url": "https://wallstreetcn.com/livenews/3133694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普称中东盟友应支付保护费",
@@ -1797,6 +1944,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：我们从CPI数据中看到了特朗普政策取得成效的迹象。",
+          "url": "https://flash.jin10.com/detail/20260714215322594800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美军三夜连炸伊朗，特朗普放话要端掉地下核设施“镐山”",
           "url": "https://flash.jin10.com/detail/20260714065721126800",
           "source": "金十数据",
@@ -1866,7 +2024,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "地缘风险溢价再起，原油领涨能化板块",
@@ -2093,7 +2251,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2129,6 +2287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "夜盘期货开盘，燃油涨逾5%，低硫燃油、原油涨逾4%，苯乙烯涨逾3%，丙烯、塑料、对二甲苯、沪锡、PTA、沪银涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/3133679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "国际油价继续走高，WTI原油日内暴涨7.00%，现报76.43美元/桶。",
@@ -2220,11 +2389,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时39分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时39分 ~ 22时33分]"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -2516,7 +2686,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2581,7 +2751,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2599,52 +2769,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            5,
-            4,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时39分 ~ 21时32分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
-          "url": "https://flash.jin10.com/detail/20260714050653705800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "软银推出基于OpenAI技术的网络安全服务。",
-          "url": "https://wallstreetcn.com/livenews/3133244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数13日上涨",
@@ -2681,12 +2807,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时31分]"
+        },
+        {
+          "title": "美元指数短线走低约30点，现货黄金短线拉升约70美元",
+          "url": "https://wallstreetcn.com/livenews/3133666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -2702,8 +2839,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时58分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[10时58分 ~ 22时33分]"
+        },
+        {
+          "title": "报道：Deepseek准备最快今年申请IPO",
+          "url": "https://wallstreetcn.com/livenews/3133700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "DeepSeek梁文锋成AI公司新首富",
@@ -2711,11 +2859,56 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[20时24分 ~ 22时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            5,
+            4,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[14时39分 ~ 22时33分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "软银推出基于OpenAI技术的网络安全服务。",
+          "url": "https://wallstreetcn.com/livenews/3133244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
