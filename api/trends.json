@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:29:46.056150+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-07-14T20:25:13.239593+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时16分 ~ 19时29分]"
+          "appearance_count": 19,
+          "time_info": "[08时16分 ~ 20时25分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -66,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时16分 ~ 19时29分]"
+          "appearance_count": 19,
+          "time_info": "[08时16分 ~ 20时25分]"
         },
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -83,6 +84,18 @@
           "time_info": "[00时46分 ~ 07时18分]"
         },
         {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时45分 ~ 20时25分]"
+        },
+        {
           "title": "美股半导体大跌！闪迪跌超10%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E8%B7%8C%EF%BC%81%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
           "source": "百度热搜",
@@ -94,16 +107,17 @@
           "time_info": "[00时46分 ~ 07时18分]"
         },
         {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
+          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
+          "url": "https://www.cls.cn/detail/2425963",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            8,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[17时33分 ~ 20时25分]"
         },
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -115,19 +129,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 06时16分]"
-        },
-        {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 19时29分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
@@ -152,6 +153,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时41分 ~ 19时29分]"
+        },
+        {
+          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -182,7 +194,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -220,6 +232,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "花旗集团第二季度营收为247.7亿美元，每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "港股有色股午后触底反弹，中国铝业(02600.HK)涨超9.5%，中国宏桥(01378.HK)、江西铜业股份(00358.HK)涨超7%，五矿资源(01208.HK)、灵宝黄金(03330.HK)、洛阳钼业(03993.HK)、紫金黄金国际(02259.HK)均涨超6%。",
           "url": "https://flash.jin10.com/detail/20260714141145629800",
           "source": "金十数据",
@@ -242,17 +265,6 @@
           "time_info": "16时41分"
         },
         {
-          "title": "A股暴力拉升原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "A股CPO概念股午后直线拉升，则成电子涨超27%，长光华芯、南亚新材、源杰科技、生益电子涨超10%。",
           "url": "https://flash.jin10.com/detail/20260714131648711800",
           "source": "金十数据",
@@ -273,6 +285,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "A股暴力拉升原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时25分]"
         },
         {
           "title": "A股今日大跌原因",
@@ -322,6 +346,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 14时40分]"
+        },
+        {
+          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2425939",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时25分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.18%，报24158点。 恒生科技指数主连夜盘收跌0.26%，报4671点。",
@@ -554,7 +590,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -590,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "IBM美股盘前跌幅扩大至逾20%，公司第二财季初步营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3133637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "A股新易盛盘中涨10.05%，现报564.00元。",
@@ -636,17 +683,6 @@
           "time_info": "12时03分"
         },
         {
-          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2425939",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "创业板指涨超3%，沪指涨0.61%，深成指涨2.05%，全市场上涨个股超4100只。",
           "url": "https://flash.jin10.com/detail/20260714131337131800",
           "source": "金十数据",
@@ -669,6 +705,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "高盛第二季度净营收203.4亿美元。 第二季度每股收益20.98美元。 第二季度股票销售和交易业务营收74.2亿美元，预估50.2亿美元。 第二季度FICC业务销售和交易营收45.9亿美元，预估37.6亿美元。 第二季度净利息收入39.5亿美元，预估35.3亿美元。 第二季度投资银行业务营收34.0亿美元，预估28.8亿美元。 第二季度贷款2,610亿美元，预估2,554.4亿美元。 第二季度坏账拨备1.02亿美元，预估1.712亿美元。 第二季度管理资产4.04万亿美元，预估3.79万亿美元。 高盛美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3133630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "A股创新药概念午后异动拉升，迪哲医药直线拉升封20cm涨停，此前哈药股份3连板，辰欣药业、甘李药业、欧林生物、赛伦生物跟涨。",
           "url": "https://flash.jin10.com/detail/20260714131245933800",
           "source": "金十数据",
@@ -686,7 +733,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -818,7 +865,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -845,6 +892,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "IBM美股盘前跌超14%，公司第二财季初步营收不及预期",
+          "url": "https://wallstreetcn.com/livenews/3133624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "A股PCB概念午后拉升，生益科技、广合科技等涨停，鼎泰高科、嘉元科技、华正新材等跟涨。",
           "url": "https://flash.jin10.com/detail/20260714130845425800",
           "source": "金十数据",
@@ -862,7 +920,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -873,7 +931,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -960,8 +1018,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时17分 ~ 19时29分]"
+          "appearance_count": 21,
+          "time_info": "[07时17分 ~ 20时25分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -973,8 +1031,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时02分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时02分 ~ 20时25分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -987,8 +1045,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时46分 ~ 19时29分]"
+          "appearance_count": 29,
+          "time_info": "[00时46分 ~ 20时25分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -1023,11 +1081,12 @@
             14,
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时46分 ~ 19时29分]"
+          "appearance_count": 29,
+          "time_info": "[00时46分 ~ 20时25分]"
         },
         {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
@@ -1052,6 +1111,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时25分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -1111,19 +1184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时29分]"
         },
         {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
@@ -1259,6 +1319,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时16分 ~ 09时32分]"
+        },
+        {
+          "title": "曝特朗普支持沙特对胡塞采取军事行动",
+          "url": "https://www.toutiao.com/trending/7662172518904365062/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时25分]"
         },
         {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
@@ -1626,7 +1698,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1725,18 +1797,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "曝特朗普支持沙特对胡塞采取军事行动",
-          "url": "https://www.toutiao.com/trending/7662172518904365062/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -2108,11 +2169,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时39分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[14时39分 ~ 20时25分]"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -2411,51 +2473,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8,
-            5,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时39分 ~ 19时29分]"
-        },
-        {
-          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
-          "url": "https://flash.jin10.com/detail/20260714050653705800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "软银推出基于OpenAI技术的网络安全服务。",
-          "url": "https://wallstreetcn.com/livenews/3133244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -2484,6 +2503,17 @@
           "time_info": "[00时46分 ~ 07时18分]"
         },
         {
+          "title": "国际金价失守4100美元，地缘冲突为何没能提振走势？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577078",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "金十图示：2026年07月14日（周二）上海金午盘价为878.9元/克，较国际金价（约为877.31元/克），高1.59元/克。",
           "url": "https://flash.jin10.com/detail/20260714150338419800",
           "source": "金十数据",
@@ -2493,6 +2523,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            11,
+            8,
+            5,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时39分 ~ 20时25分]"
+        },
+        {
+          "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
+          "url": "https://flash.jin10.com/detail/20260714050653705800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时16分"
+        },
+        {
+          "title": "软银推出基于OpenAI技术的网络安全服务。",
+          "url": "https://wallstreetcn.com/livenews/3133244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -2540,7 +2613,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -2551,11 +2624,23 @@
             14,
             10,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时58分 ~ 19时29分]"
+          "appearance_count": 15,
+          "time_info": "[10时58分 ~ 20时25分]"
+        },
+        {
+          "title": "DeepSeek梁文锋成AI公司新首富",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         }
       ]
     },
@@ -2570,7 +2655,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         }
