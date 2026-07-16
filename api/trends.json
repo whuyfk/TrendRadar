@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T12:04:54.480580+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-07-16T13:51:55.101264+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时51分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -76,11 +76,27 @@
             14,
             15,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 12时04分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 13时51分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时18分 ~ 13时51分]"
         },
         {
           "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
@@ -93,8 +109,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时27分 ~ 12时04分]"
+          "appearance_count": 15,
+          "time_info": "[01时27分 ~ 13时51分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -120,19 +136,16 @@
           "time_info": "[00时28分 ~ 02时21分]"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
           "ranks": [
-            10,
-            8,
-            6,
-            4,
-            5
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时18分 ~ 12时04分]"
+          "time_info": "[08时17分 ~ 13时51分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -174,18 +187,6 @@
           "ranks": [
             9,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时17分 ~ 12时04分]"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -627,6 +628,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "特朗普再挥关税大棒！美国7月22日起对巴西部分商品加征25%关税",
+          "url": "https://flash.jin10.com/detail/20260716131356190800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "美国总统特朗普：预计年底通胀将比现在更低。",
           "url": "https://wallstreetcn.com/livenews/3134570",
           "source": "华尔街见闻-快讯",
@@ -790,12 +802,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "特朗普发文感谢伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 47,
+      "match_count": 57,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -819,6 +842,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 09时32分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时18分 ~ 13时51分]"
         },
         {
           "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
@@ -850,20 +887,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 04时20分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时18分 ~ 12时04分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -922,8 +945,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 13时51分]"
         },
         {
           "title": "A股被“猴子”刷屏",
@@ -952,6 +975,28 @@
           "time_info": "09时32分"
         },
         {
+          "title": "A股半导体设备股持续下挫，圣晖集成2连跌停，精测电子跌超10%，先导基电、芯碁微装、华海清科、和林微纳、赛腾股份等多股跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3134832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "A股非金属材料板块短线走低，金博股份、三祥新材、力量钻石、石英股份、天马新材等走低。",
+          "url": "https://flash.jin10.com/detail/20260716132747306800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "恒指高开0.58%，报24825.02点；恒生科技指数涨0.15%。阿里巴巴涨2.5%，智谱跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3134708",
           "source": "华尔街见闻-快讯",
@@ -969,7 +1014,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1095,6 +1140,17 @@
           "time_info": "[08时17分 ~ 08时18分]"
         },
         {
+          "title": "今年A股最大IPO！长鑫科技启动申购",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时04分 ~ 13时51分]"
+        },
+        {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3134598",
           "source": "华尔街见闻-快讯",
@@ -1137,9 +1193,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "A股兆易创新成交额超200亿元，现跌7.87%。",
+          "url": "https://wallstreetcn.com/livenews/3134825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "巴菲特警告美股投机狂热：市场像赌场，同时称沃什是美联储“好选择”",
@@ -1170,9 +1237,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "A股中药板块震荡拉升，片仔癀逼近涨停，同仁堂、珍宝岛、盘龙药业、康美药业、天士力跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3134822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "恒生科技指数盘中涨逾3%。",
@@ -1208,6 +1286,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "港股泡泡玛特午后涨逾8%，午间苹果CEO库克微博发文欢迎泡泡玛特创始人王宁到访苹果总部。",
+          "url": "https://wallstreetcn.com/livenews/3134817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-16）",
           "url": "https://flash.jin10.com/detail/20260716090422032800",
           "source": "金十数据",
@@ -1219,15 +1308,15 @@
           "time_info": "09时32分"
         },
         {
-          "title": "今年A股最大IPO！长鑫科技启动申购",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4A%E8%82%A1%E6%9C%80%E5%A4%A7IPO%EF%BC%81%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%90%AF%E5%8A%A8%E7%94%B3%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "A股兆易创新成交额超200亿元，现跌7.87%。",
+          "url": "https://flash.jin10.com/detail/20260716132117501800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时04分"
+          "time_info": "13时51分"
         },
         {
           "title": "金十图示：2026年07月15日（周三）美股热门股票行情一览（美股盘中）",
@@ -1241,15 +1330,37 @@
           "time_info": "02时21分"
         },
         {
+          "title": "港股午后汽车股持续走强，比亚迪股份(01211.HK)涨超5%，此前小鹏集团(09868.HK)涨超8%，蔚来-SW(09866.HK)、理想汽车(02015.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260716131708207800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "里昂降百度美股目标价至150美元 削今明两年经调整盈测18%至24%",
           "url": "https://flash.jin10.com/detail/20260716113954374800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "A股红板科技盘中涨停，上演“地天板”，现报93.56元，成交额13.43亿元。",
+          "url": "https://flash.jin10.com/detail/20260716131413830800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "金十图示：2026年07月15日（周三）热门中概股行情一览（美股盘中）",
@@ -1261,6 +1372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "A股中药板块午后震荡拉升，片仔癀逼近涨停，同仁堂、珍宝岛、盘龙药业、康美药业、天士力跟涨。",
+          "url": "https://flash.jin10.com/detail/20260716131309711800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "恒生科技指数涨超2%，商汤、阿里巴巴涨超5%。",
@@ -1291,7 +1413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1340,6 +1462,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "港股泡泡玛特(09992.HK)午后直线拉升涨逾8%，午间苹果(AAPL.O)CEO库克微博发文欢迎泡泡玛特创始人王宁到访苹果总部。",
+          "url": "https://flash.jin10.com/detail/20260716130128934800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "A股存储芯片板块开盘领跌，德明利、华天科技2连跌停，精测电子、江丰电子跌超10%，通富微电、香农芯创等均大幅低开。",
           "url": "https://wallstreetcn.com/livenews/3134714",
           "source": "华尔街见闻-快讯",
@@ -1354,7 +1487,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本至7月10日当周买进外国债券 10901亿日元，前值由-2181亿日元修正为-2175亿日元。",
@@ -1421,7 +1554,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1465,7 +1598,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1490,12 +1623,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "日本40年期国债收益率上升6个基点，达到3.815%。",
+          "url": "https://flash.jin10.com/detail/20260716125043444800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1517,8 +1661,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 13时51分]"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -1591,6 +1735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         }
       ]
     },
@@ -1607,8 +1762,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时17分 ~ 12时04分]"
+          "appearance_count": 7,
+          "time_info": "[08时17分 ~ 13时51分]"
         },
         {
           "title": "WTI 8月原油期货收涨0.26美元，涨幅0.33%，报79.60美元/桶。 布伦特9月原油期货收涨0.22美元，涨幅0.26%，报84.95美元/桶。 中东Abu Dhabi Murban原油期货跌4.43%，报78.30美元/桶，北京时间16:27出现瞬间跳水行情，从81.48美元跌至76.45美元。 NYMEX 8月天然气期货收报2.9240美元/百万英热单位。 NYMEX 8月汽油期货收报3.3009美元/加仑，NYMEX 8月取暖油期货收报3.9483美元/加仑。",
@@ -1674,7 +1829,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -1685,7 +1840,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
@@ -1695,6 +1850,19 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时17分 ~ 13时51分]"
+        },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
@@ -1724,19 +1892,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 10时59分]"
-        },
-        {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时17分 ~ 12时04分]"
         }
       ]
     },
@@ -1792,7 +1947,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
