@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T16:43:53.898248+08:00",
-  "total_titles_processed": 1672,
+  "generated_at": "2026-07-16T17:39:02.593530+08:00",
+  "total_titles_processed": 1779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -31,6 +31,18 @@
           "time_info": "[00时28分 ~ 09时32分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 17时39分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
           "url": "https://www.cls.cn/detail/2427818",
           "source": "财联社热门",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[06时18分 ~ 16时43分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 16时43分]"
         },
         {
           "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
@@ -173,17 +174,6 @@
           "time_info": "13时51分"
         },
         {
-          "title": "台积电美股盘前一度跌近5%，公司此前公布了二季度财报。",
-          "url": "https://wallstreetcn.com/livenews/3134951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "A股非金属材料板块短线走低，金博股份、三祥新材、力量钻石、石英股份、天马新材等走低。",
           "url": "https://flash.jin10.com/detail/20260716132747306800",
           "source": "金十数据",
@@ -204,17 +194,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        },
-        {
-          "title": "恒生指数收盘涨1.33%，恒生科技指数涨1.98%",
-          "url": "https://wallstreetcn.com/livenews/3134945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "上证指数早盘收报3923.20点，跌0.82%。 深证成指早盘收报14657.07点，跌0.83%。 创业板指早盘收报3738.96点，跌1.73%。 沪深300早盘收报4743.28点，跌0.91%。 科创50早盘收报1905.87点，跌0.96%。 中证500早盘收报8083.77点，跌0.78%。 中证1000早盘收报7760.73点，跌0.73%。",
@@ -278,6 +257,30 @@
           "time_info": "[05时19分 ~ 07时18分]"
         },
         {
+          "title": "台积电美股盘前一度跌近5%，公司此前公布了二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3134951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
+        },
+        {
+          "title": "恒生指数收盘涨1.33%，恒生科技指数涨1.98%",
+          "url": "https://wallstreetcn.com/livenews/3134945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
+        },
+        {
           "title": "恒生科技指数涨超3%，快手、小鹏涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3134758",
           "source": "华尔街见闻-快讯",
@@ -288,6 +291,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 12时04分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时39分]"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时39分]"
+        },
+        {
+          "title": "A股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2573459",
+          "source": "抖音",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 17时39分]"
         },
         {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
@@ -324,18 +365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时19分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时43分]"
         },
         {
           "title": "金十图示：2026年07月15日（周三）热门中概股行情一览（美股收盘）",
@@ -397,18 +426,6 @@
           "time_info": "[15时39分 ~ 16时43分]"
         },
         {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时43分]"
-        },
-        {
           "title": "周三（7月15日），美股行业ETF涨跌各异，全球航空业ETF收涨1.30%，银行业ETF、区域银行ETF至多涨1.18%，能源业ETF跌0.79%，全球科技股指数ETF跌0.82%，科技行业ETF跌1.08%，半导体ETF跌1.59%。",
           "url": "https://wallstreetcn.com/livenews/3134596",
           "source": "华尔街见闻-快讯",
@@ -453,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
-        },
-        {
-          "title": "A股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2573459",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "A股兆易创新成交额超200亿元，现跌7.87%。",
@@ -604,7 +610,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -648,7 +654,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -741,13 +747,24 @@
           "time_info": "15时39分"
         },
         {
+          "title": "百度申请香港、纳斯达克双重主要上市，或赶上9月港股通窗口",
+          "url": "https://wallstreetcn.com/livenews/3134961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "港股收评：恒指午后冲高回落收涨1.33% 汽车股、科网股全天表现强势",
           "url": "https://flash.jin10.com/detail/20260716161515524800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -813,7 +830,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -827,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "百度美股盘前涨超4%，公司寻求于港交所主板自愿转换为双重主要上市",
+          "url": "https://wallstreetcn.com/livenews/3134955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "A股温度计",
@@ -887,7 +915,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -949,8 +977,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 16时43分]"
+          "appearance_count": 14,
+          "time_info": "[07时18分 ~ 17时39分]"
+        },
+        {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时44分 ~ 17时39分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -993,11 +1032,12 @@
             14,
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时27分 ~ 16时43分]"
+          "appearance_count": 21,
+          "time_info": "[01时27分 ~ 17时39分]"
         },
         {
           "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
@@ -1005,11 +1045,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时17分 ~ 16时43分]"
+          "appearance_count": 13,
+          "time_info": "[08时17分 ~ 17时39分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -1033,17 +1074,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 02时21分]"
-        },
-        {
-          "title": "特朗普感谢伊朗",
-          "url": "https://news.ifeng.com/c/8undGPmAvXz",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时44分 ~ 16时43分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -1077,17 +1107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "特朗普政府再获1000亿美元美国芯片投资承诺。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3134952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
         },
         {
           "title": "霍尔木兹爆发激烈交火！特朗普：伊朗像伟大拳击手，你以为击败他，结果被重拳反击；若伊朗不回来谈判，将轰炸电厂桥梁，不排除派地面部队",
@@ -1183,6 +1202,18 @@
           "time_info": "[04时20分 ~ 06时18分]"
         },
         {
+          "title": "特朗普政府再获1000亿美元美国芯片投资承诺。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3134952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 17时39分]"
+        },
+        {
           "title": "美国总统特朗普：等伊朗局势稳定下来，油价将降至每桶55美元。",
           "url": "https://flash.jin10.com/detail/20260716041210992800",
           "source": "金十数据",
@@ -1242,6 +1273,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时19分]"
+        },
+        {
+          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
+          "url": "https://www.cls.cn/detail/2427879",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时39分 ~ 17时39分]"
         },
         {
           "title": "美财政部将发行1美元特朗普金币",
@@ -1353,18 +1397,6 @@
           "time_info": "[04时20分 ~ 05时19分]"
         },
         {
-          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
-          "url": "https://www.cls.cn/detail/2427879",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时43分]"
-        },
-        {
           "title": "沃什称已“多次”向特朗普表明其独立性",
           "url": "https://wallstreetcn.com/livenews/3134523",
           "source": "华尔街见闻-快讯",
@@ -1375,6 +1407,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时21分]"
+        },
+        {
+          "title": "美伊战火将旷日持久？特朗普称伊朗愿意谈判又遭“打脸”……",
+          "url": "https://www.cls.cn/detail/2427859",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "美国总统特朗普声称：美国很快将对“非法”卡车司机采取行动。",
@@ -1459,6 +1502,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 06时18分]"
+        },
+        {
+          "title": "特朗普因新专机安全缺陷遭泄露震怒",
+          "url": "https://www.toutiao.com/trending/7662204144061300746/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 17时39分]"
         },
         {
           "title": "美国总统特朗普：我不喜欢设定最后期限。",
@@ -1936,8 +1990,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 16时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 17时39分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1957,7 +2011,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
         },
@@ -2048,7 +2102,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -2109,6 +2163,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "海峡风险升温，双油冲高后转弱｜原油头条",
+          "url": "https://flash.jin10.com/detail/20260716170930177800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "WTI原油周四小幅低开，现报79.5美元/桶。",
           "url": "https://flash.jin10.com/detail/20260716060036886800",
           "source": "金十数据",
@@ -2140,6 +2205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "原油LOF易方达提示二级市场溢价风险",
+          "url": "https://flash.jin10.com/detail/20260716170146158800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     },
