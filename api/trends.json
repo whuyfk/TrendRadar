@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:32:08.946185+08:00",
-  "total_titles_processed": 2048,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-07-17T22:32:28.804022+08:00",
+  "total_titles_processed": 2152,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 104,
+      "match_count": 110,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -18,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时19分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[08时19分 ~ 22时32分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -123,11 +121,12 @@
             16,
             15,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时51分 ~ 21时31分]"
+          "appearance_count": 13,
+          "time_info": "[13时51分 ~ 22时32分]"
         },
         {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
@@ -157,8 +156,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时32分]"
+        },
+        {
+          "title": "A股今天暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            11,
+            12,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时33分 ~ 22时32分]"
         },
         {
           "title": "A股",
@@ -175,18 +189,43 @@
           "time_info": "[11时01分 ~ 16时41分]"
         },
         {
-          "title": "A股今天暴跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BB%8A%E5%A4%A9%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
           "ranks": [
-            22,
-            11,
-            12,
-            18
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时33分 ~ 21时32分]"
+          "time_info": "[18时32分 ~ 22时32分]"
+        },
+        {
+          "title": "A股杀跌是中期调整还是牛市结束",
+          "url": "https://www.toutiao.com/trending/7663417152111644223/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 22时32分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2429653",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 22时32分]"
         },
         {
           "title": "A股",
@@ -211,31 +250,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 03时26分]"
-        },
-        {
-          "title": "A股杀跌是中期调整还是牛市结束",
-          "url": "https://www.toutiao.com/trending/7663417152111644223/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 21时32分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 21时32分]"
         },
         {
           "title": "A股突然放量释放何信号",
@@ -306,19 +320,6 @@
           "time_info": "[14时44分 ~ 17时33分]"
         },
         {
-          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2429653",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时32分 ~ 21时32分]"
-        },
-        {
           "title": "美联储两大官员放鹰：关注通胀风险，支持适度加息；美军连续第六晚对伊朗采取打击行动，伊朗部分机场、桥梁和铁路枢纽遭袭……当前现货金银、美油维持卖出信号，美股信号分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
           "url": "https://flash.jin10.com/detail/20260717103419821800",
           "source": "金十数据",
@@ -352,6 +353,28 @@
           "time_info": "06时19分"
         },
         {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "多只宽基ETF显著放量 创业板ETF易方达（159915）成交额超昨日全天",
           "url": "https://wallstreetcn.com/livenews/3135450",
           "source": "华尔街见闻-快讯",
@@ -361,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "A股半日放量1219亿调整",
@@ -415,7 +449,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -568,6 +602,17 @@
           "time_info": "[15时38分 ~ 16时41分]"
         },
         {
+          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
+          "url": "https://wallstreetcn.com/articles/3777184",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 22时32分]"
+        },
+        {
           "title": "创业板大跌引满仓抄底",
           "url": "https://s.weibo.com/weibo?q=%E5%88%9B%E4%B8%9A%E6%9D%BF%E5%A4%A7%E8%B7%8C%E5%BC%95%E6%BB%A1%E4%BB%93%E6%8A%84%E5%BA%95&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -592,15 +637,16 @@
           "time_info": "[09时31分 ~ 12时04分]"
         },
         {
-          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
-          "url": "https://wallstreetcn.com/articles/3777184",
-          "source": "华尔街见闻",
+          "title": "A股黄金买点来了吗",
+          "url": "https://www.toutiao.com/trending/7663454627538406938/",
+          "source": "今日头条",
           "ranks": [
-            10
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时23分 ~ 21时32分]"
+          "time_info": "[21时31分 ~ 22时32分]"
         },
         {
           "title": "A股长期来看还要创新高",
@@ -613,6 +659,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时01分 ~ 12时04分]"
+        },
+        {
+          "title": "A股年内最强无差别杀跌",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时32分]"
         },
         {
           "title": "A股券商股异动拉升，湘财股份直线涨停，国盛证券涨超5%，天风证券、第一创业、东方财富、华创云信跟涨。",
@@ -756,28 +814,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时44分 ~ 15时38分]"
-        },
-        {
-          "title": "A股黄金买点来了吗",
-          "url": "https://www.toutiao.com/trending/7663454627538406938/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
-        },
-        {
-          "title": "A股年内最强无差别杀跌",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E6%9C%80%E5%BC%BA%E6%97%A0%E5%B7%AE%E5%88%AB%E6%9D%80%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "创业板指跌幅扩大至7%",
@@ -934,6 +970,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "SK海力士美股股价收复逾4%跌幅，现涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260717040547992800",
           "source": "金十数据",
@@ -1039,7 +1086,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1143,6 +1190,17 @@
           "time_info": "09时32分"
         },
         {
+          "title": "美股盘初：纳指跌1.8%，费城半导体指数跌超3%，奈飞跌约12%，SpaceX跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3135751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "创业板指日内重挫6%，深证成指跌4.6%，上证综指跌4.6%。",
           "url": "https://flash.jin10.com/detail/20260717131601600800",
           "source": "金十数据",
@@ -1209,6 +1267,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "中际旭创或成港股年内最大IPO",
+          "url": "https://wallstreetcn.com/livenews/3135742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3135378",
           "source": "华尔街见闻-快讯",
@@ -1234,8 +1303,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时40分 ~ 22时32分]"
+        },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
@@ -1246,8 +1326,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时31分 ~ 21时32分]"
+          "appearance_count": 19,
+          "time_info": "[09时31分 ~ 22时32分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -1260,17 +1340,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时32分]"
-        },
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时40分 ~ 21时32分]"
         },
         {
           "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
@@ -1733,6 +1802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "欧盟推出银行业改革以回应特朗普的放松监管政策。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -2137,7 +2217,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2255,7 +2335,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -2277,8 +2357,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时01分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时01分 ~ 22时32分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
