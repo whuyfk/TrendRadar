@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:16:24.297074+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-07-18T08:17:45.913848+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -38,8 +38,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 08时17分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 08时17分]"
         },
         {
           "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
@@ -51,20 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时16分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 08时17分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -81,6 +82,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 08时17分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -110,18 +124,6 @@
           "time_info": "[00时24分 ~ 02时19分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
-        },
-        {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260718040519016800",
           "source": "金十数据",
@@ -146,6 +148,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时24分 ~ 01时24分]"
+        },
+        {
+          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
+          "url": "https://wallstreetcn.com/livenews/3135907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 08时17分]"
+        },
+        {
+          "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3135906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 08时17分]"
         },
         {
           "title": "A股今天暴跌原因",
@@ -173,32 +201,6 @@
           "time_info": "[01时24分 ~ 03时25分]"
         },
         {
-          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
-          "url": "https://wallstreetcn.com/livenews/3135907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
-          "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
-          "url": "https://wallstreetcn.com/livenews/3135906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.54%，报24602点。 恒生科技指数主连夜盘收涨0.63%，报4643点。",
           "url": "https://wallstreetcn.com/livenews/3135878",
           "source": "华尔街见闻-快讯",
@@ -223,6 +225,28 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
+          "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
+          "url": "https://wallstreetcn.com/articles/3777184",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
+          "title": "大空头Burry：现在是抄底港股的绝佳时机",
+          "url": "https://wallstreetcn.com/articles/3777194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260718003300132800",
           "source": "金十数据",
@@ -232,6 +256,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "A股再现天价离婚案",
+          "url": "https://www.toutiao.com/trending/7663501189166841875/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股盘中）",
@@ -248,18 +283,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时24分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时24分 ~ 08时17分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -285,6 +321,20 @@
           "time_info": "[00时24分 ~ 04时18分]"
         },
         {
+          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
+          "url": "https://flash.jin10.com/detail/20260718045100973800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 08时17分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函总统特朗普的司法部，要求众多反垄断监管部门审查福克斯与Roku的并购交易。",
           "url": "https://wallstreetcn.com/livenews/3135838",
           "source": "华尔街见闻-快讯",
@@ -298,30 +348,18 @@
           "time_info": "[00时25分 ~ 02时19分]"
         },
         {
-          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
-          "url": "https://flash.jin10.com/detail/20260718045100973800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
-        },
-        {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
           "url": "https://flash.jin10.com/detail/20260718043845403800",
           "source": "金十数据",
           "ranks": [
             7,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 08时17分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -358,6 +396,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
+        },
+        {
+          "title": "曝特朗普买股票后在社媒发有利信息",
+          "url": "https://www.toutiao.com/trending/7662654350632255514/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         },
         {
           "title": "据以色列媒体：以色列总理内塔尼亚胡推迟访美，不仅是因为已故共和党参议员林赛·格雷厄姆的葬礼安排有变，还因与特朗普政府分歧加剧，尤其是美国副总统万斯近期严厉批评以色列。",
@@ -478,6 +527,19 @@
           "time_info": "[02时19分 ~ 03时25分]"
         },
         {
+          "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
+          "url": "https://www.zhihu.com/question/2060663328502977751",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 08时17分]"
+        },
+        {
           "title": "美国原油期货本周涨超15%",
           "url": "https://wallstreetcn.com/livenews/3135874",
           "source": "华尔街见闻-快讯",
@@ -500,18 +562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时18分]"
-        },
-        {
-          "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
-          "url": "https://www.zhihu.com/question/2060663328502977751",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
         },
         {
           "title": "美国原油期货涨幅扩大至4%，报道称美国向以色列增派数十架空中加油机。",
@@ -632,6 +682,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "周五（7月17日）纽约尾盘，美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点，整体交投于4.6338%-4.5094%区间。 两年期美债收益率涨3.58个基点，报4.1767%，本周累跌3.13个基点，交投于4.2963%-4.1091%区间。",
+          "url": "https://wallstreetcn.com/livenews/3135922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时15分 ~ 08时17分]"
+        },
+        {
           "title": "美债收益率刷新日高，投资者关注美国与伊朗的紧张局势。 WTI原油5分钟内上涨0.6美元/桶，报81.32美元/桶；布伦特原油5分钟内上涨0.51美元/桶，报87.31美元/桶。 据Axios报道，美国向以色列增派更多（超过20架）加油机。",
           "url": "https://wallstreetcn.com/livenews/3135836",
           "source": "华尔街见闻-快讯",
@@ -643,18 +705,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 02时19分]"
-        },
-        {
-          "title": "周五（7月17日）纽约尾盘，美国10年期基准国债收益率跌0.59个基点，报4.5474%，本周累计下跌1.38个基点，整体交投于4.6338%-4.5094%区间。 两年期美债收益率涨3.58个基点，报4.1767%，本周累跌3.13个基点，交投于4.2963%-4.1091%区间。",
-          "url": "https://wallstreetcn.com/livenews/3135922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时16分]"
         },
         {
           "title": "德国两年期国债收益率本周涨约14个基点，10年期意债、希债收益率至少累计涨超13个基点",
@@ -733,11 +783,12 @@
           "ranks": [
             1,
             6,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 08时17分]"
         },
         {
           "title": "美元指数本周累跌约0.2%",
@@ -750,6 +801,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3777230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         }
       ]
     },
@@ -768,6 +836,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         }
       ]
     }
