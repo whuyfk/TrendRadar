@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T21:28:59.264363+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-07-18T22:24:54.640007+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -37,11 +37,12 @@
             9,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时15分 ~ 21时28分]"
+          "appearance_count": 19,
+          "time_info": "[06时15分 ~ 22时24分]"
         },
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -50,11 +51,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时02分 ~ 21时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时02分 ~ 22时24分]"
         },
         {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
@@ -226,6 +228,20 @@
           "time_info": "[13时44分 ~ 15时34分]"
         },
         {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时24分]"
+        },
+        {
           "title": "金十图示：2026年07月17日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260718040519016800",
           "source": "金十数据",
@@ -317,19 +333,6 @@
           "time_info": "[01时24分 ~ 03时25分]"
         },
         {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时28分]"
-        },
-        {
           "title": "美股半导体指数跌入熊市",
           "url": "https://www.toutiao.com/trending/7663631586239188521/",
           "source": "今日头条",
@@ -351,6 +354,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 04时18分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时24分]"
         },
         {
           "title": "A股再现天价离婚案",
@@ -388,15 +403,15 @@
           "time_info": "[04时18分 ~ 05时15分]"
         },
         {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
+          "title": "据上交所官网，北京卓镭激光技术股份有限公司科创板IPO审核状态变更为“已问询”。",
+          "url": "https://flash.jin10.com/detail/20260718214147336800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时24分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -461,6 +476,18 @@
           "time_info": "[00时24分 ~ 10时59分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时33分 ~ 22时24分]"
+        },
+        {
           "title": "生死博弈！“特朗普美元”来了",
           "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
           "source": "凤凰网",
@@ -471,18 +498,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时16分]"
-        },
-        {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时33分 ~ 21时28分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -504,8 +519,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时02分 ~ 21时28分]"
+          "appearance_count": 13,
+          "time_info": "[12时02分 ~ 22时24分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -531,8 +546,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时44分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[13时44分 ~ 22时24分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -588,6 +603,18 @@
           "time_info": "[05时15分 ~ 08时17分]"
         },
         {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 22时24分]"
+        },
+        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -624,16 +651,15 @@
           "time_info": "[19时20分 ~ 20时14分]"
         },
         {
-          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
-          "source": "澎湃新闻",
+          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
+          "url": "https://www.zhihu.com/question/2061441397995954863",
+          "source": "知乎",
           "ranks": [
-            16,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时28分]"
+          "time_info": "[21时28分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -705,17 +731,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "如何看待白宫提词器操作员提前获取特朗普演讲稿，并据此押注获利近 10 万元，最终被调查？",
-          "url": "https://www.zhihu.com/question/2061441397995954863",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
           "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
           "url": "https://flash.jin10.com/detail/20260718022504678800",
           "source": "金十数据",
@@ -733,7 +748,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         },
@@ -799,7 +814,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -859,8 +874,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时14分 ~ 22时24分]"
         },
         {
           "title": "美国原油期货本周涨超15%",
@@ -1167,19 +1182,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时17分 ~ 21时28分]"
+          "appearance_count": 17,
+          "time_info": "[08时17分 ~ 22时24分]"
         },
         {
           "title": "这周金价发生了什么",
           "url": "https://www.toutiao.com/trending/7663819778364345910/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时24分]"
         }
       ]
     },
