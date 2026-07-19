@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T17:33:08.368609+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-07-19T18:30:43.884331+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -41,11 +41,12 @@
             9,
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时59分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时59分 ~ 18时30分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -274,6 +275,17 @@
           "time_info": "[01时19分 ~ 02时16分]"
         },
         {
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
+        },
+        {
           "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
           "url": "https://flash.jin10.com/detail/20260719003200067800",
           "source": "金十数据",
@@ -335,7 +347,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -355,11 +367,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 17时33分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 18时30分]"
         },
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -368,23 +381,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时17分 ~ 17时33分]"
-        },
-        {
-          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
-          "url": "https://wallstreetcn.com/articles/3777263",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时15分]"
+          "appearance_count": 25,
+          "time_info": "[00时17分 ~ 18时30分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -397,8 +399,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[13时59分 ~ 18时30分]"
         },
         {
           "title": "世界两大AI组织都是狠角色",
@@ -411,8 +413,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时55分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[14时55分 ~ 18时30分]"
+        },
+        {
+          "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
+          "url": "https://wallstreetcn.com/articles/3777263",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时15分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -433,8 +447,19 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 18时30分]"
+        },
+        {
+          "title": "5家创业板公司发布业绩预告，天孚通信上半年净利最高预增45%",
+          "url": "https://www.cls.cn/detail/2430360",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "华金证券：短期A股可能震荡筑底",
@@ -461,6 +486,59 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美伊战火重燃，对冲基金凶猛加仓原油，速度创十年来最快",
+          "url": "https://wallstreetcn.com/articles/3777277",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 09时31分]"
+        },
+        {
+          "title": "中东冲突再起，交易员直言\"所有缓冲垫都已燃尽\"，原油市场处于崩溃边缘",
+          "url": "https://wallstreetcn.com/articles/3777346",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 18时30分]"
+        },
+        {
+          "title": "原油LOF易方达发布溢价风险提示",
+          "url": "https://wallstreetcn.com/livenews/3136211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "原油LOF易方达发布溢价风险提示",
+          "url": "https://flash.jin10.com/detail/20260719172436546800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -474,8 +552,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 17时33分]"
+          "appearance_count": 10,
+          "time_info": "[13时59分 ~ 18时30分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -534,8 +612,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时59分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 18时30分]"
         }
       ]
     },
@@ -572,36 +650,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时17分 ~ 09时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊战火重燃，对冲基金凶猛加仓原油，速度创十年来最快",
-          "url": "https://wallstreetcn.com/articles/3777277",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 09时31分]"
-        },
-        {
-          "title": "中东冲突再起，交易员直言\"所有缓冲垫都已燃尽\"，原油市场处于崩溃边缘",
-          "url": "https://wallstreetcn.com/articles/3777346",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
         }
       ]
     },
