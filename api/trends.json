@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-20T11:01:54.945468+08:00",
-  "total_titles_processed": 959,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-07-20T12:21:52.062220+08:00",
+  "total_titles_processed": 1074,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 33,
+      "match_count": 40,
       "titles": [
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -43,11 +41,12 @@
           "ranks": [
             2,
             7,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时15分 ~ 09时33分]"
+          "appearance_count": 10,
+          "time_info": "[04时15分 ~ 12时21分]"
         },
         {
           "title": "【早报】证监会今天将召开座谈会，促进市场稳定健康发展；两大央企宣布，增持A股股票资产；新易盛、天孚通信等发布上半年业绩预告",
@@ -57,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 12时21分]"
         },
         {
           "title": "稳定信号出现，五大A股主力联袂力挺",
@@ -66,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 12时21分]"
         },
         {
           "title": "A股半导体板块回升，星宸科技20cm涨停，富瀚微涨超10%，敏芯股份、芯朋微、普冉股份、杰华特等个股跟涨。",
@@ -90,7 +90,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -123,9 +123,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2577975",
+          "source": "抖音",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时21分]"
         },
         {
           "title": "现在能抄底A股吗",
@@ -151,6 +163,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时21分]"
         },
         {
           "title": "A股反弹真的不远了吗",
@@ -189,17 +213,6 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2577975",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
-        },
-        {
           "title": "多只港股方向产品基金经理有变，看好科技创新药机会",
           "url": "https://wallstreetcn.com/livenews/3136347",
           "source": "华尔街见闻-快讯",
@@ -210,17 +223,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时17分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
         },
         {
           "title": "A股油服工程板块高开，科力股份涨超8%，通源石油涨近5%，中曼石油、中海油服、中油工程、贝肯能源、潜能恒信等个股跟涨。消息面上，伊朗法尔斯通讯社19日援引消息人士的话报道说，霍尔木兹海峡的通航量已降至零，只要美国继续其挑衅行为，该海峡将保持关闭。",
@@ -245,6 +247,17 @@
           "time_info": "09时33分"
         },
         {
+          "title": "港股午评：恒指收涨2.07%重回两万五，石油股走高",
+          "url": "https://flash.jin10.com/detail/20260720120357581800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "香港恒生指数7月20日（周一）开盘上涨272.79点，涨幅1.11%，报24835.03点；<br/>香港恒生科技指数7月20日（周一）开盘上涨101.62点，涨幅2.2%，报4724.79点；<br/>国企指数7月20日（周一）开盘上涨116.0点，涨幅1.43%，报8252.73点；<br/>红筹指数7月20日（周一）开盘上涨28.62点，涨幅0.72%，报3992.16点。",
           "url": "https://flash.jin10.com/detail/20260720092148561800",
           "source": "金十数据",
@@ -254,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "港股开盘，恒生指数开涨1.11%，恒生科技指数开涨2.20%；芯片、PCB、光通信等板块涨幅居前，澜起科技(06809.HK)涨超6%、建滔积层板(01888.HK)涨超4%。",
@@ -273,7 +297,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -289,13 +313,35 @@
           "time_info": "00时18分"
         },
         {
+          "title": "上证指数早盘收报3808.39点，涨1.18%。 深证成指早盘收报13735.81点，涨0.21%。 创业板指早盘收报3467.32点，涨1.13%。 沪深300早盘收报4599.32点，涨1.55%。 科创50早盘收报1712.12点，跌0.19%。 中证500早盘收报7493.45点，跌0.27%。 中证1000早盘收报7100.05点，跌0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3136544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "7月20日午间收评：沪指、创业板指均涨超1%，油气、煤炭板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3136543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "创业板指翻绿，MLCC、半导体、CPO等板块跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260720103148921800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -339,9 +385,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "中国海油A股盘中触及涨停。",
+          "url": "https://wallstreetcn.com/livenews/3136538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-20）",
@@ -372,9 +429,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "创业板指日内涨幅再次扩大至2%，此前一度翻绿。",
+          "url": "https://wallstreetcn.com/livenews/3136527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "A股午评：沪指收涨1.18%，石油石化板块走强",
+          "url": "https://flash.jin10.com/detail/20260720113417283800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美股期货走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.6%。",
@@ -391,7 +470,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -429,6 +508,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时15分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 12时21分]"
         },
         {
           "title": "特朗普现身世界杯决赛看台",
@@ -510,17 +601,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 11时01分]"
         },
         {
           "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
@@ -644,6 +724,17 @@
           "time_info": "07时17分"
         },
         {
+          "title": "特朗普称美国必须再举办世界杯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%BF%85%E9%A1%BB%E5%86%8D%E4%B8%BE%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
           "url": "https://flash.jin10.com/detail/20260719220841809800",
           "source": "金十数据",
@@ -735,7 +826,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东冲突再起，交易员直言\"所有缓冲垫都已燃尽\"，原油市场处于崩溃边缘",
@@ -744,11 +835,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 11时01分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 12时21分]"
         },
         {
           "title": "原油市场将形成“油价越高，油价越低”的怪圈？",
@@ -757,7 +849,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -779,7 +871,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -793,6 +885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "巴彦油田原油总产量突破600万吨",
+          "url": "https://flash.jin10.com/detail/20260720115214098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
@@ -894,11 +997,12 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时32分 ~ 11时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 12时21分]"
         }
       ]
     },
@@ -920,6 +1024,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时17分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3136541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     }
