@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-20T14:03:29.987239+08:00",
-  "total_titles_processed": 1196,
-  "failed_sources": [],
+  "generated_at": "2026-07-20T16:01:02.133994+08:00",
+  "total_titles_processed": 1351,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
         {
           "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
@@ -35,6 +37,20 @@
           "time_info": "[00时17分 ~ 11时01分]"
         },
         {
+          "title": "稳定信号出现，五大A股主力联袂力挺",
+          "url": "https://www.cls.cn/detail/2430700",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 16时01分]"
+        },
+        {
           "title": "两大央企深夜宣布：增持A股",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%A4%AE%E4%BC%81%E6%B7%B1%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%A2%9E%E6%8C%81A%E8%82%A1",
           "source": "百度热搜",
@@ -60,29 +76,39 @@
           "time_info": "[09时32分 ~ 14时03分]"
         },
         {
-          "title": "稳定信号出现，五大A股主力联袂力挺",
-          "url": "https://www.cls.cn/detail/2430700",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 14时03分]"
-        },
-        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2577975",
           "source": "抖音",
           "ranks": [
             10,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时00分 ~ 14时03分]"
+          "appearance_count": 6,
+          "time_info": "[11时00分 ~ 16时01分]"
+        },
+        {
+          "title": "证监会就近期A股波动发声",
+          "url": "https://www.toutiao.com/trending/7664095612945600019/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "A股半导体板块回升，星宸科技20cm涨停，富瀚微涨超10%，敏芯股份、芯朋微、普冉股份、杰华特等个股跟涨。",
@@ -94,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "港股煤炭股震荡走高，中煤能源(01898.HK)、兖矿能源(01171.HK)、力量发展(01277.HK)均涨超8%，兖煤澳大利亚(03668.HK)涨超6%，中国神华(01088.HK)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260720153952902800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "A股能源金属板块持续走弱，天齐锂业、博迁新材触及跌停，融捷股份、盛新锂能、永杉锂业、赣锋锂业、永兴材料跟跌。",
@@ -113,7 +150,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -135,7 +172,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -187,6 +224,18 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
+          "url": "https://www.cls.cn/detail/2430704",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 16时01分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -209,6 +258,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 01时20分]"
+        },
+        {
+          "title": "创业板指、科创50指数探底回升收红",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E3%80%81%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E6%8E%A2%E5%BA%95%E5%9B%9E%E5%8D%87%E6%94%B6%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
         },
         {
           "title": "A股将近1730家上市公司披露半年报，最高预增543.7%",
@@ -247,15 +307,15 @@
           "time_info": "[06时16分 ~ 07时17分]"
         },
         {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
+          "title": "高盛策略师建议目光投向AI以外投资主题 关注消费体验类股等美股板块",
+          "url": "https://wallstreetcn.com/livenews/3136705",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "A股油服工程板块高开，科力股份涨超8%，通源石油涨近5%，中曼石油、中海油服、中油工程、贝肯能源、潜能恒信等个股跟涨。消息面上，伊朗法尔斯通讯社19日援引消息人士的话报道说，霍尔木兹海峡的通航量已降至零，只要美国继续其挑衅行为，该海峡将保持关闭。",
@@ -275,7 +335,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -308,7 +368,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -319,7 +379,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -330,7 +390,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -374,7 +434,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -407,7 +467,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -429,7 +489,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -522,6 +582,17 @@
           "time_info": "09时33分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-07-20）",
+          "url": "https://flash.jin10.com/detail/20260720152424571800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
           "title": "A股电力板块再度走强，立新能源三连板，乐山电力2连板，涪陵电力涨停，九洲集团、南网科技、南网能源、西昌电力、广西能源跟涨。",
           "url": "https://flash.jin10.com/detail/20260720102826295800",
           "source": "金十数据",
@@ -539,7 +610,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
         },
@@ -616,8 +687,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 14时03分]"
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 16时01分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
@@ -780,6 +851,18 @@
           "time_info": "[03时24分 ~ 07时17分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时01分]"
+        },
+        {
           "title": "特朗普颁奖时“拉都拉不走”",
           "url": "https://www.toutiao.com/trending/7664126217231056932/",
           "source": "今日头条",
@@ -800,17 +883,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
         },
         {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
@@ -1056,7 +1128,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -1087,6 +1159,17 @@
           "time_info": "[00时17分 ~ 06时16分]"
         },
         {
+          "title": "DeepSeekV4能超越KimiK3吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E8%83%BD%E8%B6%85%E8%B6%8AKimiK3%E5%90%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
+        },
+        {
           "title": "用Deepseek生成战地游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -1096,6 +1179,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "LBBW：外国私营投资者再次成为美国国债的稳定净买家",
+          "url": "https://flash.jin10.com/detail/20260720134603551800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3136541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260720151630964800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         }
       ]
     },
@@ -1123,8 +1245,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 14时03分]"
+          "appearance_count": 8,
+          "time_info": "[09时32分 ~ 16时01分]"
         }
       ]
     },
@@ -1152,39 +1274,29 @@
           "url": "https://s.weibo.com/weibo?q=OpenAI%E7%A7%B0Kimi%E5%BC%80%E6%BA%90%E6%98%AF%E5%87%8F%E9%80%9F%E4%B8%BB%E4%B9%89&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时01分]"
         }
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 2,
+      "keyword_group": "金价 银价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "LBBW：外国私营投资者再次成为美国国债的稳定净买家",
-          "url": "https://flash.jin10.com/detail/20260720134603551800",
+          "title": "金十图示：2026年07月20日（周一）上海金午盘价为873.46元/克，较国际金价(874.1元/克)，低0.64元/克",
+          "url": "https://flash.jin10.com/detail/20260720153828044800",
           "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.13%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3136541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "16时01分"
         }
       ]
     }
