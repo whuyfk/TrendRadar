@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:33:59.103679+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-07-22T20:29:22.267582+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时17分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[08时17分 ~ 20时29分]"
         },
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -80,6 +81,21 @@
           "time_info": "[00时28分 ~ 12时08分]"
         },
         {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 20时29分]"
+        },
+        {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
           "url": "https://www.cls.cn/detail/2433245",
           "source": "财联社热门",
@@ -102,21 +118,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 06时17分]"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 19时33分]"
         },
         {
           "title": "事关A股市场 证监会最新发声",
@@ -145,6 +146,21 @@
           "time_info": "[07时18分 ~ 13时57分]"
         },
         {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 20时29分]"
+        },
+        {
           "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
           "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
@@ -171,20 +187,6 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 19时33分]"
-        },
-        {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -196,15 +198,18 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
-          "title": "GE Vernova美股盘前跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3138187",
-          "source": "华尔街见闻-快讯",
+          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
+          "url": "https://www.cls.cn/detail/2433946",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            6,
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 20时29分]"
         },
         {
           "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
@@ -295,6 +300,17 @@
           "time_info": "14时52分"
         },
         {
+          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
+          "url": "https://www.cls.cn/detail/2433968",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "A股贵金属板块高开，赤峰黄金、山金国际、兴业银锡均涨超3%，中金黄金、四川黄金、招金黄金、西部黄金、晓程科技等个股跟涨。此前，现货黄金日内涨超1%，突破4120美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260722092726536800",
           "source": "金十数据",
@@ -328,19 +344,6 @@
           "time_info": "12时08分"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
-          "url": "https://www.cls.cn/detail/2433946",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时33分]"
-        },
-        {
           "title": "兆易创新A股成交额达300亿元，现跌0.22%。",
           "url": "https://wallstreetcn.com/livenews/3137995",
           "source": "华尔街见闻-快讯",
@@ -351,6 +354,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 14时52分]"
+        },
+        {
+          "title": "GE Vernova美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3138187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时29分]"
         },
         {
           "title": "AT&T第二季度营收316亿美元，同比增长2.6%，预估317.7亿美元。 第二季度调整后每股收益0.65美元，上年同期0.54美元，预估0.59美元。 第二季度调整后息税折旧及摊销前利润123亿美元，同比增长5.1%，预估121亿美元。 第二季度自由现金流47亿美元。 AT&T仍然预测自由现金流至少180亿美元，市场预估181.7亿美元。 AT&T仍然预测调整后每股收益2.25美元至2.35美元，市场预估2.32美元。 AT&T美股盘前涨近4%。",
@@ -425,6 +440,18 @@
           "time_info": "[05时25分 ~ 06时17分]"
         },
         {
+          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时29分]"
+        },
+        {
           "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3137751",
           "source": "华尔街见闻-快讯",
@@ -471,6 +498,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时17分]"
+        },
+        {
+          "title": "A股市场是反弹还是反转",
+          "url": "https://www.toutiao.com/trending/7665289617976856114/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时29分]"
         },
         {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
@@ -554,6 +593,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "越疆科技创业板IPO过会",
+          "url": "https://wallstreetcn.com/livenews/3138208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "A股午评：沪指收涨0.50%，贵金属板块领涨",
           "url": "https://flash.jin10.com/detail/20260722113310277800",
           "source": "金十数据",
@@ -574,17 +624,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
-        },
-        {
-          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
-          "url": "https://wallstreetcn.com/livenews/3138176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
         },
         {
           "title": "港股明星科网股震荡走低，网易-S(09999.HK)、腾讯控股(00700.HK)双双跌超7%，快手(01024.HK)跌超6%，哔哩哔哩(09626.HK)跌超5%，贝壳(02423.HK)、小米集团(01810.HK)、阿里巴巴(09988.HK)、百度(09888.HK)等个股跟跌。",
@@ -774,6 +813,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "百度主要上市申请已获联交所确认收悉，或赶上9月港股通窗口",
+          "url": "https://wallstreetcn.com/livenews/3138197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "中兴通讯AH股齐涨，A股触达涨停，H股涨超9%。",
           "url": "https://flash.jin10.com/detail/20260722112442655800",
           "source": "金十数据",
@@ -791,7 +841,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -950,17 +1000,6 @@
           "time_info": "15时46分"
         },
         {
-          "title": "A股市场是反弹还是反转",
-          "url": "https://www.toutiao.com/trending/7665289617976856114/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
           "title": "A股算力概念股持续活跃，美利云3连板，利通电子2连板，群兴玩具涨停，铜牛信息涨超10%，华勤技术、紫光股份、宏景科技涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3137855",
           "source": "华尔街见闻-快讯",
@@ -997,7 +1036,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 67,
       "titles": [
         {
           "title": "胡塞武装封锁红海？特朗普回应",
@@ -1035,8 +1074,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 19时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 20时29分]"
         },
         {
           "title": "这条40余年的禁令，被特朗普解除了",
@@ -1047,8 +1086,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 20时29分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -1248,6 +1287,18 @@
           "time_info": "[06时17分 ~ 07时18分]"
         },
         {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 20时29分]"
+        },
+        {
           "title": "特朗普宣布2年后对仿制药征100%关税",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%832%E5%B9%B4%E5%90%8E%E5%AF%B9%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
@@ -1283,18 +1334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时17分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时33分]"
         },
         {
           "title": "特朗普承认美方干预中国事务",
@@ -1509,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
+        },
+        {
+          "title": "美国总统特朗普政府拨款50亿美元用于“创世使命”计划。",
+          "url": "https://flash.jin10.com/detail/20260722200346505800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -1998,7 +2048,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -2050,7 +2100,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -2063,8 +2113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时59分 ~ 19时33分]"
+          "appearance_count": 10,
+          "time_info": "[10时59分 ~ 20时29分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -2079,6 +2129,18 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时28分 ~ 14时52分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 20时29分]"
         },
         {
           "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
@@ -2104,18 +2166,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时46分 ~ 18时42分]"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 19时33分]"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -2185,6 +2235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "OpenAI表示，将改进并增加未来模型训练和评估环节的安全保护措施。",
@@ -2558,7 +2619,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -2715,8 +2776,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时29分]"
         }
       ]
     }
