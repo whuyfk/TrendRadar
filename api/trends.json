@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T22:43:58.673629+08:00",
-  "total_titles_processed": 2192,
+  "generated_at": "2026-07-23T23:39:22.102823+08:00",
+  "total_titles_processed": 2308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 91,
+      "match_count": 93,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时19分 ~ 22时43分]"
+          "appearance_count": 20,
+          "time_info": "[07时19分 ~ 23时39分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -193,6 +194,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 23时39分]"
+        },
+        {
           "title": "上证指数开盘报3868.09点，涨0.03%。 深证成指开盘报14116.02点，涨0.39%。 创业板指开盘报3596.73点，涨0.84%。 沪深300开盘报4735.17点，涨0.38%。 科创50开盘报1876.61点，涨0.89%。 中证500开盘报7750.85点，跌0.01%。 中证1000开盘报7169.54点，涨0.15%。",
           "url": "https://wallstreetcn.com/livenews/3138515",
           "source": "华尔街见闻-快讯",
@@ -265,27 +277,17 @@
           "time_info": "[04时22分 ~ 05时23分]"
         },
         {
-          "title": "长鑫科技：将于7月27日在科创板上市",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 22时43分]"
-        },
-        {
           "title": "A股超4200股上涨却上演冰与火之歌",
           "url": "https://www.toutiao.com/trending/7665661773081313299/",
           "source": "今日头条",
           "ranks": [
             8,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时43分]"
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时39分]"
         },
         {
           "title": "A股普涨行情释放什么信号",
@@ -348,6 +350,17 @@
           "time_info": "[18时42分 ~ 19时35分]"
         },
         {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时39分]"
+        },
+        {
           "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超15%。",
           "url": "https://wallstreetcn.com/livenews/3138624",
           "source": "华尔街见闻-快讯",
@@ -402,7 +415,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -427,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，纳指跌超2.3%，标普跌1.3%、恐慌指数VIX涨17%，道指维持大约1%的跌幅。 美股超大规模云服务商（Hyperscalers）指数跌幅扩大至约5%——跳空低开之后持续扩大跌幅，刷新日低至86.24点。 亚马逊股价下跌5%，创2月6日以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3138960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "A股CPO板块连日走强，锐捷网络涨超5%，联特科技、联讯仪器双双涨超4%，共进股份、剑桥科技、中际旭创、光迅科技、天孚通信等个股跟涨。联讯仪器此前公告，预计公司上半年净利润5.10亿元-5.80亿元，同比增长802%-926%。",
@@ -479,7 +503,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -493,17 +517,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时46分"
-        },
-        {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
         },
         {
           "title": "A股开盘，沪指开涨0.03%，深证成指开涨0.39%，创业板指开涨0.84%；油气设服、体育、锂矿、钙钛矿电池、冰雪经济等概念活跃。",
@@ -699,7 +712,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1012,6 +1025,17 @@
           "time_info": "15时50分"
         },
         {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3138842",
           "source": "华尔街见闻-快讯",
@@ -1048,7 +1072,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -1059,8 +1083,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时32分 ~ 22时43分]"
+          "appearance_count": 18,
+          "time_info": "[09时32分 ~ 23时39分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -1072,8 +1096,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时32分 ~ 22时43分]"
+          "appearance_count": 18,
+          "time_info": "[09时32分 ~ 23时39分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -1190,8 +1214,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时43分]"
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时39分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -1199,11 +1223,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时43分]"
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时39分]"
         },
         {
           "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
@@ -1337,7 +1362,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1375,6 +1400,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "谷歌未来支出承诺飙升至8110亿美元",
+          "url": "https://wallstreetcn.com/livenews/3138950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "谷歌因违反欧盟科技反垄断规则被罚款10.2亿美元",
           "url": "https://flash.jin10.com/detail/20260723181309076800",
           "source": "金十数据",
@@ -1406,6 +1442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
+        },
+        {
+          "title": "谷歌未来支出承诺升至8110亿美元，三个月内暴涨近5000亿美元",
+          "url": "https://flash.jin10.com/detail/20260723225426878800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
@@ -1513,7 +1560,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -1587,7 +1634,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -1598,8 +1645,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时59分 ~ 22时43分]"
+          "appearance_count": 13,
+          "time_info": "[13时59分 ~ 23时39分]"
         },
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -1661,8 +1708,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时00分 ~ 22时43分]"
+          "appearance_count": 17,
+          "time_info": "[11时00分 ~ 23时39分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -1750,6 +1797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "自由港麦克莫兰公司首席执行官：正等待特朗普政府关于铜232关税的决定。若对铜征收关税，公司在美国市场的铜价可能上涨。",
+          "url": "https://flash.jin10.com/detail/20260723231019937800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
@@ -1928,6 +1986,17 @@
           "time_info": "11时01分"
         },
         {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特朗普的政策是以牙还牙，伊朗将付出沉重代价。",
           "url": "https://flash.jin10.com/detail/20260723161200054800",
           "source": "金十数据",
@@ -1959,6 +2028,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "美众院再次通过决议 要求特朗普结束对伊朗战事",
+          "url": "https://flash.jin10.com/detail/20260723224553646800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "美国众议院再次通过伊朗战争权力决议，对特朗普表达谴责",
+          "url": "https://wallstreetcn.com/livenews/3138941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "美国总统特朗普：油价将大幅下跌。尽管部分价格仍处于高位，但油价已经开始回落。",
@@ -2264,7 +2355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -2404,7 +2495,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
@@ -2559,6 +2650,17 @@
           "time_info": "20时29分"
         },
         {
+          "title": "WTI原油日内涨幅达6.0%，报92.04美元/桶。 美元兑日元涨0.5%，报163.97。",
+          "url": "https://wallstreetcn.com/livenews/3138955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "WTI原油日内涨超2.00%，现报88.64美元/桶。",
           "url": "https://flash.jin10.com/detail/20260723060848550800",
           "source": "金十数据",
@@ -2653,7 +2755,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -2686,7 +2788,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         }
@@ -2838,7 +2940,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         },
@@ -3081,6 +3183,18 @@
           "time_info": "[05时23分 ~ 06时19分]"
         },
         {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 23时39分]"
+        },
+        {
           "title": "瑞银：金价有望在2026年底反弹",
           "url": "https://flash.jin10.com/detail/20260723142244050800",
           "source": "金十数据",
@@ -3103,24 +3217,13 @@
           "time_info": "11时01分"
         },
         {
-          "title": "金价四连涨深圳水贝又挤爆了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
           "title": "中东冲突点燃通胀担忧，金价跌超2%",
           "url": "https://flash.jin10.com/detail/20260723214603164800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时43分"
         }
