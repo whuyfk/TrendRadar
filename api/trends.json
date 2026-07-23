@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T19:35:38.247289+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-07-23T20:29:18.841490+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 77,
+      "match_count": 84,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时19分 ~ 19时35分]"
+          "appearance_count": 16,
+          "time_info": "[07时19分 ~ 20时29分]"
         },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -105,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 20时29分]"
         },
         {
           "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，预期每股收益61美分。 美国航空美股盘前跌超4%。",
@@ -115,7 +115,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -147,15 +147,37 @@
           "time_info": "[08时19分 ~ 12时07分]"
         },
         {
+          "title": "美股三大股指期货扩大跌幅，纳期斯达克100指数期货跌超1%，标普500指数期货跌0.73%，道指期货跌0.83%。",
+          "url": "https://flash.jin10.com/detail/20260723202333793800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "长鑫科技：公司股票将于2026年7月27日在上海证券交易所科创板上市。",
           "url": "https://wallstreetcn.com/livenews/3138831",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "长鑫科技将于27日在科创板上市",
+          "url": "https://www.toutiao.com/trending/7665678143990009398/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌2.5%。",
@@ -323,6 +345,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时42分 ~ 19时35分]"
+        },
+        {
+          "title": "A股缩量4580亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F4580%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时29分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
@@ -529,9 +563,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "澜起科技：拟以3亿元-6亿元回购A股股份",
+          "url": "https://wallstreetcn.com/livenews/3138863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "港股芯片股高开，天数智芯(09903.HK)、兆易创新(03986.HK)、澜起科技(06809.HK)均涨超3%，ASMPT(00522.HK)、壁仞科技(06082.HK)、华虹宏力(01347.HK)、中芯国际(00981.HK)等个股跟涨。",
@@ -688,6 +733,17 @@
           "time_info": "11时01分"
         },
         {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "香港恒生指数7月23日（周四）收盘上涨318.15点，涨幅1.28%，报25210.81点；<br/>香港恒生科技指数7月23日（周四）收盘上涨30.25点，涨幅0.65%，报4698.48点；<br/>国企指数7月23日（周四）收盘上涨101.6点，涨幅1.23%，报8352.67点；<br/>红筹指数7月23日（周四）收盘上涨71.84点，涨幅1.74%，报4193.12点。",
           "url": "https://flash.jin10.com/detail/20260723161107608800",
           "source": "金十数据",
@@ -774,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "IMAX第二季度营收1.028亿美元，预估9,390万美元。 第二季度调整后EBITDA 4,800万美元，预估3,930万美元。 第二季度调整后每股收益0.43美元，预估0.28美元。 IMAX美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3138849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "A股7月惊魂 你的股票基金还好吗",
@@ -864,15 +931,15 @@
           "time_info": "15时50分"
         },
         {
-          "title": "A股缩量4580亿",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%BC%A9%E9%87%8F4580%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "黑石集团第二季度总收入38.0亿美元，预期33.9亿美元。 第二季度可分配每股收益1.52美元，预期1.33美元。 黑石集团二季度管理资产1.35万亿美元，预期1.33万亿美元。 黑石集团美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3138842",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时35分"
+          "time_info": "20时29分"
         },
         {
           "title": "A股贵金属板块震荡走高，盛达资源涨停，四川黄金涨超7%，兴业银锡、湖南白银、赤峰黄金、山金国际、中金黄金、西部黄金等个股跟涨。",
@@ -884,12 +951,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "美国航空第二季度调整后每股收益15美分，预期2.7美分。 美国航空预计第三季度营收增长16%至19%。 美国航空预计第三季度调整后每股亏损10美分至70美分，市场预期每股收益31美分。 美国航空预计全年调整后每股亏损65美分至每股收益65美分，市场预期每股收益61美分。 美国航空美股盘前跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3138834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -900,8 +978,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时32分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[09时32分 ~ 20时29分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -913,8 +991,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时32分 ~ 19时35分]"
+          "appearance_count": 14,
+          "time_info": "[09时32分 ~ 20时29分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -951,8 +1029,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时50分 ~ 19时35分]"
+          "appearance_count": 7,
+          "time_info": "[15时50分 ~ 20时29分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -1291,6 +1369,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "谷歌：在SpaceX首次公开募股后持有其940亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3138853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（MAUs）达到9.5亿。 （一系列）AI功能正驱动搜索增长。 （众多）Gemini模型现在每分钟处理220亿API Tokens。",
           "url": "https://wallstreetcn.com/livenews/3138394",
           "source": "华尔街见闻-快讯",
@@ -1360,7 +1449,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
@@ -1394,8 +1483,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 20时29分]"
         },
         {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
@@ -1434,8 +1523,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时00分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[11时00分 ~ 20时29分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -1503,6 +1592,17 @@
           "time_info": "[15时50分 ~ 19时35分]"
         },
         {
+          "title": "特朗普：若胡塞武装再次袭击船只 美国将追究伊朗责任",
+          "url": "https://flash.jin10.com/detail/20260723202131614800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260723000745259800",
           "source": "金十数据",
@@ -1525,6 +1625,17 @@
           "time_info": "18时42分"
         },
         {
+          "title": "美国总统特朗普：伊朗和胡塞武装将面临严厉的军事惩罚。",
+          "url": "https://flash.jin10.com/detail/20260723202055680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://flash.jin10.com/detail/20260723050424634800",
           "source": "金十数据",
@@ -1545,6 +1656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时19分"
+        },
+        {
+          "title": "美国总统特朗普：对胡塞武装非常失望。",
+          "url": "https://flash.jin10.com/detail/20260723202050939800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-23）",
@@ -1613,6 +1735,28 @@
           "time_info": "05时23分"
         },
         {
+          "title": "特朗普：美沙协议以沙特加入《亚伯拉罕协议》为条件。 美国与沙特的协议不包含材料浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3138861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗和胡塞武装）如果他们再这样做将受到惩罚。",
+          "url": "https://flash.jin10.com/detail/20260723201830474800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美国特勤局表示，今年针对其保护对象的威胁较去年同期增加了约40%，至今已记录近万起，且涉及的心理健康干预次数激增了十倍，这导致调配至调查与保护工作的资源极为紧张。此时正值重新举办的白宫记者协会晚宴前夕，而原定于4月举行的晚宴曾因针对特朗普的刺杀未遂事件被迫推迟。",
           "url": "https://flash.jin10.com/detail/20260723102820896800",
           "source": "金十数据",
@@ -1633,6 +1777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "美国总统特朗普：美国将对未来的胡塞武装袭击追究伊朗的责任。",
+          "url": "https://flash.jin10.com/detail/20260723201810939800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
@@ -1704,7 +1859,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "英国央行加息预期升温，英国国债收益率飙升",
@@ -1861,7 +2016,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -1897,6 +2052,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "贝莱德称高企的美债收益率为投资者提供稳健的抗跌保护",
+          "url": "https://wallstreetcn.com/livenews/3138866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "欧元区债券收益率在欧洲央行决策公布后小幅下跌，德国2年期国债收益率日内上涨1个基点，现报2.858%。",
+          "url": "https://flash.jin10.com/detail/20260723201913240800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "汇丰：维持对日本国债“温和看跌”的观点",
@@ -1943,6 +2120,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国10年期国债收益率触及年内新高，报4.69%。",
+          "url": "https://wallstreetcn.com/livenews/3138856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美国至7月22日4个月国债竞拍-得标利率 3.845%，前值3.75%。",
           "url": "https://flash.jin10.com/detail/20260722233407500800",
           "source": "金十数据",
@@ -1974,6 +2162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "美国2年期国债收益率攀升至4.32%，创下年内新高。",
+          "url": "https://wallstreetcn.com/livenews/3138851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%——创2020年以来第二高（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
@@ -2012,7 +2211,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
@@ -2106,7 +2305,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -2133,6 +2332,17 @@
           "time_info": "17时46分"
         },
         {
+          "title": "贸易消息人士称，随着红海持续出现干扰，沙特阿美正从埃及地中海西迪克里尔港提供更多原油船货。",
+          "url": "https://flash.jin10.com/detail/20260723201953792800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "WTI原油日内涨超2.00%，现报88.64美元/桶。",
           "url": "https://flash.jin10.com/detail/20260723060848550800",
           "source": "金十数据",
@@ -2142,6 +2352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "布伦特原油日内大涨4.00%，现报94.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260723201901122800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "印度斯坦石油公司高管：6月当季从现货市场采购了69%的原油，而去年同期为44%。",
@@ -2208,12 +2429,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "WTI原油日内涨幅达4.5%，报90.78美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3138841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -2316,6 +2548,18 @@
           "time_info": "[13时59分 ~ 14时58分]"
         },
         {
+          "title": "DeepSeek华为合作",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时29分]"
+        },
+        {
           "title": "梁文锋：不追求成为下一个字节或腾讯",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%EF%BC%9A%E4%B8%8D%E8%BF%BD%E6%B1%82%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%AD%97%E8%8A%82%E6%88%96%E8%85%BE%E8%AE%AF",
           "source": "百度热搜",
@@ -2338,6 +2582,17 @@
           "time_info": "[13时59分 ~ 14时58分]"
         },
         {
+          "title": "如何看待梁文锋称不要求员工长期加班？为啥刘强东、梁文锋等大厂创始人都在反过度加班但这仍是大厂的常态？",
+          "url": "https://www.zhihu.com/question/2063652081714423010",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "DeepSeek与Kimi的突破说明了什么",
           "url": "https://www.toutiao.com/trending/7665542730700820004/",
           "source": "今日头条",
@@ -2358,17 +2613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
-        },
-        {
-          "title": "DeepSeek华为合作",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         },
         {
           "title": "梁文峰称DeepSeek只有一条主线",
@@ -2411,8 +2655,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 19时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 20时29分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
