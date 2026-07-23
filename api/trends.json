@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T06:19:44.805412+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-07-24T07:17:50.626327+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -27,8 +27,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时37分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时37分 ~ 07时17分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -124,6 +124,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普重建关税墙！60个经济体被征10%-12.5%新税",
+          "url": "https://flash.jin10.com/detail/20260724065207564800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "美国总统特朗普：伊朗比四个月前更弱。",
           "url": "https://flash.jin10.com/detail/20260724025416982800",
           "source": "金十数据",
@@ -185,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -232,6 +243,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普：将用伊朗资金赔付船只及货物损失",
+          "url": "https://flash.jin10.com/detail/20260724060544831800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美国总统特朗普宣称：船只的损失将由“伊朗资金”来赔偿。 货物损失将用（美国方借制裁而扣留的）伊朗的钱来赔偿。 这些损失可能非常巨大。 这样做是公平的。",
+          "url": "https://wallstreetcn.com/livenews/3139088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
@@ -281,7 +314,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -291,8 +324,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            9,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
@@ -302,24 +349,12 @@
             12,
             10,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "长鑫科技：将于7月27日在科创板上市",
@@ -329,8 +364,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
@@ -341,8 +376,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "长鑫科技7月27日科创板上市",
@@ -351,11 +386,12 @@
           "ranks": [
             23,
             15,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时28分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[03时28分 ~ 07时17分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -364,9 +400,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "A股科技板块持续调整，机构关注资源品与红利低位股",
+          "url": "https://wallstreetcn.com/livenews/3139106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时17分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -466,6 +513,17 @@
           "time_info": "[05时22分 ~ 06时19分]"
         },
         {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025439749800",
           "source": "金十数据",
@@ -486,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "跟投1单赚出近10倍保荐承销费，券商“三投联动”陪伴科创板公司成长",
+          "url": "https://wallstreetcn.com/livenews/3139090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股收盘）",
@@ -519,6 +588,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "周五亚太盘初，纳指期货涨0.3%。 目前（美股盘后），科技股英特尔涨4.5%，甲骨文涨2%，AMD涨1.4%，特斯拉反弹1.1%，美光跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3139086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     },
@@ -668,8 +748,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -679,23 +759,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
-        },
-        {
-          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063569251428819442",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            12,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -707,8 +772,24 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            12,
+            7,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
@@ -1010,19 +1091,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时37分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[02时37分 ~ 07时17分]"
         },
         {
           "title": "金价跌2%，下探4000美元整数位心理关口",
           "url": "https://wallstreetcn.com/livenews/3139079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时17分]"
         }
       ]
     },
