@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T13:58:18.097104+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-07-24T14:49:23.807174+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时19分 ~ 14时49分]"
+        },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
@@ -19,18 +31,6 @@
           "time_info": "[00时29分 ~ 07时17分]"
         },
         {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时19分 ~ 13时58分]"
-        },
-        {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时18分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[08时18分 ~ 14时49分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时17分 ~ 13时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 14时49分]"
         },
         {
           "title": "长鑫科技7月27日科创板上市",
@@ -70,8 +70,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时28分 ~ 13时58分]"
+          "appearance_count": 15,
+          "time_info": "[03时28分 ~ 14时49分]"
         },
         {
           "title": "美股",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时49分]"
         },
         {
           "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
@@ -136,8 +136,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 14时49分]"
         },
         {
           "title": "香港恒生指数7月24日（周五）开盘下跌278.31点，跌幅1.1%，报24932.5点；<br/>香港恒生科技指数7月24日（周五）开盘下跌87.35点，跌幅1.86%，报4611.13点；<br/>国企指数7月24日（周五）开盘下跌94.75点，跌幅1.13%，报8257.92点；<br/>红筹指数7月24日（周五）开盘下跌25.82点，跌幅0.62%，报4167.3点。",
@@ -149,17 +149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2583185",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "韩国交易所对韩国创业板指（KOSDAQ） 启动暂停程序化交易机制。",
@@ -229,6 +218,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 05时22分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2583185",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时49分]"
         },
         {
           "title": "英特尔美股盘后涨幅扩大至12%。",
@@ -329,6 +330,18 @@
           "time_info": "[05时22分 ~ 06时19分]"
         },
         {
+          "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3139235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时49分]"
+        },
+        {
           "title": "创业板指跌超2%，沪指跌0.74%，深成指跌1.75%，贵金属、培育钻石、CPO、PCB等方向跌幅居前，沪深京三市下跌个股超4700只。",
           "url": "https://wallstreetcn.com/livenews/3139165",
           "source": "华尔街见闻-快讯",
@@ -388,24 +401,24 @@
           "time_info": "03时29分"
         },
         {
+          "title": "A股震荡调整",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%9C%87%E8%8D%A1%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。消息面上，长鑫科技将于2026年7月27日在上海证券交易所科创板上市。",
           "url": "https://flash.jin10.com/detail/20260724130333818800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3139235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -441,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "美股终难忽视战争？布油期货破百，全球债市抛售敲响通胀警报",
+          "url": "https://flash.jin10.com/detail/20260724142421066800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-24）",
@@ -549,22 +573,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时37分 ~ 13时58分]"
-        },
-        {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[02时37分 ~ 14时49分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -574,8 +584,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 14时49分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 14时49分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -606,7 +631,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -665,8 +690,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 13时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时59分 ~ 14时49分]"
         },
         {
           "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
@@ -677,8 +702,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 14时49分]"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时07分 ~ 13时58分]"
+          "time_info": "[13时58分 ~ 14时49分]"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -735,17 +772,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
@@ -960,19 +986,8 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "日本5年期国债收益率升至2.045%，创2000年首次发行以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3139249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
         {
           "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
           "url": "https://wallstreetcn.com/livenews/3139026",
@@ -985,6 +1000,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时22分]"
+        },
+        {
+          "title": "日本5年期国债收益率升至2.045%，创2000年首次发行以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3139249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时49分]"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -1081,6 +1108,17 @@
           "time_info": "08时19分"
         },
         {
+          "title": "日本40年期国债收益率上升10个基点至4.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260724113119285800",
           "source": "金十数据",
@@ -1090,6 +1128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "日本40年期国债收益率上升10个基点，达到4.010%。",
+          "url": "https://flash.jin10.com/detail/20260724142205953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "美国至7月23日8周国债竞拍-得标利率配置百分比 87.33%，前值46.6%。",
@@ -1134,6 +1183,171 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "OpenAI Codex产品负责人Tibo：我们应该把ChatGPT Work改名为ChatGPT Vibe吗？",
+          "url": "https://flash.jin10.com/detail/20260724144112686800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "菲尔兹奖得主谈加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时49分]"
+        },
+        {
+          "title": "OpenAI：预计将大规模部署AMD的Helios。",
+          "url": "https://wallstreetcn.com/livenews/3139011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
+          "url": "https://wallstreetcn.com/livenews/3139010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+          "url": "https://flash.jin10.com/detail/20260724011145043800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
+          "url": "https://flash.jin10.com/detail/20260724010957846800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI预计将大规模部署AMD Helios。",
+          "url": "https://flash.jin10.com/detail/20260724010730197800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
+          "url": "https://flash.jin10.com/detail/20260724010724640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
+          "url": "https://flash.jin10.com/detail/20260724034515352800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "OpenAI：将在ChatGPT中推出健康功能。",
+          "url": "https://flash.jin10.com/detail/20260724010535689800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Brockman：很高兴欢迎Jacob Tsimerman（2026年菲尔兹奖得主）加入团队！",
+          "url": "https://flash.jin10.com/detail/20260724113006248800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7665911607725149738/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -1299,159 +1513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "菲尔兹奖得主谈加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "OpenAI：预计将大规模部署AMD的Helios。",
-          "url": "https://wallstreetcn.com/livenews/3139011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
-          "url": "https://flash.jin10.com/detail/20260724010957846800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI预计将大规模部署AMD Helios。",
-          "url": "https://flash.jin10.com/detail/20260724010730197800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
-          "url": "https://flash.jin10.com/detail/20260724010724640800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
-          "url": "https://flash.jin10.com/detail/20260724034515352800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "OpenAI：将在ChatGPT中推出健康功能。",
-          "url": "https://flash.jin10.com/detail/20260724010535689800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI总裁兼联合创始人Brockman：很高兴欢迎Jacob Tsimerman（2026年菲尔兹奖得主）加入团队！",
-          "url": "https://flash.jin10.com/detail/20260724113006248800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
-          "url": "https://www.toutiao.com/trending/7665911607725149738/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
-          "url": "https://wallstreetcn.com/livenews/3139178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
         }
       ]
     },
@@ -1671,9 +1732,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时49分]"
         },
         {
           "title": "学者：黄金价格尚未迎来击球区",
