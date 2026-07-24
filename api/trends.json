@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T21:32:21.138464+08:00",
-  "total_titles_processed": 2036,
+  "generated_at": "2026-07-24T22:32:37.794207+08:00",
+  "total_titles_processed": 2134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时19分 ~ 21时32分]"
+          "appearance_count": 20,
+          "time_info": "[06时19分 ~ 22时32分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时59分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[10时59分 ~ 22时32分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -163,8 +163,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时45分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 22时32分]"
+        },
+        {
+          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
+          "url": "https://www.cls.cn/detail/2436662",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时32分]"
         },
         {
           "title": "A股这轮反弹为何又变脸了",
@@ -176,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时38分 ~ 20时39分]"
-        },
-        {
-          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
-          "url": "https://www.cls.cn/detail/2436662",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "香港恒生指数7月24日（周五）开盘下跌278.31点，跌幅1.1%，报24932.5点；<br/>香港恒生科技指数7月24日（周五）开盘下跌87.35点，跌幅1.86%，报4611.13点；<br/>国企指数7月24日（周五）开盘下跌94.75点，跌幅1.13%，报8257.92点；<br/>红筹指数7月24日（周五）开盘下跌25.82点，跌幅0.62%，报4167.3点。",
@@ -594,7 +594,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -627,7 +627,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -742,6 +742,17 @@
           "time_info": "16时48分"
         },
         {
+          "title": "美股纳指低开0.1% 英特尔小幅高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%800.1%25+%E8%8B%B1%E7%89%B9%E5%B0%94%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "财报公布后，斯伦贝谢(SLB.N)美股盘前走高，现涨2.5%。",
           "url": "https://flash.jin10.com/detail/20260724185400804800",
           "source": "金十数据",
@@ -852,13 +863,24 @@
           "time_info": "15时47分"
         },
         {
+          "title": "A股史上最大股票回购方案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美股IPO热潮是不是泡沫前兆（二）悲观派：看数量不如看金额，两大浪潮同现是高危信号",
           "url": "https://flash.jin10.com/detail/20260724204510004800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -872,6 +894,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF涨超1%，网络股指数ETF涨近1%，半导体ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3139499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美股盘初：道指涨0.2%，存储芯片股普跌，英特尔跌约1%，Amkor涨约6%",
+          "url": "https://wallstreetcn.com/livenews/3139496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "兆易创新A股成交额超200亿元，现涨超1.3%。",
@@ -888,7 +932,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -898,8 +942,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时32分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时32分 ~ 22时32分]"
         },
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -940,8 +984,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时58分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[13时58分 ~ 22时32分]"
         },
         {
           "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
@@ -982,6 +1026,17 @@
           "time_info": "[00时29分 ~ 03时29分]"
         },
         {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周二在白宫会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260724221517947800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
           "url": "https://flash.jin10.com/detail/20260724000958452800",
           "source": "金十数据",
@@ -1002,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡将于周一应美国总统特朗普邀请访问华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260724221512312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -1032,7 +1098,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1054,7 +1120,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1152,6 +1218,17 @@
           "time_info": "03时29分"
         },
         {
+          "title": "以色列宣称：总理内塔尼亚胡下周二将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
           "url": "https://flash.jin10.com/detail/20260724025035550800",
           "source": "金十数据",
@@ -1246,7 +1323,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1407,6 +1484,242 @@
       ]
     },
     {
+      "keyword_group": "美债 国债",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
+          "url": "https://wallstreetcn.com/livenews/3139026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时22分]"
+        },
+        {
+          "title": "日本5年期国债收益率升至2.045%，创2000年首次发行以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3139249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 14时49分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3139134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时19分 ~ 09时33分]"
+        },
+        {
+          "title": "美国两年期国债收益率涨超5.3个基点，投资者关注中东局势的影响",
+          "url": "https://wallstreetcn.com/livenews/3139049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时19分]"
+        },
+        {
+          "title": "英国2/10年期国债收益率涨约7个基点",
+          "url": "https://wallstreetcn.com/livenews/3138988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时37分]"
+        },
+        {
+          "title": "中国30年期国债收益率跌1.9个基点至2.19%下方，为2025年11月底以来低点。",
+          "url": "https://wallstreetcn.com/livenews/3139333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时45分]"
+        },
+        {
+          "title": "德国两年期国债收益率在欧洲央行决议日涨超4个基点，投资者关注国际油价涨势",
+          "url": "https://wallstreetcn.com/livenews/3138998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 02时37分]"
+        },
+        {
+          "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%——创2008年以来新高（5月21日为2.169%），投标倍数2.30（前次2.52）。",
+          "url": "https://wallstreetcn.com/livenews/3139009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时29分]"
+        },
+        {
+          "title": "美联储放手市场定价，结果却是美债暴跌：利率高波动时代开启？",
+          "url": "https://flash.jin10.com/detail/20260724220632626800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20260724043339186800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%（5月21日为2.169%），投标倍数2.30（前次2.52）。",
+          "url": "https://wallstreetcn.com/livenews/3139009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "日本至7月17日当周买进外国债券 -7144亿日元，前值由10901亿日元修正为10900亿日元。",
+          "url": "https://flash.jin10.com/detail/20260724075003061800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时19分"
+        },
+        {
+          "title": "日本40年期国债收益率上升10个基点至4.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.13%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260724113119285800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "日本40年期国债收益率上升10个基点，达到4.010%。",
+          "url": "https://flash.jin10.com/detail/20260724142205953800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "美国至7月23日8周国债竞拍-得标利率配置百分比 87.33%，前值46.6%。",
+          "url": "https://flash.jin10.com/detail/20260723233407931800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.730%，投标倍数2.79。 拍卖八周期国债，得标利率3.795%，投标倍数2.31。",
+          "url": "https://wallstreetcn.com/livenews/3138977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国至7月23日8周国债竞拍-得标利率 3.795%，前值3.65%。",
+          "url": "https://flash.jin10.com/detail/20260723233400965800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "美国至7月23日8周国债竞拍-投标倍数 2.31，前值2.84。",
+          "url": "https://flash.jin10.com/detail/20260723233351283800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "原油",
       "match_count": 20,
       "titles": [
@@ -1488,7 +1801,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1510,7 +1823,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1638,231 +1951,6 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
-          "url": "https://wallstreetcn.com/livenews/3139026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时22分]"
-        },
-        {
-          "title": "日本5年期国债收益率升至2.045%，创2000年首次发行以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3139249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时49分]"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3139134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时19分 ~ 09时33分]"
-        },
-        {
-          "title": "美国两年期国债收益率涨超5.3个基点，投资者关注中东局势的影响",
-          "url": "https://wallstreetcn.com/livenews/3139049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时19分]"
-        },
-        {
-          "title": "英国2/10年期国债收益率涨约7个基点",
-          "url": "https://wallstreetcn.com/livenews/3138988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时37分]"
-        },
-        {
-          "title": "中国30年期国债收益率跌1.9个基点至2.19%下方，为2025年11月底以来低点。",
-          "url": "https://wallstreetcn.com/livenews/3139333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时45分]"
-        },
-        {
-          "title": "德国两年期国债收益率在欧洲央行决议日涨超4个基点，投资者关注国际油价涨势",
-          "url": "https://wallstreetcn.com/livenews/3138998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 02时37分]"
-        },
-        {
-          "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%——创2008年以来新高（5月21日为2.169%），投标倍数2.30（前次2.52）。",
-          "url": "https://wallstreetcn.com/livenews/3139009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时29分]"
-        },
-        {
-          "title": "美国至7月17日当周外国央行持有美国国债 248.14亿美元，前值6.39亿美元。",
-          "url": "https://flash.jin10.com/detail/20260724043339186800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国财政部拍卖210亿美元10年期通胀保值国债（TIPS），得标利率2.438%（5月21日为2.169%），投标倍数2.30（前次2.52）。",
-          "url": "https://wallstreetcn.com/livenews/3139009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "日本至7月17日当周买进外国债券 -7144亿日元，前值由10901亿日元修正为10900亿日元。",
-          "url": "https://flash.jin10.com/detail/20260724075003061800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "日本40年期国债收益率上升10个基点至4.01%。",
-          "url": "https://wallstreetcn.com/livenews/3139261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.13%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3139300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20260724113119285800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "日本40年期国债收益率上升10个基点，达到4.010%。",
-          "url": "https://flash.jin10.com/detail/20260724142205953800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "美国至7月23日8周国债竞拍-得标利率配置百分比 87.33%，前值46.6%。",
-          "url": "https://flash.jin10.com/detail/20260723233407931800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美国财政部拍卖四周期国债，得标利率3.730%，投标倍数2.79。 拍卖八周期国债，得标利率3.795%，投标倍数2.31。",
-          "url": "https://wallstreetcn.com/livenews/3138977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美国至7月23日8周国债竞拍-得标利率 3.795%，前值3.65%。",
-          "url": "https://flash.jin10.com/detail/20260723233400965800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "美国至7月23日8周国债竞拍-投标倍数 2.31，前值2.84。",
-          "url": "https://flash.jin10.com/detail/20260723233351283800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 16,
       "titles": [
@@ -1877,8 +1965,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时47分 ~ 21时32分]"
+          "appearance_count": 10,
+          "time_info": "[15时47分 ~ 22时32分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -1888,11 +1976,12 @@
             19,
             17,
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时48分 ~ 21时32分]"
+          "appearance_count": 9,
+          "time_info": "[16时48分 ~ 22时32分]"
         },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们应该把ChatGPT Work改名为ChatGPT Vibe吗？",
@@ -2156,7 +2245,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2167,7 +2256,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -2359,7 +2448,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。",
@@ -2395,6 +2484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨约1.8%，报88.69美元，有望脱离6月26日以来最低位87.10美元。",
+          "url": "https://wallstreetcn.com/livenews/3139505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     }
