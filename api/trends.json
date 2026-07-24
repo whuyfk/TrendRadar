@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T14:49:23.807174+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-07-24T15:47:44.362373+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 45,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时19分 ~ 14时49分]"
+          "appearance_count": 11,
+          "time_info": "[06时19分 ~ 15时47分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时18分 ~ 14时49分]"
+          "appearance_count": 9,
+          "time_info": "[08时18分 ~ 15时47分]"
         },
         {
           "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 14时49分]"
+          "appearance_count": 10,
+          "time_info": "[07时17分 ~ 15时47分]"
         },
         {
           "title": "长鑫科技7月27日科创板上市",
@@ -70,8 +70,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时28分 ~ 14时49分]"
+          "appearance_count": 16,
+          "time_info": "[03时28分 ~ 15时47分]"
         },
         {
           "title": "美股",
@@ -136,8 +136,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 14时49分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 15时47分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2583185",
+          "source": "抖音",
+          "ranks": [
+            1,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时47分]"
         },
         {
           "title": "香港恒生指数7月24日（周五）开盘下跌278.31点，跌幅1.1%，报24932.5点；<br/>香港恒生科技指数7月24日（周五）开盘下跌87.35点，跌幅1.86%，报4611.13点；<br/>国企指数7月24日（周五）开盘下跌94.75点，跌幅1.13%，报8257.92点；<br/>红筹指数7月24日（周五）开盘下跌25.82点，跌幅0.62%，报4167.3点。",
@@ -218,18 +231,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 05时22分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2583185",
-          "source": "抖音",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时49分]"
         },
         {
           "title": "英特尔美股盘后涨幅扩大至12%。",
@@ -318,6 +319,18 @@
           "time_info": "[09时33分 ~ 10时59分]"
         },
         {
+          "title": "A股震荡调整",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%9C%87%E8%8D%A1%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 15时47分]"
+        },
+        {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
           "url": "https://wallstreetcn.com/livenews/3139066",
           "source": "华尔街见闻-快讯",
@@ -401,15 +414,15 @@
           "time_info": "03时29分"
         },
         {
-          "title": "A股震荡调整",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%9C%87%E8%8D%A1%E8%B0%83%E6%95%B4",
+          "title": "A股收盘：创业板指、深成指均跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E3%80%81%E6%B7%B1%E6%88%90%E6%8C%87%E5%9D%87%E8%B7%8C%E8%B6%852%25",
           "source": "百度热搜",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时49分"
+          "time_info": "15时47分"
         },
         {
           "title": "A股存储芯片板块午后回升，托伦斯涨超15%，至纯科技涨停，正帆科技涨超9%，通富微电、精测电子、强一股份、深科技、拓荆科技等个股跟涨。消息面上，长鑫科技将于2026年7月27日在上海证券交易所科创板上市。",
@@ -445,6 +458,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "机构：A股市场大周期上行趋势不变",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E6%9E%84%EF%BC%9AA%E8%82%A1%E5%B8%82%E5%9C%BA%E5%A4%A7%E5%91%A8%E6%9C%9F%E4%B8%8A%E8%A1%8C%E8%B6%8B%E5%8A%BF%E4%B8%8D%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "上证指数跌超1%，深证成指、创业板指此前跌超1%；贵金属、电力、人形机器人、数字媒体、小金属等板块走低。",
           "url": "https://flash.jin10.com/detail/20260724103358696800",
           "source": "金十数据",
@@ -462,7 +486,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -498,6 +522,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "A股收盘：沪指跌1.61%逼近3800点，全市场成交不足2万亿",
+          "url": "https://wallstreetcn.com/livenews/3139291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "外围市场重挫 A股韧性几何",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%B4%E5%B8%82%E5%9C%BA%E9%87%8D%E6%8C%AB+A%E8%82%A1%E9%9F%A7%E6%80%A7%E5%87%A0%E4%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股收盘）",
@@ -542,12 +588,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "上证指数收报3814.20点，跌1.61%。 深证成指收报13774.68点，跌2.47%。 创业板指收报3480.87点，跌2.65%。 沪深300收报4649.19点，跌1.67%。 科创50收报1787.20点，跌0.14%。 中证500收报7532.70点，跌2.61%。 中证1000收报6995.69点，跌2.78%。",
+          "url": "https://wallstreetcn.com/livenews/3139286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "A股半日缩量2306亿",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E7%BC%A9%E9%87%8F2306%E4%BA%BF%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "兆易创新A股成交额超200亿元，现涨超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3139274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -559,6 +638,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时32分 ~ 15时47分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -573,19 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时37分 ~ 14时49分]"
-        },
-        {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时32分 ~ 14时49分]"
+          "appearance_count": 17,
+          "time_info": "[02时37分 ~ 15时47分]"
         },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
@@ -599,8 +678,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 15时47分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -669,6 +748,31 @@
           "time_info": "09时33分"
         },
         {
+          "title": "【外交部：愿在人工智能领域落实好中美元首重要共识】就有报道称美国总统特朗普表示美中两国领导人将讨论人工智能相关议题，外交部发言人林剑24日在例行记者会上答问时表示，元首外交对中美关系具有不可替代的战略引领作用。中方愿同美方一道，在人工智能领域落实好两国元首的重要共识。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3139307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 15时47分]"
+        },
+        {
           "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
           "url": "https://wallstreetcn.com/livenews/3139040",
           "source": "华尔街见闻-快讯",
@@ -681,19 +785,6 @@
           "time_info": "[03时29分 ~ 04时22分]"
         },
         {
-          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
-          "url": "https://www.cls.cn/detail/2435732",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 14时49分]"
-        },
-        {
           "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
           "url": "https://wallstreetcn.com/articles/3777809",
           "source": "华尔街见闻",
@@ -702,8 +793,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时47分]"
         },
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -714,8 +805,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时47分]"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -981,12 +1072,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "据报道，泽连斯基将于7月28日在美国会晤特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3139278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "大摩：10年期日本国债在“令人瞠目”的3%水平值得买入",
@@ -1114,9 +1216,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约涨0.13%，10年期主力合约涨0.07%，5年期主力合约涨0.02%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3139300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -1136,7 +1249,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -1187,173 +1300,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "OpenAI Codex产品负责人Tibo：我们应该把ChatGPT Work改名为ChatGPT Vibe吗？",
-          "url": "https://flash.jin10.com/detail/20260724144112686800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "菲尔兹奖得主谈加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时49分]"
-        },
-        {
-          "title": "OpenAI：预计将大规模部署AMD的Helios。",
-          "url": "https://wallstreetcn.com/livenews/3139011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
-          "url": "https://wallstreetcn.com/livenews/3139010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时37分 ~ 03时29分]"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
-          "url": "https://flash.jin10.com/detail/20260724010957846800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI预计将大规模部署AMD Helios。",
-          "url": "https://flash.jin10.com/detail/20260724010730197800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
-          "url": "https://flash.jin10.com/detail/20260724010724640800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
-          "url": "https://flash.jin10.com/detail/20260724034515352800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "OpenAI：将在ChatGPT中推出健康功能。",
-          "url": "https://flash.jin10.com/detail/20260724010535689800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "OpenAI总裁兼联合创始人Brockman：很高兴欢迎Jacob Tsimerman（2026年菲尔兹奖得主）加入团队！",
-          "url": "https://flash.jin10.com/detail/20260724113006248800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
-          "url": "https://www.toutiao.com/trending/7665911607725149738/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
-          "url": "https://wallstreetcn.com/livenews/3139178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "WTI原油日内涨幅达7.5%，报93.38美元/桶；布伦特原油日内涨幅达5.5%，报95.16美元/桶。",
@@ -1471,6 +1419,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "布伦特原油日内下跌2.00%，现报93.02美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260724152722186800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
           "title": "原油系期货主力合约涨幅收窄，SC原油现涨幅为5.25%，现报593.5元/桶，此前一度涨超7%。低硫燃料油（LU）涨幅为2.14%，现报5010元/吨。燃油涨幅为2.24%，现报3930元/吨。",
           "url": "https://flash.jin10.com/detail/20260724090250343800",
           "source": "金十数据",
@@ -1480,6 +1439,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时33分"
+        },
+        {
+          "title": "商品期货收盘，钯主力合约跌超5%，铂跌超4%，沪银跌近4%，沪金、多晶硅、鸡蛋、生猪跌超2%。原油涨超4%，菜籽粕、乙二醇涨超3%，菜籽油涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3139284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达1.5%，报92.82美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3139280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
         },
         {
           "title": "WTI原油期货涨幅扩大至7%，至93美元/桶上方。布伦特原油涨超5%，报95.31美元/桶。",
@@ -1513,6 +1494,183 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "OpenAI Codex产品负责人Tibo：我们应该把ChatGPT Work改名为ChatGPT Vibe吗？",
+          "url": "https://flash.jin10.com/detail/20260724144112686800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "菲尔兹奖得主谈加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B0%88%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时47分]"
+        },
+        {
+          "title": "OpenAI：预计将大规模部署AMD的Helios。",
+          "url": "https://wallstreetcn.com/livenews/3139011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时29分]"
+        },
+        {
+          "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
+          "url": "https://wallstreetcn.com/livenews/3139010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时37分 ~ 03时29分]"
+        },
+        {
+          "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
+          "url": "https://www.zhihu.com/question/2063832242242184073",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+          "url": "https://flash.jin10.com/detail/20260724011145043800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI基础设施负责人：公司三个月前已开始使用AMD Helios GPU机架。",
+          "url": "https://flash.jin10.com/detail/20260724010957846800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI预计将大规模部署AMD Helios。",
+          "url": "https://flash.jin10.com/detail/20260724010730197800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI：今日开始向美国地区已登录的18岁及以上ChatGPT用户逐步推出“健康”功能，覆盖网页版和iOS端的Free、Go、Plus和Pro订阅用户。",
+          "url": "https://flash.jin10.com/detail/20260724010724640800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI：ChatGPT语音功能现在已在桌面应用中上线。",
+          "url": "https://flash.jin10.com/detail/20260724034515352800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "OpenAI：将在ChatGPT中推出健康功能。",
+          "url": "https://flash.jin10.com/detail/20260724010535689800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人Brockman：很高兴欢迎Jacob Tsimerman（2026年菲尔兹奖得主）加入团队！",
+          "url": "https://flash.jin10.com/detail/20260724113006248800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7665911607725149738/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -1645,6 +1803,82 @@
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            26,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时37分 ~ 08时19分]"
+        },
+        {
+          "title": "金价跌2%，下探4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时47分]"
+        },
+        {
+          "title": "国际黄金或处于“转向”前夜！为何地缘恐慌未能推升银价？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260724153320725800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）上海金午盘价为881.09元/克，较国际金价(881.97元/克)，低0.88元/克",
+          "url": "https://flash.jin10.com/detail/20260724153037980800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时47分"
+        },
+        {
+          "title": "学者：黄金价格尚未迎来击球区",
+          "url": "https://www.toutiao.com/trending/7665878483473550911/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1692,60 +1926,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价四连涨深圳水贝又挤爆了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            26,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时37分 ~ 08时19分]"
-        },
-        {
-          "title": "金价跌2%，下探4000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3139079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时17分]"
-        },
-        {
-          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
-          "url": "https://www.zhihu.com/question/2063412432022901058",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 14时49分]"
-        },
-        {
-          "title": "学者：黄金价格尚未迎来击球区",
-          "url": "https://www.toutiao.com/trending/7665878483473550911/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
         }
       ]
     },
