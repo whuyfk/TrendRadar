@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T09:32:57.797100+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-07-26T10:59:48.447292+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -15,11 +15,12 @@
             8,
             7,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 10时59分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 10时59分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -40,11 +41,12 @@
           "ranks": [
             6,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 09时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时59分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -52,11 +54,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 10时59分]"
+        },
+        {
+          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
+          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
         },
         {
           "title": "专家：特朗普一刀切关税得罪全部盟友",
@@ -77,11 +92,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 09时32分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 10时59分]"
         },
         {
           "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
@@ -89,22 +105,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 09时32分]"
-        },
-        {
-          "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
-          "url": "https://news.ifeng.com/c/8v48kLIyX9u",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 10时59分]"
         },
         {
           "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
@@ -162,6 +168,41 @@
           "time_info": "[02时16分 ~ 04时18分]"
         },
         {
+          "title": "特朗普下令暂停打击伊朗",
+          "url": "https://www.toutiao.com/trending/7666608065243778606/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 10时59分]"
+        },
+        {
+          "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
+          "url": "https://news.ifeng.com/c/8v3M9RFFAJ3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
+        },
+        {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
+        },
+        {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
           "url": "https://flash.jin10.com/detail/20260725222304302800",
           "source": "金十数据",
@@ -174,15 +215,28 @@
           "time_info": "[00时17分 ~ 01时20分]"
         },
         {
-          "title": "特朗普下令暂停打击伊朗",
-          "url": "https://www.toutiao.com/trending/7666608065243778606/",
-          "source": "今日头条",
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时20分 ~ 09时32分]"
+          "time_info": "[09时32分 ~ 10时59分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 10时59分]"
         },
         {
           "title": "特朗普称暂停空袭伊朗",
@@ -208,54 +262,54 @@
           "time_info": "[07时17分 ~ 07时18分]"
         },
         {
-          "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
-          "url": "https://news.ifeng.com/c/8v3M9RFFAJ3",
-          "source": "凤凰网",
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/articles/3777934",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "10时59分"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
+          "title": "澳大利亚总理：将就新关税问题向特朗普提出交涉",
+          "url": "https://flash.jin10.com/detail/20260726095815377800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
+          "url": "https://wallstreetcn.com/articles/3777933",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "10时59分"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
+          "time_info": "10时59分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -277,8 +331,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 10时59分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -289,8 +343,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 10时59分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -301,8 +355,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 10时59分]"
         },
         {
           "title": "A股下周会迎来更猛烈的震荡吗",
@@ -329,8 +383,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 09时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 10时59分]"
         },
         {
           "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
@@ -339,11 +393,12 @@
           "ranks": [
             19,
             22,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 09时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 10时59分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -370,6 +425,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 05时16分]"
+        },
+        {
+          "title": "美股将迎超级周",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%86%E8%BF%8E%E8%B6%85%E7%BA%A7%E5%91%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -405,6 +471,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时16分 ~ 08时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
+          "url": "https://wallstreetcn.com/livenews/3139801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     }
