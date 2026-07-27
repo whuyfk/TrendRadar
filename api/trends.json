@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T00:41:03.848212+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-28T01:32:05.445795+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -80,18 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "特朗普：若外交努力失败就恢复对伊军事行动",
-          "url": "https://wallstreetcn.com/livenews/3140432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -103,8 +92,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
+        },
+        {
+          "title": "特朗普：若外交努力失败就恢复对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3140432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "time_info": "[00时41分 ~ 01时32分]"
         },
         {
           "title": "特朗普连发数十张AI图遭吐槽",
@@ -124,7 +125,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -135,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -146,7 +147,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -157,7 +158,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         },
@@ -168,9 +169,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国总统特朗普被问及本周美联储货币政策会议，宣称：成本正在迅速下降。 利率应该下降，美国应该拥有全球最低的利率。 美联储主席沃什很棒，但他有理事会。",
+          "url": "https://wallstreetcn.com/livenews/3140440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "特朗普称在伊朗问题上“发生一些事”的可能性很高，标普500指数转涨",
+          "url": "https://wallstreetcn.com/livenews/3140436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "特朗普：为了谈判，已经决定暂停袭击伊朗",
@@ -179,15 +202,166 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         }
       ]
     },
     {
+      "keyword_group": "美债 国债",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
+          "url": "https://wallstreetcn.com/livenews/3140435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
+        },
+        {
+          "title": "英国国债收益率普遍跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3140426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06。",
+          "url": "https://wallstreetcn.com/livenews/3140451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%（6月24日为4.20%、创2025年1月份以来新高），投标倍数2.28（前次为2.35）",
+          "url": "https://wallstreetcn.com/livenews/3140450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国五年期国债收益率在拍卖后跌幅略有收窄，现跌2.37个基点，报4.402%。",
+          "url": "https://flash.jin10.com/detail/20260728010454151800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国至7月27日5年期国债竞拍-投标倍数 2.28，前值2.35。",
+          "url": "https://flash.jin10.com/detail/20260728010207886800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国财政部拍卖六个月期国债，得标利率3.945%，投标倍数3.12。",
+          "url": "https://wallstreetcn.com/livenews/3140417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美国至7月27日5年期国债竞拍-得标利率配置百分比 51.71%，前值86.81%。",
+          "url": "https://flash.jin10.com/detail/20260728010207873800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.315%——创2024年12月以来新高（6月23日为4.189%），投标倍数2.66（前次为2.64）。",
+          "url": "https://wallstreetcn.com/livenews/3140416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美国至7月27日5年期国债竞拍-得标利率 4.408%，前值4.20%。",
+          "url": "https://flash.jin10.com/detail/20260728010207815800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国至7月27日3个月国债竞拍-投标倍数 3.06，前值3。",
+          "url": "https://flash.jin10.com/detail/20260728010207806800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国至7月27日3个月国债竞拍-得标利率配置百分比 83.44%，前值73.01%。",
+          "url": "https://flash.jin10.com/detail/20260728010207749800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美国至7月27日3个月国债竞拍-得标利率 3.815%，前值3.73%。",
+          "url": "https://flash.jin10.com/detail/20260728010207742800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股",
@@ -197,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -208,8 +382,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -219,8 +393,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
@@ -230,8 +404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
@@ -241,8 +415,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
@@ -252,41 +426,77 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
           "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
           "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
           "url": "https://wallstreetcn.com/livenews/3140424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 01时32分]"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260728010650028800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时41分"
+          "time_info": "01时32分"
+        },
+        {
+          "title": "加密货币市场于美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3140446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260728010647951800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "美股芯片股下挫 费城半导体指数跌约5%",
@@ -295,59 +505,38 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 4,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
-          "url": "https://wallstreetcn.com/livenews/3140435",
-          "source": "华尔街见闻-快讯",
+          "title": "真逗,DeepSeek说要去吃饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
-            3
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "英国国债收益率普遍跌超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3140426",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国财政部拍卖六个月期国债，得标利率3.945%，投标倍数3.12。",
-          "url": "https://wallstreetcn.com/livenews/3140417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "美国财政部拍卖690亿美元两年期国债，得标利率4.315%——创2024年12月以来新高（6月23日为4.189%），投标倍数2.66（前次为2.64）。",
-          "url": "https://wallstreetcn.com/livenews/3140416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时41分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         }
       ]
     },
@@ -360,11 +549,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 01时32分]"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -373,26 +563,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "原油",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek说他先去吃饭了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20260728011850595800",
+          "source": "金十数据",
           "ranks": [
-            13
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     }
