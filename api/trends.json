@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:08:13.039598+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-07-27T18:15:59.520780+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -57,6 +57,20 @@
           "time_info": "[00时19分 ~ 07时19分]"
         },
         {
+          "title": "A股一哥!长鑫科技开盘暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 18时15分]"
+        },
+        {
           "title": "长鑫科技上市 成A股市值最高公司",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
           "source": "百度热搜",
@@ -68,17 +82,18 @@
           "time_info": "[10时59分 ~ 14时08分]"
         },
         {
-          "title": "A股一哥!长鑫科技开盘暴涨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
-          "source": "贴吧",
+          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
+          "url": "https://www.cls.cn/detail/2437447",
+          "source": "财联社热门",
           "ranks": [
-            4,
+            11,
             5,
-            10
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 16时08分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 18时15分]"
         },
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
@@ -104,19 +119,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时19分]"
-        },
-        {
-          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
-          "url": "https://www.cls.cn/detail/2437447",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 16时08分]"
         },
         {
           "title": "长鑫科技高开471%成A股“一哥”",
@@ -152,6 +154,17 @@
           "time_info": "[14时07分 ~ 14时08分]"
         },
         {
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "A股N长鑫午后成交额超1300亿元，换手率达61.5%，现涨499%。",
           "url": "https://flash.jin10.com/detail/20260727135410953800",
           "source": "金十数据",
@@ -161,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "长鑫为何成A股新王",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%BA%E4%BD%95%E6%88%90A%E8%82%A1%E6%96%B0%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "A股温度计",
@@ -183,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
+          "url": "https://www.cls.cn/detail/2437874",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美股迎关键一周：所有目光转向AI财报与美联储",
@@ -500,6 +535,28 @@
           "time_info": "11时00分"
         },
         {
+          "title": "A股一哥换主 中国科技能否长兴",
+          "url": "https://www.toutiao.com/trending/7666715757385498678/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "长鑫科技开盘暴涨超470%登顶A股！创纪录成交致系统一度卡顿",
           "url": "https://flash.jin10.com/detail/20260727103246062800",
           "source": "金十数据",
@@ -539,7 +596,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -649,7 +706,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         }
@@ -657,7 +714,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -676,11 +733,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时20分 ~ 16时08分]"
+          "appearance_count": 11,
+          "time_info": "[08时20分 ~ 18时15分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -818,6 +876,17 @@
           "time_info": "[00时19分 ~ 01时20分]"
         },
         {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
           "url": "https://flash.jin10.com/detail/20260727010619989800",
           "source": "金十数据",
@@ -919,6 +988,17 @@
           "time_info": "08时20分"
         },
         {
+          "title": "“偷师”特朗普？民主党激进派高喊“美国优先”",
+          "url": "https://flash.jin10.com/detail/20260727174508555800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
           "url": "https://flash.jin10.com/detail/20260726230940914800",
           "source": "金十数据",
@@ -928,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "英国新首相：必要时会公开反驳特朗普",
+          "url": "https://wallstreetcn.com/livenews/3140167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美共和党参议员称特朗普短期内结束伊朗战争可能性低",
@@ -961,6 +1052,126 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "布伦特原油期货亚市早盘跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3139865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "WTI原油期货盘初重挫8.00%，现报83.23美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260727060246653800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时19分]"
+        },
+        {
+          "title": "商品期货开盘，原油、LU燃油主力合约跌超6%，燃料油、液化气跌超5%，苯乙烯、纯苯、BR橡胶跌超3%。沪银涨超3%，烧碱涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3139918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 11时00分]"
+        },
+        {
+          "title": "中信证券：二次原油冲击不改8月行情修复趋势",
+          "url": "https://wallstreetcn.com/articles/3777959",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时07分 ~ 16时08分]"
+        },
+        {
+          "title": "布伦特原油期货周一亚市早盘跌超4%，此前美伊暂停互袭。 标普500指数期货涨0.8%，纳指期货涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3139865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 08时20分]"
+        },
+        {
+          "title": "布伦特原油失守85美元/桶，日内跌幅8.77%。",
+          "url": "https://flash.jin10.com/detail/20260727174815660800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "WTI原油跌破83美元/桶，日内跌幅达7.0%，报82.99美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3140178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，纯苯、燃料油、SC原油跌超6%，合成橡胶、苯乙烯（EB）跌近6%，对二甲苯、低硫燃料油（LU）、PTA跌超5%。涨幅方面，沪银涨近3%，钯、铂涨超2%，沪锡涨近2%，烧碱、玻璃涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260727113104669800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "原油跳空并非真回调？TACO压不住升温的基本面",
+          "url": "https://flash.jin10.com/detail/20260727111953081800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，SC原油跌近7%，低硫燃料油（LU）跌超6%，燃料油跌近6%，液化石油气（LPG）跌超5%，苯乙烯（EB）、纯苯跌近4%，合成橡胶跌超3%，沥青跌近3%。涨幅方面，沪银涨超3%，烧碱涨超2%，铂、钯、沪锡、苹果、碳酸锂、沪金、玻璃涨超1%，硅铁涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260727090006786800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
@@ -1000,11 +1211,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时08分]"
+          "appearance_count": 5,
+          "time_info": "[14时07分 ~ 18时15分]"
         },
         {
           "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
@@ -1067,106 +1279,8 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "布伦特原油期货亚市早盘跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3139865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "WTI原油期货盘初重挫8.00%，现报83.23美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260727060246653800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "商品期货开盘，原油、LU燃油主力合约跌超6%，燃料油、液化气跌超5%，苯乙烯、纯苯、BR橡胶跌超3%。沪银涨超3%，烧碱涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3139918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 11时00分]"
-        },
-        {
-          "title": "中信证券：二次原油冲击不改8月行情修复趋势",
-          "url": "https://wallstreetcn.com/articles/3777959",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时07分 ~ 16时08分]"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘跌超4%，此前美伊暂停互袭。 标普500指数期货涨0.8%，纳指期货涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3139865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 08时20分]"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，纯苯、燃料油、SC原油跌超6%，合成橡胶、苯乙烯（EB）跌近6%，对二甲苯、低硫燃料油（LU）、PTA跌超5%。涨幅方面，沪银涨近3%，钯、铂涨超2%，沪锡涨近2%，烧碱、玻璃涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260727113104669800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "原油跳空并非真回调？TACO压不住升温的基本面",
-          "url": "https://flash.jin10.com/detail/20260727111953081800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约跌多涨少，SC原油跌近7%，低硫燃料油（LU）跌超6%，燃料油跌近6%，液化石油气（LPG）跌超5%，苯乙烯（EB）、纯苯跌近4%，合成橡胶跌超3%，沥青跌近3%。涨幅方面，沪银涨超3%，烧碱涨超2%，铂、钯、沪锡、苹果、碳酸锂、沪金、玻璃涨超1%，硅铁涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260727090006786800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "国债期货早盘收盘，30年期主力合约涨0.07%，10年期主力合约跌0.03%，5年期主力合约跌0.03%，2年期主力合约涨0.00%。",
@@ -1190,6 +1304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "渣打：预计美国10年期国债收益率或重返5%",
+          "url": "https://wallstreetcn.com/livenews/3140176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -1220,7 +1345,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         },
@@ -1231,7 +1356,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         }
