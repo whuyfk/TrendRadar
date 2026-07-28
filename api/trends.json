@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:39:25.573758+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2026-07-28T21:32:40.775115+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 100,
+      "match_count": 105,
       "titles": [
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时32分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 21时32分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -174,6 +174,17 @@
           "time_info": "[03时30分 ~ 17时51分]"
         },
         {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时32分]"
+        },
+        {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
           "url": "https://www.cls.cn/detail/2438430",
           "source": "财联社热门",
@@ -187,15 +198,31 @@
           "time_info": "[09时32分 ~ 16时53分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时39分]"
+          "appearance_count": 7,
+          "time_info": "[14时48分 ~ 21时32分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时48分 ~ 21时32分]"
         },
         {
           "title": "美股芯片股“血流成河”",
@@ -225,33 +252,6 @@
           "time_info": "[09时32分 ~ 15时50分]"
         },
         {
-          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 19时39分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时48分 ~ 19时39分]"
-        },
-        {
           "title": "美股迎芯片风暴 苹果重返市值第一",
           "url": "https://www.toutiao.com/trending/7667348037127114246/",
           "source": "今日头条",
@@ -272,6 +272,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美股开盘，道指涨0.6%，标普500指数跌0.01%，纳指跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 21时32分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，美股高开低走，阿斯麦一度跌8%，中概股逆市收涨，原油重挫",
@@ -351,17 +375,18 @@
           "time_info": "10时59分"
         },
         {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
+          "title": "港股卖空潮全面降温 机构指8月有望率先开启“秋季行情”",
+          "url": "https://www.cls.cn/detail/2438785",
+          "source": "财联社热门",
           "ranks": [
-            13,
+            12,
+            11,
             10,
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时50分 ~ 19时39分]"
+          "time_info": "[16时53分 ~ 21时32分]"
         },
         {
           "title": "美股上演芯片风暴 苹果重返市值第一",
@@ -389,6 +414,18 @@
           "time_info": "[04时28分 ~ 06时21分]"
         },
         {
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 21时32分]"
+        },
+        {
           "title": "A股MLCC概念震荡下挫，昀冢科技跌超10%，火炬电子逼近跌停，博杰股份、三环集团、国瓷材料、利和兴跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3140763",
           "source": "华尔街见闻-快讯",
@@ -411,31 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时21分]"
-        },
-        {
-          "title": "港股卖空潮全面降温 机构指8月有望率先开启“秋季行情”",
-          "url": "https://www.cls.cn/detail/2438785",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 19时39分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2439030",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时39分]"
         },
         {
           "title": "四大股指集体收跌创业板指跌超7%",
@@ -648,7 +660,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -670,9 +682,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
+        },
+        {
+          "title": "长鑫科技登顶A股意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%99%BB%E9%A1%B6A%E8%82%A1%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "可口可乐第二季度净营收134亿美元。 第二季度可比每股收益0.97美元，预估0.93美元。 可口可乐预计全年可比每股收益增长9％至10％，此前预计8％至9％。 可口可乐仍然预测全年资本支出22亿美元，市场预估21.8亿美元。 可口可乐美股盘前涨超1%。",
@@ -681,7 +715,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -706,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
+        },
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "A股CPO板块今日重挫，新易盛、中继旭创回调15%，德明利、东山精密等多股跌停。通信ETF富国、通信ETF国泰、通信ETF华夏等多支ETF逼近跌停。",
@@ -961,6 +1006,17 @@
           "time_info": "14时48分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3141035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "A股白酒板块异动拉升，金种子酒涨停，皇台酒业、今世缘、金徽酒、老白干酒、口子窖等纷纷走高。",
           "url": "https://wallstreetcn.com/livenews/3140708",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1240,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 69,
       "titles": [
         {
           "title": "内塔尼亚胡访美，会与特朗普聊啥？",
@@ -1252,11 +1308,12 @@
             14,
             15,
             17,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时32分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时32分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
@@ -1786,6 +1843,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "特朗普称美国目前在伊朗问题上地位强势",
+          "url": "https://wallstreetcn.com/livenews/3141044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "美国总统特朗普：伊朗希望会面，我们会与他们会面。",
           "url": "https://flash.jin10.com/detail/20260728002633232800",
           "source": "金十数据",
@@ -1852,6 +1920,28 @@
           "time_info": "03时30分"
         },
         {
+          "title": "特朗普称伊朗谈判“进展良好”，“不达成协议就进行打击”",
+          "url": "https://flash.jin10.com/detail/20260728211128089800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普（谈美墨加协定）：我其实不想更新它。",
+          "url": "https://wallstreetcn.com/livenews/3141032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
           "title": "特朗普再给伊朗最后外交窗口：谈判失败将恢复“强力军事行动”",
           "url": "https://flash.jin10.com/detail/20260728072856415800",
           "source": "金十数据",
@@ -1883,6 +1973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "美国总统特朗普：现在是伊朗达成协议的好时机。 如果没有伊朗协议达成，将回去完成这项工作。 我们现在处于非常有利的地位。 希望避免袭击伊朗的桥梁和发电厂。 伊朗没有控制霍尔木兹海峡，我们控制着霍尔木兹海峡。 只有我们想让通过的船只才能通过海峡。",
+          "url": "https://wallstreetcn.com/livenews/3141026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "乌克兰总统泽连斯基抵美 将与特朗普进行会谈",
@@ -2187,7 +2288,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】美存储股全线重挫，SK海力士破发；原油暴跌、黄金微涨；“东方证券+上海证券”合并重组草案出炉",
@@ -2293,6 +2394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "夜盘期货开盘，液化石油气、沪银、沪镍、燃油、原油跌逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3141041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "商品期货开盘，原油主力合约跌近5%，燃料油跌超4%，液化气、纯苯、LU燃油、焦煤、纯碱跌超2%。集运欧线涨超2%。",
@@ -2584,11 +2696,12 @@
             10,
             13,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时31分 ~ 19时39分]"
+          "appearance_count": 23,
+          "time_info": "[01时31分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
