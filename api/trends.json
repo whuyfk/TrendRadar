@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T03:31:03.415531+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-07-29T04:25:07.699662+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
         },
         {
           "title": "美国总统特使威特科夫、 美国财长贝森特、 美国国务卿鲁比奥参加了美国总统特朗普与以色列总理内塔尼亚胡的会议。",
@@ -108,7 +108,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -124,6 +124,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "据华尔街日报：美国总统特朗普政府将终止医疗保险药物计划补贴。",
+          "url": "https://flash.jin10.com/detail/20260729040156879800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
           "title": "据以色列媒体：华盛顿消息人士称，美国总统特朗普在会议期间并未要求以色列从任何区域撤军。",
           "url": "https://flash.jin10.com/detail/20260729014235848800",
           "source": "金十数据",
@@ -133,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "特朗普政府将终止联邦医疗保险药品计划补贴。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3141182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
@@ -152,7 +174,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -174,7 +196,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -203,20 +225,225 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 14,
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 18,
       "titles": [
         {
-          "title": "美国2/10年期国债收益率跌超5个基点，追随油价跌势",
-          "url": "https://wallstreetcn.com/livenews/3141167",
-          "source": "华尔街见闻-快讯",
+          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "长鑫科技登顶A股意味着什么",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%99%BB%E9%A1%B6A%E8%82%A1%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "希捷科技(STX.O)美股盘后涨超8%，其营收指引高于预期。",
+          "url": "https://flash.jin10.com/detail/20260729041437595800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时25分"
         },
+        {
+          "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
+          "url": "https://wallstreetcn.com/livenews/3141190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时26分 ~ 04时25分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.54%，报25480点。 恒生科技指数主连夜盘收涨0.91%，报4786点。",
+          "url": "https://wallstreetcn.com/livenews/3141163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时25分]"
+        },
+        {
+          "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260729040547613800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "金十图示：2026年07月28日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260729040546082800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股收盘：美光海力士跌约9%，闪迪较高点腰斩",
+          "url": "https://flash.jin10.com/detail/20260729040107582800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌跌9.1%，费城半导体指数跌约4.4 标普500指数初步收涨0.2%，保健板块涨2.4%，日用消费品板块涨2%，原材料、电信、金融板块至多涨1.7%，科技板块跌1%，能源板块跌1.4%。 纳斯达克100指数初步收跌1%，成分股中，闪迪初步收跌13.8%，Nebius集团跌10.5%，希捷科技9.1%，美光、Lumentum、Arm控股跌约8%，西部数据跌7.5%，阿斯麦ADR跌3.6%，特斯拉跌0.9%，安进涨4.7%，GEHC涨4.9%，Autodesk涨5.3%，汤森路透涨5.7%，Booking涨6.8%，Workday涨8.4%。",
+          "url": "https://wallstreetcn.com/livenews/3141178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260728233208821800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 14,
+      "titles": [
         {
           "title": "德国两年期国债收益率跌超4个基点，油价跌幅在美以两国领导人会面前扩大",
           "url": "https://wallstreetcn.com/livenews/3141127",
@@ -229,6 +456,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时26分]"
+        },
+        {
+          "title": "美国2/10年期国债收益率跌超5个基点，追随油价跌势",
+          "url": "https://wallstreetcn.com/livenews/3141167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时25分]"
         },
         {
           "title": "英国2/10年期国债收益率跌约5个基点",
@@ -368,7 +607,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
@@ -379,8 +618,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3141191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
         },
         {
           "title": "WTI原油日内跌幅达5.0%，报78.43美元/桶。",
@@ -422,6 +672,18 @@
           "time_info": "[01时31分 ~ 03时31分]"
         },
         {
+          "title": "美国原油期货三天跌超14%，失守80美元关口",
+          "url": "https://wallstreetcn.com/livenews/3141160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时25分]"
+        },
+        {
           "title": "布伦特原油日内跌幅达4.5%，报81.98美元/桶",
           "url": "https://wallstreetcn.com/livenews/3141117",
           "source": "华尔街见闻-快讯",
@@ -445,24 +707,13 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美国原油期货三天跌超14%，失守80美元关口",
-          "url": "https://wallstreetcn.com/livenews/3141160",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
           "title": "上期所原油期货2609合约夜盘收跌2.48%，报526.80元人民币/桶。 沪金夜盘收跌0.73%，沪银收跌1.43%。",
           "url": "https://wallstreetcn.com/livenews/3141159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -473,7 +724,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -495,7 +746,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -516,153 +767,6 @@
           "source": "金十数据",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2439316",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2439030",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.54%，报25480点。 恒生科技指数主连夜盘收涨0.91%，报4786点。",
-          "url": "https://wallstreetcn.com/livenews/3141163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "长鑫科技登顶A股意味着什么",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%99%BB%E9%A1%B6A%E8%82%A1%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 03时31分]"
-        },
-        {
-          "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20260728233208821800",
-          "source": "金十数据",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -711,6 +815,47 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.81%，暂报2083.86点，北京时间01:00以来持续下跌、06:00过后加速下跌，07:00以来低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.96%，报2384.07点。 MarketVector数字资产100指数跌1.30%，报12714.11点。 目前，Solana跌1.84%，狗狗币跌1.17%，XRP跌2.45%。 比特币跌1.43%，暂报63979.20美元；以太坊跌1.21%，暂报1924.37美元。",
+          "url": "https://wallstreetcn.com/livenews/3141137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时31分]"
+        },
+        {
+          "title": "美元指数28日下跌",
+          "url": "https://flash.jin10.com/detail/20260729034612247800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "周二（7月28日）纽约尾盘，ICE美元指数跌0.14%，报101.396点，日内交投区间为101.640-101.258点。 彭博美元指数跌0.07%，报1221.38点，日内交投区间为1223.69-1220.08点。",
+          "url": "https://wallstreetcn.com/livenews/3141174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -734,7 +879,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
@@ -752,8 +897,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时25分]"
         }
       ]
     },
@@ -771,25 +916,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.81%，暂报2083.86点，北京时间01:00以来持续下跌、06:00过后加速下跌，07:00以来低位窄幅震荡。 MarketVectorTM数字资产100中盘指数跌1.96%，报2384.07点。 MarketVector数字资产100指数跌1.30%，报12714.11点。 目前，Solana跌1.84%，狗狗币跌1.17%，XRP跌2.45%。 比特币跌1.43%，暂报63979.20美元；以太坊跌1.21%，暂报1924.37美元。",
-          "url": "https://wallstreetcn.com/livenews/3141137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时31分]"
         }
       ]
     }
