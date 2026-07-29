@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-29T15:58:26.725586+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-07-29T16:59:29.015275+08:00",
+  "total_titles_processed": 1620,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 70,
+      "match_count": 74,
       "titles": [
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时18分 ~ 15时58分]"
-        },
         {
           "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33503166",
@@ -40,6 +29,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时19分 ~ 15时00分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时18分 ~ 16时59分]"
         },
         {
           "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
@@ -92,8 +93,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 15时58分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 16时59分]"
         },
         {
           "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
@@ -134,11 +135,12 @@
             16,
             17,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 15时58分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 16时59分]"
         },
         {
           "title": "长鑫科技登顶A股意味着什么",
@@ -233,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "中际旭创港股暗盘跌超1%，报968港元，发行价980港元/股。",
+          "url": "https://wallstreetcn.com/livenews/3141589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "A股温度计",
@@ -525,6 +538,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "SK海力士(SKHY.O)美股盘前跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260729162856277800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "港股IPO市场持续升温，科技与“A+H”双轮驱动",
           "url": "https://wallstreetcn.com/livenews/3141241",
           "source": "华尔街见闻-快讯",
@@ -674,7 +698,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -712,6 +736,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "港股收盘：恒生指数收涨1.96%，恒生科技指数收涨2.84%。理想汽车涨近10%，小米集团涨近9%，MINIMAX涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3141566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "美股反弹，标普500指数涨0.3%，纳指微跌0.08%，道指现涨超1%。SpaceX(SPCX.O)现涨3.4%，苹果(AAPL.O)涨0.7%，英伟达(NVDA.O)涨0.1%。",
           "url": "https://flash.jin10.com/detail/20260728233208821800",
           "source": "金十数据",
@@ -721,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "美股盘前，存储概念股延续跌势，美光科技、SK海力士均跌超1%，闪迪跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3141563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "创业板指跌超2%，科创50指数跌超4%，沪指跌0.75%，深成指跌1.62%，算力硬件、半导体芯片、新能源等方向跌幅居前，沪深京三市下跌个股近2500只。",
@@ -784,7 +830,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -817,7 +863,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         }
@@ -858,11 +904,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 16时59分]"
         },
         {
           "title": "美国总统特使威特科夫、 美国财长贝森特、 美国国务卿鲁比奥参加了美国总统特朗普与以色列总理内塔尼亚胡的会议。",
@@ -974,6 +1021,30 @@
           "time_info": "[07时19分 ~ 08时18分]"
         },
         {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时59分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时59分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国驻公投特朗普与以色列总理、乌克兰总统的会谈偏正面，富有成效。",
           "url": "https://wallstreetcn.com/livenews/3141129",
           "source": "华尔街见闻-快讯",
@@ -1072,28 +1143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
-        },
-        {
-          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
-          "url": "https://www.cls.cn/detail/2439731",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
         },
         {
           "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
@@ -1854,7 +1903,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         }
