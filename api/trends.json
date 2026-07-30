@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T10:58:53.078116+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-07-30T12:03:29.641070+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 44,
+      "match_count": 59,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -19,6 +19,19 @@
           "time_info": "[00时28分 ~ 05时17分]"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时19分 ~ 12时03分]"
+        },
+        {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2440482",
           "source": "财联社热门",
@@ -30,21 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时58分]"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时19分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时03分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -112,9 +112,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "A股科技退潮",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股深证成指跌超3%，上证指数跌0.74%，创业板指盘中跌4.7%，科创50指数跌4.66%，两市超2600家个股下跌。",
@@ -123,9 +134,42 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "再放量 创业板ETF易方达半日近百亿成交",
+          "url": "https://flash.jin10.com/detail/20260730113305877800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "创业板ETF易方达半日近百亿成交",
+          "url": "https://wallstreetcn.com/livenews/3142129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "创业板指已抹平今年全部涨幅",
+          "url": "https://www.toutiao.com/trending/7668151999556259347/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美股大跌 美光科技跌超10%",
@@ -159,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "上证指数早盘收报3784.55点，跌1.15%。 深证成指早盘收报13141.22点，跌3.79%。 创业板指早盘收报3179.58点，跌5.89%。 沪深300早盘收报4500.16点，跌2.18%。 科创50早盘收报1572.25点，跌6.34%。 中证500早盘收报7263.17点，跌3.47%。 中证1000早盘收报6893.24点，跌2.85%。",
+          "url": "https://wallstreetcn.com/livenews/3142126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "中际旭创港股上市首日，开盘报971港元，IPO价980港元。",
@@ -220,6 +275,19 @@
           "time_info": "[07时20分 ~ 08时18分]"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 12时03分]"
+        },
+        {
           "title": "美股尾盘大跳水原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -233,16 +301,16 @@
           "time_info": "[08时18分 ~ 10时58分]"
         },
         {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
+          "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
+          "url": "https://wallstreetcn.com/livenews/3142087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            11
+            10,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时58分]"
+          "time_info": "[10时58分 ~ 12时03分]"
         },
         {
           "title": "Carvana美股盘后跌15%，这家汽车零售商的2026年业绩指引逊色于华尔街预期。",
@@ -292,6 +360,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "创业板指跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3142123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
           "url": "https://flash.jin10.com/detail/20260729235733108800",
           "source": "金十数据",
@@ -314,15 +393,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
-          "url": "https://wallstreetcn.com/livenews/3142087",
-          "source": "华尔街见闻-快讯",
+          "title": "A股创业板指、科创50指数午盘前双双跌超6%，深证成指跌近3.86%，上证指数跌1.2%。",
+          "url": "https://flash.jin10.com/detail/20260730112945919800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时58分"
+          "time_info": "12时03分"
         },
         {
           "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
@@ -342,9 +421,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "A股科创50指数跌幅扩大至6%，源杰科技跌超17%。",
+          "url": "https://flash.jin10.com/detail/20260730112042756800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股算力硬件股震荡下挫，东山精密、贤丰控股、共进股份跌停，新易盛、联讯仪器、源杰科技、中际旭创均跌超10%。",
@@ -353,7 +443,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -364,9 +454,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "创业板指年内转跌",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%B9%B4%E5%86%85%E8%BD%AC%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "Meta美股盘后跌幅扩大至10%。",
@@ -378,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "A股午评：科创50指数半日跌超6%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E8%AF%84%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%8D%8A%E6%97%A5%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股温度计",
@@ -402,13 +514,24 @@
           "time_info": "05时17分"
         },
         {
+          "title": "创业板指跌至3200点下方，日内跌5.3%，抹去年内全部涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3142107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "创业板指、科创50均跌超3%，沪指跌0.18%，深成指跌0.86%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2100只。",
           "url": "https://wallstreetcn.com/livenews/3142072",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -419,7 +542,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -430,9 +553,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "创业板指、科创50均跌超5%，沪指跌0.85%，深成指跌3.11%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股超2600只。",
+          "url": "https://wallstreetcn.com/livenews/3142105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美股收盘：道指跌超2% 美光科技跌近10%",
@@ -446,15 +580,37 @@
           "time_info": "04时21分"
         },
         {
+          "title": "A股银行板块逆势走强，工商银行、建设银行均创历史新高，瑞丰银行、青农商行、沪农商行、无锡银行等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3142102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "A股汽车整车股再度拉升，江淮汽车封涨停，北汽蓝谷、赛力斯涨超7%，长安汽车、金龙汽车、上汽集团、海马汽车跟涨。",
           "url": "https://wallstreetcn.com/livenews/3142068",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "上市首日破发！港股中际旭创跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91%EF%BC%81%E6%B8%AF%E8%82%A1%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
@@ -485,9 +641,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "创业板指抹平今年全部涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%8A%B9%E5%B9%B3%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股存储芯片板块持续下跌，全志科技跌12.5%，有研硅、翱捷科技跌超10%，通富微电触及跌停，华虹宏力跌超9%。",
@@ -496,7 +663,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -507,7 +674,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
@@ -515,7 +682,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -529,8 +696,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时03分]"
+        },
+        {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时18分 ~ 12时03分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -544,18 +723,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时18分 ~ 10时58分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -580,6 +747,22 @@
           "time_info": "[00时28分 ~ 08时18分]"
         },
         {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            14,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时03分]"
+        },
+        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
           "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
           "source": "凤凰网",
@@ -591,21 +774,6 @@
           "time_info": "[00时28分 ~ 08时18分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 10时58分]"
-        },
-        {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
@@ -614,8 +782,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时27分 ~ 10时58分]"
+          "appearance_count": 13,
+          "time_info": "[01时27分 ~ 12时03分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -629,6 +797,17 @@
           "time_info": "[05时17分 ~ 08时18分]"
         },
         {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 12时03分]"
+        },
+        {
           "title": "特朗普面临艰难选择：美军司令提出两周“猛轰计划”，伊朗战火或升级",
           "url": "https://flash.jin10.com/detail/20260730080413448800",
           "source": "金十数据",
@@ -638,17 +817,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
-        },
-        {
-          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
-          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         },
         {
           "title": "美联储主席沃什：本次政策会议上并没有感受到（来自特朗普政府的政治）掣肘。",
@@ -662,6 +830,18 @@
           "time_info": "03时29分"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 12时03分]"
+        },
+        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
           "url": "https://wallstreetcn.com/livenews/3141911",
           "source": "华尔街见闻-快讯",
@@ -672,18 +852,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 10时58分]"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -774,6 +942,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "马斯克“钞能力”重启！重金布局中期选举，特朗普的超级援军来了",
+          "url": "https://flash.jin10.com/detail/20260730111552578800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美联储加息压力渐增，特朗普未必会把矛头指向沃什",
@@ -914,7 +1093,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
@@ -922,7 +1101,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
@@ -933,8 +1112,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时18分 ~ 10时58分]"
+          "appearance_count": 7,
+          "time_info": "[06时18分 ~ 12时03分]"
+        },
+        {
+          "title": "日本拍卖2年期国债，认购倍数3.63，过去12个月均值3.81。",
+          "url": "https://wallstreetcn.com/livenews/3142131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "白宫顾问哈塞特：预计美联储主席沃什将做正确的事。 我们相信沃什的判断。 我们对沃什的信心是极高的。 没理由认为美国债务将被降级。 长期预算在正确的方向上发展。",
@@ -957,6 +1147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "日本民主党干事长铃木俊一：首相高市早苗提到，需要在不依赖弥补赤字国债的情况下确保销售税减税资金来源，以维护市场信任。",
+          "url": "https://flash.jin10.com/detail/20260730113304456800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -1040,6 +1241,28 @@
           "time_info": "02时19分"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.02%，10年期主力合约跌0.00%，5年期主力合约与昨日持平，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3142122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260730113110270800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美国两年期国债收益率刷新日低至4.2294%，目前跌幅大约5个基点，美联储主席沃什正在举行新闻发布会。",
           "url": "https://wallstreetcn.com/livenews/3141857",
           "source": "华尔街见闻-快讯",
@@ -1106,6 +1329,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "黄金反弹高度被美债收益率封锁，下行压力或在...时触发——新版发布",
+          "url": "https://flash.jin10.com/detail/20260730110631490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "日本至7月24日当周买进外国债券 -8114亿日元，前值由-7144亿日元修正为-7237亿日元。",
           "url": "https://flash.jin10.com/detail/20260730075002668800",
           "source": "金十数据",
@@ -1165,8 +1399,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时18分 ~ 10时58分]"
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 12时03分]"
         },
         {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
@@ -1179,6 +1413,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时19分]"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 12时03分]"
         },
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
@@ -1247,17 +1493,6 @@
           "time_info": "06时18分"
         },
         {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
           "url": "https://flash.jin10.com/detail/20260730041831120800",
           "source": "金十数据",
@@ -1272,7 +1507,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
@@ -1323,13 +1558,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，集运欧线、菜粕、纯碱、铁矿石跌超2%，氧化铝、玻璃跌近2%，碳酸锂、硅铁、聚氯乙烯（PVC）跌超1%。涨幅方面，乙二醇（EG）涨近4%，SC原油涨超3%，低硫燃料油（LU）涨近2%，瓶片、短纤、燃料油、对二甲苯、沪铝、PTA涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260730113102956800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美联储维持利率不变但利率前景仍不明朗，美国空袭伊朗，地缘冲突反复，现货金银多头占比较昨日降低20%，原油多头占比仍接近80%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260730103559493800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1351,7 +1597,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         },
@@ -1439,7 +1685,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
         }
