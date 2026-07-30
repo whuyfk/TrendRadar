@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T14:48:29.567852+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-07-30T15:46:43.748553+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 70,
+      "match_count": 76,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -56,6 +56,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 06时18分]"
+        },
+        {
+          "title": "A股市值前10红了9个",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时48分 ~ 15时46分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -117,17 +129,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "A股市值前10红了9个",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
           "title": "A股深证成指跌超3%，上证指数跌0.74%，创业板指盘中跌4.7%，科创50指数跌4.66%，两市超2600家个股下跌。",
           "url": "https://flash.jin10.com/detail/20260730105056934800",
           "source": "金十数据",
@@ -183,6 +184,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "评论员：A股新一轮配置窗口正在打开",
+          "url": "https://www.toutiao.com/trending/7668159210403679763/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "中际旭创港股上市首日，开盘报971港元，IPO价980港元。",
           "url": "https://wallstreetcn.com/livenews/3142013",
           "source": "华尔街见闻-快讯",
@@ -192,6 +204,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "中际旭创登陆港股",
+          "url": "https://www.douyin.com/hot/2590247",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时46分]"
         },
         {
           "title": "A股科技退潮",
@@ -318,16 +343,16 @@
           "time_info": "[08时18分 ~ 10时58分]"
         },
         {
-          "title": "中际旭创登陆港股",
-          "url": "https://www.douyin.com/hot/2590247",
-          "source": "抖音",
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时48分]"
+          "time_info": "[14时48分 ~ 15时46分]"
         },
         {
           "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
@@ -413,6 +438,17 @@
           "time_info": "[12时03分 ~ 13时53分]"
         },
         {
+          "title": "A股收盘：科创50指数大跌超5%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%A4%A7%E8%B7%8C%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-07-30）",
           "url": "https://flash.jin10.com/detail/20260730091927686800",
           "source": "金十数据",
@@ -435,6 +471,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "郭一鸣：A股科技股遭“闷杀”",
+          "url": "https://www.toutiao.com/trending/7668192958641868315/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
           "url": "https://flash.jin10.com/detail/20260729235733108800",
           "source": "金十数据",
@@ -446,13 +493,24 @@
           "time_info": "00时28分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-07-30）",
+          "url": "https://flash.jin10.com/detail/20260730152452397800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "创业板指跌幅收窄至1.5%以内，此前一度跌超6.5%。",
           "url": "https://wallstreetcn.com/livenews/3142193",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -488,17 +546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
-          "url": "https://www.cls.cn/detail/2440809",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
         },
         {
           "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
@@ -639,7 +686,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -686,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
+        },
+        {
+          "title": "A股收评：科创50指数大跌超5% 消费板块连涨数日",
+          "url": "https://flash.jin10.com/detail/20260730151820322800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "创业板指、科创50均跌超5%，沪指跌0.85%，深成指跌3.11%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股超2600只。",
@@ -749,7 +807,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -763,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "上证指数收报3804.69点，跌0.62%。 深证成指收报13285.80点，跌2.73%。 创业板指收报3244.62点，跌3.97%。 沪深300收报4549.72点，跌1.10%。 科创50收报1588.41点，跌5.38%。 中证500收报7309.58点，跌2.86%。 中证1000收报6900.66点，跌2.74%。",
+          "url": "https://wallstreetcn.com/livenews/3142225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
@@ -815,6 +884,18 @@
       "match_count": 39,
       "titles": [
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时18分 ~ 15时46分]"
+        },
+        {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
           "source": "财联社热门",
@@ -828,18 +909,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时28分 ~ 12时03分]"
-        },
-        {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时18分 ~ 14时48分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -889,8 +958,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 15时46分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -939,6 +1008,18 @@
           "time_info": "[10时58分 ~ 12时03分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时46分]"
+        },
+        {
           "title": "特朗普面临艰难选择：美军司令提出两周“猛轰计划”，伊朗战火或升级",
           "url": "https://flash.jin10.com/detail/20260730080413448800",
           "source": "金十数据",
@@ -961,16 +1042,28 @@
           "time_info": "03时29分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时46分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时46分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
@@ -985,15 +1078,16 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
-          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
-          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
-          "source": "凤凰网",
+          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
+          "url": "https://www.cls.cn/detail/2440817",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时48分]"
+          "time_info": "[14时48分 ~ 15时46分]"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -1006,18 +1100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时48分]"
         },
         {
           "title": "WTI原油日内涨幅达7.5%，报85.22美元/桶；布伦特原油日内涨幅达7.0%，报87.83美元/桶。 现货白银日内跌幅达0.5%，报56.79美元/盎司。 美国特朗普宣称，在伊朗向美军发动导弹袭击后，美国将进行报复，美国将“狠狠打击”伊朗，伊朗将遭到“痛击”。",
@@ -1063,17 +1145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        },
-        {
-          "title": "降息希望落空！特朗普再次力挺沃什 矛头直指美联储理事会",
-          "url": "https://www.cls.cn/detail/2440817",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
         },
         {
           "title": "美媒：美军已拟定为期两周的对伊密集空袭方案，有待特朗普抉择",
@@ -1266,7 +1337,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
@@ -1277,8 +1348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时18分 ~ 14时48分]"
+          "appearance_count": 10,
+          "time_info": "[06时18分 ~ 15时46分]"
         },
         {
           "title": "白宫顾问哈塞特：预计美联储主席沃什将做正确的事。 我们相信沃什的判断。 我们对沃什的信心是极高的。 没理由认为美国债务将被降级。 长期预算在正确的方向上发展。",
@@ -1418,6 +1489,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "英国利率决定公布在即，英国国债收益率上升",
+          "url": "https://flash.jin10.com/detail/20260730152726426800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "国债期货早盘收盘",
           "url": "https://flash.jin10.com/detail/20260730113110270800",
           "source": "金十数据",
@@ -1451,6 +1533,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "国债期货收盘，30年期主力合约涨0.59%，10年期主力合约涨0.14%，5年期主力合约涨0.10%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3142238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
           "url": "https://wallstreetcn.com/livenews/3141946",
           "source": "华尔街见闻-快讯",
@@ -1460,6 +1553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "中国30年期国债期货日内涨0.55%，至去年11月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3142236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "2007年以来首次：美国30年期国债收益率涨穿5.2%，日内当前涨幅将近12个基点。",
@@ -1528,6 +1632,17 @@
           "time_info": "08时18分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260730151606956800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美国至7月29日4个月国债竞拍-投标倍数 3.04，前值2.76。",
           "url": "https://flash.jin10.com/detail/20260729233316032800",
           "source": "金十数据",
@@ -1552,165 +1667,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时18分 ~ 14时48分]"
-        },
-        {
-          "title": "OpenAI针对学术研究员推出ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 14时48分]"
-        },
-        {
-          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
-          "url": "https://wallstreetcn.com/livenews/3141802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时19分]"
-        },
-        {
-          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260730014924073800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "如何评价翁荔因病离职后火速入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/2066073475731690339",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时48分"
-        },
-        {
-          "title": "OpenAI：今年夏天将以1万名研究人员为起点。",
-          "url": "https://flash.jin10.com/detail/20260730010929753800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
-          "url": "https://wallstreetcn.com/livenews/3142156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "OpenAI：将向10万名研究人员免费提供前沿模型访问权限。",
-          "url": "https://flash.jin10.com/detail/20260730010914986800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI宣布推出面向学术研究者的CHATGPT。",
-          "url": "https://flash.jin10.com/detail/20260730010848184800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
-          "url": "https://flash.jin10.com/detail/20260730055730100800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
-          "url": "https://flash.jin10.com/detail/20260730041831120800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "SC原油主力合约日内涨幅扩大至6.00%，现报567.00元/桶。",
@@ -1838,6 +1796,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "商品期货收盘，原油主力合约涨超6%，乙二醇涨超4%，燃料油、对二甲苯、瓶片、LU燃油涨超3%。碳酸锂、铁矿石跌超3%，纯碱、菜籽粕跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3142223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美国7月24日当周EIA库欣地区原油库存变动 -77.1万桶，前值 -67.4万桶。",
           "url": "https://wallstreetcn.com/livenews/3141770",
           "source": "华尔街见闻-快讯",
@@ -1858,6 +1827,163 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时18分 ~ 15时46分]"
+        },
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 15时46分]"
+        },
+        {
+          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
+          "url": "https://wallstreetcn.com/livenews/3141802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时19分]"
+        },
+        {
+          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260730014924073800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "如何评价翁荔因病离职后火速入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/2066073475731690339",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "OpenAI：今年夏天将以1万名研究人员为起点。",
+          "url": "https://flash.jin10.com/detail/20260730010929753800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+          "url": "https://wallstreetcn.com/livenews/3142156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "OpenAI：将向10万名研究人员免费提供前沿模型访问权限。",
+          "url": "https://flash.jin10.com/detail/20260730010914986800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI宣布推出面向学术研究者的CHATGPT。",
+          "url": "https://flash.jin10.com/detail/20260730010848184800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
+          "url": "https://flash.jin10.com/detail/20260730041831120800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
