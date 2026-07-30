@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T18:41:35.538850+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2026-07-30T19:36:30.347007+08:00",
+  "total_titles_processed": 1985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -65,11 +65,12 @@
             7,
             6,
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 19时36分]"
         },
         {
           "title": "A股市值前10红了9个",
@@ -79,11 +80,12 @@
             2,
             1,
             13,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 18时41分]"
+          "appearance_count": 6,
+          "time_info": "[14时48分 ~ 19时36分]"
         },
         {
           "title": "A股科技股拥挤度",
@@ -360,6 +362,17 @@
           "time_info": "[14时48分 ~ 16时52分]"
         },
         {
+          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
+          "url": "https://www.cls.cn/detail/2441445",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
+        },
+        {
           "title": "美股尾盘大跳水原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -371,17 +384,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时18分 ~ 10时58分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
-          "url": "https://www.cls.cn/detail/2441445",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
         },
         {
           "title": "创业板指、科创50均跌超4%，沪指跌0.38%，深成指跌2.43%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2500只。",
@@ -907,6 +909,17 @@
           "time_info": "14时48分"
         },
         {
+          "title": "SK海力士美股盘前转涨，此前一度跌近5%，报道称SK集团会长崔泰源买入3600股SK海力士。",
+          "url": "https://wallstreetcn.com/livenews/3142380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
           "url": "https://flash.jin10.com/detail/20260730035000001800",
           "source": "金十数据",
@@ -987,8 +1000,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时18分 ~ 18时41分]"
+          "appearance_count": 14,
+          "time_info": "[06时18分 ~ 19时36分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -1006,6 +1019,19 @@
           "time_info": "[00时28分 ~ 12时03分]"
         },
         {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 19时36分]"
+        },
+        {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -1017,19 +1043,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 05时17分]"
-        },
-        {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 18时41分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -1107,17 +1120,6 @@
           "time_info": "[05时17分 ~ 08时18分]"
         },
         {
-          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
-          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 12时03分]"
-        },
-        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
@@ -1130,8 +1132,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 18时41分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 19时36分]"
+        },
+        {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 12时03分]"
         },
         {
           "title": "特朗普面临艰难选择：美军司令提出两周“猛轰计划”，伊朗战火或升级",
@@ -1192,6 +1205,18 @@
           "time_info": "[14时48分 ~ 16时52分]"
         },
         {
+          "title": "爆炸声又起！特朗普誓言痛击伊朗后 美军发动新一轮打击",
+          "url": "https://www.cls.cn/detail/2441051",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 19时36分]"
+        },
+        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
           "url": "https://wallstreetcn.com/livenews/3141911",
           "source": "华尔街见闻-快讯",
@@ -1202,17 +1227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "爆炸声又起！特朗普誓言痛击伊朗后 美军发动新一轮打击",
-          "url": "https://www.cls.cn/detail/2441051",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 18时41分]"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -1432,7 +1446,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -1473,7 +1487,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
@@ -1485,8 +1499,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时18分 ~ 18时41分]"
+          "appearance_count": 14,
+          "time_info": "[06时18分 ~ 19时36分]"
         },
         {
           "title": "白宫顾问哈塞特：预计美联储主席沃什将做正确的事。 我们相信沃什的判断。 我们对沃什的信心是极高的。 没理由认为美国债务将被降级。 长期预算在正确的方向上发展。",
@@ -1626,6 +1640,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "英国2年期国债收益率下行8个基点至4.37%。",
+          "url": "https://wallstreetcn.com/livenews/3142399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "英国利率决定公布在即，英国国债收益率上升",
           "url": "https://flash.jin10.com/detail/20260730152726426800",
           "source": "金十数据",
@@ -1736,6 +1761,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "英国两年期国债收益率延续跌势，现下跌8个基点至4.37%。",
+          "url": "https://flash.jin10.com/detail/20260730191218620800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "美国30年期国债收益率涨幅扩大至10个基点，在美联储主席沃什新闻发布会结束后报5.19%。",
           "url": "https://wallstreetcn.com/livenews/3141874",
           "source": "华尔街见闻-快讯",
@@ -1745,6 +1781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "英国央行公布利率决议后，英国10年期国债收益率降至5.009%，此前为5.027%。",
+          "url": "https://flash.jin10.com/detail/20260730191133976800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "黄金反弹高度被美债收益率封锁，下行压力或在...时触发——新版发布",
@@ -1991,7 +2038,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -2007,8 +2054,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时18分 ~ 18时41分]"
+          "appearance_count": 11,
+          "time_info": "[08时18分 ~ 19时36分]"
         },
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -2068,6 +2115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "OpenAI：今年夏天将以1万名研究人员为起点。",
