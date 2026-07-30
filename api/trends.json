@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T12:03:29.641070+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-07-30T13:53:36.888388+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时19分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[07时19分 ~ 13时53分]"
         },
         {
           "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
@@ -117,17 +117,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "A股科技退潮",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
           "title": "A股深证成指跌超3%，上证指数跌0.74%，创业板指盘中跌4.7%，科创50指数跌4.66%，两市超2600家个股下跌。",
           "url": "https://flash.jin10.com/detail/20260730105056934800",
           "source": "金十数据",
@@ -145,29 +134,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "创业板ETF易方达半日近百亿成交",
-          "url": "https://wallstreetcn.com/livenews/3142129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "创业板指已抹平今年全部涨幅",
-          "url": "https://www.toutiao.com/trending/7668151999556259347/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -205,17 +172,6 @@
           "time_info": "09时31分"
         },
         {
-          "title": "上证指数早盘收报3784.55点，跌1.15%。 深证成指早盘收报13141.22点，跌3.79%。 创业板指早盘收报3179.58点，跌5.89%。 沪深300早盘收报4500.16点，跌2.18%。 科创50早盘收报1572.25点，跌6.34%。 中证500早盘收报7263.17点，跌3.47%。 中证1000早盘收报6893.24点，跌2.85%。",
-          "url": "https://wallstreetcn.com/livenews/3142126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
           "title": "中际旭创港股上市首日，开盘报971港元，IPO价980港元。",
           "url": "https://wallstreetcn.com/livenews/3142013",
           "source": "华尔街见闻-快讯",
@@ -251,6 +207,18 @@
           "time_info": "[06时18分 ~ 07时20分]"
         },
         {
+          "title": "A股科技退潮",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E9%80%80%E6%BD%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
+        },
+        {
           "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
           "url": "https://flash.jin10.com/detail/20260730060759487800",
           "source": "金十数据",
@@ -275,6 +243,42 @@
           "time_info": "[07时20分 ~ 08时18分]"
         },
         {
+          "title": "创业板ETF易方达半日近百亿成交",
+          "url": "https://wallstreetcn.com/livenews/3142129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
+        },
+        {
+          "title": "创业板指已抹平今年全部涨幅",
+          "url": "https://www.toutiao.com/trending/7668151999556259347/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
+        },
+        {
+          "title": "上证指数早盘收报3784.55点，跌1.15%。 深证成指早盘收报13141.22点，跌3.79%。 创业板指早盘收报3179.58点，跌5.89%。 沪深300早盘收报4500.16点，跌2.18%。 科创50早盘收报1572.25点，跌6.34%。 中证500早盘收报7263.17点，跌3.47%。 中证1000早盘收报6893.24点，跌2.85%。",
+          "url": "https://wallstreetcn.com/livenews/3142126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
+        },
+        {
           "title": "美股三大指数集体收跌",
           "url": "https://www.douyin.com/hot/2590070",
           "source": "抖音",
@@ -284,8 +288,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 13时53分]"
         },
         {
           "title": "美股尾盘大跳水原因",
@@ -325,6 +329,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "创业板指年内转跌",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%B9%B4%E5%86%85%E8%BD%AC%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
+        },
+        {
           "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
           "url": "https://wallstreetcn.com/livenews/3141903",
           "source": "华尔街见闻-快讯",
@@ -349,6 +365,18 @@
           "time_info": "[00时28分 ~ 01时27分]"
         },
         {
+          "title": "创业板指抹平今年全部涨幅",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%8A%B9%E5%B9%B3%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
+        },
+        {
           "title": "金十数据整理：每日港股市场要闻速递（2026-07-30）",
           "url": "https://flash.jin10.com/detail/20260730091927686800",
           "source": "金十数据",
@@ -366,9 +394,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "中际旭创登陆港股",
+          "url": "https://www.douyin.com/hot/2590247",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
@@ -399,9 +438,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "A股存储芯片概念震荡回升，德明利午后涨停，佰维存储、江波龙、盈方微、普冉股份等快速冲高。",
+          "url": "https://wallstreetcn.com/livenews/3142160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
@@ -426,13 +476,24 @@
           "time_info": "10时58分"
         },
         {
+          "title": "【午后多只宽基ETF放量回升 2只双创ETF连续3日成交超100亿】创业板ETF易方达（159915）、科创50ETF华夏（588000）连续第3个交易日成交额突破100亿，A500ETF华泰柏瑞（563360）、中证500ETF南方（510500）、沪深300ETF华泰（510300）成交额超40亿。",
+          "url": "https://wallstreetcn.com/livenews/3142158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "A股科创50指数跌幅扩大至6%，源杰科技跌超17%。",
           "url": "https://flash.jin10.com/detail/20260730112042756800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -459,15 +520,26 @@
           "time_info": "10时58分"
         },
         {
-          "title": "创业板指年内转跌",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%B9%B4%E5%86%85%E8%BD%AC%E8%B7%8C",
+          "title": "A股存储芯片概念震荡回升",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E9%9C%87%E8%8D%A1%E5%9B%9E%E5%8D%87",
           "source": "百度热搜",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时53分"
+        },
+        {
+          "title": "A股C长鑫午后翻红，此前一度跌超6.5%，成交额超300亿元。",
+          "url": "https://flash.jin10.com/detail/20260730132802453800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "Meta美股盘后跌幅扩大至10%。",
@@ -487,7 +559,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -520,9 +592,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "A股午后存储芯片板块探底回升，德明利直线封板，佰维存储、江波龙、盈方微、普冉股份等均快速拉升。",
+          "url": "https://flash.jin10.com/detail/20260730132456152800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "创业板指、科创50均跌超3%，沪指跌0.18%，深成指跌0.86%，半导体芯片、算力硬件等方向跌幅居前，沪深京三市下跌个股近2100只。",
@@ -564,7 +647,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -586,7 +669,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -608,7 +691,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -646,17 +729,6 @@
           "time_info": "10时58分"
         },
         {
-          "title": "创业板指抹平今年全部涨幅",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%8A%B9%E5%B9%B3%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
           "title": "A股存储芯片板块持续下跌，全志科技跌12.5%，有研硅、翱捷科技跌超10%，通富微电触及跌停，华虹宏力跌超9%。",
           "url": "https://flash.jin10.com/detail/20260730102247691800",
           "source": "金十数据",
@@ -682,7 +754,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -708,8 +780,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 13时53分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -759,8 +831,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 13时53分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -779,11 +851,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时27分 ~ 12时03分]"
+          "appearance_count": 14,
+          "time_info": "[01时27分 ~ 13时53分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -838,8 +911,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 13时53分]"
         },
         {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”，希望逐步摆脱美方援助",
@@ -887,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "中国向伊朗提供武器？特朗普搅混水：要是真的，很失望",
+          "url": "https://news.ifeng.com/c/8vAy9S9JapS",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "特朗普对伊强硬表态引爆油价 市场屏息静待美联储信号",
@@ -950,9 +1034,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美联储加息压力渐增，特朗普未必会把矛头指向沃什",
@@ -1101,7 +1196,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
@@ -1112,19 +1207,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 12时03分]"
-        },
-        {
-          "title": "日本拍卖2年期国债，认购倍数3.63，过去12个月均值3.81。",
-          "url": "https://wallstreetcn.com/livenews/3142131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 13时53分]"
         },
         {
           "title": "白宫顾问哈塞特：预计美联储主席沃什将做正确的事。 我们相信沃什的判断。 我们对沃什的信心是极高的。 没理由认为美国债务将被降级。 长期预算在正确的方向上发展。",
@@ -1155,7 +1239,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1169,6 +1253,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "日本拍卖2年期国债，认购倍数3.63，过去12个月均值3.81。",
+          "url": "https://wallstreetcn.com/livenews/3142131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时53分]"
         },
         {
           "title": "30年期美债收益率涨11个基点突破5.2%，两年期TIPS收益率跌超10个基点，沃什谈及实际收益率",
@@ -1247,7 +1343,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1258,7 +1354,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1318,6 +1414,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "Tradeweb数据显示，美国国债收益率在各期限上升5-10个基点，30年期收益率达到19年来的最高点5.237%。",
+          "url": "https://flash.jin10.com/detail/20260730132647496800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "美国30年期国债收益率涨幅扩大至10个基点，在美联储主席沃什新闻发布会结束后报5.19%。",
           "url": "https://wallstreetcn.com/livenews/3141874",
           "source": "华尔街见闻-快讯",
@@ -1335,7 +1442,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1375,140 +1482,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "OpenAI针对学术研究员推出ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
-          "url": "https://www.zhihu.com/question/2065583157664018461",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时18分 ~ 12时03分]"
-        },
-        {
-          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
-          "url": "https://wallstreetcn.com/livenews/3141802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时19分]"
-        },
-        {
-          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
-          "url": "https://www.zhihu.com/question/2065729146383071132",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 12时03分]"
-        },
-        {
-          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260730014924073800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "OpenAI：今年夏天将以1万名研究人员为起点。",
-          "url": "https://flash.jin10.com/detail/20260730010929753800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI：将向10万名研究人员免费提供前沿模型访问权限。",
-          "url": "https://flash.jin10.com/detail/20260730010914986800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI宣布推出面向学术研究者的CHATGPT。",
-          "url": "https://flash.jin10.com/detail/20260730010848184800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
-          "url": "https://wallstreetcn.com/livenews/3141809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
-          "url": "https://flash.jin10.com/detail/20260730055730100800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
-          "url": "https://flash.jin10.com/detail/20260730041831120800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "SC原油主力合约日内涨幅扩大至6.00%，现报567.00元/桶。",
+          "url": "https://flash.jin10.com/detail/20260730133846846800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
         {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
           "url": "https://wallstreetcn.com/livenews/3141795",
@@ -1564,9 +1551,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "WTI原油期货突破85美元/桶，日内涨0.50%。",
+          "url": "https://flash.jin10.com/detail/20260730133312397800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "美联储维持利率不变但利率前景仍不明朗，美国空袭伊朗，地缘冲突反复，现货金银多头占比较昨日降低20%，原油多头占比仍接近80%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1633,6 +1631,150 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时18分 ~ 13时53分]"
+        },
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时53分]"
+        },
+        {
+          "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
+          "url": "https://wallstreetcn.com/livenews/3141802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时19分]"
+        },
+        {
+          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260730014924073800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI：今年夏天将以1万名研究人员为起点。",
+          "url": "https://flash.jin10.com/detail/20260730010929753800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+          "url": "https://wallstreetcn.com/livenews/3142156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "OpenAI：将向10万名研究人员免费提供前沿模型访问权限。",
+          "url": "https://flash.jin10.com/detail/20260730010914986800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI宣布推出面向学术研究者的CHATGPT。",
+          "url": "https://flash.jin10.com/detail/20260730010848184800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI针对学术研究员推出ChatGPT。 将向10万名研究员免费提供前沿模型的接触权限。 2026年夏季，将首先由1万名研究员可以使用相关模型。",
+          "url": "https://wallstreetcn.com/livenews/3141809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：第四季度合同积压在不包括OpenAI的情况下增加了25%。",
+          "url": "https://flash.jin10.com/detail/20260730055730100800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        },
+        {
+          "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
+          "url": "https://flash.jin10.com/detail/20260730041831120800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     },
