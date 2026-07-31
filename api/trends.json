@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T12:12:34.979419+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-07-31T14:02:20.456423+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -20,6 +20,19 @@
           "time_info": "[00时29分 ~ 09时32分]"
         },
         {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时02分]"
+        },
+        {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
@@ -32,19 +45,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 05时23分]"
-        },
-        {
-          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
-          "url": "https://www.cls.cn/detail/2441995",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时12分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "A股固态电池板块午后震荡走强，星云股份、海顺新材涨超10%，此前中国宝安2连板，武汉蓝电、双杰电气、灵鸽科技、纳科诺尔、金龙羽等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731134147137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "金十图示：2026年07月30日（周四）热门中概股行情一览（美股收盘）",
@@ -206,6 +217,18 @@
           "time_info": "[06时21分 ~ 07时20分]"
         },
         {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时02分]"
+        },
+        {
           "title": "美股收盘：满屏都是两位数涨幅",
           "url": "https://www.toutiao.com/trending/7668484734493888009/",
           "source": "今日头条",
@@ -230,16 +253,16 @@
           "time_info": "[10时59分 ~ 12时12分]"
         },
         {
-          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
-          "url": "https://www.cls.cn/detail/2442218",
-          "source": "财联社热门",
+          "title": "上证指数早盘收报3833.65点，涨0.76%。 深证成指早盘收报13705.42点，涨3.16%。 创业板指早盘收报3408.15点，涨5.04%。 沪深300早盘收报4605.92点，涨1.24%。 科创50早盘收报1682.27点，涨5.91%。 中证500早盘收报7561.47点，涨3.45%。 中证1000早盘收报7145.92点，涨3.55%。",
+          "url": "https://wallstreetcn.com/livenews/3142903",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            8
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 14时02分]"
         },
         {
           "title": "韩国首尔综指大幅拉升，涨幅扩大至14%，三星、SK海力士涨超25%。隔夜美股科技股大幅反弹。",
@@ -264,6 +287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "A股军工板块午后异动，观想科技直线涨停，华如科技涨超10%，建设工业等多股冲高。",
+          "url": "https://wallstreetcn.com/livenews/3142933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "亚马逊(AMZN.O)美股盘后涨幅扩大至10%。",
@@ -294,20 +328,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
         {
-          "title": "上证指数早盘收报3833.65点，涨0.76%。 深证成指早盘收报13705.42点，涨3.16%。 创业板指早盘收报3408.15点，涨5.04%。 沪深300早盘收报4605.92点，涨1.24%。 科创50早盘收报1682.27点，涨5.91%。 中证500早盘收报7561.47点，涨3.45%。 中证1000早盘收报7145.92点，涨3.55%。",
-          "url": "https://wallstreetcn.com/livenews/3142903",
-          "source": "华尔街见闻-快讯",
+          "title": "财信证券袁闯：政治局会议释放稳预期信号 短期A股市场有望夯实阶段性底部",
+          "url": "https://flash.jin10.com/detail/20260731133910285800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "经典技术信号失灵，美股离完全见底不远了",
+          "url": "https://flash.jin10.com/detail/20260731133907783800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美股存储芯片指数初步收涨17%，半导体指数涨8%。 标普500指数初步收1.6%，科技板块飙涨5.6%，可选消费板块涨1.4%，日用消费品、电信板块跌超2%。 纳斯达克100指数初步收涨3.4%，成分股中，Nebius初步收涨27.2%，闪迪飙涨25.8%，CoreWeave涨21.3%，Astera Labs、拉姆研究、美光科技、微软、Lumentum、西部数据、应用材料至少涨15%，汤森路透跌7%，Meta跌7.9%，ALNY跌28.3%。",
@@ -341,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "创业板站上1400家新起点，背后有哪些重要数据？",
+          "url": "https://www.cls.cn/detail/2442248",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美股收盘：纳指大涨2.7% 存储芯片大幅反弹",
@@ -382,7 +438,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -398,6 +454,28 @@
           "time_info": "07时20分"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股北证50指数午后涨超4%，国子软件涨超24%，万达轴承、三协电机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731131903910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
           "url": "https://wallstreetcn.com/livenews/3142641",
           "source": "华尔街见闻-快讯",
@@ -407,6 +485,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "A股全线飘红",
+          "url": "https://www.douyin.com/hot/2591645",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "亚马逊、苹果将于7月30日美股盘后公布财报。",
@@ -431,6 +520,17 @@
           "time_info": "10时59分"
         },
         {
+          "title": "A股午后军工板块异动拉升，观想科技20cm涨停，科思科技、华如科技、三瑞智能涨超10%，佳缘科技、兴图新科、建设工业、六九一二、中无人机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731131352609800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "A股上市券商百亿分红陆续兑现，回购计划增强投资者信心",
           "url": "https://wallstreetcn.com/livenews/3142709",
           "source": "华尔街见闻-快讯",
@@ -448,7 +548,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -542,11 +642,12 @@
           "url": "https://wallstreetcn.com/livenews/3142913",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 14时02分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -554,11 +655,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时32分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[09时32分 ~ 14时02分]"
         },
         {
           "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
@@ -769,8 +871,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 14时02分]"
         },
         {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
@@ -905,6 +1007,18 @@
           "time_info": "[05时23分 ~ 06时21分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.11%，5年期主力合约涨0.07%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3142900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 14时02分]"
+        },
+        {
           "title": "德国两年期国债收益率跌超5个基点",
           "url": "https://wallstreetcn.com/livenews/3142580",
           "source": "华尔街见闻-快讯",
@@ -940,17 +1054,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.35%，10年期主力合约涨0.11%，5年期主力合约涨0.07%，2年期主力合约涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3142900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "英国10年期国债收益率延续跌势，现跌5个基点至4.98%。",
           "url": "https://flash.jin10.com/detail/20260730235524883800",
           "source": "金十数据",
@@ -979,7 +1082,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1001,7 +1104,113 @@
           "ranks": [
             22
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "上期所原油期货2609合约夜盘收跌1.39%，报553.2元人民币/桶。 沪金夜盘收涨1.2%，沪银收涨1.82%。",
+          "url": "https://wallstreetcn.com/livenews/3142612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 04时25分]"
+        },
+        {
+          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3142613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "商品期货开盘，钯主力合约涨超3%，沪锡、铂涨超2%，沪银、瓶片、红枣涨超1%。焦煤跌超2%，焦炭、燃料油、LU燃油、原油、纯碱、液化气、鸡蛋跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3142754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "WTI原油向下触及80美元/桶，日内跌3.28%。布伦特原油日内下跌3.00%，现报84.24美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260731133427071800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "WTI原油日内下跌3%，现报80.12美元/桶。布伦特原油日内下跌2.8%，报84.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260731133109056800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "SC原油主力合约日内大跌4.00%，现报538.40元/桶。",
+          "url": "https://flash.jin10.com/detail/20260731133103006800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2%，失守81美元/桶。布伦特原油日内下跌1.6%，报85.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260731090659876800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 布伦特9月原油期货收跌1.71美元，跌幅超过1.88%，报89.03美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3142613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时25分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂、焦煤、燃料油跌超3%，焦炭跌近3%，SC原油、低硫燃料油（LU）、纯苯、乙二醇（EG）、苯乙烯跌超2%。涨幅方面，沪锡、苹果、钯涨近2%，20号胶、铂、红枣涨超1%，沪银、多晶硅、沪锌涨近1%。",
+          "url": "https://flash.jin10.com/detail/20260731113123171800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1093,79 +1302,6 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "上期所原油期货2609合约夜盘收跌1.39%，报553.2元人民币/桶。 沪金夜盘收涨1.2%，沪银收涨1.82%。",
-          "url": "https://wallstreetcn.com/livenews/3142612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时29分 ~ 04时25分]"
-        },
-        {
-          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3142613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "商品期货开盘，钯主力合约涨超3%，沪锡、铂涨超2%，沪银、瓶片、红枣涨超1%。焦煤跌超2%，焦炭、燃料油、LU燃油、原油、纯碱、液化气、鸡蛋跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3142754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "WTI原油日内跌幅达2%，失守81美元/桶。布伦特原油日内下跌1.6%，报85.4美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260731090659876800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "WTI 9月原油期货收跌0.87美元，跌幅1.03%，报83.59美元/桶。 布伦特9月原油期货收跌1.71美元，跌幅超过1.88%，报89.03美元/桶。 中东Abu Dhabi Murban原油期货跌0.34%，报87.70美元/桶。 NYMEX 8月天然气期货收报2.7580美元/百万英热单位。 NYMEX 8月汽油期货收报3.2847美元/加仑，NYMEX 8月取暖油期货收报4.2094美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3142613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，碳酸锂、焦煤、燃料油跌超3%，焦炭跌近3%，SC原油、低硫燃料油（LU）、纯苯、乙二醇（EG）、苯乙烯跌超2%。涨幅方面，沪锡、苹果、钯涨近2%，20号胶、铂、红枣涨超1%，沪银、多晶硅、沪锌涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260731113123171800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
@@ -1177,8 +1313,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时12分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 14时02分]"
         },
         {
           "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
@@ -1239,7 +1375,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
