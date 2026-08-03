@@ -1,1837 +1,105 @@
 {
-  "generated_at": "2026-08-03T23:55:01.320310+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2026-08-04T00:46:53.930966+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 66,
-      "titles": [
-        {
-          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2443573",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 14时03分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2443284",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
-          "url": "https://www.cls.cn/detail/2444433",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时55分]"
-        },
-        {
-          "title": "A股4000只股票上涨为何科技股暴跌",
-          "url": "https://www.toutiao.com/trending/7669788116869189162/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时58分 ~ 23时55分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时58分 ~ 23时55分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时50分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2444244",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时03分 ~ 23时55分]"
-        },
-        {
-          "title": "A股最危险的阶段已经过去了吗",
-          "url": "https://www.toutiao.com/trending/7669429334746074630/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时19分]"
-        },
-        {
-          "title": "港股午评：恒生科技指数半日收涨0.74% 阿里巴巴大涨近7%",
-          "url": "https://flash.jin10.com/detail/20260803120418757800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
-          "url": "https://flash.jin10.com/detail/20260803134324481800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "亚马逊美股盘初涨超4%，市值突破3万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3144190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "A股打新“芯”和“光”都来了",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%89%93%E6%96%B0%E2%80%9C%E8%8A%AF%E2%80%9D%E5%92%8C%E2%80%9C%E5%85%89%E2%80%9D%E9%83%BD%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22,
-            15,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 07时18分]"
-        },
-        {
-          "title": "A股商业航天板块局部拉升，神剑股份涨停，西部材料、通宇通讯、航天环宇、飞沃科技等跟涨。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260803105251364800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股硅料硅片板块走高，通威股份涨停，大全能源、TCL中环、弘元绿能、华民股份、双良节能等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3143921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "美股三大股指小幅高开，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴涨超3%，此前发布千问3.8-MAX，长程自动编程表现出色；科技股涨跌不一，微软、亚马逊均涨超2%；美光科技、闪迪跌5%。",
-          "url": "https://wallstreetcn.com/livenews/3144187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "A股存储芯片概念股午后持续走弱，兆易创新逼近跌停，普冉股份跌超10%，德明利、佰维存储、香农芯创、江波龙、澜起科技等跌幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3143917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时55分]"
-        },
-        {
-          "title": "马来西亚龙头银行即将收购Ageas所持Etiqa股权",
-          "url": "https://wallstreetcn.com/livenews/3143892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "北美科技软件股指数ETF美股盘初涨1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3144189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时59分]"
-        },
-        {
-          "title": "A股8月会迎来反攻吗",
-          "url": "https://www.toutiao.com/trending/7669355683321482798/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 09时33分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "上证指数早盘收报3809.65点，跌0.59%。 深证成指早盘收报13517.62点，跌0.45%。 创业板指早盘收报3329.13点，跌0.44%。 沪深300早盘收报4554.62点，跌0.73%。 科创50早盘收报1575.01点，跌3.73%。 中证500早盘收报7446.97点，跌0.63%。 中证1000早盘收报7084.88点，涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3143883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "券商研报：8月A股或进入修复时间窗口，配置回归基本面定价逻辑",
-          "url": "https://wallstreetcn.com/livenews/3143748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 08时20分]"
-        },
-        {
-          "title": "A股商业航天概念震荡走强，神剑股份、铖昌科技双双涨停，通宇通讯、西部材料、航天环宇、中超控股涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3143854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 12时18分]"
-        },
-        {
-          "title": "券商：A股或进入行情修复窗口",
-          "url": "https://www.toutiao.com/trending/7668912270327545898/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
-        },
-        {
-          "title": "存储赛道回调：A股概念股全线走弱 韩国存储龙头再遭重挫",
-          "url": "https://www.cls.cn/detail/2443973",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "阿里巴巴港股涨近6%，Qwen3.8与“千问办公”同日亮相",
-          "url": "https://wallstreetcn.com/livenews/3143876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "本周，A股“光”和“芯”新股都来了",
-          "url": "https://www.cls.cn/detail/2443770",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "A股收盘：科创50指数低开低走跌超5%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%855%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2596417",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时54分 ~ 23时55分]"
-        },
-        {
-          "title": "港股科网股走强 百度集团涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E7%A7%91%E7%BD%91%E8%82%A1%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "8月首个交易日A股这些细节值得关注",
-          "url": "https://www.toutiao.com/trending/7669163561474179114/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "媒体：A股资金格局正在“再平衡”",
-          "url": "https://www.toutiao.com/trending/7669739487047470655/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        },
-        {
-          "title": "A股半导体多股大跌",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%9A%E8%82%A1%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "A股或告别科技独舞",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%96%E5%91%8A%E5%88%AB%E7%A7%91%E6%8A%80%E7%8B%AC%E8%88%9E%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "A股寒武纪午后跌幅扩大至7%。",
-          "url": "https://flash.jin10.com/detail/20260803133600566800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股温度计",
-          "url": "https://flash.jin10.com/detail/20260803091311577800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "澜起科技：截至2026年7月31日，公司已通过集中竞价交易方式累计回购公司A股股份70.5万股，占公司总股本的比例为0.06%，支付的金额总额约为人民币1.44亿元。",
-          "url": "https://wallstreetcn.com/livenews/3144117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "A股MLCC概念盘中震荡回升，裕兴股份涨超10%，风华高科、利和兴、火炬电子、三环集团等涨幅靠前。",
-          "url": "https://flash.jin10.com/detail/20260803104418938800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股煤炭开采加工拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3143907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "指数下跌个股飘红 A股风格切换了吗",
-          "url": "https://www.toutiao.com/trending/7669769003002236467/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "A股钢铁板块走高，沙钢股份涨停，大中矿业、广大特材、河钢股份、久立特材、鞍钢股份、武进不锈等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803104122590800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "恒生指数午后转跌，恒生科技指数涨幅收窄至0.44%，智谱(02513.HK)跌8%，中芯国际(00981.HK)、理想汽车(02015.HK)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260803132516722800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "华泰证券：A股现阶段更接近“交易底初现”",
-          "url": "https://wallstreetcn.com/livenews/3143767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "【图解牛熊股】7月创业板指月跌23%，油气开采、创新药概念股逆势走强",
-          "url": "https://www.cls.cn/detail/2443459",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "A股电池化学品板块短线拉升，威尔泰涨停，吉和昌、天华新能、丰元股份、石大胜华、海科新源等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803103912005800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803090516887800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "A股煤炭开采加工板块拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803131037140800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股PEEK材料概念震荡反弹，百合花涨停，恒勃股份、崇德科技、国恩股份、新瀚新材、中研股份、超捷股份等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803130916307800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3144172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "南向资金今日大幅净买入110.31亿元。港股通（沪）方面，盈富基金、腾讯控股分别获净买入47.5亿港元、14.98亿港元；中芯国际净卖出额居首，金额为3.71亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净买入30.0亿港元、9.35亿港元；中芯国际净卖出额居首，金额为6.92亿港元。",
-          "url": "https://flash.jin10.com/detail/20260803173107305800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "【月之暗面回应港股IPO传闻：消息不实】8月3日，据报道，月之暗面计划最早于本月内提交香港IPO申请，或募资约30亿美元。对此，月之暗面回应称消息不实。（界面新闻）",
-          "url": "https://wallstreetcn.com/livenews/3144058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803090247835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "A股午评：沪指半日跌0.59% 半导体、电子化学品等概念走弱",
-          "url": "https://flash.jin10.com/detail/20260803113358396800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "美股开盘，道指涨0.52%，标普500指数涨0.33%，纳指涨0.3%。阿里巴巴(BABA.N)涨3.5%，此前发布千问3.8-MAX人工智能模型。SpaceX(SPCX.O)跌3%。存储概念股下跌，美光科技(MU.O)跌5%，闪迪(SNDK.O)跌5%。",
-          "url": "https://flash.jin10.com/detail/20260803213030141800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "A股电网设备板块反复活跃，汇金通、风范股份直线涨停，益坤电气涨超15%，长缆科技、金利华电、三友联众涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3143830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股券商、金融科技股早盘下挫，湘财股份、国盛证券逼近跌停，广发证券、指南针、同花顺、中银证券跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3143820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "科创板一晚连发31份回购增持公告，年内回购金额上限超百亿",
-          "url": "https://wallstreetcn.com/livenews/3144162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "A股核电板块盘中持续走高，久盛电气20cm涨停，此前中国核建、江苏神通、合锻智能、百利电气、利柏特等十余股涨停，哈焊华通、常辅股份、瑞奇智造、天力复合均涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260803102736012800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "上证指数收报3809.66点，跌0.59%。 深证成指收报13448.29点，跌0.96%。 创业板指收报3302.55点，跌1.24%。 沪深300收报4543.18点，跌0.98%。 科创50收报1552.89点，跌5.08%。 中证500收报7414.52点，跌1.06%。 中证1000收报7079.78点，涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3143963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至1.1%，阿里巴巴涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3143815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "月之暗面回应港股IPO传闻：消息不实",
-          "url": "https://flash.jin10.com/detail/20260803172133577800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "A股半导体设备板块盘中持续走低，科创半导体设备ETF鹏华、半导体设备ETF华夏、半导体设备ETF广发均跌超8%，半导体设备ETF招商跌7.7%。",
-          "url": "https://flash.jin10.com/detail/20260803102222230800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
-          "url": "https://wallstreetcn.com/livenews/3143808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "上证指数开盘报3812.61点，跌0.51%。 深证成指开盘报13497.10点，跌0.60%。 创业板指开盘报3320.09点，跌0.71%。 沪深300开盘报4561.82点，跌0.57%。 科创50开盘报1619.29点，跌1.02%。 中证500开盘报7457.12点，跌0.49%。 中证1000开盘报7055.27点，跌0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3143804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 7,
       "titles": [
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 14时03分]"
-        },
-        {
-          "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
-          "url": "https://news.ifeng.com/c/8vGSlnonKX0",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时06分 ~ 22时59分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时20分 ~ 16时07分]"
-        },
-        {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 11时00分]"
-        },
-        {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时20分 ~ 14时03分]"
-        },
-        {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 11时00分]"
-        },
-        {
-          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
-          "url": "https://www.zhihu.com/question/2067198062456463879",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普称决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时06分 ~ 18时15分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 16时07分]"
-        },
-        {
-          "title": "特朗普：已决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
-          "url": "https://wallstreetcn.com/livenews/3143717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            14,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时18分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普再称委内瑞拉为美国第51州",
-          "url": "https://www.toutiao.com/trending/7669053092835524651/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
-          "url": "https://wallstreetcn.com/livenews/3143739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
-          "url": "https://flash.jin10.com/detail/20260803120059466800",
+          "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
+          "url": "https://flash.jin10.com/detail/20260804001514489800",
           "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "美媒：因凡蒂诺求助特朗普保其职位",
-          "url": "https://www.toutiao.com/trending/7669763103931764251/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时03分 ~ 22时59分]"
-        },
-        {
-          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
-          "url": "https://flash.jin10.com/detail/20260803015627779800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时17分]"
-        },
-        {
-          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
-          "url": "https://flash.jin10.com/detail/20260803014329998800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时17分]"
-        },
-        {
-          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
-          "url": "https://flash.jin10.com/detail/20260803013751190800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 05时17分]"
-        },
-        {
-          "title": "金十整理：特朗普八次叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803044202027800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://flash.jin10.com/detail/20260803055834448800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
-          "url": "https://flash.jin10.com/detail/20260803064716887800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 08时20分]"
-        },
-        {
-          "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
-          "url": "https://flash.jin10.com/detail/20260803013114997800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时19分]"
-        },
-        {
-          "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
-          "url": "https://flash.jin10.com/detail/20260803012453800800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 04时19分]"
-        },
-        {
-          "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
-          "url": "https://wallstreetcn.com/livenews/3143688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 02时18分]"
-        },
-        {
-          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
-          "url": "https://flash.jin10.com/detail/20260803040451593800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时16分]"
-        },
-        {
-          "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
-          "url": "https://flash.jin10.com/detail/20260803055502014800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时18分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及英特尔）我为国家赚了750亿美元。我不是为自己赚的，是为国家赚的。",
-          "url": "https://flash.jin10.com/detail/20260803055411307800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时18分]"
-        },
-        {
-          "title": "特朗普：美伊谈判明日启动 霍尔木兹海峡已有协议",
-          "url": "https://flash.jin10.com/detail/20260803054815233800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时18分]"
+          "time_info": "00时46分"
         },
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
           "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时54分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "美国总统特朗普：已决定对加拿大野火问题采取惩罚措施，但暂不公布。",
-          "url": "https://flash.jin10.com/detail/20260803054649195800",
-          "source": "金十数据",
+          "title": "媒体援引消息人士报道称，美国总统特朗普预计周五在国务院出席一场矿业高管圆桌会议。",
+          "url": "https://wallstreetcn.com/livenews/3144268",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            29
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时18分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
-          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
-          "source": "凤凰网",
+          "title": "2029年之前！“控制”格陵兰岛，特朗普罕见列出时间表",
+          "url": "https://wallstreetcn.com/livenews/3144267",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "全球前瞻｜特朗普称将与伊朗谈判，欧盟开会讨论西班牙飞地休达移民危机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708757",
-          "source": "澎湃新闻",
+          "title": "特朗普：与伊朗的谈判已开始，后续会谈也已提上日程",
+          "url": "https://wallstreetcn.com/livenews/3144262",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普再提珍珠港事件",
-          "url": "https://www.toutiao.com/trending/7668570014715346971/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "美媒：特朗普民调跌至历史新低",
-          "url": "https://www.toutiao.com/trending/7669012238334165035/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "特朗普再度TACO，宣布美伊谈判即将重启，现货黄金多头占比飙升至85%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260803104538415800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时00分"
+          "time_info": "00时46分"
         },
         {
-          "title": "特朗普高调背书美日联手托市、贝森特笔记泄露天机，日元空头瑟瑟发抖",
-          "url": "https://flash.jin10.com/detail/20260803074140973800",
-          "source": "金十数据",
+          "title": "特朗普称伊朗领导层口是心非",
+          "url": "https://wallstreetcn.com/livenews/3144260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时20分"
+          "time_info": "00时46分"
         },
         {
           "title": "特朗普：除非达成协议、或者伊朗彻底投降，否则任何东西都进不了伊朗",
           "url": "https://wallstreetcn.com/livenews/3144250",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
-          "url": "https://flash.jin10.com/detail/20260803054401910800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美日联合干预日元 特朗普再提珍珠港",
-          "url": "https://flash.jin10.com/detail/20260803073906442800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
-          "url": "https://flash.jin10.com/detail/20260803054323048800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
-          "url": "https://flash.jin10.com/detail/20260803061251267800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）霍尔木兹海峡已有协议，无核化也将达成协议。正在以谈判的形式与他们对话，（美东时间）明天下午开始。",
-          "url": "https://flash.jin10.com/detail/20260803054226703800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "美国总统特朗普：我们有着史上最大的减税和就业数据、世界历史上美国最大的外部投资、完全安全的边境、在委内瑞拉取得的巨大胜利、伊朗的无核化、举世公认的尊重与成功，还有更多？不要相信激进左翼的虚假民调数据。",
-          "url": "https://flash.jin10.com/detail/20260803213458828800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国总统特朗普：我真正的民调数据——不是假新闻媒体编造的那些——正处于有史以来的最佳水平，这有什么理由不好呢？",
-          "url": "https://flash.jin10.com/detail/20260803213416065800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "特朗普称，美国干预日元汇率是两国友谊的信号。",
-          "url": "https://wallstreetcn.com/livenews/3143743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗达成协议比对其进行军事打击更好。",
-          "url": "https://flash.jin10.com/detail/20260803061218681800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国共和党参议员科宁和蒂利斯放弃对特朗普政府司法部长提名的阻挠，他们将支持托德·布兰奇出任司法部长。",
-          "url": "https://flash.jin10.com/detail/20260803222231646800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "特朗普称伊朗领导层是“双面人” 与伊朗的谈判已经开始",
-          "url": "https://flash.jin10.com/detail/20260803233020887800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "特朗普称美伊3日将举行谈判",
-          "url": "https://wallstreetcn.com/livenews/3143742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
-          "url": "https://flash.jin10.com/detail/20260803061041484800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国总统特朗普：无论伊朗是否愿意承认，我们实际上是在讨论一个他们造成的、持续数十年的问题的解决方案。",
-          "url": "https://flash.jin10.com/detail/20260803232809750800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国总统特朗普：我们原计划对伊朗实施自二战以来最大规模的攻击。",
-          "url": "https://flash.jin10.com/detail/20260803061040162800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美国总统特朗普：霍尔木兹海峡由美国海军控制。",
-          "url": "https://flash.jin10.com/detail/20260803232735817800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国总统特朗普：未经美国批准，任何东西都无法进入伊朗。",
-          "url": "https://flash.jin10.com/detail/20260803232658758800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "特朗普拒绝为美伊达成协议设定最后期限",
-          "url": "https://wallstreetcn.com/livenews/3143835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "10万美元提前看特朗普帖文服务上线",
-          "url": "https://wallstreetcn.com/livenews/3144166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我认为特朗普的考量是，他不想看到全球经济崩溃。",
-          "url": "https://flash.jin10.com/detail/20260803231201879800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国总统特朗普：石油公司，降低你们的价格。",
-          "url": "https://wallstreetcn.com/livenews/3144196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "欧洲Stoxx 50指数期货上涨0.7%，此前特朗普称将与伊朗谈判。",
-          "url": "https://wallstreetcn.com/livenews/3143777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
-          "url": "https://wallstreetcn.com/livenews/3144228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 国债",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.750%，投标倍数2.61。 拍卖六个月期国债，得标利率3.855%，投标倍数2.98。",
-          "url": "https://wallstreetcn.com/livenews/3144253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "随着美伊将重启谈判，美国国债收益率全线下跌。",
-          "url": "https://wallstreetcn.com/livenews/3143774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 09时33分]"
-        },
-        {
-          "title": "日本5年期国债收益率上行5个基点至2.075%，创2000年上市以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3143888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "市场消息：过去三个月，日本减持了960亿美元的美国国债，持仓降至1.14万亿美元，为2025年4月以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260802233306006800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时20分]"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3143771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时20分 ~ 09时33分]"
-        },
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时07分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.03%，10年期主力合约跌0.04%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3143880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "日本两年期国债收益率升至1.54%，创1995年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3143769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "银行间主要利率债收益率盘初普遍下行，30年期国债“26超长特别国债02”收益率下行1bp报2.1750%，10年期国债“26附息国债10”收益率下行0.3bp下破1.70%关口，现报1.6980%，创6月1日以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3143794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "美国至8月3日6个月国债竞拍-得标利率配置百分比 65.4%，前值36.13%。",
-          "url": "https://flash.jin10.com/detail/20260803233333021800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
-          "url": "https://flash.jin10.com/detail/20260803115620374800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "美国至8月3日6个月国债竞拍-投标倍数 2.98，前值3.12。",
-          "url": "https://flash.jin10.com/detail/20260803233332996800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国至8月3日3个月国债竞拍-得标利率配置百分比 10.13%，前值83.44%。",
-          "url": "https://flash.jin10.com/detail/20260803233332284800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国至8月3日6个月国债竞拍-得标利率 3.855%，前值3.95%。",
-          "url": "https://flash.jin10.com/detail/20260803233324691800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国至8月3日3个月国债竞拍-投标倍数 2.61，前值3.06。",
-          "url": "https://flash.jin10.com/detail/20260803233247962800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美国至8月3日3个月国债竞拍-得标利率 3.75%，前值3.82%。",
-          "url": "https://flash.jin10.com/detail/20260803233241943800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约涨0.05%，10年期主力合约跌0.04%，5年期主力合约跌0.05%，2年期主力合约跌0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3143975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "三菱日联：美国支持日本稳汇率有助于缓解美债的抛压",
-          "url": "https://wallstreetcn.com/livenews/3144177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
-        },
-        {
-          "title": "美财政部长期拒绝调整美债发行指引，华尔街逐渐放弃期待",
-          "url": "https://flash.jin10.com/detail/20260803193537469800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "美国10年期国债期货上涨13个点，30年期国债期货上涨22点。",
-          "url": "https://flash.jin10.com/detail/20260803060330957800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "英国国债高开，10年期国债收益率下行7个基点至4.98%。",
-          "url": "https://wallstreetcn.com/livenews/3143968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "摩根大通：将美联储加息时点预期提前至12月，10年期美债收益率料在4.85%",
-          "url": "https://wallstreetcn.com/livenews/3143778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "港交所5年期中国国债期货上市首日开盘报107元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3143818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
-          "url": "https://flash.jin10.com/detail/20260803122507266800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.08%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3143809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "30年美债收益率破5%将如何影响股市",
-          "url": "https://www.toutiao.com/trending/7669755735231696420/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 6,
       "titles": [
         {
-          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
-          "url": "https://www.zhihu.com/question/2067212789714778007",
-          "source": "知乎",
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            6,
-            4,
-            3,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 07时18分]"
-        },
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7,
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 14时03分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -1841,71 +109,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时50分 ~ 23时55分]"
-        },
-        {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时58分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
           "url": "https://www.zhihu.com/question/2067512422555029717",
           "source": "知乎",
           "ranks": [
-            18,
-            15,
-            14,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时03分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "DeepSeek模型单日吞下8万亿Token",
-          "url": "https://www.toutiao.com/trending/7669679149316836902/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时04分]"
-        },
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时19分 ~ 08时20分]"
-        },
-        {
-          "title": "全球大模型进入DeepSeek斩杀区",
-          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=19&Refer=top",
+          "title": "DeepSeek登顶全球第一",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -1915,350 +142,269 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时54分 ~ 23时55分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "华为半导体首席科学家大赞梁文锋",
-          "url": "https://www.toutiao.com/trending/7669025220200546330/",
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "source": "今日头条",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
-        },
-        {
-          "title": "老外们太爱DeepSeek了",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E4%BB%AC%E5%A4%AA%E7%88%B1DeepSeek%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
-          "url": "https://flash.jin10.com/detail/20260803113453343800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "研究公司：DeepSeek的新AI模型是迄今为止运行成本最低的知名模型",
-          "url": "https://wallstreetcn.com/livenews/3143957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 12,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "遭遇袭击过后，油轮开始在哈萨克斯坦关键出口码头装载原油",
+          "url": "https://wallstreetcn.com/livenews/3144271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO负责人：通过土耳其运输原油的关税为每桶1.62美元。",
+          "url": "https://flash.jin10.com/detail/20260804000711627800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "伊拉克石油市场输出组织（SOMO）负责人：经土耳其运输原油的关税为每桶1.62美元。 关税涵盖土耳其国有能源公司博塔斯（BOTAS）对输油管道的运营与维护。",
+          "url": "https://wallstreetcn.com/livenews/3144265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
         {
           "title": "伊拉克国家石油营销组织SOMO负责人：伊拉克7月从南部港口售出3550万桶原油，从杰伊汉码头售出700万桶。",
           "url": "https://flash.jin10.com/detail/20260803234200290800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "内盘商品期货开盘，燃料油跌近4%，SC原油跌超3%，铁矿石跌近3%；多晶硅涨超2%，对二甲苯、丙烯、PTA、聚丙烯月均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3143797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "国际原油周一低开逾8%",
-          "url": "https://flash.jin10.com/detail/20260803060056397800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时18分]"
-        },
-        {
-          "title": "WTI跌破80美元，伊朗却称当前没有美伊谈判｜原油头条",
-          "url": "https://flash.jin10.com/detail/20260803173759119800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
+          "time_info": "00时46分"
         },
         {
           "title": "沙特7月原油出货量下滑，红海与霍尔木兹海峡风险加剧",
           "url": "https://wallstreetcn.com/livenews/3144244",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时55分"
+          "time_info": "00时46分"
         },
         {
           "title": "美国能源信息署（EIA）：上周美国战略石油储备中的原油库存减少约285万桶，至3.048亿桶，为1983年以来最低水平。",
           "url": "https://wallstreetcn.com/livenews/3144241",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO要求长期买家预订8月装船的巴士拉原油。",
-          "url": "https://flash.jin10.com/detail/20260803130401196800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时03分"
-        },
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "WTI原油日内跌幅达7.0%，报78.74美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3144171",
+          "title": "德国10年期国债收益率跌超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3144273",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "00时46分"
         },
         {
-          "title": "夜盘期货开盘，原油、燃油跌逾3%，低硫燃油跌逾2%，液化石油气、纯碱、对二甲苯、沥青跌逾1%；沪锌等上涨。",
-          "url": "https://wallstreetcn.com/livenews/3144170",
+          "title": "英国10年期国债收益率跌约10个基点",
+          "url": "https://wallstreetcn.com/livenews/3144272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时50分"
+          "time_info": "00时46分"
         },
         {
-          "title": "商品期货收盘，红枣主力合约跌超5%，燃料油跌近5%，尿素、原油跌超3%，铁矿石、纯碱、LU燃油跌超2%。多晶硅触及涨停，涨幅8.99%，集运欧线涨超3%，鸡蛋涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3143967",
+          "title": "美国财政部拍卖三个月期国债，得标利率3.750%，投标倍数2.61。 拍卖六个月期国债，得标利率3.855%，投标倍数2.98。",
+          "url": "https://wallstreetcn.com/livenews/3144253",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "00时46分"
         },
         {
-          "title": "早盘收盘，国内期货主力合约跌多涨少，燃料油、红枣跌超4%，尿素跌近4%，SC原油跌近3%，铁矿石、乙二醇（EG）跌超2%，沪镍跌近2%，锰硅跌超1%。涨幅方面，多晶硅涨超7%，集运欧线涨近3%，鸡蛋、PTA、菜籽、沪锌涨超1%，工业硅涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260803113040017800",
+          "title": "美国至8月3日6个月国债竞拍-得标利率配置百分比 65.4%，前值36.13%。",
+          "url": "https://flash.jin10.com/detail/20260803233333021800",
           "source": "金十数据",
           "ranks": [
-            22
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "00时46分"
         },
         {
-          "title": "早盘开盘，国内期货主力合约跌多涨少，塑料月均跌超5%，燃料油跌近4%，SC原油跌超3%，铁矿石跌近3%，乙二醇（EG）、苯乙烯（EB）、碳酸锂跌超2%，纯苯跌近2%，低硫燃料油（LU）跌超1%。涨幅方面，多晶硅涨超2%，对二甲苯、丙烯、PTA、聚丙烯月均涨超1%，短纤、沪锌、沪锡涨近1%。",
-          "url": "https://flash.jin10.com/detail/20260803090003387800",
+          "title": "美国至8月3日6个月国债竞拍-投标倍数 2.98，前值3.12。",
+          "url": "https://flash.jin10.com/detail/20260803233332996800",
           "source": "金十数据",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时33分"
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股4000只股票上涨为何科技股暴跌",
+          "url": "https://www.toutiao.com/trending/7669788116869189162/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
+          "url": "https://www.cls.cn/detail/2444433",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "报道：OpenAI、Anthropic、谷歌员工代表将参加周二的白宫AI企业会议",
-          "url": "https://wallstreetcn.com/livenews/3144221",
+          "title": "除了谷歌之外，Meta也将列席白宫周二的AI会议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3144274",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时46分"
         },
         {
-          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
-          "url": "https://www.zhihu.com/question/2065724643378570793",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 14时03分]"
-        },
-        {
-          "title": "美股部分科技巨头走强，Meta Platforms(META.O)涨逾6%，微软(MSFT.O)现涨近5%，谷歌A(GOOGL.O)涨3.7%，甲骨文(ORCL.N)涨4.6%。",
-          "url": "https://flash.jin10.com/detail/20260803221900069800",
+          "title": "谷歌(GOOG.O)：今天，我们宣布Google Cloud Cortex Framework第7版正式全面上市。",
+          "url": "https://flash.jin10.com/detail/20260804000502031800",
           "source": "金十数据",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "RWE与谷歌(GOOG.O)签署为期五年的购电协议，承购俄克拉荷马州麦柯廷县155兆瓦Crooked Creek太阳能项目的全部发电量。RWE计划于今年晚些时候启动该项目的现场建设。",
-          "url": "https://flash.jin10.com/detail/20260803221202004800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "RWE与谷歌(GOOG.O)签署俄克拉荷马州太阳能项目购电协议。",
-          "url": "https://flash.jin10.com/detail/20260803220851286800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "谷歌盘中总市值达4.51万亿美元，超过苹果升至全球第二。",
-          "url": "https://wallstreetcn.com/livenews/3144191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3144276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时06分 ~ 23时55分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 14时03分]"
-        },
-        {
-          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时59分]"
-        },
-        {
-          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
-          "url": "https://www.zhihu.com/question/2066921241156523798",
-          "source": "知乎",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
-          "url": "https://flash.jin10.com/detail/20260803114543512800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）上海金早盘价为882.23元/克，较国际金价(882.41元/克)，低0.18元/克",
-          "url": "https://flash.jin10.com/detail/20260803112559412800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "00时46分"
         }
       ]
     }
