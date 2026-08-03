@@ -1,11 +1,595 @@
 {
-  "generated_at": "2026-08-03T16:07:16.809698+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-08-03T18:15:07.647112+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 51,
+      "titles": [
+        {
+          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2443573",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 14时03分]"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 08时20分]"
+        },
+        {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 08时20分]"
+        },
+        {
+          "title": "A股最危险的阶段已经过去了吗",
+          "url": "https://www.toutiao.com/trending/7669429334746074630/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 04时19分]"
+        },
+        {
+          "title": "港股午评：恒生科技指数半日收涨0.74% 阿里巴巴大涨近7%",
+          "url": "https://flash.jin10.com/detail/20260803120418757800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
+          "url": "https://flash.jin10.com/detail/20260803134324481800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股打新“芯”和“光”都来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%89%93%E6%96%B0%E2%80%9C%E8%8A%AF%E2%80%9D%E5%92%8C%E2%80%9C%E5%85%89%E2%80%9D%E9%83%BD%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22,
+            15,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时25分 ~ 07时18分]"
+        },
+        {
+          "title": "A股商业航天板块局部拉升，神剑股份涨停，西部材料、通宇通讯、航天环宇、飞沃科技等跟涨。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260803105251364800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股硅料硅片板块走高，通威股份涨停，大全能源、TCL中环、弘元绿能、华民股份、双良节能等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3143921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股存储芯片概念股午后持续走弱，兆易创新逼近跌停，普冉股份跌超10%，德明利、佰维存储、香农芯创、江波龙、澜起科技等跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3143917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "马来西亚龙头银行即将收购Ageas所持Etiqa股权",
+          "url": "https://wallstreetcn.com/livenews/3143892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 14时03分]"
+        },
+        {
+          "title": "A股8月会迎来反攻吗",
+          "url": "https://www.toutiao.com/trending/7669355683321482798/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时20分 ~ 09时33分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 14时03分]"
+        },
+        {
+          "title": "上证指数早盘收报3809.65点，跌0.59%。 深证成指早盘收报13517.62点，跌0.45%。 创业板指早盘收报3329.13点，跌0.44%。 沪深300早盘收报4554.62点，跌0.73%。 科创50早盘收报1575.01点，跌3.73%。 中证500早盘收报7446.97点，跌0.63%。 中证1000早盘收报7084.88点，涨0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3143883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 14时03分]"
+        },
+        {
+          "title": "券商研报：8月A股或进入修复时间窗口，配置回归基本面定价逻辑",
+          "url": "https://wallstreetcn.com/livenews/3143748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 08时20分]"
+        },
+        {
+          "title": "A股商业航天概念震荡走强，神剑股份、铖昌科技双双涨停，通宇通讯、西部材料、航天环宇、中超控股涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3143854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 12时18分]"
+        },
+        {
+          "title": "券商：A股或进入行情修复窗口",
+          "url": "https://www.toutiao.com/trending/7668912270327545898/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 14时03分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "存储赛道回调：A股概念股全线走弱 韩国存储龙头再遭重挫",
+          "url": "https://www.cls.cn/detail/2443973",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "阿里巴巴港股涨近6%，Qwen3.8与“千问办公”同日亮相",
+          "url": "https://wallstreetcn.com/livenews/3143876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 14时03分]"
+        },
+        {
+          "title": "本周，A股“光”和“芯”新股都来了",
+          "url": "https://www.cls.cn/detail/2443770",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
+        },
+        {
+          "title": "A股收盘：科创50指数低开低走跌超5%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
+        },
+        {
+          "title": "港股科网股走强 百度集团涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E7%A7%91%E7%BD%91%E8%82%A1%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "8月首个交易日A股这些细节值得关注",
+          "url": "https://www.toutiao.com/trending/7669163561474179114/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "A股半导体多股大跌",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%9A%E8%82%A1%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
+        },
+        {
+          "title": "A股或告别科技独舞",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%96%E5%91%8A%E5%88%AB%E7%A7%91%E6%8A%80%E7%8B%AC%E8%88%9E%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 00时19分]"
+        },
+        {
+          "title": "A股寒武纪午后跌幅扩大至7%。",
+          "url": "https://flash.jin10.com/detail/20260803133600566800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260803091311577800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "A股MLCC概念盘中震荡回升，裕兴股份涨超10%，风华高科、利和兴、火炬电子、三环集团等涨幅靠前。",
+          "url": "https://flash.jin10.com/detail/20260803104418938800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股煤炭开采加工拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3143907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股钢铁板块走高，沙钢股份涨停，大中矿业、广大特材、河钢股份、久立特材、鞍钢股份、武进不锈等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260803104122590800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "恒生指数午后转跌，恒生科技指数涨幅收窄至0.44%，智谱(02513.HK)跌8%，中芯国际(00981.HK)、理想汽车(02015.HK)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260803132516722800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "华泰证券：A股现阶段更接近“交易底初现”",
+          "url": "https://wallstreetcn.com/livenews/3143767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时20分"
+        },
+        {
+          "title": "【图解牛熊股】7月创业板指月跌23%，油气开采、创新药概念股逆势走强",
+          "url": "https://www.cls.cn/detail/2443459",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "A股电池化学品板块短线拉升，威尔泰涨停，吉和昌、天华新能、丰元股份、石大胜华、海科新源等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260803103912005800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803090516887800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "A股煤炭开采加工板块拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
+          "url": "https://flash.jin10.com/detail/20260803131037140800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "A股PEEK材料概念震荡反弹，百合花涨停，恒勃股份、崇德科技、国恩股份、新瀚新材、中研股份、超捷股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260803130916307800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "南向资金今日大幅净买入110.31亿元。港股通（沪）方面，盈富基金、腾讯控股分别获净买入47.5亿港元、14.98亿港元；中芯国际净卖出额居首，金额为3.71亿港元；港股通（深）方面，阿里巴巴-W、腾讯控股分别获净买入30.0亿港元、9.35亿港元；中芯国际净卖出额居首，金额为6.92亿港元。",
+          "url": "https://flash.jin10.com/detail/20260803173107305800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "【月之暗面回应港股IPO传闻：消息不实】8月3日，据报道，月之暗面计划最早于本月内提交香港IPO申请，或募资约30亿美元。对此，月之暗面回应称消息不实。（界面新闻）",
+          "url": "https://wallstreetcn.com/livenews/3144058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803090247835800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时33分"
+        },
+        {
+          "title": "A股午评：沪指半日跌0.59% 半导体、电子化学品等概念走弱",
+          "url": "https://flash.jin10.com/detail/20260803113358396800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "A股电网设备板块反复活跃，汇金通、风范股份直线涨停，益坤电气涨超15%，长缆科技、金利华电、三友联众涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3143830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股券商、金融科技股早盘下挫，湘财股份、国盛证券逼近跌停，广发证券、指南针、同花顺、中银证券跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3143820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股核电板块盘中持续走高，久盛电气20cm涨停，此前中国核建、江苏神通、合锻智能、百利电气、利柏特等十余股涨停，哈焊华通、常辅股份、瑞奇智造、天力复合均涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260803102736012800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "上证指数收报3809.66点，跌0.59%。 深证成指收报13448.29点，跌0.96%。 创业板指收报3302.55点，跌1.24%。 沪深300收报4543.18点，跌0.98%。 科创50收报1552.89点，跌5.08%。 中证500收报7414.52点，跌1.06%。 中证1000收报7079.78点，涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3143963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至1.1%，阿里巴巴涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3143815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "月之暗面回应港股IPO传闻：消息不实",
+          "url": "https://flash.jin10.com/detail/20260803172133577800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "A股半导体设备板块盘中持续走低，科创半导体设备ETF鹏华、半导体设备ETF华夏、半导体设备ETF广发均跌超8%，半导体设备ETF招商跌7.7%。",
+          "url": "https://flash.jin10.com/detail/20260803102222230800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
+          "url": "https://wallstreetcn.com/livenews/3143808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "上证指数开盘报3812.61点，跌0.51%。 深证成指开盘报13497.10点，跌0.60%。 创业板指开盘报3320.09点，跌0.71%。 沪深300开盘报4561.82点，跌0.57%。 科创50开盘报1619.29点，跌1.02%。 中证500开盘报7457.12点，跌0.49%。 中证1000开盘报7055.27点，跌0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3143804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -95,6 +679,17 @@
           "time_info": "[00时18分 ~ 07时18分]"
         },
         {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 18时15分]"
+        },
+        {
           "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
           "url": "https://www.cls.cn/detail/2443690",
           "source": "财联社热门",
@@ -107,6 +702,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时59分 ~ 16时07分]"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 18时15分]"
         },
         {
           "title": "特朗普：已决定惩罚加拿大",
@@ -144,28 +750,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时32分 ~ 09时33分]"
-        },
-        {
-          "title": "特朗普称决定惩罚加拿大",
-          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
         },
         {
           "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
@@ -379,6 +963,17 @@
           "time_info": "[16时06分 ~ 16时07分]"
         },
         {
+          "title": "全球前瞻｜特朗普称将与伊朗谈判，欧盟开会讨论西班牙飞地休达移民危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708757",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
           "title": "特朗普再提珍珠港事件",
           "url": "https://www.toutiao.com/trending/7668570014715346971/",
           "source": "今日头条",
@@ -568,524 +1163,6 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 45,
-      "titles": [
-        {
-          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2443573",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时18分 ~ 14时03分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2443284",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 08时20分]"
-        },
-        {
-          "title": "A股最危险的阶段已经过去了吗",
-          "url": "https://www.toutiao.com/trending/7669429334746074630/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时19分]"
-        },
-        {
-          "title": "港股午评：恒生科技指数半日收涨0.74% 阿里巴巴大涨近7%",
-          "url": "https://flash.jin10.com/detail/20260803120418757800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "A股AI应用热门股利欧股份上午涨停后开板，午后再次封板，截至发稿，涨停板上有超53万手封板，报5.13元/股，总市值为347.39亿元，成交额为68.24亿元。",
-          "url": "https://flash.jin10.com/detail/20260803134324481800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股打新“芯”和“光”都来了",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%89%93%E6%96%B0%E2%80%9C%E8%8A%AF%E2%80%9D%E5%92%8C%E2%80%9C%E5%85%89%E2%80%9D%E9%83%BD%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22,
-            15,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时25分 ~ 07时18分]"
-        },
-        {
-          "title": "A股商业航天板块局部拉升，神剑股份涨停，西部材料、通宇通讯、航天环宇、飞沃科技等跟涨。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260803105251364800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股硅料硅片板块走高，通威股份涨停，大全能源、TCL中环、弘元绿能、华民股份、双良节能等纷纷走高。",
-          "url": "https://wallstreetcn.com/livenews/3143921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股存储芯片概念股午后持续走弱，兆易创新逼近跌停，普冉股份跌超10%，德明利、佰维存储、香农芯创、江波龙、澜起科技等跌幅靠前。",
-          "url": "https://wallstreetcn.com/livenews/3143917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "马来西亚龙头银行即将收购Ageas所持Etiqa股权",
-          "url": "https://wallstreetcn.com/livenews/3143892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "A股8月会迎来反攻吗",
-          "url": "https://www.toutiao.com/trending/7669355683321482798/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时20分 ~ 09时33分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "上证指数早盘收报3809.65点，跌0.59%。 深证成指早盘收报13517.62点，跌0.45%。 创业板指早盘收报3329.13点，跌0.44%。 沪深300早盘收报4554.62点，跌0.73%。 科创50早盘收报1575.01点，跌3.73%。 中证500早盘收报7446.97点，跌0.63%。 中证1000早盘收报7084.88点，涨0.13%。",
-          "url": "https://wallstreetcn.com/livenews/3143883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "券商研报：8月A股或进入修复时间窗口，配置回归基本面定价逻辑",
-          "url": "https://wallstreetcn.com/livenews/3143748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时18分 ~ 08时20分]"
-        },
-        {
-          "title": "A股商业航天概念震荡走强，神剑股份、铖昌科技双双涨停，通宇通讯、西部材料、航天环宇、中超控股涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3143854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 12时18分]"
-        },
-        {
-          "title": "券商：A股或进入行情修复窗口",
-          "url": "https://www.toutiao.com/trending/7668912270327545898/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 14时03分]"
-        },
-        {
-          "title": "阿里巴巴港股涨近6%，Qwen3.8与“千问办公”同日亮相",
-          "url": "https://wallstreetcn.com/livenews/3143876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时03分]"
-        },
-        {
-          "title": "本周，A股“光”和“芯”新股都来了",
-          "url": "https://www.cls.cn/detail/2443770",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "A股收盘：科创50指数低开低走跌超5%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%855%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "港股科网股走强 百度集团涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E7%A7%91%E7%BD%91%E8%82%A1%E8%B5%B0%E5%BC%BA+%E7%99%BE%E5%BA%A6%E9%9B%86%E5%9B%A2%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时00分]"
-        },
-        {
-          "title": "A股半导体多股大跌",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%9A%E8%82%A1%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
-        },
-        {
-          "title": "A股或告别科技独舞",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%96%E5%91%8A%E5%88%AB%E7%A7%91%E6%8A%80%E7%8B%AC%E8%88%9E%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "A股寒武纪午后跌幅扩大至7%。",
-          "url": "https://flash.jin10.com/detail/20260803133600566800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股温度计",
-          "url": "https://flash.jin10.com/detail/20260803091311577800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "A股MLCC概念盘中震荡回升，裕兴股份涨超10%，风华高科、利和兴、火炬电子、三环集团等涨幅靠前。",
-          "url": "https://flash.jin10.com/detail/20260803104418938800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股煤炭开采加工拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3143907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股钢铁板块走高，沙钢股份涨停，大中矿业、广大特材、河钢股份、久立特材、鞍钢股份、武进不锈等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803104122590800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "恒生指数午后转跌，恒生科技指数涨幅收窄至0.44%，智谱(02513.HK)跌8%，中芯国际(00981.HK)、理想汽车(02015.HK)跌超2%。",
-          "url": "https://flash.jin10.com/detail/20260803132516722800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "华泰证券：A股现阶段更接近“交易底初现”",
-          "url": "https://wallstreetcn.com/livenews/3143767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时20分"
-        },
-        {
-          "title": "【图解牛熊股】7月创业板指月跌23%，油气开采、创新药概念股逆势走强",
-          "url": "https://www.cls.cn/detail/2443459",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "A股电池化学品板块短线拉升，威尔泰涨停，吉和昌、天华新能、丰元股份、石大胜华、海科新源等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803103912005800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803090516887800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "A股煤炭开采加工板块拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803131037140800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "A股PEEK材料概念震荡反弹，百合花涨停，恒勃股份、崇德科技、国恩股份、新瀚新材、中研股份、超捷股份等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260803130916307800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-08-03）",
-          "url": "https://flash.jin10.com/detail/20260803090247835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时33分"
-        },
-        {
-          "title": "A股午评：沪指半日跌0.59% 半导体、电子化学品等概念走弱",
-          "url": "https://flash.jin10.com/detail/20260803113358396800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "A股电网设备板块反复活跃，汇金通、风范股份直线涨停，益坤电气涨超15%，长缆科技、金利华电、三友联众涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3143830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股券商、金融科技股早盘下挫，湘财股份、国盛证券逼近跌停，广发证券、指南针、同花顺、中银证券跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3143820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股核电板块盘中持续走高，久盛电气20cm涨停，此前中国核建、江苏神通、合锻智能、百利电气、利柏特等十余股涨停，哈焊华通、常辅股份、瑞奇智造、天力复合均涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260803102736012800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "上证指数收报3809.66点，跌0.59%。 深证成指收报13448.29点，跌0.96%。 创业板指收报3302.55点，跌1.24%。 沪深300收报4543.18点，跌0.98%。 科创50收报1552.89点，跌5.08%。 中证500收报7414.52点，跌1.06%。 中证1000收报7079.78点，涨0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3143963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至1.1%，阿里巴巴涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3143815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股半导体设备板块盘中持续走低，科创半导体设备ETF鹏华、半导体设备ETF华夏、半导体设备ETF广发均跌超8%，半导体设备ETF招商跌7.7%。",
-          "url": "https://flash.jin10.com/detail/20260803102222230800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
-          "url": "https://wallstreetcn.com/livenews/3143808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "上证指数开盘报3812.61点，跌0.51%。 深证成指开盘报13497.10点，跌0.60%。 创业板指开盘报3320.09点，跌0.71%。 沪深300开盘报4561.82点，跌0.57%。 科创50开盘报1619.29点，跌1.02%。 中证500开盘报7457.12点，跌0.49%。 中证1000开盘报7055.27点，跌0.29%。",
-          "url": "https://wallstreetcn.com/livenews/3143804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
       "match_count": 17,
       "titles": [
@@ -1212,7 +1289,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -1234,7 +1311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -1286,7 +1363,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -1319,6 +1396,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时18分 ~ 14时03分]"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -1374,7 +1462,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         }
@@ -1382,7 +1470,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "内盘商品期货开盘，燃料油跌近4%，SC原油跌超3%，铁矿石跌近3%；多晶硅涨超2%，对二甲苯、丙烯、PTA、聚丙烯月均涨超1%。",
@@ -1408,6 +1496,17 @@
           "time_info": "[06时16分 ~ 07时18分]"
         },
         {
+          "title": "WTI跌破80美元，伊朗却称当前没有美伊谈判｜原油头条",
+          "url": "https://flash.jin10.com/detail/20260803173759119800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "伊拉克国家石油营销组织SOMO要求长期买家预订8月装船的巴士拉原油。",
           "url": "https://flash.jin10.com/detail/20260803130401196800",
           "source": "金十数据",
@@ -1425,7 +1524,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
         },
@@ -1455,7 +1554,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -1476,11 +1575,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 18时15分]"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时06分 ~ 16时07分]"
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
