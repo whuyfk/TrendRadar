@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-04T01:33:05.332550+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-08-04T02:32:15.899385+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
         {
           "title": "美媒：特朗普多次威胁与退让后 伊朗领导层认为其不想扩大战争",
           "url": "https://flash.jin10.com/detail/20260804011703176800",
@@ -14,20 +27,75 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
         {
-          "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
-          "url": "https://wallstreetcn.com/livenews/3144285",
+          "title": "特朗普：美伊“正在”谈判 这是伊朗达成协议的“最后机会”",
+          "url": "https://flash.jin10.com/detail/20260804021634807800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普：应伊朗的要求与伊朗进行对话的，今明两天就会知晓谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3144304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：如果有人要（在霍尔木兹海峡）收费，我们也会收费。",
+          "url": "https://flash.jin10.com/detail/20260804021225328800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：我不会让伊朗在霍尔木兹海峡收取费用。",
+          "url": "https://flash.jin10.com/detail/20260804021200150800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普宣称：对（美国和以色列）与伊朗冲突的解决方案推进得不错。",
+          "url": "https://wallstreetcn.com/livenews/3144302",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：美国代理司法部长布兰奇将会做得很好。",
+          "url": "https://flash.jin10.com/detail/20260804021106813800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美参议院少数党领袖：特朗普发动对伊战争是为了让石油巨头盟友获利",
@@ -36,9 +104,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判的第二阶段是去核化。",
+          "url": "https://flash.jin10.com/detail/20260804020557060800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
@@ -53,16 +132,16 @@
           "time_info": "[00时46分 ~ 01时33分]"
         },
         {
-          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
-          "source": "澎湃新闻",
+          "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
+          "url": "https://wallstreetcn.com/livenews/3144285",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 02时32分]"
         },
         {
           "title": "媒体援引消息人士报道称，美国总统特朗普预计周五在国务院出席一场矿业高管圆桌会议。",
@@ -113,15 +192,103 @@
           "time_info": "[00时46分 ~ 01时33分]"
         },
         {
+          "title": "特朗普：霍尔木兹海峡可能最迟明天重开",
+          "url": "https://flash.jin10.com/detail/20260804020520161800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：无核化谈判将需要一段时间。",
+          "url": "https://flash.jin10.com/detail/20260804020323318800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
+          "url": "https://wallstreetcn.com/livenews/3144297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判进展迅速，今天或明天你们将会得知结果。",
+          "url": "https://flash.jin10.com/detail/20260804020251432800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普声称一项“协议即将达成”之后，伊朗外交部发言人周一置评道，德黑兰暂无与华盛顿举行直接谈判的计划。",
+          "url": "https://wallstreetcn.com/livenews/3144296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：这是伊朗的最后机会。",
+          "url": "https://flash.jin10.com/detail/20260804020126410800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们是在伊朗的要求下进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260804020046693800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "美国纽约州、其他23个州及哥伦比亚特区起诉特朗普政府，反对允许获取TANF私人信息的相关改革措施。",
           "url": "https://flash.jin10.com/detail/20260804004748433800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗谈判目前正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260804015915799800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美国纽约州总检察长詹姆斯起诉特朗普政府，以保护弱势纽约居民的个人信息。总检察长詹姆斯采取行动，阻止非法共享数百万名TANF（贫困家庭临时援助计划）受助者的私人数据。",
@@ -130,9 +297,86 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国总统特朗普：美国国防部长赫格塞思做得非常出色。",
+          "url": "https://flash.jin10.com/detail/20260804015523058800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "伊朗认为特朗普倾向谈判而非局势升级",
+          "url": "https://wallstreetcn.com/livenews/3144290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：美国曾与委内瑞拉发生冲突，结果非常顺利，目前与伊朗的冲突也进展得非常、非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260804015502890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗冲突进展非常顺利。",
+          "url": "https://flash.jin10.com/detail/20260804014831078800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：为支持军人家庭采取新举措，签署行政命令成立首个总统军事配偶委员会。",
+          "url": "https://flash.jin10.com/detail/20260804014554856800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "媒体：伊朗民众已逐渐不再关注特朗普战争言论",
+          "url": "https://flash.jin10.com/detail/20260804014125391800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "据以色列第12频道：一名以色列高级官员表示，在任何情况下，以色列都不会在哈马斯解除武装之前撤军，这一点并未在最初的特朗普框架中达成协议，也不会发生改变。",
+          "url": "https://flash.jin10.com/detail/20260804013644888800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "特朗普：除非达成协议、或者伊朗彻底投降，否则任何东西都进不了伊朗",
@@ -148,102 +392,8 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "A股4000只股票上涨为何科技股暴跌",
-          "url": "https://www.toutiao.com/trending/7669788116869189162/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
-        },
-        {
-          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
-          "url": "https://www.cls.cn/detail/2444433",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2444244",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
-        },
-        {
-          "title": "长鑫科技为何能问鼎A股市值第一",
-          "url": "https://www.toutiao.com/trending/7669800779284221476/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260804003126944800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260804003113215800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "遭遇袭击过后，油轮开始在哈萨克斯坦关键出口码头装载原油",
@@ -298,7 +448,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         },
@@ -309,9 +459,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美伊停火释放中东原油供应 委内瑞拉7月石油出口下滑",
+          "url": "https://flash.jin10.com/detail/20260804013018665800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "沙特7月原油出货量下滑，红海与霍尔木兹海峡风险加剧",
@@ -338,6 +499,100 @@
       ]
     },
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股4000只股票上涨为何科技股暴跌",
+          "url": "https://www.toutiao.com/trending/7669788116869189162/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
+        {
+          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
+          "url": "https://www.cls.cn/detail/2444433",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
+        {
+          "title": "长鑫科技为何能问鼎A股市值第一",
+          "url": "https://www.toutiao.com/trending/7669800779284221476/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260804003126944800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260804003113215800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
@@ -349,8 +604,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "DeepSeek一天消耗了8万亿",
@@ -360,8 +615,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -369,11 +624,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -381,11 +637,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -393,11 +650,12 @@
           "source": "微博",
           "ranks": [
             10,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -405,22 +663,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
           "url": "https://www.zhihu.com/question/2067545767003120313",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 02时32分]"
         }
       ]
     },
@@ -434,11 +694,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "英国10年期国债收益率跌约10个基点",
@@ -446,11 +707,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率3.750%，投标倍数2.61。 拍卖六个月期国债，得标利率3.855%，投标倍数2.98。",
@@ -498,11 +760,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "谷歌(GOOG.O)：今天，我们宣布Google Cloud Cortex Framework第7版正式全面上市。",
@@ -522,7 +785,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         }
@@ -533,18 +796,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
-          "url": "https://wallstreetcn.com/livenews/3144276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 01时33分]"
-        },
-        {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
@@ -553,8 +804,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 02时32分]"
+        },
+        {
+          "title": "英国数据监管机构信息专员办公室（ICO）就OpenAI与Anthropic事件发表声明：我们已知悉近期影响该行业的黑客攻击事件，正密切监控事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3144276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时33分]"
+          "time_info": "[00时46分 ~ 02时32分]"
         },
         {
           "title": "英国数据监管机构ICO：（就OpenAI和Anthropic）我们已注意到近期影响该行业的黑客事件，并正在密切监控事态发展。",
@@ -563,7 +827,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
         }
