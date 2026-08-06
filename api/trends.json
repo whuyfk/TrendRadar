@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T10:59:29.606514+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-08-06T12:06:24.045982+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 34,
+      "match_count": 44,
       "titles": [
         {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 10时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时06分]"
         },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -51,11 +51,12 @@
             12,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 10时59分]"
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 12时06分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -67,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 10时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时06分]"
         },
         {
           "title": "香港恒生指数8月6日（周四）开盘下跌248.68点，跌幅0.96%，报25667.14点；<br/>香港恒生科技指数8月6日（周四）开盘下跌48.99点，跌幅0.99%，报4884.08点；<br/>国企指数8月6日（周四）开盘下跌48.1点，跌幅0.56%，报8555.63点；<br/>红筹指数8月6日（周四）开盘下跌10.91点，跌幅0.26%，报4147.24点。",
@@ -88,7 +89,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -102,6 +103,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "上证指数早盘收报3878.92点，涨0.01%。 深证成指早盘收报14070.78点，跌0.52%。 创业板指早盘收报3511.47点，跌0.67%。 沪深300早盘收报4637.89点，跌0.44%。 科创50早盘收报1690.91点，跌0.16%。 中证500早盘收报7787.99点，跌0.27%。 中证1000早盘收报7492.80点，跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3145793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "A股午评：创业板指冲高回落跌0.67% CPO、PCB概念逆势走强",
+          "url": "https://flash.jin10.com/detail/20260806113702255800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "8月6日午间收评：创业板指半日跌0.67%，煤炭、贵金属板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3145792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，SpaceX跌超13%",
@@ -189,6 +223,30 @@
           "time_info": "[04时29分 ~ 06时23分]"
         },
         {
+          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3145762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时06分]"
+        },
+        {
+          "title": "A股半导体产业链震荡拉升，汇成股份、欧莱新材、甬矽电子涨超10%，有研新材此前2连板，和林微纳、长电科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3145759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时06分]"
+        },
+        {
           "title": "港股公司逾330份半年度业绩预告，预喜和扭亏数量占比超五成",
           "url": "https://wallstreetcn.com/livenews/3145637",
           "source": "华尔街见闻-快讯",
@@ -235,15 +293,15 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
-          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
-          "url": "https://wallstreetcn.com/livenews/3145762",
+          "title": "恒生科技指数日内跌幅扩大至2.1%。中芯国际跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3145788",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时06分"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -257,15 +315,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "A股半导体产业链震荡拉升，汇成股份、欧莱新材、甬矽电子涨超10%，有研新材此前2连板，和林微纳、长电科技涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3145759",
+          "title": "创业板指翻绿，现跌0.2%，此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3145785",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时06分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.91%，报25674点。 恒生科技指数主连夜盘收跌1.01%，报4881点。",
@@ -279,15 +337,48 @@
           "time_info": "03时31分"
         },
         {
+          "title": "A股粮食概念板块短线拉升，金健米业涨停，神农种业、秋乐种业、京粮控股、新赛股份、敦煌种业等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260806112803608800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "创业板指涨超1%，盘初一度跌超2.5%，沪指涨0.33%，深成指涨0.64%，算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股近2000只。",
+          "url": "https://wallstreetcn.com/livenews/3145778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "香港恒生指数日内跌幅扩大至2%，恒生科技指数跌1.8%。友邦保险跌9%，新鸿基地产跌5%。",
           "url": "https://wallstreetcn.com/livenews/3145747",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "港股AI应用股多数下跌，汇量科技(01860.HK)大跌近8%，金山云(03896.HK)跌超6%，中手游(00302.HK)、百度(09888.HK)、阿里巴巴(09988.HK)、小米集团(01810.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806112007682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美股存储芯片指数初步收跌2.5%，半导体指数跌1%。 标普500指数初步收跌0.1%，电信板块跌2.4%，能源板块跌2%，科技板块涨0.3%，保健板块涨1.3%，原材料板块涨1.6%。 纳斯达克100指数初步收跌0.6%，成分股中，SpaceX初步收跌13.6%，Astera Labs跌10.7%，汤森路透跌9%，AMD、西部数据至少跌5%，英伟达涨3.7%，万豪国际涨4.4%，Booking涨6.7%，Shopify涨16.6%。",
@@ -318,9 +409,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "恒生科技指数跌2%，恒生指数跌1.86%。",
+          "url": "https://flash.jin10.com/detail/20260806111544174800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "A股数字货币概念快速拉升，飞天诚信、恒宝股份、新北洋涨停，楚天龙、天融信、优博讯、创识科技涨超5%。",
@@ -329,7 +431,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -345,13 +447,24 @@
           "time_info": "05时24分"
         },
         {
+          "title": "A股医药商业板块直线拉升，人民同泰、合富中国双双涨停，药易购涨超15%，开开实业、建发致新、塞力医疗、华人健康跟涨。",
+          "url": "https://flash.jin10.com/detail/20260806111152300800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "创业板指跌超2%，沪指跌0.24%，深成指跌1.28%，教育、MLCC、消费电子、半导体等板块跌幅居前，沪深京三市下跌个股近3300只。",
           "url": "https://wallstreetcn.com/livenews/3145724",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -362,7 +475,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -384,7 +497,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -395,7 +508,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -403,7 +516,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -413,8 +526,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 10时59分]"
+          "appearance_count": 6,
+          "time_info": "[08时17分 ~ 12时06分]"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时17分 ~ 12时06分]"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时17分 ~ 12时06分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -430,28 +565,6 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 10时59分]"
-        },
-        {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 10时59分]"
-        },
-        {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://www.toutiao.com/trending/7670517654829927979/",
           "source": "今日头条",
@@ -465,6 +578,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时23分]"
+        },
+        {
+          "title": "卡尼不点名调侃特朗普",
+          "url": "https://wallstreetcn.com/livenews/3145797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
@@ -498,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
@@ -632,6 +767,17 @@
           "time_info": "[06时23分 ~ 07时21分]"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时06分]"
+        },
+        {
           "title": "美国总统特朗普：关税让我们变得富有。",
           "url": "https://flash.jin10.com/detail/20260806053019525800",
           "source": "金十数据",
@@ -684,20 +830,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
         {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
+          "title": "特朗普小跑着保护险些摔下台的幼童",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "12时06分"
         },
         {
           "title": "美国民主党参议员Mark Warner：如果特朗普和万斯想打击欺诈行为，他们可以从特朗普在担任总统第一年中中饱私囊的22亿美元开始。",
@@ -711,6 +857,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
+          "url": "https://wallstreetcn.com/livenews/3145771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "据华尔街日报：自沃什担任美联储主席以来，美国总统特朗普多次与其通话。",
           "url": "https://flash.jin10.com/detail/20260806090514682800",
           "source": "金十数据",
@@ -720,13 +877,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "卡尼借提词器故障嘲讽特朗普",
+          "url": "https://www.toutiao.com/trending/7670443518179295258/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "日本拍卖30年期国债，认购倍数为3.86，过去12个月均值为3.49。",
+          "url": "https://wallstreetcn.com/livenews/3145796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "日本30年期国债拍卖投标倍数为3.86，较7月份的4.55有所下降。",
+          "url": "https://flash.jin10.com/detail/20260806113629243800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.11%，10年期主力合约跌0.04%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3145790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
         {
           "title": "中证报：人民币国债在港常态化发行，拓宽外资配置中国资产渠道",
           "url": "https://wallstreetcn.com/livenews/3145641",
@@ -762,6 +963,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时29分]"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20260806113110227800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "日本至7月31日当周买进外国债券 4779亿日元，前值由-8114亿日元修正为-8101亿日元。",
@@ -858,7 +1070,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -1020,7 +1232,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -1103,6 +1315,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "Chatgpt你在自己搜什么呢",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E4%BD%A0%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%90%9C%E4%BB%80%E4%B9%88%E5%91%A2&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时31分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 12时06分]"
+        },
+        {
+          "title": "DeepSeek把Claude拉进“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7670490376733462057/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时30分 ~ 01时31分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "DeepSeek计划大幅涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
+          "url": "https://wallstreetcn.com/livenews/3145744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -1118,8 +1427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时23分 ~ 10时59分]"
+          "appearance_count": 9,
+          "time_info": "[06时23分 ~ 12时06分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
@@ -1130,8 +1439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时17分 ~ 10时59分]"
+          "appearance_count": 6,
+          "time_info": "[08时17分 ~ 12时06分]"
         },
         {
           "title": "WTI原油突破75美元/桶，日内涨0.91%。",
@@ -1169,58 +1478,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时31分]"
-        },
-        {
-          "title": "DeepSeek把Claude拉进“斩杀线”",
-          "url": "https://www.toutiao.com/trending/7670490376733462057/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时30分 ~ 01时31分]"
-        },
-        {
-          "title": "DeepSeek API即将大幅涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
-          "url": "https://wallstreetcn.com/livenews/3145744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
       "match_count": 4,
       "titles": [
@@ -1233,8 +1490,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 10时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 12时06分]"
         },
         {
           "title": "黄金价格是否已经出现底部信号",
@@ -1265,7 +1522,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
