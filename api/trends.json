@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:53:50.201999+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-08-06T17:54:24.038783+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
@@ -71,6 +71,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时33分 ~ 12时06分]"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 17时54分]"
         },
         {
           "title": "香港恒生指数8月6日（周四）开盘下跌248.68点，跌幅0.96%，报25667.14点；<br/>香港恒生科技指数8月6日（周四）开盘下跌48.99点，跌幅0.99%，报4884.08点；<br/>国企指数8月6日（周四）开盘下跌48.1点，跌幅0.56%，报8555.63点；<br/>红筹指数8月6日（周四）开盘下跌10.91点，跌幅0.26%，报4147.24点。",
@@ -189,22 +202,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
-        },
-        {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 16时53分]"
         },
         {
           "title": "美股大类资产类ETF多数下跌，纳指100 ETF跌0.9%，黄金ETF涨超4.1%",
@@ -420,6 +420,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "派拓公司（Palo Alto Networks）美股盘前短线跳水跌近2%，此前网信办对派拓公司在华销售产品启动网络安全审查。",
+          "url": "https://wallstreetcn.com/livenews/3145958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "A股收盘：沪指低开高走涨0.57%",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E6%B6%A80.57%25",
           "source": "百度热搜",
@@ -437,9 +448,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "南向资金今日净卖出14.61亿元。港股通（沪）方面，腾讯控股、阿里巴巴-W分别获净卖出9.99亿港元、2.18亿港元；净买入额居首，金额为21.7亿港元；港股通（深）方面，中芯国际、阿里巴巴-W分别获净卖出16.43亿港元、14.1亿港元；净买入额居首，金额为5.27亿港元。",
+          "url": "https://flash.jin10.com/detail/20260806173157086800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.91%，报25674点。 恒生科技指数主连夜盘收跌1.01%，报4881点。",
@@ -459,7 +481,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -525,7 +547,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -558,7 +580,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -712,7 +734,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -770,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "在IPO后股票锁定期到期前，SpaceX美股盘前上涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3145931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -786,8 +819,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时17分 ~ 16时53分]"
+          "appearance_count": 12,
+          "time_info": "[08时17分 ~ 17时54分]"
         },
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -798,8 +831,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时17分 ~ 16时53分]"
+          "appearance_count": 12,
+          "time_info": "[08时17分 ~ 17时54分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时54分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -812,18 +857,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时17分 ~ 13时58分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 16时53分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -1141,7 +1174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1196,7 +1229,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1625,7 +1658,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
@@ -1642,11 +1675,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek拟上调API服务定价",
@@ -1656,11 +1690,12 @@
             1,
             5,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 17时54分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -1683,11 +1718,25 @@
             1,
             2,
             13,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 17时54分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -1703,30 +1752,18 @@
           "time_info": "[10时59分 ~ 14时54分]"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时53分]"
-        },
-        {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
             16,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时57分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时57分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
@@ -1738,8 +1775,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 17时54分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -1946,8 +1983,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时23分 ~ 16时53分]"
+          "appearance_count": 15,
+          "time_info": "[06时23分 ~ 17时54分]"
         },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
@@ -2054,7 +2091,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -2081,13 +2118,24 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "一图看懂 | 金价刚突破4300美元关口，黄金股早已悄悄涨了30%",
+          "url": "https://www.cls.cn/detail/2447296",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
           "title": "金价一度触及4300，到底是谁买上来的？",
           "url": "https://flash.jin10.com/detail/20260806161459430800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
