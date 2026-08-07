@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T12:44:19.203519+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-08-07T13:31:38.874680+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 12时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时59分 ~ 13时31分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -28,8 +28,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 12时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时59分 ~ 13时31分]"
+        },
+        {
+          "title": "A股CPO概念股再度拉升，中富电路涨超14%，光迅科技、汇绿生态此前涨停，杰普特、联讯仪器、亨通光电涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3146458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "A股温度计",
@@ -41,6 +52,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "A股创新药、CRO概念持续走强，义翘神州午后20cm涨停，药康生物、哈三联、百花医药、普洛药业、凯莱英等十余股封板，皓元医药、泓博医药、药石科技等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3146455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "A股生物制品板块短线冲高，义翘神州直线涨停，此前近岸蛋白、百普赛斯涨停，诺唯赞、吴帆生物、荣昌生物、长春高新跟涨。",
+          "url": "https://flash.jin10.com/detail/20260807130403954800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "深交所公告，根据有关规定，港股通标的证券名单调入晶合集成（02249.HK）并自2026年8月7日起生效。",
@@ -65,6 +98,19 @@
           "time_info": "09时23分"
         },
         {
+          "title": "上证指数早盘收报3919.51点，涨0.49%。 深证成指早盘收报14295.08点，涨1.31%。 创业板指早盘收报3577.20点，涨1.75%。 沪深300早盘收报4689.96点，涨0.83%。 科创50早盘收报1718.59点，涨1.02%。 中证500早盘收报7919.52点，涨1.15%。 中证1000早盘收报7615.18点，涨1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3146423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时31分]"
+        },
+        {
           "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
           "url": "https://flash.jin10.com/detail/20260807113538270800",
           "source": "金十数据",
@@ -77,28 +123,17 @@
           "time_info": "[12时00分 ~ 12时44分]"
         },
         {
-          "title": "上证指数早盘收报3919.51点，涨0.49%。 深证成指早盘收报14295.08点，涨1.31%。 创业板指早盘收报3577.20点，涨1.75%。 沪深300早盘收报4689.96点，涨0.83%。 科创50早盘收报1718.59点，涨1.02%。 中证500早盘收报7919.52点，涨1.15%。 中证1000早盘收报7615.18点，涨1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3146423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时44分]"
-        },
-        {
           "title": "8月7日午间收评：创业板指半日涨1.75%，创新药、PCB概念股集体走强",
           "url": "https://wallstreetcn.com/livenews/3146422",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时31分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -189,7 +224,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -211,7 +246,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -296,8 +331,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 12时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时59分 ~ 13时31分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -307,8 +342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 13时31分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -318,8 +353,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 13时31分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -330,8 +365,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 13时31分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -341,8 +376,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 13时31分]"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -353,8 +388,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时58分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时58分 ~ 13时31分]"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -367,6 +402,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 09时23分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 13时31分]"
         },
         {
           "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
@@ -404,16 +451,16 @@
           "time_info": "[11时59分 ~ 12时44分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
+          "url": "https://wallstreetcn.com/livenews/3146430",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 12时44分]"
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时31分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -437,17 +484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时59分 ~ 12时00分]"
-        },
-        {
-          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
-          "url": "https://wallstreetcn.com/livenews/3146430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -529,8 +565,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 12时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时59分 ~ 13时31分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -541,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 12时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 13时31分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -567,8 +603,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时59分 ~ 12时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时59分 ~ 13时31分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -629,6 +665,18 @@
           "time_info": "[10时58分 ~ 10时59分]"
         },
         {
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时31分]"
+        },
+        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
@@ -649,17 +697,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
-          "url": "https://www.toutiao.com/trending/7671088097861307923/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     },
@@ -684,11 +721,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时31分]"
         },
         {
           "title": "日本10年期国债收益率上升2.0个基点，至2.780%。",
@@ -738,8 +776,19 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "40年来首次！沙特对美原油出口7月骤降至零，8月却要强势反弹？",
+          "url": "https://flash.jin10.com/detail/20260807130420519800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
         {
           "title": "早盘收盘，国内期货主力合约涨多跌少，多晶硅涨超5%，SC原油涨近5%，乙二醇（EG）、燃料油涨超4%，合成橡胶涨近4%，低硫燃料油（LU）、焦炭、瓶片涨超3%。跌幅方面，铂、钯跌超1%。",
           "url": "https://flash.jin10.com/detail/20260807113035257800",
@@ -881,11 +930,12 @@
           "url": "https://flash.jin10.com/detail/20260807120847851800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时31分]"
         }
       ]
     }
