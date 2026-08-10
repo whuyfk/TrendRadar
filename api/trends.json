@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T21:29:08.941861+08:00",
-  "total_titles_processed": 1933,
+  "generated_at": "2026-08-10T22:25:28.279196+08:00",
+  "total_titles_processed": 2038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -67,11 +67,12 @@
             1,
             5,
             2,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 22时25分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -96,8 +97,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 21时29分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 22时25分]"
         },
         {
           "title": "专家：A股二次探底是大概率事件",
@@ -337,6 +338,17 @@
           "time_info": "[20时13分 ~ 21时29分]"
         },
         {
+          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
+          "url": "https://wallstreetcn.com/articles/3779085",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时25分]"
+        },
+        {
           "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
           "url": "https://wallstreetcn.com/livenews/3147268",
           "source": "华尔街见闻-快讯",
@@ -388,17 +400,6 @@
           "time_info": "[09时32分 ~ 10时44分]"
         },
         {
-          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
-          "url": "https://wallstreetcn.com/articles/3779085",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
           "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3147230",
           "source": "华尔街见闻-快讯",
@@ -409,6 +410,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 11时32分]"
+        },
+        {
+          "title": "英特尔美股盘前跌幅扩大至逾5%，公司将发行150亿美元普通股。",
+          "url": "https://wallstreetcn.com/livenews/3147531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时25分]"
         },
         {
           "title": "恒指高开0.53%，报25805.18点；恒生科技指数涨0.85%。MINIMAX涨4.8%，智谱涨3.7%，蔚来涨2.2%。",
@@ -444,6 +457,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3147529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时25分]"
         },
         {
           "title": "A股收盘：沪指涨0.67%录得5连阳，医药、消费股集体走强",
@@ -588,6 +613,17 @@
           "time_info": "14时24分"
         },
         {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "A股旅游及酒店板块走高，华天酒店涨停，锦江酒店、金陵饭店、君亭酒店、首旅酒店跟涨。",
           "url": "https://flash.jin10.com/detail/20260810102406719800",
           "source": "金十数据",
@@ -608,17 +644,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "英特尔美股盘前跌幅扩大至逾5%，公司将发行150亿美元普通股。",
-          "url": "https://wallstreetcn.com/livenews/3147531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "韩国交易所启动韩国创业板指（KOSDAQ） 的侧车机制，暂停程序化买盘。",
@@ -676,17 +701,6 @@
           "time_info": "16时30分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3147529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
           "title": "A股温度计",
           "url": "https://flash.jin10.com/detail/20260810084904424800",
           "source": "金十数据",
@@ -726,7 +740,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -775,6 +789,17 @@
           "time_info": "20时14分"
         },
         {
+          "title": "美股盘初：纳指跌0.1%，英特尔跌约3%，Meta涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3147550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
           "url": "https://flash.jin10.com/detail/20260810101240509800",
           "source": "金十数据",
@@ -792,7 +817,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         },
@@ -839,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260810214155047800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "A股创新药、CRO概念股延续涨势，百花医药5连板，义翘神州涨超10%，泓博医药、近岸蛋白、昭衍新药等多股高开。",
@@ -1009,7 +1045,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -1037,6 +1073,17 @@
           "time_info": "[01时09分 ~ 17时29分]"
         },
         {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 22时25分]"
+        },
+        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -1046,8 +1093,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时08分 ~ 21时29分]"
+          "appearance_count": 21,
+          "time_info": "[08时08分 ~ 22时25分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
@@ -1060,8 +1107,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时32分 ~ 21时29分]"
+          "appearance_count": 20,
+          "time_info": "[09时32分 ~ 22时25分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -1075,19 +1122,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时30分 ~ 21时29分]"
-        },
-        {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时29分]"
+          "appearance_count": 12,
+          "time_info": "[15时30分 ~ 22时25分]"
         },
         {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
@@ -1097,8 +1133,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时32分 ~ 21时29分]"
+          "appearance_count": 17,
+          "time_info": "[11时32分 ~ 22时25分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -1126,6 +1162,19 @@
           "time_info": "[09时32分 ~ 13时31分]"
         },
         {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时27分 ~ 22时25分]"
+        },
+        {
           "title": "特朗普称正在“低调处理”伊朗问题",
           "url": "https://wallstreetcn.com/livenews/3147122",
           "source": "华尔街见闻-快讯",
@@ -1138,19 +1187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时08分 ~ 08时08分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时27分 ~ 21时29分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -1253,6 +1289,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "特朗普再对美联储下手！哈塞特急撇清，并拒绝接任理事",
+          "url": "https://flash.jin10.com/detail/20260810215426690800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -1343,9 +1390,240 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 14,
+      "keyword_group": "原油",
+      "match_count": 19,
       "titles": [
+        {
+          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060209367800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时07分]"
+        },
+        {
+          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060035302800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 07时07分]"
+        },
+        {
+          "title": "夜盘期货开盘，低硫燃油、燃油、原油、液化石油气、甲醇、沥青、聚丙烯、丙烯涨逾1%；玻璃、菜粕、纸浆、烧碱等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3147538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时25分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达2.0%，报79.75美元/桶；布伦特原油日内涨幅达2.0%，报85.25美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时25分]"
+        },
+        {
+          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
+          "url": "https://wallstreetcn.com/livenews/3147125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 08时08分]"
+        },
+        {
+          "title": "WTI原油站上80美元/桶，为8月4日以来新高，日内涨4.78%。",
+          "url": "https://flash.jin10.com/detail/20260810215750553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "布伦特原油日内涨幅达3.0%，报86.06美元/桶；WTI原油日内涨幅达3.0%，报80.55美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "夜盘开盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨近2%，燃料油、SC原油、液化石油气（LPG）、甲醇、沥青、聚丙烯涨超1%。跌幅方面，玻璃、菜粕、纸浆小幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260810210002832800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.5%，报79.36美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "布伦特原油站上85美元/桶，为8月4日以来新高，日内涨4.31%。",
+          "url": "https://flash.jin10.com/detail/20260810214637509800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "商品期货开盘，纯碱、乙二醇主力合约涨超3%，燃料油涨超2%，原油、沪银、纯苯、沪金、焦煤涨超1%。PVC跌超2%，沪锡、沪锌跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3147174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对北美和南美的官方售价较阿格斯含硫原油升水5.1美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810174108883800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "WTI原油突破79美元/桶，日内涨3.50%。",
+          "url": "https://flash.jin10.com/detail/20260810205423076800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将9月份巴士拉中质原油对欧洲的官方售价设定为比布伦特原油价格贴水4.85美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810174014237800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "WTI原油日内涨4.00%，现报79.41美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810214538740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810173950857800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "原油系期货主力合约集体走强，SC原油上涨2.12%，现报543.4元/桶。低硫燃料油（LU）上涨2.05%，现报4671元/吨。燃油上涨2.25%，现报3587元/吨。沥青上涨0.98%，现报4215元/吨。",
+          "url": "https://flash.jin10.com/detail/20260810214524322800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "布伦特原油日内涨4.00%，现报84.76美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810214356548800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "欧元区政府债券收益率继续上升，德国2年期国债收益率上涨5.13个基点，至2.7835%。",
+          "url": "https://flash.jin10.com/detail/20260810220055925800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3147155",
@@ -1455,6 +1733,28 @@
           "time_info": "15时31分"
         },
         {
+          "title": "英国国债跌幅扩大，英国10年期国债收益率上升5个基点至4.97%。",
+          "url": "https://wallstreetcn.com/livenews/3147559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "英国央行6亿英镑的7-20年期国债拍卖的投标倍数为1.81。",
+          "url": "https://flash.jin10.com/detail/20260810215022625800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "国债期货午盘收盘",
           "url": "https://flash.jin10.com/detail/20260810151613553800",
           "source": "金十数据",
@@ -1508,158 +1808,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "夜盘期货开盘，低硫燃油、燃油、原油、液化石油气、甲醇、沥青、聚丙烯、丙烯涨逾1%；玻璃、菜粕、纸浆、烧碱等下跌。",
-          "url": "https://wallstreetcn.com/livenews/3147538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810060209367800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 07时07分]"
-        },
-        {
-          "title": "WTI原油周一开盘上涨1.5%，现报77.6美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810060035302800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 07时07分]"
-        },
-        {
-          "title": "布油和WTI原油期货均上涨逾每桶1美元，受霍尔木兹海峡重开的不确定性影响。",
-          "url": "https://wallstreetcn.com/livenews/3147125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 08时08分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达2.0%，报79.75美元/桶；布伦特原油日内涨幅达2.0%，报85.25美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3147533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "夜盘开盘，国内期货主力合约涨多跌少，低硫燃料油（LU）涨近2%，燃料油、SC原油、液化石油气（LPG）、甲醇、沥青、聚丙烯涨超1%。跌幅方面，玻璃、菜粕、纸浆小幅下跌。",
-          "url": "https://flash.jin10.com/detail/20260810210002832800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "WTI原油日内涨幅达1.5%，报79.36美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3147453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "商品期货开盘，纯碱、乙二醇主力合约涨超3%，燃料油涨超2%，原油、沪银、纯苯、沪金、焦煤涨超1%。PVC跌超2%，沪锡、沪锌跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3147174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3147423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对北美和南美的官方售价较阿格斯含硫原油升水5.1美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810174108883800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "WTI原油突破79美元/桶，日内涨3.50%。",
-          "url": "https://flash.jin10.com/detail/20260810205423076800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将9月份巴士拉中质原油对欧洲的官方售价设定为比布伦特原油价格贴水4.85美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810174014237800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克设定9月巴士拉中质原油对亚洲的官方售价较阿曼/迪拜平均价格贴水4美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810173950857800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         }
       ]
     },
@@ -1782,8 +1930,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 21时29分]"
+          "appearance_count": 16,
+          "time_info": "[12时31分 ~ 22时25分]"
         },
         {
           "title": "据The Information：微软认为，MAIA芯片能够以更低的成本运行其自主研发和OpenAI的模型。",
@@ -1792,7 +1940,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         }
@@ -1820,7 +1968,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
         }
@@ -1828,7 +1976,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
@@ -1841,6 +1989,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时07分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨1.4%，刷新日高至104.17美元，逼近6月1日盘中最高位108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3147561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     }
