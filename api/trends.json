@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T07:07:25.316021+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-08-10T08:08:29.995476+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 07时07分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 08时08分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时08分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -48,11 +48,23 @@
           "ranks": [
             1,
             2,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时08分 ~ 07时07分]"
+          "appearance_count": 4,
+          "time_info": "[05时08分 ~ 08时08分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -131,6 +143,17 @@
           "time_info": "[06时06分 ~ 07时07分]"
         },
         {
+          "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
+          "url": "https://flash.jin10.com/detail/20260810075735271800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -145,7 +168,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -155,8 +178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时08分]"
         },
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -176,22 +199,24 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时08分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时06分 ~ 07时07分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 08时08分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -201,8 +226,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时13分 ~ 07时07分]"
+          "appearance_count": 7,
+          "time_info": "[03时13分 ~ 08时08分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -215,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 07时07分]"
+        },
+        {
+          "title": "华泰证券：A股超跌反弹仍有演绎空间 重点关注创业板指",
+          "url": "https://wallstreetcn.com/livenews/3147148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         }
       ]
     },
@@ -251,11 +287,29 @@
           "url": "https://wallstreetcn.com/livenews/3147125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 08时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3147155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "08时08分"
         }
       ]
     },
