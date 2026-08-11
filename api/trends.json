@@ -1,8 +1,128 @@
 {
-  "generated_at": "2026-08-12T01:18:55.562545+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-08-12T02:16:39.211201+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美国至8月11日3年期国债竞拍-投标倍数 2.71，前值2.6。",
+          "url": "https://flash.jin10.com/detail/20260812010250896800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "美国至8月11日3年期国债竞拍-得标利率配置百分比 18.31%，前值2.17%。",
+          "url": "https://flash.jin10.com/detail/20260812010335673800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
+        },
+        {
+          "title": "美国至8月11日3年期国债竞拍-得标利率 4.291%，前值4.18%。",
+          "url": "https://flash.jin10.com/detail/20260812010319921800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
+        },
+        {
+          "title": "德国两年期国债收益率跌2个基点",
+          "url": "https://wallstreetcn.com/livenews/3148175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
+          "url": "https://wallstreetcn.com/livenews/3148154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时18分]"
+        },
+        {
+          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
+          "url": "https://wallstreetcn.com/livenews/3148186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.291%（7月7日为4.179%），投标倍数2.71（前次为2.60）。",
+          "url": "https://wallstreetcn.com/livenews/3148184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国至8月11日6周国债竞拍-得标利率配置百分比 2.86%，前值79.36%。",
+          "url": "https://flash.jin10.com/detail/20260811233537708800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "美国三年期国债收益率在三年期国债拍卖后收窄跌幅；最新下跌1.6个基点，报4.289%。",
+          "url": "https://flash.jin10.com/detail/20260812010508706800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国至8月11日6周国债竞拍-得标利率 3.67%，前值3.64%。",
+          "url": "https://flash.jin10.com/detail/20260811233348264800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 8,
@@ -15,8 +135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -26,8 +146,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -60,7 +180,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -100,86 +220,88 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
       "match_count": 7,
       "titles": [
         {
-          "title": "美国至8月11日3年期国债竞拍-得标利率配置百分比 18.31%，前值2.17%。",
-          "url": "https://flash.jin10.com/detail/20260812010335673800",
-          "source": "金十数据",
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
-          "title": "美国至8月11日3年期国债竞拍-得标利率 4.291%，前值4.18%。",
-          "url": "https://flash.jin10.com/detail/20260812010319921800",
-          "source": "金十数据",
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
-          "title": "美国至8月11日3年期国债竞拍-投标倍数 2.71，前值2.6。",
-          "url": "https://flash.jin10.com/detail/20260812010250896800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.670%，投标倍数2.93。",
-          "url": "https://wallstreetcn.com/livenews/3148154",
-          "source": "华尔街见闻-快讯",
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
           "ranks": [
             9,
-            27
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时16分]"
+        },
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时16分]"
+        },
+        {
+          "title": "国仪量子科创板上市",
+          "url": "https://www.douyin.com/hot/2605496",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
+          "time_info": "[00时17分 ~ 02时16分]"
         },
         {
-          "title": "德国两年期国债收益率跌2个基点",
-          "url": "https://wallstreetcn.com/livenews/3148175",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260812011055965800",
+          "source": "金十数据",
           "ranks": [
-            7
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "02时16分"
         },
         {
-          "title": "美国至8月11日6周国债竞拍-得标利率配置百分比 2.86%，前值79.36%。",
-          "url": "https://flash.jin10.com/detail/20260811233537708800",
+          "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260812010805081800",
           "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "美国至8月11日6周国债竞拍-得标利率 3.67%，前值3.64%。",
-          "url": "https://flash.jin10.com/detail/20260811233348264800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时16分"
         }
       ]
     },
@@ -216,7 +338,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -227,7 +349,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -238,7 +360,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         },
@@ -249,70 +371,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         }
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 5,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
-          "url": "https://www.cls.cn/detail/2451293",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "国仪量子科创板上市",
-          "url": "https://www.douyin.com/hot/2605496",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "02时16分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
@@ -325,22 +425,24 @@
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
         },
         {
           "title": "OpenAI高管Brad Lightcap将离职，开启“新项目”",
           "url": "https://wallstreetcn.com/livenews/3148170",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -349,7 +451,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
         }
@@ -366,9 +468,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
         }
       ]
     },
@@ -381,11 +483,12 @@
           "url": "https://wallstreetcn.com/livenews/3148179",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时16分]"
         }
       ]
     }
