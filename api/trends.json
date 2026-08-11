@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-12T03:22:15.242513+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-08-12T04:13:44.049741+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 国债",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国两年期国债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3148224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
         {
           "title": "美国至8月11日3年期国债竞拍-投标倍数 2.71，前值2.6。",
           "url": "https://flash.jin10.com/detail/20260812010250896800",
@@ -151,6 +162,30 @@
           "time_info": "00时17分"
         },
         {
+          "title": "WTI 9月原油期货收涨1.07美元，涨幅1.30%，报83.20美元/桶。 布伦特10月原油期货收涨1.19美元，涨幅1.36%，报88.91美元/桶。 中东Abu Dhabi Murban原油期货涨3.83%，报88.15美元/桶。 NYMEX 9月天然气期货收报2.7670美元/百万英热单位。 NYMEX 9月汽油期货收报3.1366美元/加仑，NYMEX 9月取暖油期货收报4.2525美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3148205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时13分]"
+        },
+        {
+          "title": "上期所原油期货2609合约夜盘收跌0.25%，报549.40元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3148204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时13分]"
+        },
+        {
           "title": "美国能源信息署预计，由于全球对美国出口的高需求和美国进口的低水平，预计美国原油净进口将在2027年前保持低于平均水平。",
           "url": "https://flash.jin10.com/detail/20260812005943558800",
           "source": "金十数据",
@@ -168,7 +203,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -184,35 +219,13 @@
           "time_info": "01时18分"
         },
         {
-          "title": "WTI 9月原油期货收涨1.07美元，涨幅1.30%，报83.20美元/桶。 布伦特10月原油期货收涨1.19美元，涨幅1.36%，报88.91美元/桶。 中东Abu Dhabi Murban原油期货涨3.83%，报88.15美元/桶。 NYMEX 9月天然气期货收报2.7670美元/百万英热单位。 NYMEX 9月汽油期货收报3.1366美元/加仑，NYMEX 9月取暖油期货收报4.2525美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3148205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "上期所原油期货2609合约夜盘收跌0.25%，报549.40元人民币/桶。 沪金夜盘收跌0.28%，沪银收跌0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3148204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
           "title": "美国原油期货结算价为每桶83.20美元，上涨1.07美元，涨幅1.30%。",
           "url": "https://flash.jin10.com/detail/20260812023232366800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -242,7 +255,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -252,8 +265,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时13分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -263,8 +276,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时13分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 金龙指数跌近3%",
+          "url": "https://flash.jin10.com/detail/20260812040113623800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -275,8 +299,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时13分]"
         },
         {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
@@ -287,8 +311,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时13分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
+          "url": "https://wallstreetcn.com/livenews/3148211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时13分]"
         },
         {
           "title": "国仪量子科创板上市",
@@ -301,17 +337,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时16分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.37%，报25533点。 恒生科技指数主连夜盘收跌0.81%，报4793点。",
-          "url": "https://wallstreetcn.com/livenews/3148211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -346,11 +371,12 @@
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时13分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -360,8 +386,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 04时13分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -434,48 +460,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌：Gemini月活用户数超过10亿",
-          "url": "https://wallstreetcn.com/livenews/3148199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时22分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
-          "url": "https://flash.jin10.com/detail/20260812014236644800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
-          "url": "https://flash.jin10.com/detail/20260812012754420800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
@@ -502,6 +488,17 @@
           "time_info": "[01时18分 ~ 02时16分]"
         },
         {
+          "title": "据Business Insider：消息人士称，前OpenAI首席产品官凯文·韦尔正在为其新成立的AI科学初创公司寻求至少7.5亿美元估值。",
+          "url": "https://flash.jin10.com/detail/20260812035315552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
           "url": "https://flash.jin10.com/detail/20260812003202953800",
           "source": "金十数据",
@@ -515,27 +512,61 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
-          "url": "https://www.zhihu.com/question/2070437867311174069",
-          "source": "知乎",
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
             19,
-            18
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时13分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
           "url": "https://wallstreetcn.com/livenews/3148179",
@@ -547,6 +578,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时16分]"
+        },
+        {
+          "title": "美元指数11日上涨",
+          "url": "https://flash.jin10.com/detail/20260812032920147800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
+          "url": "https://www.zhihu.com/question/2070437867311174069",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时13分]"
+        },
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     }
