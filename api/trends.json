@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T19:16:29.953527+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2026-08-12T20:16:00.599180+08:00",
+  "total_titles_processed": 1887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -100,11 +100,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时16分]"
         },
         {
           "title": "A股",
@@ -157,9 +158,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时16分]"
         },
         {
           "title": "港股开盘，恒指开跌0.6%，科指开跌0.8%，黄金股多股高开，腾讯音乐(01698.HK)开跌11.41%，公司第二季度总收入89.3亿元同比增长5.8%，加大回购力度至4亿美元。",
@@ -173,24 +187,13 @@
           "time_info": "09时31分"
         },
         {
-          "title": "年内最贵新股频准激光：科创板IPO发行价格186.88元/股",
-          "url": "https://wallstreetcn.com/livenews/3148601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "频准激光：科创板IPO发行价格186.88元/股",
           "url": "https://flash.jin10.com/detail/20260812190231370800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -267,6 +270,18 @@
           "time_info": "[15时29分 ~ 16时27分]"
         },
         {
+          "title": "年内最贵新股频准激光：科创板IPO发行价格186.88元/股",
+          "url": "https://wallstreetcn.com/livenews/3148601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时16分]"
+        },
+        {
           "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
           "url": "https://flash.jin10.com/detail/20260812043909627800",
           "source": "金十数据",
@@ -301,6 +316,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
+        },
+        {
+          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
+          "url": "https://www.zhihu.com/question/2070230480356634919",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 20时16分]"
         },
         {
           "title": "A股“股王”、第二高价股双双大涨",
@@ -363,18 +391,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 10时50分]"
-        },
-        {
-          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
-          "url": "https://www.cls.cn/detail/2452477",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
         },
         {
           "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
@@ -556,18 +572,6 @@
           "time_info": "[10时50分 ~ 11时42分]"
         },
         {
-          "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
-          "url": "https://www.zhihu.com/question/2070230480356634919",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时29分]"
-        },
-        {
           "title": "A股影视股继续走强，北京文化3连板，儒意电影、金逸影视、中国电影、横店影视、博纳影业等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3148336",
           "source": "华尔街见闻-快讯",
@@ -615,6 +619,17 @@
           "time_info": "10时50分"
         },
         {
+          "title": "文远知行第二季度营收2.317亿元人民币，同比+82%，预估1.707亿元人民币 第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 第二季度毛利率37.5％，上年同期28.1％。 第二季度研发支出4.343亿元人民币，同比增长36%。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
           "url": "https://flash.jin10.com/detail/20260812130400459800",
           "source": "金十数据",
@@ -643,7 +658,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -915,7 +930,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -953,8 +968,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时14分 ~ 19时16分]"
+          "appearance_count": 17,
+          "time_info": "[07时14分 ~ 20时16分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -966,6 +981,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时31分 ~ 15时29分]"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
@@ -1051,6 +1077,19 @@
           "time_info": "[06时14分 ~ 08时12分]"
         },
         {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时16分]"
+        },
+        {
           "title": "特朗普以安全理由为其在土耳其更换座机一事辩护。",
           "url": "https://wallstreetcn.com/livenews/3148319",
           "source": "华尔街见闻-快讯",
@@ -1061,18 +1100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 10时50分]"
-        },
-        {
-          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3148574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
         },
         {
           "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
@@ -1098,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时24分 ~ 19时16分]"
+        },
+        {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 20时16分]"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -1315,7 +1353,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国8月EIA当年布伦特原油均价预期 86.81美元/桶，前值81.91美元/桶。",
@@ -1340,6 +1378,17 @@
           "time_info": "16时27分"
         },
         {
+          "title": "欧佩克月报：预计2027年全球原油需求为1.079亿桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812201104681800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "美国8月EIA当年WTI原油均价预期 80.88美元/桶，前值76.26美元/桶。",
           "url": "https://flash.jin10.com/detail/20260812000306931800",
           "source": "金十数据",
@@ -1360,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "欧佩克月报：预计2026年全球原油需求为1.0574亿桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812201049576800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "联合国航运机构称，卡罗琳·贝曾吉号（Caroline Bezengi）油轮泄漏原油，目前该油轮正向东北方向漂移至阿曼的基布利亚岛附近海域。",
@@ -1502,6 +1562,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "欧佩克月报：二手数据显示，7月份欧佩克+原油产量增加140万桶/日，达到3765万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812200619864800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "美国至8月7日当周API原油库存 907.2万桶，预期-50万桶，前值269万桶。",
           "url": "https://flash.jin10.com/detail/20260812043514344800",
           "source": "金十数据",
@@ -1511,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "欧佩克月报：二手数据显示，7月份欧佩克原油产量增加166万桶/日，达到2360万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260812200535138800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "EIA下调2026年全球原油产量预期 上调2027年需求预测",
@@ -1634,6 +1716,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "欧佩克月报：2026年7月欧佩克+原油产量（包括前成员国阿联酋）平均为3766万桶/日，较6月增加约142万桶/日，主要得益于海湾产油国的增产。",
+          "url": "https://flash.jin10.com/detail/20260812200037770800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "IEA月报：预计2027年炼油厂加工量将回升350万桶/日。 7月炼油厂加工量上升，但仍同比下降近500万桶/日。 预计2026年炼油厂原油加工量将平均减少250万桶/日。",
           "url": "https://wallstreetcn.com/livenews/3148508",
           "source": "华尔街见闻-快讯",
@@ -1709,6 +1802,19 @@
           "time_info": "[04时13分 ~ 05时15分]"
         },
         {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 20时16分]"
+        },
+        {
           "title": "日本30年期国债收益率上行3个基点至3.98%。",
           "url": "https://wallstreetcn.com/livenews/3148361",
           "source": "华尔街见闻-快讯",
@@ -1720,18 +1826,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时50分 ~ 12时33分]"
-        },
-        {
-          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
-          "url": "https://wallstreetcn.com/livenews/3148572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 19时16分]"
         },
         {
           "title": "德国两年期国债收益率跌2个基点",
@@ -1971,11 +2065,12 @@
             11,
             10,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时30分 ~ 19时16分]"
+          "appearance_count": 10,
+          "time_info": "[13时30分 ~ 20时16分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
