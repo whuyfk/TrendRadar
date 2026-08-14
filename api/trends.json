@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:26:06.946194+08:00",
-  "total_titles_processed": 1351,
+  "generated_at": "2026-08-14T15:29:39.153985+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时13分 ~ 14时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时13分 ~ 15时29分]"
         },
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 14时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 15时29分]"
         },
         {
           "title": "长鑫科技单日市值超越腾讯，成 A 股、港股两市市值最高的中国上市公司，如何看待当下市场给出的估值水平？",
@@ -62,11 +62,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 15时29分]"
         },
         {
           "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
@@ -91,17 +92,6 @@
           "time_info": "12时33分"
         },
         {
-          "title": "A股游戏板块持续走高，迅游科技、世纪华通涨超6%，恺英网络、中青宝、三七互娱跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
           "title": "A股午评：创业板指水上震荡收涨0.65% CPO、光纤概念领涨大盘",
           "url": "https://flash.jin10.com/detail/20260814113431435800",
           "source": "金十数据",
@@ -119,7 +109,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -144,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
         },
         {
           "title": "A股京投发展盘中跌停，上演天地板，成交额近10亿元。",
@@ -194,6 +173,18 @@
           "time_info": "[09时31分 ~ 11时43分]"
         },
         {
+          "title": "A股游戏板块持续走高，迅游科技、世纪华通涨超6%，恺英网络、中青宝、三七互娱跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时29分]"
+        },
+        {
           "title": "恒生科技指数跌幅扩大至2%，京东跌超10%，美团跌近6%。",
           "url": "https://wallstreetcn.com/livenews/3149493",
           "source": "华尔街见闻-快讯",
@@ -204,6 +195,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时26分]"
+        },
+        {
+          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时29分]"
         },
         {
           "title": "京东集团港股日内跌超10%，上日公布财报。",
@@ -404,7 +407,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -448,7 +451,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -464,6 +467,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "A股PCB概念股震荡拉升，中富电路涨近15%，华正新材此前涨停，南亚新材、奕东电子、威尔高、德福科技等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3149531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "香港恒生指数8月14日（周五）开盘下跌177.36点，跌幅0.7%，报25219.15点；<br/>香港恒生科技指数8月14日（周五）开盘下跌28.63点，跌幅0.6%，报4763.76点；<br/>国企指数8月14日（周五）开盘下跌50.02点，跌幅0.59%，报8376.47点；<br/>红筹指数8月14日（周五）开盘上涨2.43点，涨幅0.06%，报4091.63点。",
           "url": "https://flash.jin10.com/detail/20260814092052685800",
           "source": "金十数据",
@@ -473,6 +487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "A股收评：三大股指午后回暖创业板指收涨1.12% CPO板块全天强势",
+          "url": "https://flash.jin10.com/detail/20260814150603016800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "港股开盘，恒指开跌0.7%，科指开跌0.6%，中芯国际(00981.HK)绩后开涨4.74%，公司Q3收入预计环比增长2%到4%，毛利率指引为26%-28%。",
@@ -492,7 +517,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -506,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "中国上证综指8月14日（周五）收盘上涨0.21点，涨幅：0.01%，报3927.18点；<br/>中国深证成指8月14日（周五）收盘上涨64.86点，涨幅：0.45%，报14354.31点；<br/>中国沪深300指数8月14日（周五）收盘上涨1.93点，涨幅：0.04%，报4665.88点；<br/>中国创业板指数8月14日（周五）收盘上涨40.25点，涨幅：1.12%，报3626.3点；<br/>中国科创50指数8月14日（周五）收盘下跌0.07点，跌幅：0.0%，报1717.68点。",
+          "url": "https://flash.jin10.com/detail/20260814150437410800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "高盛：中芯国际Q2业绩超过预期 给予港股目标价135港元",
@@ -547,9 +583,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "港股AI应用股午后跌幅扩大，MINIMAX跌超10%，智谱跌近6%。",
+          "url": "https://wallstreetcn.com/livenews/3149519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "A股食品加工制造板块短线冲高，桂发祥直线涨停，莲花控股此前涨停，三全食品、黑芝麻、仙乐健康、青岛食品、安井食品跟涨。",
@@ -665,7 +712,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -694,6 +741,18 @@
           "time_info": "[00时16分 ~ 08时13分]"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 15时29分]"
+        },
+        {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
           "url": "https://news.ifeng.com/c/8vYj1925EKl",
           "source": "凤凰网",
@@ -703,17 +762,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时16分 ~ 08时13分]"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 14时26分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -731,6 +779,18 @@
           "time_info": "[01时18分 ~ 07时14分]"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 15时29分]"
+        },
+        {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
           "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
@@ -741,17 +801,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时51分 ~ 14时26分]"
-        },
-        {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时31分 ~ 14时26分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -774,6 +823,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时29分]"
         },
         {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
@@ -824,6 +885,30 @@
           "time_info": "[11时43分 ~ 12时33分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 15时29分]"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
           "url": "https://wallstreetcn.com/livenews/3149316",
           "source": "华尔街见闻-快讯",
@@ -835,29 +920,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时14分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -932,17 +994,6 @@
           "time_info": "[03时22分 ~ 04时10分]"
         },
         {
-          "title": "特朗普专机上全是一箱又一箱麦当劳",
-          "url": "https://www.toutiao.com/trending/7673136089955352622/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
           "title": "霉霉特朗普 版权",
           "url": "https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%20%E7%89%88%E6%9D%83&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -974,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
@@ -1133,7 +1195,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -1161,6 +1223,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时10分 ~ 08时13分]"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20260814151611269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "日本10年期国债收益率下跌2.5个基点，至2.845%。",
@@ -1207,17 +1280,6 @@
           "time_info": "08时13分"
         },
         {
-          "title": "日本5年期国债收益率上行1个基点，至2.130%。",
-          "url": "https://wallstreetcn.com/livenews/3149509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
           "title": "欧债收益率集体下跌，英国10年期国债收益率跌1.9个基点报4.951%，法国10年期国债收益率跌3.5个基点报3.943%，德国10年期国债收益率跌2.9个基点报3.129%，意大利10年期国债收益率跌4.8个基点报3.893%，西班牙10年期国债收益率跌3.8个基点报3.560%。",
           "url": "https://wallstreetcn.com/livenews/3149299",
           "source": "华尔街见闻-快讯",
@@ -1254,6 +1316,18 @@
           "time_info": "[01时19分 ~ 02时17分]"
         },
         {
+          "title": "日本5年期国债收益率上行1个基点，至2.130%。",
+          "url": "https://wallstreetcn.com/livenews/3149509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时29分]"
+        },
+        {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
@@ -1262,8 +1336,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时29分]"
         },
         {
           "title": "美国至8月13日30年期国债竞拍-得标利率 5.216%，前值5.058%。",
@@ -1400,7 +1474,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1463,7 +1537,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -1486,8 +1560,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时18分 ~ 14时26分]"
+          "appearance_count": 23,
+          "time_info": "[01时18分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -1499,8 +1573,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时16分 ~ 14时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时16分 ~ 15时29分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -1599,8 +1673,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -1624,8 +1698,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时12分 ~ 14时26分]"
+          "appearance_count": 11,
+          "time_info": "[08时12分 ~ 15时29分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -1644,6 +1718,18 @@
           "time_info": "[00时16分 ~ 05时16分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 15时29分]"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -1658,38 +1744,16 @@
           "time_info": "[02时16分 ~ 06时15分]"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时51分 ~ 14时26分]"
-        },
-        {
-          "title": "深度解读DeepSeek Harness",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
-        },
-        {
           "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
           "url": "https://www.zhihu.com/question/2071361705183899939",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时29分]"
         },
         {
           "title": "一次看懂DeepSeek新模型",
@@ -1713,6 +1777,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "深度解读DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 15时29分]"
         },
         {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
@@ -1818,6 +1894,181 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时12分 ~ 15时29分]"
+        },
+        {
+          "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行",
+          "url": "https://www.cls.cn/detail/2454005",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时12分 ~ 15时29分]"
+        },
+        {
+          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，Workday一度飙升30%，原油结束连涨",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "WTI 9月原油期货下跌2.02美元，收于每桶81.25美元，跌幅为2.43%。 布伦特10月原油期货下跌1.91美元，收于每桶87.07美元，跌幅为2.15%。",
+          "url": "https://wallstreetcn.com/livenews/3149297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 05时16分]"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶87.07美元，下跌1.91美元，跌幅2.15%。",
+          "url": "https://flash.jin10.com/detail/20260814024948309800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时10分]"
+        },
+        {
+          "title": "上期所原油期货2609合约夜盘收涨0.79%，报558.60元人民币/桶。 沪金夜盘收跌1.16%，沪银收跌1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3149279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时10分]"
+        },
+        {
+          "title": "美国原油期货结算价为每桶81.25美元，下跌2.02美元，跌幅2.43%。",
+          "url": "https://flash.jin10.com/detail/20260814023513124800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时10分]"
+        },
+        {
+          "title": "WTI原油日内涨幅扩大至1.00%，现报81.25美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260814140713797800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "WTI原油期货日内涨幅达1.00%，现报82.03美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260814140408755800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.0%，报82.08美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3149520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "WTI原油跌破80美元/桶，日内跌0.57%。",
+          "url": "https://flash.jin10.com/detail/20260814100203800800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "WTI原油期货向上触及82美元/桶，日内涨0.97%。",
+          "url": "https://flash.jin10.com/detail/20260814140022030800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "布伦特原油站上87美元/桶，日内涨1.34%。",
+          "url": "https://flash.jin10.com/detail/20260814150313780800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "WTI原油站上81美元/桶，日内涨0.70%。",
+          "url": "https://flash.jin10.com/detail/20260814135558513800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     },
@@ -1966,150 +2217,8 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时12分 ~ 14时26分]"
-        },
-        {
-          "title": "【早报】高达100%，美国将对进口无人机及零部件征收关税；美存储股集体走强；原油、黄金双双下行",
-          "url": "https://www.cls.cn/detail/2454005",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时12分 ~ 14时26分]"
-        },
-        {
-          "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，Workday一度飙升30%，原油结束连涨",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时13分 ~ 07时14分]"
-        },
-        {
-          "title": "WTI 9月原油期货下跌2.02美元，收于每桶81.25美元，跌幅为2.43%。 布伦特10月原油期货下跌1.91美元，收于每桶87.07美元，跌幅为2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3149297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 05时16分]"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶87.07美元，下跌1.91美元，跌幅2.15%。",
-          "url": "https://flash.jin10.com/detail/20260814024948309800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时10分]"
-        },
-        {
-          "title": "上期所原油期货2609合约夜盘收涨0.79%，报558.60元人民币/桶。 沪金夜盘收跌1.16%，沪银收跌1.47%。",
-          "url": "https://wallstreetcn.com/livenews/3149279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时10分]"
-        },
-        {
-          "title": "美国原油期货结算价为每桶81.25美元，下跌2.02美元，跌幅2.43%。",
-          "url": "https://flash.jin10.com/detail/20260814023513124800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时10分]"
-        },
-        {
-          "title": "WTI原油日内涨幅扩大至1.00%，现报81.25美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260814140713797800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "WTI原油期货日内涨幅达1.00%，现报82.03美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260814140408755800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "WTI原油跌破80美元/桶，日内跌0.57%。",
-          "url": "https://flash.jin10.com/detail/20260814100203800800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "WTI原油期货向上触及82美元/桶，日内涨0.97%。",
-          "url": "https://flash.jin10.com/detail/20260814140022030800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "WTI原油站上81美元/桶，日内涨0.70%。",
-          "url": "https://flash.jin10.com/detail/20260814135558513800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌(GOOG.O)发布Gemini Flash系列更新，但其顶级模型升级推迟发布。",
@@ -2206,6 +2315,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
           "url": "https://wallstreetcn.com/livenews/3149305",
           "source": "华尔街见闻-快讯",
@@ -2220,7 +2340,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金价格反弹意味什么",
@@ -2233,6 +2353,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时31分 ~ 10时51分]"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）上海金午盘价为940.03元/克，较国际金价(939.95元/克)，高0.08元/克",
+          "url": "https://flash.jin10.com/detail/20260814150435287800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "金十图示：2026年08月14日（周五）上海金早盘价为936.17元/克，较国际金价(935.66元/克)，高0.51元/克",
