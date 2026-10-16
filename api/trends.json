@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T03:02:46.905105+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-10-17T04:02:37.426187+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -26,8 +26,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "美国总统特朗普：我们与沙特阿拉伯的关系非常好。",
@@ -106,7 +106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -120,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
+          "url": "https://www.cls.cn/detail/2507307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国总统特朗普：俄罗斯将释放柴油，这是全球协议。",
@@ -144,6 +155,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "美国总统特朗普称他“不急于”任命新的新闻秘书。 特朗普没有列出新闻秘书接替人选的候选名单。",
+          "url": "https://wallstreetcn.com/livenews/3180440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "美国总统特朗普：白宫新闻秘书扎卡里亚将继续留任，但可能以其他职务或身份留在政府。",
           "url": "https://flash.jin10.com/detail/20261017011523002800",
           "source": "金十数据",
@@ -153,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美国总统特朗普：刚抵达佐治亚州，正前往大型集会现场。",
+          "url": "https://flash.jin10.com/detail/20261017031358454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国总统特朗普谈通胀：油价即将下跌。",
@@ -183,7 +216,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -197,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示并不急于任命新的新闻秘书。",
+          "url": "https://flash.jin10.com/detail/20261017030317470800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国总统特朗普：她非常出色。白宫幕僚长怀尔斯会继续留任，而且会留任很长时间。",
@@ -235,19 +279,8 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "布伦特原油期货涨至110美元/桶，为5月20日以来首次。WTI原油日内涨幅达3.5%，报101.41美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3180431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
         {
           "title": "印度航运部长：10月16日，载有15名印度海员的原油油轮MT ST 3在霍尔木兹海峡被一枚炮弹击中。",
           "url": "https://flash.jin10.com/detail/20261017014508410800",
@@ -266,9 +299,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月13日当周，WTI原油投机者将WTI原油净多头头寸削减1,017手合约，至110,619手合约。",
+          "url": "https://wallstreetcn.com/livenews/3180455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国原油期货结算价为每桶101.41美元，上涨3.44美元，涨幅3.51%。",
@@ -277,18 +321,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "上期所原油期货2612合约夜盘收涨2.32%，报739.80元人民币/桶。 沪金夜盘收跌0.02%，沪银收跌0.39%。",
-          "url": "https://wallstreetcn.com/livenews/3180429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -328,13 +361,37 @@
           "time_info": "[02时03分 ~ 03时02分]"
         },
         {
+          "title": "布伦特原油期货涨至110美元/桶，为5月20日以来首次。WTI原油日内涨幅达3.5%，报101.41美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3180431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时02分]"
+        },
+        {
+          "title": "上期所原油期货2612合约夜盘收涨2.32%，报739.80元人民币/桶。 沪金夜盘收跌0.02%，沪银收跌0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3180429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时02分]"
+        },
+        {
           "title": "洲际交易所（ICE）：10月13日当周，投机者所持ICE布伦特原油净多头头寸增加31,977手合约，至233,029手合约，创四周新高。 所持白糖净多头头寸增加至60,755手合约，创四周新高。 所持伦敦可可净空头头寸降低至4,088手合约，创四周新低。",
           "url": "https://wallstreetcn.com/livenews/3180423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -356,9 +413,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，WTI原油投机者净多头头寸减少1,017手，至110,619手。",
+          "url": "https://flash.jin10.com/detail/20261017033035511800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "巴克莱：近期石油运费上涨态势或将至少再持续数周。 维持对布伦特原油价格的预测，预计2026年和2027年分别为每桶100美元和85美元。 近期油价风险仍偏向上行。",
@@ -392,12 +460,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国原油收盘站上101美元，本周涨超10%，供应风险重燃",
+          "url": "https://wallstreetcn.com/livenews/3180430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "10余家A股公司三季报预喜：覆铜板龙头预计业绩倍增",
@@ -407,8 +486,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
@@ -418,8 +497,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "A股再次卷起回购浪潮，胜宏科技拟最高回购3亿元",
@@ -430,8 +509,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时02分]"
         },
         {
           "title": "美股恐慌指数VIX日内涨幅达35.0%，报22.23，标普500指数维持大约1%的跌幅。 恐慌指数做多一度涨超12%。",
@@ -455,17 +545,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时03分]"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
         },
         {
           "title": "【每日收评】创业板指高开低走小幅收跌，全市场超3300股上涨，低空经济概念股集体爆发",
@@ -499,12 +578,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.19%，报24112点。 恒生科技指数主连夜盘收跌0.66%，报4077点。",
+          "url": "https://wallstreetcn.com/livenews/3180435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
@@ -514,8 +604,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月13日当周，投机者将CBOT美国国债期货净空头头寸增加6,626手合约，至126,438手合约。 投机者将CBOT美国5年期国债期货净空头头寸减少83,327手合约，至1,080,204手合约。 投机者将CBOT美国2年期国债期货净空头头寸增加58,675手合约，至911,579手合约；将CBOT美国10年期国债期货净空头头寸增加91,621手合约，至988,102手合约。 投机者将CBOT美国超长期国债期货净空头头寸增加45,258手合约，至321,597手合约。",
+          "url": "https://wallstreetcn.com/livenews/3180454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，CBOT美国2年期国债期货投机者净空头头寸增加58,675手，至911,579手。CBOT美国5年期国债期货投机者净空头头寸减少83,327手，至1,080,204手。",
+          "url": "https://flash.jin10.com/detail/20261017033326491800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "美国财政部未释放削减长期国债发行规模信号 美债收益率上升",
@@ -527,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，CBOT美国长期国债期货投机者净空头头寸增加6,626手，至126,438手。CBOT美国超长期国债期货投机者净空头头寸增加45,258手，至321,597手。CBOT美国10年期国债期货投机者净空头头寸增加91,621手，至988,102手。",
+          "url": "https://flash.jin10.com/detail/20261017033312165800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "德国中长期国债收益率本周跌超5个基点",
@@ -564,8 +687,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "如何看待网友说 DeepSeek 在爱里长大？",
@@ -575,8 +698,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
@@ -588,6 +711,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数本周跌约0.4%",
+          "url": "https://wallstreetcn.com/livenews/3180442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20261017031439108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     },
