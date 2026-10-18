@@ -1,452 +1,115 @@
 {
-  "generated_at": "2026-10-18T23:03:11.746944+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-10-19T00:02:36.809647+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 12,
       "titles": [
         {
-          "title": "“特朗普暂停对俄制裁，是历史性时刻”",
-          "url": "https://news.ifeng.com/c/8xIg4YWs1S4",
-          "source": "凤凰网",
+          "title": "美国能源部长：特朗普暂停对俄制裁但未解除",
+          "url": "https://flash.jin10.com/detail/20261018232106569800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时17分]"
-        },
-        {
-          "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
-          "url": "https://news.ifeng.com/c/8xIaKqekyVT",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
           "url": "https://wallstreetcn.com/articles/3783843",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            10,
-            6,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时02分 ~ 23时03分]"
-        },
-        {
-          "title": "特朗普：希望能在G20峰会见到普京",
-          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时04分]"
-        },
-        {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 16时03分]"
-        },
-        {
-          "title": "李在明上任一年多社交平台发文超千条，被质疑像特朗普",
-          "url": "https://news.ifeng.com/c/8xJat1cyqIn",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时04分 ~ 17时02分]"
-        },
-        {
-          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时02分 ~ 18时02分]"
-        },
-        {
-          "title": "特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            16,
-            17,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
-          "url": "https://wallstreetcn.com/livenews/3180574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时03分]"
-        },
-        {
-          "title": "内塔尼亚胡力挺特朗普对伊朗政策，警告德黑兰威胁美国城市",
-          "url": "https://flash.jin10.com/detail/20261018035926415800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时02分 ~ 09时17分]"
-        },
-        {
-          "title": "特朗普称第二任期权力更大：我能做到令人难以置信的事情",
-          "url": "https://flash.jin10.com/detail/20261018035254781800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时02分 ~ 09时17分]"
-        },
-        {
-          "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
-          "url": "https://wallstreetcn.com/livenews/3180561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
           "url": "https://wallstreetcn.com/livenews/3180672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时03分]"
-        },
-        {
-          "title": "美国总统特朗普：将在东波托马克高尔夫球场建造高尔夫球场。",
-          "url": "https://flash.jin10.com/detail/20261018221113289800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：正在与美国总统特使威特科夫和特朗普女婿库什纳讨论和平会议事宜。",
-          "url": "https://flash.jin10.com/detail/20261018221031673800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时03分"
-        },
-        {
-          "title": "特朗普重申伊朗战争将很快结束，汽油价格将会回落",
-          "url": "https://flash.jin10.com/detail/20261018040202035800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时03分 ~ 09时17分]"
+          "time_info": "00时02分"
         },
         {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3180671",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20261018124445164800",
+          "title": "以色列总理内塔尼亚胡：感谢特朗普总统给予的大力支持，以及双方开展的共同努力。我们将携手完成任务。",
+          "url": "https://flash.jin10.com/detail/20261018230026124800",
           "source": "金十数据",
           "ranks": [
-            3,
-            12,
-            21
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 15时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "特朗普呼吁法国关闭边境",
-          "url": "https://flash.jin10.com/detail/20261018201323296800",
+          "title": "特朗普支持内塔尼亚胡竞选连任以色列总理",
+          "url": "https://flash.jin10.com/detail/20261018225308314800",
           "source": "金十数据",
           "ranks": [
-            3,
-            16,
-            24
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国财长贝森特：（回应泽连斯基关于星链限速的表述）特朗普和鲁比奥都表示，特朗普政府没有任何人下达过这样的命令。我认为，泽连斯基提出这样的指控是非常鲁莽的。",
+          "url": "https://flash.jin10.com/detail/20261018224523296800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
           "url": "https://wallstreetcn.com/livenews/3180661",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            10,
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普：（谈及伊朗）我们把他们打得落花流水。",
-          "url": "https://flash.jin10.com/detail/20261018025735599800",
+          "title": "美国财长贝森特：（回应特朗普称美国情报共享曾中断）泽连斯基在发表这类不实言论时要谨言慎行才对。",
+          "url": "https://flash.jin10.com/detail/20261018224259280800",
           "source": "金十数据",
           "ranks": [
-            2,
-            19
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-18）",
-          "url": "https://flash.jin10.com/detail/20261018183810315800",
+          "title": "美国财长贝森特：（回应特朗普豁免俄罗斯制裁）没有解除任何制裁。当时有一个为期60天的期限。看看目前的情况，唯一被取消的只是柴油禁运。",
+          "url": "https://flash.jin10.com/detail/20261018224206130800",
           "source": "金十数据",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时03分]"
-        },
-        {
-          "title": "反特朗普运动“不要国王”Instagram账号遭暂停，Meta称系统误判",
-          "url": "https://flash.jin10.com/detail/20261018131444707800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 16时03分]"
-        },
-        {
-          "title": "美国总统特朗普：我们终将与加拿大达成一项令人瞩目的协议。",
-          "url": "https://flash.jin10.com/detail/20261018024309312800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "美国能源部长赖特：特朗普暂停对俄制裁是创新之举。",
-          "url": "https://flash.jin10.com/detail/20261018210922402800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时03分]"
-        },
-        {
-          "title": "美国总统特朗普：加拿大前总理特鲁多不是好人，他是个失败者，失败者！现在这位（总理卡尼）是个好人，但在贸易问题上他可不友善。",
-          "url": "https://flash.jin10.com/detail/20261018024224268800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "美国总统特朗普：我能做到令人难以置信的事情。",
-          "url": "https://flash.jin10.com/detail/20261018024123952800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "美国总统特朗普：所有使用风力发电的国家都在走向破产。",
-          "url": "https://flash.jin10.com/detail/20261018032046327800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "伊朗新防长回应特朗普“炸弹之母”威胁：看看会有多少美军士兵被横着抬出地区",
-          "url": "https://flash.jin10.com/detail/20261018172825664800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
-          "title": "美国总统特朗普：你知道我们从委内瑞拉拿走了多少钱吗？我们从委内瑞拉拿走的资金高达数千亿美元。",
-          "url": "https://flash.jin10.com/detail/20261018031308003800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "美国总统特朗普：尽管政府已裁减超过100万名联邦雇员，但目前美国就业人数仍创历史新高。过去一项工作往往需要10个人完成。美国确实需要联邦雇员，但没必要每项工作都安排10个人。",
-          "url": "https://flash.jin10.com/detail/20261018030831814800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "美国总统特朗普：如果共和党在选举中获胜，五角大楼将加大对肯塔基州制药产业的投资。",
-          "url": "https://flash.jin10.com/detail/20261018030648995800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "泽连斯基批特朗普豁免对俄多项制裁",
-          "url": "https://www.toutiao.com/trending/7697401681851547675/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
-        },
-        {
-          "title": "特朗普放松对俄制裁为何在美引发反弹",
-          "url": "https://www.toutiao.com/trending/7697949062850416169/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
-        },
-        {
-          "title": "特朗普“分红”最诚实的部分是什么",
-          "url": "https://www.toutiao.com/trending/7697997759726489138/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时02分 ~ 23时03分]"
-        },
-        {
-          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
-          "source": "澎湃新闻",
           "ranks": [
             16
           ],
@@ -455,239 +118,32 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国总统特朗普：针对伊朗的行动将很快结束，届时汽油价格将会下降。我们必须确保伊朗的核能力不会恢复，目前正在为此采取行动。",
-          "url": "https://flash.jin10.com/detail/20261018030112309800",
+          "title": "美国总统特朗普：将在东波托马克高尔夫球场建造高尔夫球场。",
+          "url": "https://flash.jin10.com/detail/20261018221113289800",
           "source": "金十数据",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017?",
-          "url": "https://www.zhihu.com/question/2094773240036061683",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时03分]"
+          "time_info": "00时02分"
         },
         {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时17分 ~ 23时03分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时02分 ~ 23时03分]"
-        },
-        {
-          "title": "DeepSeek新模型对比Astra",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94Astra",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            8,
-            7,
-            28,
-            26,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时02分 ~ 20时03分]"
-        },
-        {
-          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34271084",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时02分 ~ 18时02分]"
-        },
-        {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            13,
-            14,
-            12,
-            17,
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 11时03分]"
-        },
-        {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时02分]"
-        },
-        {
-          "title": "如何看待 DeepSeek-4.1-flash-1017 指纹测出来是 6-astra，版本实测如何？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时02分 ~ 16时03分]"
-        },
-        {
-          "title": "DeepSeek新模型实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "DeepSeek更新V4.1 Flash模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0V4.1%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时02分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时03分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://flash.jin10.com/detail/20261018202420145800",
+          "title": "乌克兰总统泽连斯基：正在与美国总统特使威特科夫和特朗普女婿库什纳讨论和平会议事宜。",
+          "url": "https://flash.jin10.com/detail/20261018221031673800",
           "source": "金十数据",
           "ranks": [
-            2,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时03分]"
-        },
-        {
-          "title": "DeepSeek新模型有哪些优势",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
-        },
-        {
-          "title": "Deepseek V4.1Flash1017实战测试",
-          "url": "https://search.bilibili.com/all?keyword=DeepseekV4.1Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
-        },
-        {
-          "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
-          "url": "https://wallstreetcn.com/articles/3783848",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "DeepSeek新模型登场",
-          "url": "https://www.toutiao.com/trending/7697588071004376619/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 16,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -697,248 +153,70 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时02分 ~ 23时03分]"
-        },
-        {
-          "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3783832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时02分]"
-        },
-        {
-          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
-          "url": "https://www.cls.cn/detail/2507375",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时02分 ~ 23时03分]"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "周末要闻汇总：长鑫科技领衔 多家A股公司开启新一轮回购",
           "url": "https://www.cls.cn/detail/2507640",
           "source": "财联社热门",
           "ranks": [
-            12,
-            7,
-            6,
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
+          "url": "https://www.cls.cn/detail/2507375",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
           "url": "https://www.cls.cn/detail/2507461",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时02分 ~ 23时03分]"
-        },
-        {
-          "title": "下周A股利好来了",
-          "url": "https://www.toutiao.com/trending/7697237996461965350/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            4,
-            8,
-            21,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时02分 ~ 23时03分]"
-        },
-        {
-          "title": "李大霄谈美股下行原因",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%A1%8C%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "澜起科技：独立董事提议回购3亿至5亿元A股股份",
-          "url": "https://flash.jin10.com/detail/20261018153952232800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 17时02分]"
-        },
-        {
-          "title": "多家A股龙头公司集体出手回购",
-          "url": "https://flash.jin10.com/detail/20261018191031986800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 21时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "A股市场调整接近尾声？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2507695",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 23时03分]"
-        },
-        {
-          "title": "博主：A股的繁荣稳定要靠我们的自信",
-          "url": "https://www.toutiao.com/trending/7697908683740548646/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时02分]"
-        },
-        {
-          "title": "胡塞武装：沙特阿美股东最好尽早出售股份，以免遭受损失",
-          "url": "https://flash.jin10.com/detail/20261018203644897800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "沪市公司周末多维度释放积极信号：回购增持持续升温，科创板龙头业绩密集预喜",
           "url": "https://m.thepaper.cn/newsDetail_forward_34275445",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时02分 ~ 23时03分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "美股AI巨头还能撑多久",
-          "url": "https://www.toutiao.com/trending/7697639907996470847/",
+          "title": "下周A股利好来了",
+          "url": "https://www.toutiao.com/trending/7697237996461965350/",
           "source": "今日头条",
           "ranks": [
             28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "华金证券：A股短期可能见底",
-          "url": "https://www.toutiao.com/trending/7697539626428366902/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 国债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
-          "url": "https://www.cls.cn/detail/2507535",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时03分 ~ 23时03分]"
-        },
-        {
-          "title": "马斯克：AI和机器人是化解美国债务的唯一途径",
-          "url": "https://wallstreetcn.com/livenews/3180575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时03分]"
-        },
-        {
-          "title": "马斯克称美债问题得靠AI和机器人解决",
-          "url": "https://www.toutiao.com/trending/7697845658950045225/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
-          "url": "https://flash.jin10.com/detail/20261017203804811800",
-          "source": "金十数据",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -947,56 +225,58 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国总统特朗普：（谈及谷歌）谷歌在我第一任期时根本不会接我的电话。现在他们却在巴结我。",
-          "url": "https://flash.jin10.com/detail/20261018024119256800",
-          "source": "金十数据",
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            26
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
-      "keyword_group": "金价 银价",
+      "keyword_group": "美债 国债",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金暴跌27%，白银价格腰斩！一场更大的贵金属危机正在酝酿？",
-          "url": "https://wallstreetcn.com/articles/3783830",
-          "source": "华尔街见闻",
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 11时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗日均原油产量升至371.5万桶",
-          "url": "https://flash.jin10.com/detail/20261018173528461800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
