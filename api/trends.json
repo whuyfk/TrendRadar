@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T14:04:34.031837+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-10-19T15:19:40.499805+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "周末要闻汇总：长鑫科技领衔 多家A股公司开启新一轮回购",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 14时04分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 15时19分]"
         },
         {
           "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
@@ -88,8 +88,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 14时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "上证指数收报3730.92点，涨0.39%。 深证成指收报11817.42点，涨0.13%。 创业板指收报2746.29点，跌0.94%。 沪深300收报4174.53点，涨0.09%。 科创50收报1329.19点，跌2.17%。 中证500收报6800.66点，涨0.41%。 中证1000收报6698.30点，涨0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3180927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-10-19）",
@@ -188,7 +199,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -383,7 +394,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -394,7 +405,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -421,6 +432,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "A股收评：沪指涨0.39% 人形机器人板块活跃",
+          "url": "https://flash.jin10.com/detail/20261019150749059800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美股期货走高，纳斯达克100指数期货涨幅扩大至1%，标普500指数期货涨0.5%。",
           "url": "https://wallstreetcn.com/livenews/3180754",
           "source": "华尔街见闻-快讯",
@@ -432,13 +454,24 @@
           "time_info": "10时07分"
         },
         {
+          "title": "A股下一轮行情还得看科技吗",
+          "url": "https://www.toutiao.com/trending/7698253404258192923/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "A股减速器板块短线拉升，宁波东力触及涨停，东安动力此前封板，斯菱智驱、浙江荣泰、星源卓镁、富临精工跟涨。",
           "url": "https://flash.jin10.com/detail/20261019133512073800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -454,13 +487,24 @@
           "time_info": "12时03分"
         },
         {
+          "title": "A股宇树科技盘中涨超15％，现报492.00元。",
+          "url": "https://wallstreetcn.com/livenews/3180901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "A股银行板块持续走高，建设银行盘中股价创历史新高，现涨1.14%；农业银行、苏州银行、邮储银行涨幅居前。",
           "url": "https://flash.jin10.com/detail/20261019132516873800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -476,6 +520,17 @@
           "time_info": "11时03分"
         },
         {
+          "title": "中国上证综指10月19日（周一）收盘上涨14.64点，涨幅：0.39%，报3730.92点；<br/>中国深证成指10月19日（周一）收盘上涨14.96点，涨幅：0.13%，报11817.42点；<br/>中国沪深300指数10月19日（周一）收盘上涨3.92点，涨幅：0.09%，报4174.53点；<br/>中国创业板指数10月19日（周一）收盘下跌26.09点，跌幅：0.94%，报2746.29点；<br/>中国科创50指数10月19日（周一）收盘下跌29.46点，跌幅：2.17%，报1329.19点。",
+          "url": "https://flash.jin10.com/detail/20261019150300138800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "美股期货亚市盘初走高，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.6%。",
           "url": "https://wallstreetcn.com/livenews/3180708",
           "source": "华尔街见闻-快讯",
@@ -485,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "A股人形机器人板块持续拉升，浙江荣泰、福莱新材、日盈电子、兆威机电等多股涨停，索辰科技、宇树科技、斯菱智驱涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3180899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "下周A股利好来了",
@@ -501,7 +567,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
@@ -511,8 +577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时06分 ~ 14时04分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时19分]"
         },
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
@@ -535,8 +601,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时04分 ~ 14时04分]"
+          "appearance_count": 12,
+          "time_info": "[08时04分 ~ 15时19分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -729,6 +795,17 @@
           "time_info": "13时03分"
         },
         {
+          "title": "邵永灵：特朗普已为中期选举找战犯",
+          "url": "https://www.toutiao.com/trending/7698253231079558675/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "特朗普支持内塔尼亚胡竞选连任以色列总理",
           "url": "https://flash.jin10.com/detail/20261018225308314800",
           "source": "金十数据",
@@ -823,7 +900,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -848,12 +925,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "如何看待特朗普被指“背叛乌克兰”",
+          "url": "https://www.toutiao.com/trending/7698229029152755236/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
@@ -875,9 +963,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20261019151655060800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "财政部决定开展10月份国债做市支持操作",
@@ -886,9 +985,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "法国骚乱加剧财政担忧 法国国债收益率上升",
+          "url": "https://flash.jin10.com/detail/20261019151455008800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -1044,6 +1154,113 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
+          "url": "https://www.cls.cn/detail/2507548",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时07分]"
+        },
+        {
+          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
+          "url": "https://www.zhihu.com/question/2094959269275878409",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            14,
+            11,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时05分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时03分 ~ 15时19分]"
+        },
+        {
+          "title": "Deepseek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时19分 ~ 14时04分]"
+        },
+        {
+          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
+          "url": "https://wallstreetcn.com/livenews/3180663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时02分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 15时19分]"
+        },
+        {
+          "title": "DeepSeek新模型有哪些优势",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时05分]"
+        },
+        {
+          "title": "DeepSeek 对百度搜索的冲击有多大？",
+          "url": "https://www.zhihu.com/question/13453602540",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "原油",
       "match_count": 8,
       "titles": [
@@ -1054,7 +1271,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -1139,102 +1356,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
-          "url": "https://www.cls.cn/detail/2507548",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 10时07分]"
-        },
-        {
-          "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
-          "url": "https://www.zhihu.com/question/2094959269275878409",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            14,
-            11,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时05分]"
-        },
-        {
-          "title": "Deepseek 对百度搜索的冲击有多大？",
-          "url": "https://www.zhihu.com/question/13453602540",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 14时04分]"
-        },
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            17,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 14时04分]"
-        },
-        {
-          "title": "Deepseek公布API网页搜索与抓取费用：每1000次成功请求5元",
-          "url": "https://wallstreetcn.com/livenews/3180663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 14时04分]"
-        },
-        {
-          "title": "DeepSeek新模型有哪些优势",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 08时05分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1246,8 +1367,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 14时04分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 15时19分]"
         },
         {
           "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
