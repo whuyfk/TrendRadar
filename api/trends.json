@@ -1,22 +1,406 @@
 {
-  "generated_at": "2026-10-20T03:03:01.699583+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-10-20T04:03:11.066066+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
+        },
+        {
+          "title": "路透社/益普索民调显示，美国总统特朗普的支持率跌至31%的历史新低。",
+          "url": "https://flash.jin10.com/detail/20261020034004791800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普被问及法国的情况时说：情况非常令人遗憾。 法国的情况非常令人难过。 这与移民有关，与学校无关，与其他任何事情都无关。是移民问题。 我告诉法国总统马克龙，让他关闭边境。 他们把法国毁了，要恢复过来会很困难。希望法国能够恢复。",
+          "url": "https://wallstreetcn.com/livenews/3181396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道乌克兰总统泽连斯基在说些什么。",
+          "url": "https://wallstreetcn.com/livenews/3181395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3181354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普喊话美国民众别去法国参加革命",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%88%AB%E5%8E%BB%E6%B3%95%E5%9B%BD%E5%8F%82%E5%8A%A0%E9%9D%A9%E5%91%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时02分 ~ 04时03分]"
+        },
+        {
+          "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
+          "url": "https://wallstreetcn.com/livenews/3181353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时03分]"
+        },
+        {
+          "title": "美国总统特朗普：如果欧洲不关闭边境，那么欧洲就完了。",
+          "url": "https://flash.jin10.com/detail/20261020033734086800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：将考虑允许乌克兰人继续保有临时保护身份（TPS）。",
+          "url": "https://flash.jin10.com/detail/20261020033627513800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲抗议活动是移民问题导致的。",
+          "url": "https://flash.jin10.com/detail/20261020033410130800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京“谈判”。 与俄罗斯“谈判”柴油供应和伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3181392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：泽连斯基根本不知道自己在说什么。",
+          "url": "https://flash.jin10.com/detail/20261020033246631800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势很好。",
+          "url": "https://wallstreetcn.com/livenews/3181391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：法国局势令人非常难过。",
+          "url": "https://flash.jin10.com/detail/20261020033051729800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：我们给了乌克兰很多，而他们却什么都没给我们。",
+          "url": "https://flash.jin10.com/detail/20261020033022227800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯为伊朗做的很少，这倒是件好事。",
+          "url": "https://flash.jin10.com/detail/20261020033014878800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯本可以采取更多行动来帮助伊朗。",
+          "url": "https://flash.jin10.com/detail/20261020032959103800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普声称：新墨西哥州应该更名为“新美利坚”（new America）。",
+          "url": "https://wallstreetcn.com/livenews/3181386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普表示与乌克兰共享情报。",
+          "url": "https://flash.jin10.com/detail/20261020032812098800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰总统泽连斯基的言论）是时候让其他人代表乌克兰进行谈判了。",
+          "url": "https://flash.jin10.com/detail/20261020032605356800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：泽连斯基对解决问题帮助不大，我认为他并不想结束这场战争。",
+          "url": "https://flash.jin10.com/detail/20261020032511773800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰正在失去其所有男性兵员。",
+          "url": "https://flash.jin10.com/detail/20261020032511043800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：欧洲国家是这场战争的参与方。 就在几周前，北约秘书长宣布，有500多架美国战斗机从欧洲空军基地起飞，对伊朗实施军事行动。 法国曾公开表态支持这场战争，还致信美国总统特朗普，表示将协助其对伊朗作战。 如今法国面临社会危机，却将危机归咎于一场他们声称自己并未参与的战争所带来的后果。",
+          "url": "https://wallstreetcn.com/livenews/3181308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你就是我想要在身边的人。",
+          "url": "https://flash.jin10.com/detail/20261020004228474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国总统特朗普：很久以前就告诉法国总统马克龙，他在法国犯下大错，我让他关闭边境。",
+          "url": "https://flash.jin10.com/detail/20261020032339119800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "特朗普经济顾问哈塞特称通胀仍需关注，尊重美联储独立性",
+          "url": "https://wallstreetcn.com/livenews/3181307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你遭到了自己国家的不公平对待。",
+          "url": "https://flash.jin10.com/detail/20261020004144507800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道是谁放慢了星链的速度，但我很想查清楚。",
+          "url": "https://flash.jin10.com/detail/20261020032331451800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
+          "url": "https://flash.jin10.com/detail/20261019230549591800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡对美国总统特朗普说：我们还有任务要完成，而且一定会完成。",
+          "url": "https://flash.jin10.com/detail/20261020004047642800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯就伊朗和柴油问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20261020032227040800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：试图从俄罗斯手中获取人质。",
+          "url": "https://flash.jin10.com/detail/20261020032216070800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京谈判。",
+          "url": "https://flash.jin10.com/detail/20261020032048582800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 国债",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
           "url": "https://wallstreetcn.com/articles/3783911",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
+        },
+        {
+          "title": "10年期美债收益率涨超7个基点，投资者注意力从AI抛售转向美国原油上涨",
+          "url": "https://wallstreetcn.com/livenews/3181399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "美国至10月19日3个月国债竞拍-得标利率 4.095%，前值4.09%。",
@@ -134,126 +518,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3783873",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
-        },
-        {
-          "title": "【以色列总理下令推翻伊朗政权】当地时间10月19日晚，以色列总理内塔尼亚胡在接受以色列第14频道电视台采访时称，他向以军、以色列情报和特勤局（摩萨德）以及以军军事情报局下达了“推翻伊朗政权”的指令。内塔尼亚胡结合此前美国总统特朗普对他的公开支持表示，特朗普的态度“非常明确”，即认为当前的“核心任务是彻底消除伊朗对以色列造成的生存威胁 ”。（CCTV国际时讯）",
-          "url": "https://wallstreetcn.com/livenews/3181354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 03时03分]"
-        },
-        {
-          "title": "马斯克可能会通过“特朗普账户”（Trump Accounts）向美国儿童捐赠所持SpaceX股票。",
-          "url": "https://wallstreetcn.com/livenews/3181353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 03时03分]"
-        },
-        {
-          "title": "特朗普喊话美国民众别去法国参加革命",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%88%AB%E5%8E%BB%E6%B3%95%E5%9B%BD%E5%8F%82%E5%8A%A0%E9%9D%A9%E5%91%BD%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时03分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：欧洲国家是这场战争的参与方。 就在几周前，北约秘书长宣布，有500多架美国战斗机从欧洲空军基地起飞，对伊朗实施军事行动。 法国曾公开表态支持这场战争，还致信美国总统特朗普，表示将协助其对伊朗作战。 如今法国面临社会危机，却将危机归咎于一场他们声称自己并未参与的战争所带来的后果。",
-          "url": "https://wallstreetcn.com/livenews/3181308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你就是我想要在身边的人。",
-          "url": "https://flash.jin10.com/detail/20261020004228474800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "特朗普经济顾问哈塞特称通胀仍需关注，尊重美联储独立性",
-          "url": "https://wallstreetcn.com/livenews/3181307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普对以色列总理内塔尼亚胡说：你遭到了自己国家的不公平对待。",
-          "url": "https://flash.jin10.com/detail/20261020004144507800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        },
-        {
-          "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
-          "url": "https://flash.jin10.com/detail/20261019230549591800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡对美国总统特朗普说：我们还有任务要完成，而且一定会完成。",
-          "url": "https://flash.jin10.com/detail/20261020004047642800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
@@ -263,8 +529,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
         },
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
@@ -274,8 +540,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
         },
         {
           "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
@@ -285,8 +551,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
         },
         {
           "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股盘中）",
@@ -309,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.19%，报24112点。 恒生科技指数主连夜盘收跌0.66%，报4077点。",
+          "url": "https://wallstreetcn.com/livenews/3181382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         }
       ]
     },
@@ -324,8 +601,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
         },
         {
           "title": "实测Deepseek v4.1动画效果",
@@ -337,8 +614,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
         },
         {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
@@ -348,8 +625,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 04时03分]"
         },
         {
           "title": "Deepseek对传统搜索的冲击有多大？",
@@ -359,14 +636,14 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时03分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 04时03分]"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "WTI 11月原油期货收涨2.25美元，涨幅将近2.22%，报103.66美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报109.10美元/桶。 NYMEX 11月天然气期货收报3.0580美元/百万英热单位。 NYMEX 11月汽油期货收报3.1914美元/加仑，NYMEX 11月取暖油期货收报4.9201美元/加仑。",
@@ -375,7 +652,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -384,11 +661,12 @@
           "url": "https://wallstreetcn.com/livenews/3181376",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时03分]"
         },
         {
           "title": "美国原油期货结算价为每桶103.66美元，上涨2.25美元，涨幅2.22%。",
@@ -397,9 +675,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "美国原油期货收涨超2%，至103美元上方",
+          "url": "https://wallstreetcn.com/livenews/3181377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         }
       ]
     },
@@ -428,6 +717,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数19日上涨",
+          "url": "https://flash.jin10.com/detail/20261020033828516800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
+        },
+        {
+          "title": "周一（10月19日）纽约尾盘，ICE美元指数涨0.13%，报101.972点，日内交投区间为101.769-102.080点，北京时间15:00-15:59显著上扬。 彭博美元指数涨0.05%，报1223.09点，日内交投区间为1221.20-1224.03点。",
+          "url": "https://wallstreetcn.com/livenews/3181389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         }
       ]
     }
