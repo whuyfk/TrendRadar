@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T22:02:57.888500+08:00",
-  "total_titles_processed": 2008,
+  "generated_at": "2026-10-19T23:03:17.898816+08:00",
+  "total_titles_processed": 2122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "周末要闻汇总：长鑫科技领衔 多家A股公司开启新一轮回购",
@@ -62,6 +62,17 @@
           "time_info": "[09时19分 ~ 19时02分]"
         },
         {
+          "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
+          "url": "https://www.cls.cn/detail/2508677",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时03分 ~ 23时03分]"
+        },
+        {
           "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
           "url": "https://www.cls.cn/detail/2507461",
           "source": "财联社热门",
@@ -105,15 +116,16 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
-          "url": "https://www.cls.cn/detail/2508677",
+          "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
+          "url": "https://www.cls.cn/detail/2508559",
           "source": "财联社热门",
           "ranks": [
-            3
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时03分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[19时02分 ~ 23时03分]"
         },
         {
           "title": "A股温度计",
@@ -218,18 +230,6 @@
           "time_info": "[11时03分 ~ 14时04分]"
         },
         {
-          "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
-          "url": "https://www.cls.cn/detail/2508559",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时02分 ~ 22时02分]"
-        },
-        {
           "title": "机构：A股估值性价比进一步改善，建议均衡配置应对市场波动",
           "url": "https://wallstreetcn.com/livenews/3180704",
           "source": "华尔街见闻-快讯",
@@ -302,6 +302,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时02分 ~ 20时03分]"
+        },
+        {
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时03分]"
         },
         {
           "title": "A股军工板块反复活跃，北方导航触及涨停，海洋王、甘化科工、长春一东此前2连板，长城军工、国科军工、北方长龙等纷纷冲高。",
@@ -495,17 +506,6 @@
           "time_info": "14时04分"
         },
         {
-          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2508914",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "A股农业股震荡走低，金健米业触及跌停，秋乐种业、万向德农、敦煌种业、亚盛集团、新农开发跟跌。",
           "url": "https://wallstreetcn.com/livenews/3180877",
           "source": "华尔街见闻-快讯",
@@ -523,7 +523,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -545,7 +545,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -600,7 +600,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -622,7 +622,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -636,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "郑希掌舵QDII基金重新“开门迎客”，A股基金同步“官宣”取消限购",
+          "url": "https://wallstreetcn.com/livenews/3181272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "A股午评：创业板指探底回升跌1.07% 工商银行股价再创新高",
@@ -768,12 +779,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "中信证券包承超：A股投资价值逐步提升",
+          "url": "https://wallstreetcn.com/livenews/3181260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：你不愿结束战争，泽连斯基：你逼乌克兰投降",
@@ -821,8 +843,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时04分 ~ 22时02分]"
+          "appearance_count": 24,
+          "time_info": "[08时04分 ~ 23时03分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
@@ -835,6 +857,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时02分]"
+        },
+        {
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时02分 ~ 23时03分]"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -879,19 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3783873",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时02分 ~ 22时02分]"
         },
         {
           "title": "泽连斯基称特朗普正逼迫乌克兰向俄罗斯投降",
@@ -1027,6 +1050,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时03分 ~ 21时06分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长阿卜杜拉希：特朗普用尽了一切手段，但最终未能得逞，因为伊朗政府和人民团结一致。",
+          "url": "https://flash.jin10.com/detail/20261019224342878800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长阿卜杜拉希：美国已日渐衰老，特朗普的计划已经落空。",
+          "url": "https://flash.jin10.com/detail/20261019224337271800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "特朗普发文支持内塔尼亚胡竞选连任以色列总理",
@@ -1219,7 +1264,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
@@ -1329,6 +1374,17 @@
           "time_info": "[12时03分 ~ 14时04分]"
         },
         {
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "日本央行行长植田和男：将密切关注长期利率的市场走势。 不宜表态何种情况构成日本国债收益率的“异常波动”。 若加薪与加息节奏得当，长期收益率将趋于稳定。 稳健的政策管理有助于形成稳定的收益率。",
           "url": "https://wallstreetcn.com/livenews/3180743",
           "source": "华尔街见闻-快讯",
@@ -1382,7 +1438,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1484,6 +1540,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "法国国债跌幅扩大，10年期收益率上升10个基点至4.91%。",
+          "url": "https://flash.jin10.com/detail/20261019221242381800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "法国国债价格跌幅扩大，10年期法债收益率上涨10个基点，报4.91%。",
+          "url": "https://wallstreetcn.com/livenews/3181264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     },
@@ -1514,8 +1592,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时03分 ~ 22时02分]"
+          "appearance_count": 19,
+          "time_info": "[11时03分 ~ 23时03分]"
         },
         {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
@@ -1532,8 +1610,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时02分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[13时02分 ~ 23时03分]"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
