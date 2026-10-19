@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T06:02:57.792765+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-10-20T07:02:40.877909+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "特朗普喊话美国民众别去法国参加革命",
@@ -26,11 +26,12 @@
             9,
             28,
             19,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[03时02分 ~ 07时02分]"
         },
         {
           "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
@@ -299,6 +300,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）报道，伊朗常驻联合国代表团临时代办古拉姆侯赛因·达尔齐致函联合国秘书长及安理会，就美国总统特朗普和以色列方面发出的“傲慢威胁”提出警告。",
+          "url": "https://flash.jin10.com/detail/20261020062204017800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "美国总统特朗普：（关于乌克兰总统泽连斯基的言论）是时候让其他人代表乌克兰进行谈判了。",
           "url": "https://flash.jin10.com/detail/20261020032605356800",
           "source": "金十数据",
@@ -456,7 +468,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
@@ -466,8 +478,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
@@ -477,8 +489,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
@@ -489,8 +501,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 07时02分]"
+        },
+        {
+          "title": "134家A股公司前三季度业绩预告预喜",
+          "url": "https://wallstreetcn.com/livenews/3181465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股盘中）",
@@ -520,11 +543,12 @@
           "url": "https://www.cls.cn/detail/2508835",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[05时02分 ~ 07时02分]"
         },
         {
           "title": "周一（10月19日），美股行业ETF多数下跌，公用事业ETF收跌2.01%，全球航空业ETF跌1.04%，金融业ETF、银行业ETF、区域银行ETF至多跌0.83%，能源业ETF跌0.64%。 生物科技指数ETF、网络股指数ETF、科技行业ETF、全球航空业ETF至少涨1.02%，半导体ETF涨1.61%，可选消费ETF涨1.78%。",
@@ -606,12 +630,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "A股半导体三季报业绩大面积预增，PCB与存储芯片“你追我赶”",
+          "url": "https://wallstreetcn.com/livenews/3181446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
@@ -635,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "科技巨头护盘，油价与美债压制反弹，美股周一震荡收高，黄金冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国至10月19日6个月国债竞拍-投标倍数 2.84，前值2.76。",
@@ -754,7 +800,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "WTI 11月原油期货收涨2.25美元，涨幅将近2.22%，报103.66美元/桶。 中东Abu Dhabi Murban原油期货跌3.76%，报109.10美元/桶。 NYMEX 11月天然气期货收报3.0580美元/百万英热单位。 NYMEX 11月汽油期货收报3.1914美元/加仑，NYMEX 11月取暖油期货收报4.9201美元/加仑。",
@@ -792,6 +838,17 @@
           "time_info": "[05时03分 ~ 06时02分]"
         },
         {
+          "title": "美国战略石油储备原油库存降至1982年以来最低水平",
+          "url": "https://wallstreetcn.com/livenews/3181458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "美国原油期货结算价为每桶103.66美元，上涨2.25美元，涨幅2.22%。",
           "url": "https://flash.jin10.com/detail/20261020023221834800",
           "source": "金十数据",
@@ -827,8 +884,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
@@ -838,8 +895,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "实测Deepseek v4.1动画效果",
@@ -876,22 +933,24 @@
           "url": "https://flash.jin10.com/detail/20261020053341203800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
           "url": "https://wallstreetcn.com/livenews/3181434",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "谷歌：自10月21日起，阿联酋地区的加密货币交易所、钱包、差价合约及外汇广告商，在获得谷歌认证后可投放广告。",
@@ -957,7 +1016,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
