@@ -1,45 +1,12 @@
 {
-  "generated_at": "2026-10-20T00:04:01.032855+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-10-20T01:02:46.061979+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美国至10月19日3个月国债竞拍-得标利率配置百分比 29.44%，前值36.71%。",
-          "url": "https://flash.jin10.com/detail/20261019233158783800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率4.095%，投标倍数2.77。 拍卖六个月期国债，得标利率4.220%，投标倍数2.84。",
-          "url": "https://wallstreetcn.com/livenews/3181305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国至10月19日3个月国债竞拍-投标倍数 2.77，前值2.68。",
-          "url": "https://flash.jin10.com/detail/20261019233158781800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
         {
           "title": "美国至10月19日3个月国债竞拍-得标利率 4.095%，前值4.09%。",
           "url": "https://flash.jin10.com/detail/20261019233158782800",
@@ -47,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -58,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -69,9 +36,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国至10月19日3个月国债竞拍-得标利率配置百分比 29.44%，前值36.71%。",
+          "url": "https://flash.jin10.com/detail/20261019233158783800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时02分]"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率4.095%，投标倍数2.77。 拍卖六个月期国债，得标利率4.220%，投标倍数2.84。",
+          "url": "https://wallstreetcn.com/livenews/3181305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时02分]"
+        },
+        {
+          "title": "美国至10月19日3个月国债竞拍-投标倍数 2.77，前值2.68。",
+          "url": "https://flash.jin10.com/detail/20261019233158781800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时02分]"
         },
         {
           "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
@@ -81,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
         },
         {
           "title": "美国至10月19日6个月国债竞拍-得标利率 4.22%，前值4.20%。",
@@ -91,9 +94,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "德商银行：德国债务担忧日益与法国趋同",
+          "url": "https://flash.jin10.com/detail/20261019235653171800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "法国10年期国债收益率势将创2025年3月以来最大单日涨幅。",
@@ -102,7 +116,118 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
+          "url": "https://www.cls.cn/detail/2508677",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
+        },
+        {
+          "title": "金十图示：2026年10月19日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261020003128828800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
+          "url": "https://www.cls.cn/detail/2508559",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
+        },
+        {
+          "title": "金十图示：2026年10月19日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261020003017846800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：欧洲国家是这场战争的参与方。 就在几周前，北约秘书长宣布，有500多架美国战斗机从欧洲空军基地起飞，对伊朗实施军事行动。 法国曾公开表态支持这场战争，还致信美国总统特朗普，表示将协助其对伊朗作战。 如今法国面临社会危机，却将危机归咎于一场他们声称自己并未参与的战争所带来的后果。",
+          "url": "https://wallstreetcn.com/livenews/3181308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普经济顾问哈塞特称通胀仍需关注，尊重美联储独立性",
+          "url": "https://wallstreetcn.com/livenews/3181307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
+          "url": "https://flash.jin10.com/detail/20261019230549591800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         }
@@ -120,8 +245,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
+        },
+        {
+          "title": "实测Deepseek v4.1动画效果",
+          "url": "https://www.douyin.com/hot/2703379",
+          "source": "抖音",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
         },
         {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
@@ -131,86 +268,25 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "实测Deepseek v4.1动画效果",
-          "url": "https://www.douyin.com/hot/2703379",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时02分]"
         }
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "首批18只主动ETF今日获批！A股将迎更多增量资金",
-          "url": "https://www.cls.cn/detail/2508677",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2508914",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
-          "url": "https://www.cls.cn/detail/2508559",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3783873",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
-          "url": "https://flash.jin10.com/detail/20261019230549591800",
+          "title": "Cognizant与谷歌云扩大合作联盟，加速企业向智能体驱动型企业转型。",
+          "url": "https://flash.jin10.com/detail/20261020000257327800",
           "source": "金十数据",
           "ranks": [
-            21
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时02分"
         }
       ]
     }
