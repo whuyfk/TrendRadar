@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T16:03:14.191893+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-10-21T17:04:08.234906+08:00",
+  "total_titles_processed": 1680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
@@ -185,6 +185,18 @@
           "time_info": "[09时17分 ~ 10时06分]"
         },
         {
+          "title": "A股投资者回报明显改善",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%8A%95%E8%B5%84%E8%80%85%E5%9B%9E%E6%8A%A5%E6%98%8E%E6%98%BE%E6%94%B9%E5%96%84%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 17时04分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -295,6 +307,17 @@
           "time_info": "[15时09分 ~ 16时03分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
+          "url": "https://www.cls.cn/detail/2511091",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
           "title": "创业板指跌超1%，此前一度涨近1%，权重股宁德时代跌近11%。",
           "url": "https://wallstreetcn.com/livenews/3182307",
           "source": "华尔街见闻-快讯",
@@ -352,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "A股投资者回报明显改善",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%8A%95%E8%B5%84%E8%80%85%E5%9B%9E%E6%8A%A5%E6%98%8E%E6%98%BE%E6%94%B9%E5%96%84%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "A股到底部了吗？卖方观点显分歧",
@@ -728,6 +740,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "恒生指数收盘跌0.9%，恒生科技指数跌1.26%",
+          "url": "https://wallstreetcn.com/livenews/3182479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "A股福建本地股异动拉升，平潭发展涨停，海峡创新、路桥信息涨超11%，福建金森、漳州发展、厦门信达、厦门港务跟涨。",
           "url": "https://flash.jin10.com/detail/20261021101555571800",
           "source": "金十数据",
@@ -794,13 +817,24 @@
           "time_info": "10时06分"
         },
         {
+          "title": "美股盘前：SpaceX涨约9%，超微电脑涨约15%，奈飞跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3182465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "上证指数收报3713.03点，跌0.60%。 深证成指收报11704.35点，跌0.82%。 创业板指收报2694.71点，跌1.62%。 沪深300收报4111.93点，跌0.97%。 科创50收报1343.28点，涨0.06%。 中证500收报6840.56点，跌0.01%。 中证1000收报6780.26点，涨0.20%。",
           "url": "https://wallstreetcn.com/livenews/3182416",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
@@ -808,7 +842,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -829,8 +863,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时03分 ~ 16时03分]"
+          "appearance_count": 25,
+          "time_info": "[00时03分 ~ 17时04分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -950,6 +984,20 @@
           "time_info": "14时03分"
         },
         {
+          "title": "特朗普施压泽连斯基同俄达成协议",
+          "url": "https://www.toutiao.com/trending/7698725891135881252/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            22,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 17时04分]"
+        },
+        {
           "title": "美国总统特朗普：法国存在移民问题。",
           "url": "https://flash.jin10.com/detail/20261021024311274800",
           "source": "金十数据",
@@ -1027,19 +1075,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普施压泽连斯基同俄达成协议",
-          "url": "https://www.toutiao.com/trending/7698725891135881252/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时03分 ~ 16时03分]"
         },
         {
           "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
@@ -1278,6 +1313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普表示砸逾4亿美元助共和党选举",
+          "url": "https://wallstreetcn.com/livenews/3182482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "美国总统特朗普：（有关民主党众议员奥马尔）外界一直在讨论将她驱逐出境，但她也可能面临牢狱之灾。",
@@ -1617,7 +1663,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1680,7 +1726,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
@@ -1691,8 +1737,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时02分 ~ 16时03分]"
+          "appearance_count": 16,
+          "time_info": "[07时02分 ~ 17时04分]"
         },
         {
           "title": "原油系期货主力合约短线拉升，SC原油跌幅收窄至3.01%，现报705.4元/桶。低硫燃料油（LU）跌幅收窄至1.46%，现报5956元/吨。燃油跌幅收窄至2.46%，现报4807元/吨。沥青上涨1.14%，现报4969元/吨。",
@@ -1808,6 +1854,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "中东现货原油溢价回落，但运费仍“贵出天际”",
+          "url": "https://flash.jin10.com/detail/20261021164514832800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "美国至10月16日当周API原油库存 -493.1万桶，预期-110.7万桶，前值-1112.3万桶。",
           "url": "https://flash.jin10.com/detail/20261021043642267800",
           "source": "金十数据",
@@ -1877,7 +1934,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
@@ -1963,6 +2020,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时03分]"
+        },
+        {
+          "title": "腾讯姚顺雨说把deepseek卷到加班",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%A7%9A%E9%A1%BA%E9%9B%A8%E8%AF%B4%E6%8A%8Adeepseek%E5%8D%B7%E5%88%B0%E5%8A%A0%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
         }
       ]
     },
