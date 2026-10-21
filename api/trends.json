@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T17:04:08.234906+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-10-21T18:02:58.461415+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
@@ -210,6 +210,18 @@
           "time_info": "[12时02分 ~ 14时03分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
+          "url": "https://www.cls.cn/detail/2511091",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时02分]"
+        },
+        {
           "title": "专家：A股市场主要风险是输入性风险",
           "url": "https://www.toutiao.com/trending/7698730712362389033/",
           "source": "今日头条",
@@ -305,17 +317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时09分 ~ 16时03分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
-          "url": "https://www.cls.cn/detail/2511091",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
         },
         {
           "title": "创业板指跌超1%，此前一度涨近1%，权重股宁德时代跌近11%。",
@@ -452,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3784091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "A股三大股指悉数转跌，创业板指跌0.68%，此前一度涨超1%。",
@@ -746,7 +758,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -823,7 +835,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
@@ -842,7 +854,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -863,8 +875,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时03分 ~ 17时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时03分 ~ 18时02分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -1260,6 +1272,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "特朗普称美援乌数千亿却一无所获",
+          "url": "https://www.toutiao.com/trending/7698961639017546278/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "特朗普特使向海湾盟友发出警告：各国需要更多依靠自身保障安全",
           "url": "https://flash.jin10.com/detail/20261020233300568800",
           "source": "金十数据",
@@ -1321,9 +1344,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "特朗普为何突然改变对乌克兰的态度",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E6%94%B9%E5%8F%98%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E6%80%81%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "美国总统特朗普：（有关民主党众议员奥马尔）外界一直在讨论将她驱逐出境，但她也可能面临牢狱之灾。",
@@ -1494,7 +1528,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "法国10年期国债利差扩至150个基点，财政风险成欧元主要压力",
@@ -1668,6 +1702,17 @@
           "time_info": "16时03分"
         },
         {
+          "title": "法国国债风险指数逼近160个基点，创15年新高。",
+          "url": "https://wallstreetcn.com/livenews/3182561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "德国10年期国债收益率跌超5个基点",
           "url": "https://wallstreetcn.com/livenews/3182073",
           "source": "华尔街见闻-快讯",
@@ -1677,6 +1722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "法国10年期国债收益率自2002年以来首次触及5%.",
+          "url": "https://wallstreetcn.com/livenews/3182542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "国债期货早盘收盘",
@@ -1726,7 +1782,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
@@ -1737,8 +1793,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时02分 ~ 17时04分]"
+          "appearance_count": 17,
+          "time_info": "[07时02分 ~ 18时02分]"
         },
         {
           "title": "原油系期货主力合约短线拉升，SC原油跌幅收窄至3.01%，现报705.4元/桶。低硫燃料油（LU）跌幅收窄至1.46%，现报5956元/吨。燃油跌幅收窄至2.46%，现报4807元/吨。沥青上涨1.14%，现报4969元/吨。",
@@ -1761,6 +1817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "消息人士：卡塔尔能源计划于12月提供在霍尔木兹外装船的原油",
+          "url": "https://flash.jin10.com/detail/20261021174951702800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "WTI 11月原油期货收跌1.87美元，跌幅1.80报101.79美元/桶，北京时间19:36曾达到110.48美元；12月合约跌0.66%，暂报97.66美元，19:36也曾涨至101.37美元。 中东Abu Dhabi Murban原油期货涨0.86%，报112.05美元/桶。 NYMEX 11月天然气期货收报2.9630美元/百万英热单位。 NYMEX 11月汽油期货收报3.1172美元/加仑，NYMEX 11月取暖油期货收报4.9250美元/加仑。",
@@ -1860,7 +1927,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
         },
