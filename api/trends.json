@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T22:03:16.737531+08:00",
-  "total_titles_processed": 2197,
+  "generated_at": "2026-10-21T23:03:28.952098+08:00",
+  "total_titles_processed": 2293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
@@ -76,6 +76,20 @@
           "time_info": "[00时03分 ~ 11时02分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
+          "url": "https://www.cls.cn/detail/2511091",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时03分 ~ 23时03分]"
+        },
+        {
           "title": "美股深夜反攻纳指涨超1%",
           "url": "https://www.douyin.com/hot/2703663",
           "source": "抖音",
@@ -91,30 +105,18 @@
           "time_info": "[00时03分 ~ 07时02分]"
         },
         {
-          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
-          "url": "https://www.cls.cn/detail/2511091",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时03分 ~ 22时03分]"
-        },
-        {
           "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
           "url": "https://wallstreetcn.com/articles/3784091",
           "source": "华尔街见闻",
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时03分]"
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 23时03分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-10-21）",
@@ -167,7 +169,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -543,9 +545,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "港股新能源汽车股走强，小鹏集团(09868.HK)涨超5%，理想汽车(02015.HK)、零跑汽车(09863.HK)涨3.7%，吉利汽车(00175.HK)、蔚来-SW(09866.HK)、小米集团(01810.HK)涨超1%。",
@@ -565,7 +578,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -972,7 +985,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -980,7 +993,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -1076,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时02分 ~ 14时03分]"
+        },
+        {
+          "title": "泽连斯基和特朗普，彻底决裂了？",
+          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "美国总统特朗普：欧洲必须改变其方式。",
@@ -1481,7 +1505,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1785,273 +1809,8 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "法国10年期国债利差扩至150个基点，财政风险成欧元主要压力",
-          "url": "https://flash.jin10.com/detail/20261021115639653800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版，且情况更严重",
-          "url": "https://wallstreetcn.com/livenews/3182130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "30年期美债收益率跌超4.5个基点，同期实际收益率跌超4.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3182129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.30%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3182317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时03分]"
-        },
-        {
-          "title": "澳大利亚三年期国债收益率上涨3个基点，投资者关注澳洲联储副主席Hauser讲话。",
-          "url": "https://wallstreetcn.com/livenews/3182178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "澳大利亚3年期国债收益率日内上行5个基点。",
-          "url": "https://wallstreetcn.com/livenews/3182272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时03分]"
-        },
-        {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20261021093120073800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.975%，投标倍数2.74。",
-          "url": "https://wallstreetcn.com/livenews/3182032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约跌0.22%，10年期主力合约跌0.05%，5年期主力合约跌0.03%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3182243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "英国国债全线走高，10年期国债收益率下降5个基点至5.36%。",
-          "url": "https://flash.jin10.com/detail/20261021212753738800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "美国至10月20日6周国债竞拍-得标利率配置百分比 78.53%，前值81.33%。",
-          "url": "https://flash.jin10.com/detail/20261020233319853800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "英国长端国债收益率跌超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3182056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国至10月20日6周国债竞拍-投标倍数 2.74，前值2.58。",
-          "url": "https://flash.jin10.com/detail/20261020233313180800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "美国至10月20日6周国债竞拍-得标利率 3.975%，前值3.98%。",
-          "url": "https://flash.jin10.com/detail/20261020233307982800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3182218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.38%，10年期主力合约跌0.10%，5年期主力合约跌0.06%，2年期主力合约跌0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3182433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "法国国债风险指数逼近160个基点，创15年新高。",
-          "url": "https://wallstreetcn.com/livenews/3182561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "德国10年期国债收益率跌超5个基点",
-          "url": "https://wallstreetcn.com/livenews/3182073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "法国10年期国债收益率自2002年以来首次触及5%.",
-          "url": "https://wallstreetcn.com/livenews/3182542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20261021113138781800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "法国国债收益率持稳于最近24年最高位附近",
-          "url": "https://wallstreetcn.com/livenews/3182070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "称赞马克龙经济团队一流，贝森特料法国债市动荡不会外溢",
-          "url": "https://wallstreetcn.com/livenews/3182043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "日本30年期国债收益率下跌2.0个基点，至3.920%。",
-          "url": "https://flash.jin10.com/detail/20261021122032106800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
@@ -2062,8 +1821,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[07时02分 ~ 22时03分]"
+          "appearance_count": 24,
+          "time_info": "[07时02分 ~ 23时03分]"
         },
         {
           "title": "原油系期货主力合约短线拉升，SC原油跌幅收窄至3.01%，现报705.4元/桶。低硫燃料油（LU）跌幅收窄至1.46%，现报5956元/吨。燃油跌幅收窄至2.46%，现报4807元/吨。沥青上涨1.14%，现报4969元/吨。",
@@ -2083,7 +1842,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2256,6 +2015,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存减少306万桶，彭博用户预计减少350万桶、分析师预期下降32.420万桶，之前一周锐减855.7万桶。",
+          "url": "https://wallstreetcn.com/livenews/3182813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "布伦特原油跌破106美元/桶，日内跌0.27%。",
           "url": "https://flash.jin10.com/detail/20261021202836406800",
           "source": "金十数据",
@@ -2265,6 +2035,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美国至10月16日当周EIA原油产量引伸需求数据 1946.4万桶/日，前值2095万桶/日。",
+          "url": "https://flash.jin10.com/detail/20261021223032601800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "美国至10月16日当周API原油库存将于十分钟后公布。",
@@ -2289,6 +2070,28 @@
           "time_info": "19时02分"
         },
         {
+          "title": "美国10月16日当周EIA原油库存变动 -306万桶，前值 -855.7万桶。",
+          "url": "https://wallstreetcn.com/livenews/3182809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "美国10月16日当周EIA库欣地区原油库存变动 98.7万桶，前值 186.2万桶。",
+          "url": "https://wallstreetcn.com/livenews/3182808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
           "title": "原油ETF",
           "url": "https://flash.jin10.com/detail/20261021092317941800",
           "source": "金十数据",
@@ -2309,6 +2112,423 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3182803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "法国10年期国债利差扩至150个基点，财政风险成欧元主要压力",
+          "url": "https://flash.jin10.com/detail/20261021115639653800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版，且情况更严重",
+          "url": "https://wallstreetcn.com/livenews/3182130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "30年期美债收益率跌超4.5个基点，同期实际收益率跌超4.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3182129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.30%，10年期主力合约跌0.07%，5年期主力合约跌0.05%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3182317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时03分]"
+        },
+        {
+          "title": "澳大利亚三年期国债收益率上涨3个基点，投资者关注澳洲联储副主席Hauser讲话。",
+          "url": "https://wallstreetcn.com/livenews/3182178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "澳大利亚3年期国债收益率日内上行5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3182272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时03分]"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20261021093120073800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.975%，投标倍数2.74。",
+          "url": "https://wallstreetcn.com/livenews/3182032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约跌0.22%，10年期主力合约跌0.05%，5年期主力合约跌0.03%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3182243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "英国国债全线走高，10年期国债收益率下降5个基点至5.36%。",
+          "url": "https://flash.jin10.com/detail/20261021212753738800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "美国至10月20日6周国债竞拍-得标利率配置百分比 78.53%，前值81.33%。",
+          "url": "https://flash.jin10.com/detail/20261020233319853800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "英国长端国债收益率跌超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3182056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国至10月20日6周国债竞拍-投标倍数 2.74，前值2.58。",
+          "url": "https://flash.jin10.com/detail/20261020233313180800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "美国至10月20日6周国债竞拍-得标利率 3.975%，前值3.98%。",
+          "url": "https://flash.jin10.com/detail/20261020233307982800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3182218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.38%，10年期主力合约跌0.10%，5年期主力合约跌0.06%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3182433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "法国国债风险指数逼近160个基点，创15年新高。",
+          "url": "https://wallstreetcn.com/livenews/3182561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "德国10年期国债收益率跌超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3182073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "法国10年期国债收益率自2002年以来首次触及5%.",
+          "url": "https://wallstreetcn.com/livenews/3182542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261021113138781800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "法国国债收益率持稳于最近24年最高位附近",
+          "url": "https://wallstreetcn.com/livenews/3182070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "称赞马克龙经济团队一流，贝森特料法国债市动荡不会外溢",
+          "url": "https://wallstreetcn.com/livenews/3182043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌2.0个基点，至3.920%。",
+          "url": "https://flash.jin10.com/detail/20261021122032106800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时03分 ~ 12时03分]"
+        },
+        {
+          "title": "市场消息：OpenAI CEO奥尔特曼在内部沟通中提议，将头部AI实验室整合为单一组织，集中管理前沿AI模型风险。但随着OpenAI和Anthropic筹备IPO，商业化诉求上升，竞争对手之间的深度合作面临阻力。",
+          "url": "https://flash.jin10.com/detail/20261021013749129800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
+          "url": "https://flash.jin10.com/detail/20261021054329265800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
+          "url": "https://wallstreetcn.com/livenews/3182087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时03分]"
+        },
+        {
+          "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3182097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "OpenAI：已承诺投入10亿美元，通过Daybreak项目向一线网络安全防御人员提供补贴支持的Daybreak使用权限。",
+          "url": "https://flash.jin10.com/detail/20261021223211711800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）据我们所知，前沿人工智能模型先于攻击者发现了这些漏洞。",
+          "url": "https://flash.jin10.com/detail/20261021223158698800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）鉴于这些漏洞的严重程度以及PHP的广泛应用，公司认为这是近年来影响最为重大的安全漏洞之一。",
+          "url": "https://flash.jin10.com/detail/20261021223109494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）鉴于这些漏洞的严重程度以及PHP的广泛应用，公司认为这是近年来影响最为重大的安全漏洞之一。",
+          "url": "https://wallstreetcn.com/livenews/3182816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "OpenAI：OpenAI正将ChatGPT广告扩展至另外26个国家，使全球可用范围达到89个国家。",
+          "url": "https://wallstreetcn.com/livenews/3182750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
+          "url": "https://flash.jin10.com/detail/20261021015825860800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "OpenAI称AI Agent削弱了对齐失效监控",
+          "url": "https://wallstreetcn.com/livenews/3182207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     },
@@ -2428,7 +2648,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：OpenAI模型即将登陆谷歌云。 OpenAI将把前沿模型引入谷歌云Model Garden。 微软仍是主要云合作伙伴。 模型即将在谷歌Antigravity和Gemini Agent中提供。",
@@ -2520,103 +2740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
-          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时03分 ~ 12时03分]"
         },
         {
-          "title": "市场消息：OpenAI CEO奥尔特曼在内部沟通中提议，将头部AI实验室整合为单一组织，集中管理前沿AI模型风险。但随着OpenAI和Anthropic筹备IPO，商业化诉求上升，竞争对手之间的深度合作面临阻力。",
-          "url": "https://flash.jin10.com/detail/20261021013749129800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "城堡证券CEO格里芬：目前AI领域几乎肯定存在泡沫，尽管泡沫往往伴随着重大技术突破。企业正在仔细审查Anthropic和OpenAI的账单，部分公司难以从AI中获取价值。",
-          "url": "https://flash.jin10.com/detail/20261021054329265800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "OpenAI CEO Altman在内部沟通时提出一种AI安全方案，提议将头部AI实验室整合为同一个组织，集中管控前沿模型风险。 不过OpenAI、Anthropic均在筹备IPO，商业化诉求上升，让跨竞争对手的深度协同难以落地。",
-          "url": "https://wallstreetcn.com/livenews/3182087",
+          "title": "谷歌公司回应PHP核心漏洞CVE-2026-109618与CVE-2026-109619。 谷歌云平台本身不受这两个漏洞影响，但在谷歌云上运行PHP的用户可能受影响。 Gemini 4 Argon参与了漏洞发现、利用开发、攻击检测以及补丁验证工作。 谷歌云正在为所有受支持的PHP版本推出更新后的无服务器基础镜像。 敦促客户立即升级到PHP 8.2或更新版本，并使用已修补版本重新部署服务。",
+          "url": "https://wallstreetcn.com/livenews/3182800",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时03分]"
-        },
-        {
-          "title": "OpenAI已经收购Orchestra Bio。 将Orchestra Bio与Rosalind AI模型及工具整合，用于生命科学研究。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3182097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时02分]"
-        },
-        {
-          "title": "OpenAI：OpenAI正将ChatGPT广告扩展至另外26个国家，使全球可用范围达到89个国家。",
-          "url": "https://wallstreetcn.com/livenews/3182750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "据Axios：OpenAI收购生物医疗公司Orchestra Bio。",
-          "url": "https://flash.jin10.com/detail/20261021015825860800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "OpenAI称AI Agent削弱了对齐失效监控",
-          "url": "https://wallstreetcn.com/livenews/3182207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "23时03分"
         }
       ]
     },
