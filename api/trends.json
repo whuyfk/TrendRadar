@@ -1,11 +1,571 @@
 {
-  "generated_at": "2026-10-21T10:06:02.109454+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-10-21T11:02:56.375230+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 48,
+      "titles": [
+        {
+          "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
+          "url": "https://wallstreetcn.com/articles/3783983",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
+        },
+        {
+          "title": "提前“预订”5亿A股主动ETF，全球最大ETF管理人抢先行动了",
+          "url": "https://www.cls.cn/detail/2510239",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 11时02分]"
+        },
+        {
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时02分 ~ 11时02分]"
+        },
+        {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
+        },
+        {
+          "title": "美股深夜反攻纳指涨超1%",
+          "url": "https://www.douyin.com/hot/2703663",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            19,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-10-21）",
+          "url": "https://flash.jin10.com/detail/20261021090240635800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "A股文化传媒概念拉升，兆讯传媒20CM涨停，恒大高新、出版传媒、粤传媒涨停，百纳千成、读客文化、新华传媒等纷纷冲高。",
+          "url": "https://flash.jin10.com/detail/20261021093529001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "“A+H”上市阵容持续扩大，多家公司筹划港股IPO",
+          "url": "https://wallstreetcn.com/livenews/3182190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "深交所公告，港股通标的证券名单调入力勤资源、调出伟禄科技股份-旧并自2026年10月21日起生效。",
+          "url": "https://wallstreetcn.com/livenews/3182228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 10时06分]"
+        },
+        {
+          "title": "专家：A股市场主要风险是输入性风险",
+          "url": "https://www.toutiao.com/trending/7698730712362389033/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "宁德时代A股港股盘中均跌超8%，此前财报显示公司第三季度净利润同比增长14.54%。",
+          "url": "https://wallstreetcn.com/livenews/3182250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
+          "title": "周二（10月20日），美股行业ETF多数收涨，生物科技指数ETF涨3.16%，全球航空业ETF、医疗业ETF至多涨2.38%，科技行业ETF、全球科技股指数ETF、半导体ETF则至多收跌0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3182143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 06时02分]"
+        },
+        {
+          "title": "SpaceX美股盘后涨5.5%，该公司正举行分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3182165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20261021084719536800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 10时06分]"
+        },
+        {
+          "title": "宁德时代A股H股均跌超9%",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3A%E8%82%A1H%E8%82%A1%E5%9D%87%E8%B7%8C%E8%B6%859%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "纳指期货周三盘初涨1%，SpaceX(SPCX.O)财报及与特斯拉(TSLA.O)合并消息提振美股科技股盘后行情。",
+          "url": "https://flash.jin10.com/detail/20261021060317218800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "金十图示：2026年10月20日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261021003117910800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "马斯克称，阿斯麦等针对Terafab加快设备交付速度。 阿斯麦ADR美股盘后涨幅迅速扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3182169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2026年10月20日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261021003021581800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "港股高开低走，恒指、恒生科技指数双双转跌，电池股下挫。",
+          "url": "https://flash.jin10.com/detail/20261021103147825800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "港股新能源汽车股走强，小鹏集团(09868.HK)涨超5%，理想汽车(02015.HK)、零跑汽车(09863.HK)涨3.7%，吉利汽车(00175.HK)、蔚来-SW(09866.HK)、小米集团(01810.HK)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20261021093112420800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "A股三大股指悉数转跌，创业板指跌0.68%，此前一度涨超1%。",
+          "url": "https://flash.jin10.com/detail/20261021102926211800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "地产ETF收涨超1.7%，与小盘股ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3182142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "宁德时代A股低开5%，此前财报显示公司第三季度净利润同比增长14.54%。",
+          "url": "https://wallstreetcn.com/livenews/3182242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美股市值前十公司盘初股价全线下跌",
+          "url": "https://www.toutiao.com/trending/7698236248431050795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "A股通信设备板块高开，日海智能2连板，长盈通、通宇通讯、光库科技、新易盛、仕佳光子跟涨。",
+          "url": "https://flash.jin10.com/detail/20261021092909841800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "上证指数开盘报3740.57点，涨0.14%。 深证成指开盘报11838.79点，涨0.32%。 创业板指开盘报2746.84点，涨0.28%。 沪深300开盘报4161.26点，涨0.22%。 科创50开盘报1356.63点，涨1.06%。 中证500开盘报6875.71点，涨0.50%。 中证1000开盘报6798.97点，涨0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3182238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "宁德时代A股低开5%，消息面上，公司三季度净利环比下降5.77%。",
+          "url": "https://flash.jin10.com/detail/20261021092816436800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "周二（10月20日），彭博电动汽车价格回报指数跌1.01%，报2974.76点。 指数几乎全天处于下跌状态，亚太盘初微幅上涨，亚太早盘持续下跌、北京时间14:13刷新日低至2952.25点，美股开盘后一度显著收复失地。 成分股里，中创新航科技集团H股收跌9.21%，优美科欧股收跌4.47%，地平线H股收跌3.95%，蔚来集团H股收跌3.5%，松下株式会社东京股价跌2.49%跌幅第五大。 速腾聚创科技H股则收涨3.92%表现第六，沃尔沃汽车集团欧股涨4.4%，ANTAM Persero涨10.48%。",
+          "url": "https://wallstreetcn.com/livenews/3182139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "宁德时代A股跌超10%，H股跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3182281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "深交所：港股通标的证券名单调整，调入力勤资源、调出伟禄科技股份-旧，10月21日起生效。",
+          "url": "https://flash.jin10.com/detail/20261021085113118800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
+        },
+        {
+          "title": "中国上证综指10月21日（周三）开盘上涨5.2点，涨幅：0.14%，报3740.57点；<br/>中国深证成指10月21日（周三）开盘上涨37.5点，涨幅：0.32%，报11838.79点；<br/>中国沪深300指数10月21日（周三）开盘上涨9.15点，涨幅：0.22%，报4161.26点；<br/>中国创业板指数10月21日（周三）开盘上涨7.64点，涨幅：0.28%，报2746.84点；<br/>中国科创50指数10月21日（周三）开盘上涨14.21点，涨幅：1.06%，报1356.63点。",
+          "url": "https://flash.jin10.com/detail/20261021092712097800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "美股大型科技股多数下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "CoreWeave、Nebius Group美股盘后涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3182159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "恒指高开1.14%，报24139.11点；恒生科技指数涨1.60%。联想集团涨6%，小鹏汽车涨3.8%，理想汽车、天数智芯涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3182235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "SpaceX美股盘后飙涨5%",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E9%A3%99%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.51%，报24001点。 恒生科技指数主连夜盘收涨0.69%，报4076点。",
+          "url": "https://wallstreetcn.com/livenews/3182112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.68%，报5719.25点，美股盘初显著上涨，北京时间22:30之前进入高位窄幅震荡状态、持续交投于5720点附近。 热门中概股里，禾赛初步收涨8.3%，小鹏涨7.6%，理想涨5.7%，世纪互联涨5.5%，美团涨2.9%，小米涨2.8%，比亚迪涨1.1%，阿里涨0.1%，网易跌0.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.32%，中概互联网指数ETF（KWEB）收涨0.29%。XtrackersHarvest中证50（ASHS）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，德银嘉实沪深300指数ETF（ASHR）收跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3182132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "道明证券：若美股中期选举出现分裂的国会，或将推迟债务上限协议",
+          "url": "https://wallstreetcn.com/livenews/3182157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "A股开盘，沪指开涨0.14%，深证成指开涨0.32%，创业板指开涨0.28%，光纤概念、减肥药概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20261021092517833800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "宁德时代A股跌超10% 较历史高位回落超50%",
+          "url": "https://flash.jin10.com/detail/20261021102049382800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指盘中涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3182263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股福建本地股异动拉升，平潭发展涨停，海峡创新、路桥信息涨超11%，福建金森、漳州发展、厦门信达、厦门港务跟涨。",
+          "url": "https://flash.jin10.com/detail/20261021101555571800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "香港恒生指数10月21日（周三）开盘上涨271.37点，涨幅1.14%，报24139.11点；<br/>香港恒生科技指数10月21日（周三）开盘上涨64.83点，涨幅1.6%，报4110.74点；<br/>国企指数10月21日（周三）开盘上涨108.91点，涨幅1.36%，报8139.17点；<br/>红筹指数10月21日（周三）开盘上涨16.25点，涨幅0.41%，报4007.7点。",
+          "url": "https://flash.jin10.com/detail/20261021092204893800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "A股农业股震荡拉升，百洋股份2连板，东方海洋涨停，金健米业涨超6%，敦煌种业、新赛股份、中粮糖业跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3182258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "CoreWeave一度涨超5.3%，美股盘初曾跌超6.3%。 美股AI软件先驱指数涨幅扩大至1.1%，AI赢家指数涨幅一度扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3182015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "港股开盘，恒指开涨1.14%，科指开涨1.6%。宁德时代(03750.HK)绩后开跌2.87%，股价触及400港元关口。人工智能硬件与算力板块回暖，联想集团(00992.HK)涨6%，胜宏科技(02476.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20261021092111647800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -15,8 +575,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,8 +586,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -52,8 +612,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
         },
         {
           "title": "泽连斯基：作为伙伴我愿向特朗普让步",
@@ -141,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普为何突然对乌克兰翻脸",
+          "url": "https://www.toutiao.com/trending/7698912022229945898/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "以色列总理内塔尼亚胡：（关于伊朗）每个美国城市都有可能被这些疯子袭击。特朗普和我一样。他明白这是必须消除的危险。",
@@ -301,7 +872,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -348,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普大撒现金、豪掷80亿美元救助农民，力挽中期选举颓势",
+          "url": "https://flash.jin10.com/detail/20261021102638841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "特朗普特使向海湾盟友发出警告：各国需要更多依靠自身保障安全",
@@ -539,485 +1121,6 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 41,
-      "titles": [
-        {
-          "title": "AI交易紧张情绪暂缓，美股指转涨，CoreWeave涨超5%，礼来涨近5%股价创新高，美元走软",
-          "url": "https://wallstreetcn.com/articles/3783983",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
-        },
-        {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时02分 ~ 10时06分]"
-        },
-        {
-          "title": "提前“预订”5亿A股主动ETF，全球最大ETF管理人抢先行动了",
-          "url": "https://www.cls.cn/detail/2510239",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
-        },
-        {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
-        },
-        {
-          "title": "美股深夜反攻纳指涨超1%",
-          "url": "https://www.douyin.com/hot/2703663",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            19,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
-          "url": "https://www.cls.cn/detail/2510428",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时06分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-10-21）",
-          "url": "https://flash.jin10.com/detail/20261021090240635800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "A股文化传媒概念拉升，兆讯传媒20CM涨停，恒大高新、出版传媒、粤传媒涨停，百纳千成、读客文化、新华传媒等纷纷冲高。",
-          "url": "https://flash.jin10.com/detail/20261021093529001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "“A+H”上市阵容持续扩大，多家公司筹划港股IPO",
-          "url": "https://wallstreetcn.com/livenews/3182190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "深交所公告，港股通标的证券名单调入力勤资源、调出伟禄科技股份-旧并自2026年10月21日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3182228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 10时06分]"
-        },
-        {
-          "title": "专家：A股市场主要风险是输入性风险",
-          "url": "https://www.toutiao.com/trending/7698730712362389033/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 06时02分]"
-        },
-        {
-          "title": "周二（10月20日），美股行业ETF多数收涨，生物科技指数ETF涨3.16%，全球航空业ETF、医疗业ETF至多涨2.38%，科技行业ETF、全球科技股指数ETF、半导体ETF则至多收跌0.38%。",
-          "url": "https://wallstreetcn.com/livenews/3182143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时02分]"
-        },
-        {
-          "title": "SpaceX美股盘后涨5.5%，该公司正举行分析师电话会议。",
-          "url": "https://wallstreetcn.com/livenews/3182165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "A股温度计",
-          "url": "https://flash.jin10.com/detail/20261021084719536800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 10时06分]"
-        },
-        {
-          "title": "宁德时代A股H股均跌超9%",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3A%E8%82%A1H%E8%82%A1%E5%9D%87%E8%B7%8C%E8%B6%859%25",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "纳指期货周三盘初涨1%，SpaceX(SPCX.O)财报及与特斯拉(TSLA.O)合并消息提振美股科技股盘后行情。",
-          "url": "https://flash.jin10.com/detail/20261021060317218800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "金十图示：2026年10月20日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261021003117910800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "马斯克称，阿斯麦等针对Terafab加快设备交付速度。 阿斯麦ADR美股盘后涨幅迅速扩大至2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3182169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "宁德时代A股港股盘中均跌超8%，此前财报显示公司第三季度净利润同比增长14.54%。",
-          "url": "https://wallstreetcn.com/livenews/3182250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "金十图示：2026年10月20日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261021003021581800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "港股新能源汽车股走强，小鹏集团(09868.HK)涨超5%，理想汽车(02015.HK)、零跑汽车(09863.HK)涨3.7%，吉利汽车(00175.HK)、蔚来-SW(09866.HK)、小米集团(01810.HK)涨超1%。",
-          "url": "https://flash.jin10.com/detail/20261021093112420800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "地产ETF收涨超1.7%，与小盘股ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3182142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "宁德时代A股低开5%，此前财报显示公司第三季度净利润同比增长14.54%。",
-          "url": "https://wallstreetcn.com/livenews/3182242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美股市值前十公司盘初股价全线下跌",
-          "url": "https://www.toutiao.com/trending/7698236248431050795/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "A股通信设备板块高开，日海智能2连板，长盈通、通宇通讯、光库科技、新易盛、仕佳光子跟涨。",
-          "url": "https://flash.jin10.com/detail/20261021092909841800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "上证指数开盘报3740.57点，涨0.14%。 深证成指开盘报11838.79点，涨0.32%。 创业板指开盘报2746.84点，涨0.28%。 沪深300开盘报4161.26点，涨0.22%。 科创50开盘报1356.63点，涨1.06%。 中证500开盘报6875.71点，涨0.50%。 中证1000开盘报6798.97点，涨0.47%。",
-          "url": "https://wallstreetcn.com/livenews/3182238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "宁德时代A股低开5%，消息面上，公司三季度净利环比下降5.77%。",
-          "url": "https://flash.jin10.com/detail/20261021092816436800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "周二（10月20日），彭博电动汽车价格回报指数跌1.01%，报2974.76点。 指数几乎全天处于下跌状态，亚太盘初微幅上涨，亚太早盘持续下跌、北京时间14:13刷新日低至2952.25点，美股开盘后一度显著收复失地。 成分股里，中创新航科技集团H股收跌9.21%，优美科欧股收跌4.47%，地平线H股收跌3.95%，蔚来集团H股收跌3.5%，松下株式会社东京股价跌2.49%跌幅第五大。 速腾聚创科技H股则收涨3.92%表现第六，沃尔沃汽车集团欧股涨4.4%，ANTAM Persero涨10.48%。",
-          "url": "https://wallstreetcn.com/livenews/3182139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "深交所：港股通标的证券名单调整，调入力勤资源、调出伟禄科技股份-旧，10月21日起生效。",
-          "url": "https://flash.jin10.com/detail/20261021085113118800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "中国上证综指10月21日（周三）开盘上涨5.2点，涨幅：0.14%，报3740.57点；<br/>中国深证成指10月21日（周三）开盘上涨37.5点，涨幅：0.32%，报11838.79点；<br/>中国沪深300指数10月21日（周三）开盘上涨9.15点，涨幅：0.22%，报4161.26点；<br/>中国创业板指数10月21日（周三）开盘上涨7.64点，涨幅：0.28%，报2746.84点；<br/>中国科创50指数10月21日（周三）开盘上涨14.21点，涨幅：1.06%，报1356.63点。",
-          "url": "https://flash.jin10.com/detail/20261021092712097800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美股大型科技股多数下跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "CoreWeave、Nebius Group美股盘后涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3182159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "恒指高开1.14%，报24139.11点；恒生科技指数涨1.60%。联想集团涨6%，小鹏汽车涨3.8%，理想汽车、天数智芯涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3182235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "SpaceX美股盘后飙涨5%",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E9%A3%99%E6%B6%A85%25",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.51%，报24001点。 恒生科技指数主连夜盘收涨0.69%，报4076点。",
-          "url": "https://wallstreetcn.com/livenews/3182112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.68%，报5719.25点，美股盘初显著上涨，北京时间22:30之前进入高位窄幅震荡状态、持续交投于5720点附近。 热门中概股里，禾赛初步收涨8.3%，小鹏涨7.6%，理想涨5.7%，世纪互联涨5.5%，美团涨2.9%，小米涨2.8%，比亚迪涨1.1%，阿里涨0.1%，网易跌0.1%。 ETF中，中国科技指数ETF（CQQQ）收涨1.32%，中概互联网指数ETF（KWEB）收涨0.29%。XtrackersHarvest中证50（ASHS）收涨1.19%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，德银嘉实沪深300指数ETF（ASHR）收跌0.16%。",
-          "url": "https://wallstreetcn.com/livenews/3182132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "道明证券：若美股中期选举出现分裂的国会，或将推迟债务上限协议",
-          "url": "https://wallstreetcn.com/livenews/3182157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "A股开盘，沪指开涨0.14%，深证成指开涨0.32%，创业板指开涨0.28%，光纤概念、减肥药概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20261021092517833800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "香港恒生指数10月21日（周三）开盘上涨271.37点，涨幅1.14%，报24139.11点；<br/>香港恒生科技指数10月21日（周三）开盘上涨64.83点，涨幅1.6%，报4110.74点；<br/>国企指数10月21日（周三）开盘上涨108.91点，涨幅1.36%，报8139.17点；<br/>红筹指数10月21日（周三）开盘上涨16.25点，涨幅0.41%，报4007.7点。",
-          "url": "https://flash.jin10.com/detail/20261021092204893800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "CoreWeave一度涨超5.3%，美股盘初曾跌超6.3%。 美股AI软件先驱指数涨幅扩大至1.1%，AI赢家指数涨幅一度扩大至0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3182015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "港股开盘，恒指开涨1.14%，科指开涨1.6%。宁德时代(03750.HK)绩后开跌2.87%，股价触及400港元关口。人工智能硬件与算力板块回暖，联想集团(00992.HK)涨6%，胜宏科技(02476.HK)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20261021092111647800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "原油",
       "match_count": 17,
       "titles": [
@@ -1030,8 +1133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 11时02分]"
         },
         {
           "title": "原油系期货主力合约短线拉升，SC原油跌幅收窄至3.01%，现报705.4元/桶。低硫燃料油（LU）跌幅收窄至1.46%，现报5956元/吨。燃油跌幅收窄至2.46%，现报4807元/吨。沥青上涨1.14%，现报4969元/吨。",
@@ -1197,7 +1300,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -1216,7 +1319,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版，且情况更严重",
@@ -1261,7 +1364,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -1283,7 +1386,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -1343,6 +1446,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "澳大利亚3年期国债收益率日内上行5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3182272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "德国10年期国债收益率跌超5个基点",
           "url": "https://wallstreetcn.com/livenews/3182073",
           "source": "华尔街见闻-快讯",
@@ -1378,6 +1492,96 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
+          "url": "https://www.zhihu.com/question/2095938083422262957",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10,
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 11时02分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 05时03分]"
+        },
+        {
+          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
+          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "DeepSeek全面开源DeepInfer",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时02分 ~ 07时02分]"
+        },
+        {
+          "title": "DeepSeek1017屎山考核",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek1017%E5%B1%8E%E5%B1%B1%E8%80%83%E6%A0%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 03时03分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
@@ -1389,8 +1593,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 11时02分]"
         },
         {
           "title": "市场消息：OpenAI CEO奥尔特曼在内部沟通中提议，将头部AI实验室整合为单一组织，集中管理前沿AI模型风险。但随着OpenAI和Anthropic筹备IPO，商业化诉求上升，竞争对手之间的深度合作面临阻力。",
@@ -1460,85 +1664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 官宣单集群日均吞吐达 155 万亿 Token，单卡每小时收入 38 美金？",
-          "url": "https://www.zhihu.com/question/2095938083422262957",
-          "source": "知乎",
-          "ranks": [
-            15,
-            10,
-            5,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 10时06分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
-          "url": "https://www.zhihu.com/question/2095922064804636469",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时03分]"
-        },
-        {
-          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
-          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 10时06分]"
-        },
-        {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "url": "https://www.cls.cn/detail/2509748",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-          "url": "https://www.zhihu.com/question/2095476625228019430",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时02分 ~ 07时02分]"
-        },
-        {
-          "title": "DeepSeek1017屎山考核",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek1017%E5%B1%8E%E5%B1%B1%E8%80%83%E6%A0%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时03分]"
         }
       ]
     },
