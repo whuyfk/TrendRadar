@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T22:03:05.452154+08:00",
-  "total_titles_processed": 2160,
+  "generated_at": "2026-10-22T23:04:40.698481+08:00",
+  "total_titles_processed": 2279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 107,
+      "match_count": 109,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -83,8 +83,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时08分 ~ 22时03分]"
+          "appearance_count": 8,
+          "time_info": "[17时08分 ~ 23时04分]"
+        },
+        {
+          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时08分 ~ 23时04分]"
         },
         {
           "title": "A股千元股，-1",
@@ -102,17 +115,17 @@
           "time_info": "[15时09分 ~ 20时24分]"
         },
         {
-          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-          "url": "https://wallstreetcn.com/articles/3784171",
-          "source": "华尔街见闻",
+          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2512325",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            6
+            10,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时08分 ~ 22时03分]"
+          "time_info": "[19时08分 ~ 23时04分]"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股低开，费城半导体指数跌约4%，CoreWeave跌约5%",
@@ -135,19 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2512325",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时08分 ~ 22时03分]"
         },
         {
           "title": "A股",
@@ -180,9 +180,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
+        },
+        {
+          "title": "AI交易熄火、中东局势恶化，美股低开，光通信、存储芯片股普跌，CoreWeave跌约5%",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "金十图示：2026年10月21日（周三）热门中概股行情一览（美股盘中）",
@@ -394,6 +405,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时02分 ~ 19时08分]"
+        },
+        {
+          "title": "港股152家上市申请失效，这是IPO市场降温信号？",
+          "url": "https://www.cls.cn/detail/2512669",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时04分]"
         },
         {
           "title": "专家称A股现在是黎明前的黑暗",
@@ -632,17 +655,6 @@
           "time_info": "[07时03分 ~ 08时04分]"
         },
         {
-          "title": "港股152家上市申请失效，这是IPO市场降温信号？",
-          "url": "https://www.cls.cn/detail/2512669",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
           "title": "深成指、创业板指双双跌逾1%",
           "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%8F%8C%E5%8F%8C%E8%B7%8C%E9%80%BE1%25",
           "source": "百度热搜",
@@ -682,7 +694,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -825,7 +837,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -916,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "美股芯片、光通信股深夜跳水",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "恒指低开0.58%，报23513.79点；恒生科技指数跌1.15%。联想集团跌超4%，宁德时代跌超3%。",
@@ -1188,7 +1211,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1286,11 +1309,12 @@
             16,
             17,
             18,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 17时08分]"
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 23时04分]"
         },
         {
           "title": "亚马逊向数百万美国消费者退款 支票写上特朗普的名字",
@@ -1689,7 +1713,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国2年期和10年期国债收益率日内下跌10个基点。",
@@ -1698,7 +1722,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1756,6 +1780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国3年期国债收益率跌至4.768%，创9月18日以来最低水平，日内下跌13.93个基点。",
+          "url": "https://flash.jin10.com/detail/20261022224321668800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率4.155%，投标倍数2.76。",
@@ -1851,6 +1886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国5年期国债收益率跌至4.825%，创9月23日以来最低水平，日内下跌14.33个基点。",
+          "url": "https://flash.jin10.com/detail/20261022224100136800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "美国20年期国债收益率在130亿美元拍卖后下跌，最新报5.467%，下跌1.25个基点。",
@@ -2054,7 +2100,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
@@ -2065,8 +2111,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时04分 ~ 22时03分]"
+          "appearance_count": 22,
+          "time_info": "[08时04分 ~ 23时04分]"
         },
         {
           "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
@@ -2235,7 +2281,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2306,6 +2352,17 @@
           "time_info": "15时10分"
         },
         {
+          "title": "美国财长贝森特：此前，油轮挤满了伊朗主要石油装载码头。 如今，连一艘原油油轮都看不到。",
+          "url": "https://wallstreetcn.com/livenews/3183801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "布伦特原油日内涨幅达3.0%，报112.09美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3183304",
           "source": "华尔街见闻-快讯",
@@ -2353,7 +2410,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
@@ -2370,6 +2427,18 @@
           "time_info": "[00时02分 ~ 13时02分]"
         },
         {
+          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
+          "url": "https://www.zhihu.com/question/2096603053763846842",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时23分 ~ 23时04分]"
+        },
+        {
           "title": "揭秘DeepSeek开源推理框架",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
           "source": "bilibili 热搜",
@@ -2383,15 +2452,15 @@
           "time_info": "[09时14分 ~ 11时03分]"
         },
         {
-          "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
-          "url": "https://www.zhihu.com/question/2096603053763846842",
-          "source": "知乎",
+          "title": "DeepSeek完成1000亿融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时23分 ~ 22时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -2441,6 +2510,17 @@
           "time_info": "[05时03分 ~ 09时14分]"
         },
         {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
+        },
+        {
           "title": "DeepSeek据悉融资1000亿元",
           "url": "https://flash.jin10.com/detail/20261022103845554800",
           "source": "金十数据",
@@ -2455,7 +2535,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：OpenAI模型即将登陆Google Cloud。我们将把前沿模型和Codex智能代理工作流带到Google Cloud的Model Garden，让企业能够在已开展业务的平台上使用我们的技术。",
@@ -2514,6 +2594,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时03分]"
+        },
+        {
+          "title": "谷歌A股价下跌2.45%，报326.555美元，创7月28日以来盘中新低，盘中市值报3.99万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3183817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         },
         {
           "title": "标普500指数初步收涨0.6%，科技板块涨1.6%，能源板块涨0.3%，房地产板块跌0.8%，电信板块跌1.2%。 纳斯达克100指数初步收涨1.1%，成分股中，SpaceX、Strategy初步收涨7.7%，Datadog涨6.5%，CrowdStrike、Palantir、核电股CEG、西部数据至少涨约4.7%，Lumentum、AMD、希捷科技、特斯拉至少涨3%，阿斯麦ADR涨2.9%，英伟达涨2.5%，谷歌A跌1.5%，拼多多ADR跌3.3%，奈飞跌5%，德康医疗跌6.3%。",
