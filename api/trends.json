@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T10:05:09.848814+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-10-22T11:03:16.726797+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
@@ -20,6 +20,32 @@
           "time_info": "[00时02分 ~ 07时03分]"
         },
         {
+          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+          "url": "https://www.cls.cn/detail/2511640",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 11时03分]"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 11时03分]"
+        },
+        {
           "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
           "url": "https://wallstreetcn.com/articles/3784091",
           "source": "华尔街见闻",
@@ -30,8 +56,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 10时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 11时03分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
@@ -45,42 +71,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 08时04分]"
-        },
-        {
-          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
-          "url": "https://www.cls.cn/detail/2511640",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 10时05分]"
-        },
-        {
-          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
-          "url": "https://www.cls.cn/detail/2511618",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时05分]"
-        },
-        {
-          "title": "创业板指跌超2%，恒生科技指数跌3%",
-          "url": "https://wallstreetcn.com/livenews/3183083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
         },
         {
           "title": "金十图示：2026年10月21日（周三）热门中概股行情一览（美股盘中）",
@@ -100,18 +90,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.56%，深成指跌0.72%，算力硬件、文化传媒、白酒、煤炭等方向跌幅居前，沪深京三市下跌个股近3000只。",
-          "url": "https://wallstreetcn.com/livenews/3183074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -128,6 +107,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时02分 ~ 04时02分]"
+        },
+        {
+          "title": "创业板指跌超2%，恒生科技指数跌3%",
+          "url": "https://wallstreetcn.com/livenews/3183083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 11时03分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.56%，深成指跌0.72%，算力硬件、文化传媒、白酒、煤炭等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3183074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 11时03分]"
         },
         {
           "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
@@ -166,6 +169,17 @@
           "time_info": "[08时04分 ~ 09时14分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
+        },
+        {
           "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
           "url": "https://wallstreetcn.com/livenews/3183001",
           "source": "华尔街见闻-快讯",
@@ -178,15 +192,37 @@
           "time_info": "[07时03分 ~ 08时04分]"
         },
         {
+          "title": "深成指、创业板指双双跌逾1%",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%8F%8C%E5%8F%8C%E8%B7%8C%E9%80%BE1%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
+        },
+        {
           "title": "A股CPO等算力硬件股盘初下挫，文峰光电跌超10%，新易盛跌超6%，剑桥科技、中际旭创、德科立、联讯仪器纷纷下挫。",
           "url": "https://flash.jin10.com/detail/20261022094007016800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "A股近端次新股局部异动，中塑股份涨超15%，沈鼓集团此前涨停，大普微、世纪数码、新睿电子、晨光电机涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3183115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "A股工业母机板块盘初拉升，日发精机涨停，巨能股份涨超15%，铁拓机械涨超10%，埃斯顿、浙海德曼、昊志机电、伟创电气、恒工精密跟涨。",
@@ -195,7 +231,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -206,9 +242,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "恒指日内跌2.7%，失守23000点关口；恒生科技指数跌4.38%，人工智能板块下挫，天数智芯(09903.HK)、智谱(02513.HK)均跌超9%。",
+          "url": "https://flash.jin10.com/detail/20261022105331668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "特斯拉三季度收入280.5亿美元，分析师预期281.3亿美元。 三季度汽车营收205.6亿美元，分析师预期198.3亿美元。 三季度FSD（全自动驾驶）订阅达到174万，分析师预期157万。 三季度服务与其他营收46.1亿美元，分析师预期43亿美元。 三季度发电与储能营收28.8亿美元，分析师预期39.1亿美元。 连续两个季度实现TTM（滚动12个月）营收超过1000亿美元。 三季度调整后每股收益（EPS）为0.48美元，分析师预期0.44美元。 三季度毛利润率19.6%，分析师预期17.8%。 三季度运营利润7.18亿美元，分析师预期5.993亿美元。 三季度自由现金流（FCF）为15.3亿美元，分析师预期为 -49.9亿美元。 季度末乘用车订单积压创最近四年新高。 储能业务订单速率创历史新高。 对MegaFactory Texas（得州超级工厂）产能的计划为50 GWh。 特斯拉在美国内华达州的Semi已经投产。 在北美市场，FSD普及率超过75%。 计划到年底SI（超级智能）训练算力达到400兆瓦（MW）。 为得州奥斯汀芯片工厂/晶圆厂进行设备调试与投产的准备将于2027年启动。 特斯拉美股盘后涨1.1%。",
@@ -239,7 +286,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -261,9 +308,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "恒生科技指数跌超4%，天数智芯跌超8%，智谱跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3183108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
+        },
+        {
+          "title": "创业板指跌超3%，沪指跌超1%，深成指跌超2%，影视传媒、算力硬件、煤炭、半导体等方向跌幅居前，沪深京三市下跌个股超4800只。",
+          "url": "https://wallstreetcn.com/livenews/3183107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "恒指低开0.58%，报23513.79点；恒生科技指数跌1.15%。联想集团跌超4%，宁德时代跌超3%。",
@@ -272,7 +341,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -294,9 +363,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "A股创新药概念股震荡调整，近岸蛋白跌超12%，莱美药业、华北制药、万邦医药、百花医药、透景生命跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3183103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "A股人形机器人概念股盘初冲高，大业股份5连板，赛福天涨停，肇民科技、利亚德涨超10%，敏芯股份、奕帆传动、安培龙、浙江荣泰、德马科技跟涨。",
@@ -305,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -327,7 +407,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -341,6 +421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "宁德时代A股成交额达100亿元，现跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20261022104028222800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "金十图示：2026年10月21日（周三）美股热门股票行情一览（美股收盘）",
@@ -371,7 +462,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -385,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "港股新能源汽车股走低，理想汽车(02015.HK)跌超5%，赛力斯(09927.HK)跌4.8%，小鹏集团(09868.HK)、零跑汽车(09863.HK)、广汽集团(02238.HK)跌超4%，小米集团(01810.HK)、蔚来-SW(09866.HK)跌3.5%。",
+          "url": "https://flash.jin10.com/detail/20261022103321908800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "Meta Platforms的CEO扎克伯格预计Muse AI的单用户收入可能高于旗下应用家族Family of APPs。 现有应用家族每用户每年创造数百美元收入，预计Muse随着时间的推移将达到更高水平。 公司还在研发即将推出的更小型模型，这些模型将以更高效率带来令人惊叹的智能水平。 Muse将于下个月开始在MetaGlasses上线。 即将推出Muse Charm。 新浪财经 Meta美股盘后涨幅超过6.5%，该公司正进行分析师电话会议。",
@@ -401,7 +503,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -413,6 +515,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时02分 ~ 08时04分]"
+        },
+        {
+          "title": "普京：不排除与特朗普赴华会晤可能性",
+          "url": "https://www.toutiao.com/trending/7698752765752868873/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在对抗伊朗方面非常顺利。",
+          "url": "https://wallstreetcn.com/livenews/3183119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "美国前国务卿希拉里：十年后回看，我们正实时目睹我当年所警告的一切，以及所有证据所证实的一切：特朗普对普京的忠诚，远超他对自由、民主，乃至美国国家安全的承诺。",
@@ -494,6 +618,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 10时05分]"
+        },
+        {
+          "title": "特朗普借用克林顿时代战略储备救急",
+          "url": "https://www.toutiao.com/trending/7699128506336153151/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 11时03分]"
         },
         {
           "title": "美国副总统万斯：没有人比特朗普更痛恨有人利用政府资源获取便利、通过欺诈牟利。",
@@ -833,7 +968,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -918,7 +1053,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊“妥协方案”搅动市场，原油走V，道指冲高回落涨1%，盘后SpaceX涨近7%",
@@ -940,8 +1075,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 10时05分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 11时03分]"
         },
         {
           "title": "WTI原油短线走低0.5美元，美国国务院下令仅限在沙特的非紧急美国政府雇员及其家属撤离。",
@@ -961,7 +1096,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         },
@@ -1068,6 +1203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美以制定伊朗新一轮打击计划，或于美国中期选举后行动，美国原油空头占比达73%，现货金银多头占比高于90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20261022104419232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         },
         {
           "title": "布伦特原油期货结算价为每桶108.82美元，上涨3美分，涨幅0.03%。",
@@ -1255,7 +1401,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
@@ -1264,11 +1410,12 @@
           "ranks": [
             25,
             19,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 10时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 11时03分]"
         },
         {
           "title": "揭秘DeepSeek开源推理框架",
@@ -1276,11 +1423,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 10时05分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 11时03分]"
         },
         {
           "title": "周鸿祎谈美国“封杀”DeepSeek",
@@ -1293,6 +1441,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 09时14分]"
+        },
+        {
+          "title": "DeepSeek据悉融资1000亿元",
+          "url": "https://flash.jin10.com/detail/20261022103845554800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时03分"
         }
       ]
     }
