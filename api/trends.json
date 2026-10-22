@@ -1,160 +1,103 @@
 {
-  "generated_at": "2026-10-23T00:21:14.870596+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-23T01:05:45.423099+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 10,
+      "keyword_group": "美债 国债",
+      "match_count": 12,
       "titles": [
         {
-          "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
+          "title": "美国五年期国债收益率跌15个基点，报4.8%；30年期美债收益率跌10个基点，报5.3%。 纳斯达克100指数目前跌2.7%，半导体指数跌6.3%，标普跌1.3%。 现货白银日内跌幅达5.5%，报54.74美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3183882",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "港股152家上市申请失效，这是IPO市场降温信号？",
-          "url": "https://www.cls.cn/detail/2512669",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-          "url": "https://wallstreetcn.com/articles/3784171",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2512325",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "A股 科技股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%20%E7%A7%91%E6%8A%80%E8%82%A1&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "房利美股价涨幅扩大至11%，房地美业张14%。",
-          "url": "https://wallstreetcn.com/livenews/3183854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "01时05分"
         },
         {
-          "title": "房利美股价涨幅扩大至11%，房地美上涨14%。",
-          "url": "https://flash.jin10.com/detail/20261022233823901800",
+          "title": "美国30年期国债收益率跌10个基点，报5.3%。",
+          "url": "https://flash.jin10.com/detail/20261023004700893800",
           "source": "金十数据",
           "ranks": [
-            21
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "01时05分"
         },
         {
-          "title": "美股费城半导体指数跌超6%",
-          "url": "https://wallstreetcn.com/livenews/3183840",
+          "title": "英国长端国债收益率跌超7个基点",
+          "url": "https://wallstreetcn.com/livenews/3183880",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 国债",
-      "match_count": 8,
-      "titles": [
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国5年期国债收益率跌15个基点，报4.8%。",
+          "url": "https://flash.jin10.com/detail/20261023004356870800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
         {
           "title": "交易员对冲美债大幅上涨行情的成本正在飙升",
           "url": "https://wallstreetcn.com/livenews/3183871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
         },
         {
           "title": "法国/意大利10年期国债收益率利差首次突破+50个基点。",
           "url": "https://wallstreetcn.com/livenews/3183864",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
         },
         {
           "title": "美国10年期国债收益率跌穿5%，创9月23日以来新低。",
           "url": "https://wallstreetcn.com/livenews/3183857",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.945%，投标倍数2.82。 拍卖八周期国债，得标利率4.015%，投标倍数2.57。",
+          "url": "https://wallstreetcn.com/livenews/3183850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
         },
         {
           "title": "10年期美债收益率跌破5%",
@@ -163,18 +106,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国财政部拍卖四周期国债，得标利率3.945%，投标倍数2.82。 拍卖八周期国债，得标利率4.015%，投标倍数2.57。",
-          "url": "https://wallstreetcn.com/livenews/3183850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -185,7 +117,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -196,7 +128,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -207,7 +139,148 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "港股152家上市申请失效，这是IPO市场降温信号？",
+          "url": "https://www.cls.cn/detail/2512669",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2512325",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "A股 科技股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%20%E7%A7%91%E6%8A%80%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
+        },
+        {
+          "title": "房利美股价涨幅扩大至11%，房地美业张14%。",
+          "url": "https://wallstreetcn.com/livenews/3183854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "金十图示：2026年10月22日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261023003131481800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "金十图示：2026年10月22日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261023003125926800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "房利美股价涨幅扩大至11%，房地美上涨14%。",
+          "url": "https://flash.jin10.com/detail/20261022233823901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美股费城半导体指数跌超6%",
+          "url": "https://wallstreetcn.com/livenews/3183840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         }
@@ -215,8 +288,42 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "据以色列i24News：一位熟悉谈判的消息人士称，调解方已警告伊朗要认真对待与美国的谈判，并提醒称，美国中期选举后特朗普可能对达成协议失去兴趣，转而发动新一轮打击。",
+          "url": "https://flash.jin10.com/detail/20261023005000554800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗编造虚假的袭击、布雷及其他各种事件，以推高油价。",
+          "url": "https://wallstreetcn.com/livenews/3183856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "据Politico：欧盟贸易主管暗示未来将对美国总统特朗普的药品定价政策作出回应。",
+          "url": "https://flash.jin10.com/detail/20261023003913407800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
         {
           "title": "特朗普：邪恶的伊朗编造谎言以推动油价上涨",
           "url": "https://flash.jin10.com/detail/20261022234342091800",
@@ -224,7 +331,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -235,20 +342,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
         {
-          "title": "美国总统特朗普：伊朗编造虚假的袭击、布雷及其他各种事件，以推高油价。",
-          "url": "https://wallstreetcn.com/livenews/3183856",
-          "source": "华尔街见闻-快讯",
+          "title": "据美联社：美法官下令美国总统特朗普在12月11日前就其针对英国广播公司（BBC）的诽谤诉讼接受证词质询。",
+          "url": "https://flash.jin10.com/detail/20261023002724810800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "01时05分"
         },
         {
           "title": "美国总统特朗普：伊朗绝不能拥有核武器，他们也永远不会拥有核武器！",
@@ -257,7 +364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -268,9 +375,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国总统特朗普：在听我国国歌时，勒布朗·詹姆斯（LeBron James）不尊重我们的国家！我从一开始就说过他不行，是个彻头彻尾的耻辱。勒布朗·詹姆斯应当向所有为美国国旗以及我国所代表的一切而牺牲的伟大美国战士和英雄道歉！",
+          "url": "https://flash.jin10.com/detail/20261023002435552800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "美国总统特朗普：伊朗编造虚假的袭击、布雷及其他各种事件，以推高油价。",
@@ -279,7 +397,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         }
@@ -297,8 +415,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
         },
         {
           "title": "玉渊谭天：DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
@@ -307,7 +425,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
         },
@@ -316,11 +434,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%8C%E6%88%901000%E4%BA%BF%E8%9E%8D%E8%B5%84",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
         },
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -330,19 +449,48 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
         },
         {
           "title": "玉渊谭天：DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
           "url": "https://wallstreetcn.com/livenews/3183858",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "模型评估与威胁研究所（METR）：OpenAI高权限试点演练发现了一种智能体可利用的漏洞，该漏洞可导致数百个近期操作无法被监控。",
+          "url": "https://wallstreetcn.com/livenews/3183844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "OpenAI：Uber(UBER.N)将向全体员工提供ChatGPT企业版，并通过ChatGPT Work使用OpenAI的前沿模型。",
+          "url": "https://flash.jin10.com/detail/20261023000948178800",
+          "source": "金十数据",
+          "ranks": [
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "01时05分"
         }
       ]
     },
@@ -355,11 +503,12 @@
           "url": "https://wallstreetcn.com/articles/3784116",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
         },
         {
           "title": "布油突破112美元！胡塞武装称对沙特发动多轮袭击，目标包括国防部、沙特阿美原油设施",
@@ -369,25 +518,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "模型评估与威胁研究所（METR）：OpenAI高权限试点演练发现了一种智能体可利用的漏洞，该漏洞可导致数百个近期操作无法被监控。",
-          "url": "https://wallstreetcn.com/livenews/3183844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时05分]"
         }
       ]
     }
