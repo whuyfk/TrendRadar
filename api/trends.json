@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T22:03:13.143550+08:00",
-  "total_titles_processed": 2230,
+  "generated_at": "2026-10-23T23:03:05.550899+08:00",
+  "total_titles_processed": 2338,
   "failed_sources": [],
   "trends": [
     {
@@ -84,8 +84,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时03分 ~ 22时03分]"
+          "appearance_count": 11,
+          "time_info": "[17时03分 ~ 23时03分]"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
@@ -158,6 +158,33 @@
           "time_info": "[00时20分 ~ 10时06分]"
         },
         {
+          "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
+          "url": "https://www.cls.cn/detail/2513562",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时02分 ~ 23时03分]"
+        },
+        {
+          "title": "股价首超中际旭创！宇树科技获首个20cm涨停，A股股价排行榜更迭，这些为新晋标的",
+          "url": "https://www.cls.cn/detail/2513615",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时02分 ~ 23时03分]"
+        },
+        {
           "title": "美股芯片、光通信股深夜跳水",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
           "source": "百度热搜",
@@ -184,18 +211,31 @@
           "time_info": "[04时49分 ~ 06时02分]"
         },
         {
-          "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
-          "url": "https://www.cls.cn/detail/2513562",
-          "source": "财联社热门",
+          "title": "A股惊天逆转 发生了什么",
+          "url": "https://www.toutiao.com/trending/7699783321202462217/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            8,
-            7,
-            9
+            1,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时03分]"
+          "appearance_count": 6,
+          "time_info": "[19时02分 ~ 23时03分]"
+        },
+        {
+          "title": "下午股市大逆转是A股反转信号吗",
+          "url": "https://www.toutiao.com/trending/7699795496541359667/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16,
+            17,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时02分 ~ 23时03分]"
         },
         {
           "title": "A股大反攻",
@@ -209,19 +249,6 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
-          "title": "股价首超中际旭创！宇树科技获首个20cm涨停，A股股价排行榜更迭，这些为新晋标的",
-          "url": "https://www.cls.cn/detail/2513615",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时03分]"
-        },
-        {
           "title": "A股大反攻",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%A4%A7%E5%8F%8D%E6%94%BB",
           "source": "百度热搜",
@@ -233,18 +260,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时03分 ~ 17时04分]"
-        },
-        {
-          "title": "A股惊天逆转 发生了什么",
-          "url": "https://www.toutiao.com/trending/7699783321202462217/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 22时03分]"
         },
         {
           "title": "A股",
@@ -271,27 +286,13 @@
           "time_info": "[19时02分 ~ 22时03分]"
         },
         {
-          "title": "下午股市大逆转是A股反转信号吗",
-          "url": "https://www.toutiao.com/trending/7699795496541359667/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时02分 ~ 22时03分]"
-        },
-        {
           "title": "美股盘初：道指跌1%，西部数据跌约3%，苹果总市值超越英伟达",
           "url": "https://wallstreetcn.com/livenews/3184857",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1063,7 +1064,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1096,7 +1097,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1500,7 +1501,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -1523,8 +1524,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时08分 ~ 22时03分]"
+          "appearance_count": 13,
+          "time_info": "[15时08分 ~ 23时03分]"
         },
         {
           "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
@@ -1532,11 +1533,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时03分 ~ 22时03分]"
+          "appearance_count": 14,
+          "time_info": "[14时03分 ~ 23时03分]"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -1548,8 +1550,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 22时03分]"
+          "appearance_count": 17,
+          "time_info": "[12时02分 ~ 23时03分]"
         },
         {
           "title": "特朗普痛批詹姆斯",
@@ -1570,7 +1572,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -1584,6 +1586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时04分"
+        },
+        {
+          "title": "美国财长贝森特：随着特朗普总统采取其前任长期推迟的行动，美国不再只是应对伊朗威胁，而是要彻底消除这一威胁。",
+          "url": "https://flash.jin10.com/detail/20261023223717028800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "特朗普被问及若共和党未能保住国会多数席位，是否会放弃支持万斯竞选2028年总统时表示：“你是从哪儿得出这个想法的？我从没想过这件事，现在考虑还为时过早。”",
@@ -1694,6 +1707,28 @@
           "time_info": "[04时49分 ~ 06时02分]"
         },
         {
+          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
+          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
+          "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
+          "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "特朗普援引《国防生产法》支持美国石油产业扩能",
           "url": "https://flash.jin10.com/detail/20261023045519594800",
           "source": "金十数据",
@@ -1799,6 +1834,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时03分]"
+        },
+        {
+          "title": "泽连斯基：和特朗普之间没有个人恩怨",
+          "url": "https://www.toutiao.com/trending/7699682763926061619/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
         },
         {
           "title": "特朗普公开指责詹姆斯",
@@ -2060,7 +2106,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2101,7 +2147,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -2112,8 +2158,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时02分 ~ 22时03分]"
+          "appearance_count": 24,
+          "time_info": "[07时02分 ~ 23时03分]"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -2123,8 +2169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时17分 ~ 22时03分]"
+          "appearance_count": 22,
+          "time_info": "[09时17分 ~ 23时03分]"
         },
         {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
@@ -2137,8 +2183,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 22时03分]"
+          "appearance_count": 18,
+          "time_info": "[11时02分 ~ 23时03分]"
         },
         {
           "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
@@ -2309,6 +2355,18 @@
           "time_info": "[01时05分 ~ 02时06分]"
         },
         {
+          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时03分]"
+        },
+        {
           "title": "美国5年期国债收益率跌15个基点，报4.8%。",
           "url": "https://flash.jin10.com/detail/20261023004356870800",
           "source": "金十数据",
@@ -2355,17 +2413,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 13时03分]"
-        },
-        {
-          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
-          "url": "https://wallstreetcn.com/articles/3784279",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
@@ -2425,6 +2472,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "意大利/德国10年期国债收益率利差下滑6个基点，至169个基点。",
+          "url": "https://wallstreetcn.com/livenews/3184900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         },
         {
           "title": "日本2年期国债收益率下跌6个基点，至1.840%。",
@@ -2694,7 +2752,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
@@ -2742,7 +2800,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2753,7 +2811,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2807,6 +2865,17 @@
           "time_info": "[21时36分 ~ 22时03分]"
         },
         {
+          "title": "科技股试图喘口气 原油市场又传来压力 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2513968",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时02分 ~ 23时03分]"
+        },
+        {
           "title": "布伦特原油突破115美元/桶，日内涨1.6％；WTI原油日内涨幅达2.0%，报101.47美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3184813",
           "source": "华尔街见闻-快讯",
@@ -2847,7 +2916,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         },
@@ -2990,7 +3059,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
         }
@@ -3010,8 +3079,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 22时03分]"
+          "appearance_count": 18,
+          "time_info": "[11时02分 ~ 23时03分]"
         },
         {
           "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
@@ -3027,6 +3096,21 @@
           "time_info": "[00时20分 ~ 07时02分]"
         },
         {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时03分 ~ 23时03分]"
+        },
+        {
           "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
           "url": "https://www.zhihu.com/question/2095926994475168071",
           "source": "知乎",
@@ -3039,21 +3123,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时05分 ~ 16时03分]"
-        },
-        {
-          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-          "url": "https://www.zhihu.com/question/2096713518582179306",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时03分 ~ 22时03分]"
         },
         {
           "title": "DeepSeek完成1000亿融资",
@@ -3084,6 +3153,19 @@
           "time_info": "[00时20分 ~ 13时03分]"
         },
         {
+          "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
+          "url": "https://www.zhihu.com/question/2096564979164095426",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时35分 ~ 23时03分]"
+        },
+        {
           "title": "玉渊谭天：DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
           "url": "https://flash.jin10.com/detail/20261022234951414800",
           "source": "金十数据",
@@ -3093,18 +3175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "DeepSeek 据悉完成千亿元融资，腾讯与宁德时代为何重金押注？",
-          "url": "https://www.zhihu.com/question/2096564979164095426",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时35分 ~ 22时03分]"
         },
         {
           "title": "玉渊谭天：商务部政策公布以来，DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
@@ -3218,6 +3288,17 @@
           "time_info": "[04时49分 ~ 06时02分]"
         },
         {
+          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
+          "url": "https://wallstreetcn.com/articles/3784256",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 23时03分]"
+        },
+        {
           "title": "据CNBC：OpenAI拟于下周结束前完成协议签署。",
           "url": "https://flash.jin10.com/detail/20261023042224194800",
           "source": "金十数据",
@@ -3252,17 +3333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 06时02分]"
-        },
-        {
-          "title": "投资者不买账？OpenAI下调估值目标至1.25万亿，拟在IPO前完成300亿美元融资",
-          "url": "https://wallstreetcn.com/articles/3784256",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "OpenAI：决策API正式全面开放。 决策API将每输入100万Tokens定价在0.10美元，其输入成本为0.01美元。",
@@ -3304,6 +3374,18 @@
       "keyword_group": "金价 银价",
       "match_count": 7,
       "titles": [
+        {
+          "title": "国际金价暴跌因获利了结",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时03分]"
+        },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=4&Refer=top",
@@ -3353,17 +3435,6 @@
           "time_info": "[14时03分 ~ 16时03分]"
         },
         {
-          "title": "国际金价暴跌因获利了结",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时03分]"
-        },
-        {
           "title": "金价企稳三个月低位附近，市场关注流动性抛售与反弹可能",
           "url": "https://flash.jin10.com/detail/20261023082354712800",
           "source": "金十数据",
@@ -3389,8 +3460,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "道指跌超800点，中东局势紧张，宣布裁员的成分股美国运通目前跌超3.7%，家得宝跌3%，Salesforce、卡特彼勒、SHW、3M、耐克、Merck、麦当劳、可口可乐等跌超2%，目前仅仅谷歌A、英伟达、思科、雪佛龙上涨。 费城银行指数跌1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3184906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
         {
           "title": "谷歌(GOOG.O)：宣布在谷歌云上正式推出由Anthropic管理的Claude模型部署选项。",
           "url": "https://flash.jin10.com/detail/20261023051036182800",
