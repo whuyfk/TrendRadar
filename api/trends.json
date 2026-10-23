@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T10:06:05.231784+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2026-10-23T11:02:53.588834+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 51,
+      "match_count": 64,
       "titles": [
         {
           "title": "港股152家上市申请失效，这是IPO市场降温信号？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 10时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 11时02分]"
         },
         {
           "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 10时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 11时02分]"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
@@ -52,11 +52,24 @@
             4,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 10时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 11时02分]"
+        },
+        {
+          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+          "url": "https://www.cls.cn/detail/2512907",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 11时02分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
@@ -69,6 +82,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时20分 ~ 08时04分]"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+          "url": "https://www.cls.cn/detail/2512879",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 11时02分]"
         },
         {
           "title": "美股",
@@ -102,18 +128,6 @@
           "time_info": "[00时20分 ~ 10时06分]"
         },
         {
-          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
-          "url": "https://www.cls.cn/detail/2512907",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 10时06分]"
-        },
-        {
           "title": "美股芯片、光通信股深夜跳水",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
           "source": "百度热搜",
@@ -140,18 +154,6 @@
           "time_info": "[04时49分 ~ 06时02分]"
         },
         {
-          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
-          "url": "https://www.cls.cn/detail/2512879",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时06分]"
-        },
-        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -161,6 +163,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "创业板指跌幅收窄至不到2%，此前一度跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3184129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "宁德时代A股盘中涨超2%，市值重回1万亿元上方。",
+          "url": "https://wallstreetcn.com/livenews/3184128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "A股温度计",
@@ -174,15 +198,16 @@
           "time_info": "09时18分"
         },
         {
-          "title": "恒生科技指数涨幅扩大至1%。小米盘中拉升涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/3184094",
-          "source": "华尔街见闻-快讯",
+          "title": "科技股调整，高增长逻辑还在吗？科创板龙头公司发声：订单饱满、景气向上",
+          "url": "https://www.cls.cn/detail/2512952",
+          "source": "财联社热门",
           "ranks": [
+            8,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 11时02分]"
         },
         {
           "title": "美股芯片巨头指数收跌超5.4%，逼近200日均线",
@@ -219,6 +244,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 10时06分]"
+        },
+        {
+          "title": "恒生科技指数涨幅扩大至1%。小米盘中拉升涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3184094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
         },
         {
           "title": "美股收盘：SpaceX跌超9%",
@@ -259,15 +296,28 @@
           "time_info": "[04时49分 ~ 06时02分]"
         },
         {
-          "title": "科技股调整，高增长逻辑还在吗？科创板龙头公司发声：订单饱满、景气向上",
-          "url": "https://www.cls.cn/detail/2512952",
-          "source": "财联社热门",
+          "title": "创业板指、科创50均跌超2%，沪指跌1.48%，深成指跌1.70%，贵金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5000只。",
+          "url": "https://wallstreetcn.com/livenews/3184093",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
+          "title": "A股三大指数均跌超1%，科创50跌超2%，贵金属、半导体、光伏、电网设备等方向跌幅居前，沪深京三市下跌个股超5100只。",
+          "url": "https://wallstreetcn.com/livenews/3184086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
         },
         {
           "title": "美股存储芯片指数初步收跌8%，AI赢家指数跌6.2%、AI软件先驱指数跌1.3%，费城半导体指数跌6.7%，科技股七巨头指数跌2.7%、超大市值科技股指数跌3.2%。 标普500指数初步收跌1.2%，电信板块跌3.1%，科技板块跌3%，可选消费、工业板块至多跌1.6%，能源板块跌0.8%。 纳斯达克100指数初步收跌2.9%，成分股中，莫德纳初步收跌18%，拉姆研究、Lumentum、ALAB跌超11%，泰瑞达、CoreWeave跌10%，SpaceX跌9.2%，闪迪跌8.2%，Meta跌7%，汤森路透涨6.9%，ROP涨9.5%。",
@@ -294,6 +344,30 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "A股PCB概念股延续调整，中京电子触及跌停，奥士康、澳弘电子、崇达技术、金禄电子、方邦股份等跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3184082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
+          "title": "上证指数开盘报3623.57点，跌0.94%。 深证成指开盘报11187.55点，跌1.49%。 创业板指开盘报2534.16点，跌1.66%。 沪深300开盘报3992.90点，跌1.08%。 科创50开盘报1287.87点，跌1.38%。 中证500开盘报6559.61点，跌1.44%。 中证1000开盘报6480.18点，跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3184077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
           "title": "西部数据美股盘后跌幅扩大至6.8%，希捷科技跌5%。",
           "url": "https://wallstreetcn.com/livenews/3183974",
           "source": "华尔街见闻-快讯",
@@ -316,6 +390,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "恒指高开0.41%，报23027.98点；恒生科技指数涨0.51%。腾讯音乐涨近4%，理想汽车涨3.5%，京东、网易涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3184075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
         },
         {
           "title": "西部数据(WDC.O)美股盘后涨超2%。",
@@ -385,15 +471,37 @@
           "time_info": "[04时49分 ~ 05时03分]"
         },
         {
-          "title": "创业板指、科创50均跌超2%，沪指跌1.48%，深成指跌1.70%，贵金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5000只。",
-          "url": "https://wallstreetcn.com/livenews/3184093",
+          "title": "恒指转为下跌0.4%，恒生科技指数下跌0.2%。此前恒生科技指数一度涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3184119",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2709206",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指、科创50指数均跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3184118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "A股回购增持潮起，硬科技公司密集出手",
@@ -407,15 +515,26 @@
           "time_info": "07时02分"
         },
         {
-          "title": "A股三大指数均跌超1%，科创50跌超2%，贵金属、半导体、光伏、电网设备等方向跌幅居前，沪深京三市下跌个股超5100只。",
-          "url": "https://wallstreetcn.com/livenews/3184086",
+          "title": "创业板指跌破2500点，日内跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3184116",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股三大指数均跌超2%，算力硬件、半导体芯片、贵金属、医药生物等方向跌幅居前，沪深京三市下跌个股近5100只，其中近140股跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3184115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "金十图示：2026年10月22日（周四）热门中概股行情一览（美股盘中）",
@@ -446,31 +565,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
         {
-          "title": "A股PCB概念股延续调整，中京电子触及跌停，奥士康、澳弘电子、崇达技术、金禄电子、方邦股份等跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3184082",
-          "source": "华尔街见闻-快讯",
+          "title": "A股跌破3600点",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B7%8C%E7%A0%B43600%E7%82%B9&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "上证指数开盘报3623.57点，跌0.94%。 深证成指开盘报11187.55点，跌1.49%。 创业板指开盘报2534.16点，跌1.66%。 沪深300开盘报3992.90点，跌1.08%。 科创50开盘报1287.87点，跌1.38%。 中证500开盘报6559.61点，跌1.44%。 中证1000开盘报6480.18点，跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3184077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "11时02分"
         },
         {
           "title": "A股三季报成色渐显，公募机构把脉投资主线",
@@ -484,15 +592,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "恒指高开0.41%，报23027.98点；恒生科技指数涨0.51%。腾讯音乐涨近4%，理想汽车涨3.5%，京东、网易涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3184075",
-          "source": "华尔街见闻-快讯",
+          "title": "创业板指跌破2500点",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E7%A0%B42500%E7%82%B9",
+          "source": "百度热搜",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "11时02分"
         },
         {
           "title": "恒生科技指数涨1%，恒指涨幅收窄至0.1%，科技股回暖。",
@@ -501,7 +609,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -512,9 +620,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "A股券商股异动拉升，华林证券直线涨停，华鑫股份、首创证券、东方财富纷纷冲高。",
+          "url": "https://flash.jin10.com/detail/20261023102459141800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "房利美股价涨幅扩大至11%，房地美上涨14%。",
@@ -572,15 +691,37 @@
           "time_info": "07时02分"
         },
         {
+          "title": "创业板指跌超3%，失守2500点。",
+          "url": "https://flash.jin10.com/detail/20261023101520856800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "港股科网股回暖，小米集团(01810.HK)涨超5%，京东(09618.HK)、网易-S(09999.HK)涨超2%，快手(01024.HK)涨超1%。",
           "url": "https://flash.jin10.com/detail/20261023093637583800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "沪指跌超2%，深证成指跌2.4%，创业板指跌2.8%，光刻机、PCB概念、CPO概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261023101354036800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "美股费城半导体指数跌超6%",
@@ -592,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "恒指、恒生科技指数双双转跌，科指此前一度涨超2%。",
+          "url": "https://flash.jin10.com/detail/20261023101312337800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "周四（10月22日）纽约尾盘，ICE美元指数跌0.18%，报101.599点，日内交投区间为101.883-101.446点，亚太盘初（低开）至美股开盘呈现出V形走势，北京时间15:09刷新日低，22:18刷新日高，随后持续走低。 彭博美元指数跌0.08%，报1220.15点，日内交投区间为1222.64-1219.39点，美股盘前刷新日高。",
@@ -608,7 +760,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
@@ -619,8 +771,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时06分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 11时02分]"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -630,8 +782,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时17分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 11时02分]"
         },
         {
           "title": "日本5年期国债收益率下跌8.0个基点至2.210%。",
@@ -765,6 +917,18 @@
           "time_info": "[00时21分 ~ 01时05分]"
         },
         {
+          "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3184083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
           "title": "美国10年期国债收益率跌穿5%，创9月23日以来新低。",
           "url": "https://wallstreetcn.com/livenews/3183857",
           "source": "华尔街见闻-快讯",
@@ -775,6 +939,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "日本5年期国债收益率下行10个基点至2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3184080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.945%，投标倍数2.82。 拍卖八周期国债，得标利率4.015%，投标倍数2.57。",
@@ -789,13 +965,24 @@
           "time_info": "[00时21分 ~ 01时05分]"
         },
         {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "日本2年期国债收益率下跌6个基点，至1.840%。",
           "url": "https://flash.jin10.com/detail/20261023095112083800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -822,17 +1009,6 @@
           "time_info": "02时06分"
         },
         {
-          "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3184083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "美国财政部拍卖260亿美元五年期通胀保值国债（TIPS），得标利率2.367%、创2023年以来新高，投标倍数2.41。",
           "url": "https://wallstreetcn.com/livenews/3183892",
           "source": "华尔街见闻-快讯",
@@ -842,17 +1018,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "日本5年期国债收益率下行10个基点至2.19%。",
-          "url": "https://wallstreetcn.com/livenews/3184080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         },
         {
           "title": "10年期美债收益率跌破5%",
@@ -894,7 +1059,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -1001,7 +1166,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -1011,8 +1176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 11时02分]"
         },
         {
           "title": "特朗普痛批詹姆斯",
@@ -1242,6 +1407,28 @@
           "time_info": "[04时49分 ~ 05时03分]"
         },
         {
+          "title": "特朗普公开指责詹姆斯",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%8C%87%E8%B4%A3%E8%A9%B9%E5%A7%86%E6%96%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "伊朗称海峡有7艘船只遭袭受损，美国总统特朗普称伊朗编造虚假事件以推高油价，嘉盛市场晴雨表显示，美国原油空头占比达75%，现货金银多头占比仍高于90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20261023104412443800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "特朗普：邪恶的伊朗编造谎言以推动油价上涨",
           "url": "https://flash.jin10.com/detail/20261022234342091800",
           "source": "金十数据",
@@ -1388,7 +1575,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
@@ -1415,19 +1602,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 10时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 11时02分]"
+        },
+        {
+          "title": "WTI原油冲击100美元，供应风险仍是主要驱动",
+          "url": "https://flash.jin10.com/detail/20261023105245917800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "现货黄金跌破4000美元/盎司关口，日内跌幅0.7%。 国际油价延续涨势，布油、WTI原油期货均涨逾1%。",
           "url": "https://wallstreetcn.com/livenews/3184104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
         },
         {
           "title": "Kalshi向美国CFTC提交“永续风格”原油期货合约申请",
@@ -1509,6 +1708,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "美国原油出口亚洲遇冷：订单腰斩，出口溢价急剧缩水",
+          "url": "https://flash.jin10.com/detail/20261023102310730800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.0%，报113.21美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3183907",
           "source": "华尔街见闻-快讯",
@@ -1523,7 +1733,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
@@ -1563,8 +1773,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时20分 ~ 10时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 11时02分]"
+        },
+        {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "玉渊谭天：DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
@@ -1576,6 +1797,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
+          "url": "https://www.zhihu.com/question/2095926994475168071",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 11时02分]"
         },
         {
           "title": "玉渊谭天：商务部政策公布以来，DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
@@ -1602,17 +1835,6 @@
           "time_info": "[00时21分 ~ 01时05分]"
         },
         {
-          "title": "为啥智谱 GLM 海外口碑极佳，国内认知度却不及豆包 DeepSeek？盈利模式、应用场景上三者有啥区别吗？",
-          "url": "https://www.zhihu.com/question/2095926994475168071",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
           "title": "曝DeepSeek拟筹得约1000亿元融资",
           "url": "https://www.toutiao.com/trending/7699466374275403307/",
           "source": "今日头条",
@@ -1622,13 +1844,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 03时03分]"
+        },
+        {
+          "title": "联想系入局DeepSeek新一轮融资",
+          "url": "https://wallstreetcn.com/livenews/3184111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI开放Decisions API",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%BC%80%E6%94%BEDecisionsAPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
         {
           "title": "OpenAI接近完成新一轮融资",
           "url": "https://flash.jin10.com/detail/20261023043113744800",
@@ -1784,7 +2028,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -1792,8 +2036,19 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
         {
           "title": "国际金价跌2.7%，逼近4000美元整数位心理关口",
           "url": "https://wallstreetcn.com/livenews/3183987",
