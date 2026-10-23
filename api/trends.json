@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T21:36:16.929540+08:00",
-  "total_titles_processed": 2162,
+  "generated_at": "2026-10-23T22:03:13.143550+08:00",
+  "total_titles_processed": 2230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 123,
+      "match_count": 127,
       "titles": [
         {
           "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
@@ -75,6 +75,19 @@
           "time_info": "[00时20分 ~ 16时03分]"
         },
         {
+          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
+          "url": "https://wallstreetcn.com/articles/3784272",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 22时03分]"
+        },
+        {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
           "url": "https://wallstreetcn.com/articles/3784189",
           "source": "华尔街见闻",
@@ -100,19 +113,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时20分 ~ 12时03分]"
-        },
-        {
-          "title": "奇迹日再现！创业板暴涨超4%，“易中天”午后集体反攻，长鑫大涨6%，机器人掀涨停潮、宇树科技上市首板，恒科指涨超2%",
-          "url": "https://wallstreetcn.com/articles/3784272",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时03分 ~ 21时36分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
@@ -184,6 +184,20 @@
           "time_info": "[04时49分 ~ 06时02分]"
         },
         {
+          "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
+          "url": "https://www.cls.cn/detail/2513562",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 22时03分]"
+        },
+        {
           "title": "A股大反攻",
           "url": "https://www.toutiao.com/trending/7699377515542200330/",
           "source": "今日头条",
@@ -195,15 +209,17 @@
           "time_info": "[17时03分 ~ 17时04分]"
         },
         {
-          "title": "A股惊天逆转 发生了什么",
-          "url": "https://www.toutiao.com/trending/7699783321202462217/",
-          "source": "今日头条",
+          "title": "股价首超中际旭创！宇树科技获首个20cm涨停，A股股价排行榜更迭，这些为新晋标的",
+          "url": "https://www.cls.cn/detail/2513615",
+          "source": "财联社热门",
           "ranks": [
-            1
+            11,
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 22时03分]"
         },
         {
           "title": "A股大反攻",
@@ -219,6 +235,18 @@
           "time_info": "[14时03分 ~ 17时04分]"
         },
         {
+          "title": "A股惊天逆转 发生了什么",
+          "url": "https://www.toutiao.com/trending/7699783321202462217/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时03分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -228,6 +256,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "A股惊天逆转 到底发生了什么",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC+%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时02分 ~ 22时03分]"
+        },
+        {
+          "title": "下午股市大逆转是A股反转信号吗",
+          "url": "https://www.toutiao.com/trending/7699795496541359667/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时02分 ~ 22时03分]"
+        },
+        {
+          "title": "美股盘初：道指跌1%，西部数据跌约3%，苹果总市值超越英伟达",
+          "url": "https://wallstreetcn.com/livenews/3184857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "A股温度计",
@@ -276,19 +342,6 @@
           "time_info": "15时08分"
         },
         {
-          "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
-          "url": "https://www.cls.cn/detail/2513562",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时36分]"
-        },
-        {
           "title": "港股空头资金加速进场 腾讯卖空股数近两周激增逾4倍",
           "url": "https://www.cls.cn/detail/2513192",
           "source": "财联社热门",
@@ -301,19 +354,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时03分 ~ 19时02分]"
-        },
-        {
-          "title": "股价首超中际旭创！宇树科技获首个20cm涨停，A股股价排行榜更迭，这些为新晋标的",
-          "url": "https://www.cls.cn/detail/2513615",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 21时36分]"
         },
         {
           "title": "创业板指跌幅收窄至不到2%，此前一度跌超3%。",
@@ -476,32 +516,6 @@
           "time_info": "[09时17分 ~ 10时06分]"
         },
         {
-          "title": "A股惊天逆转 到底发生了什么",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%83%8A%E5%A4%A9%E9%80%86%E8%BD%AC+%E5%88%B0%E5%BA%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时36分]"
-        },
-        {
-          "title": "下午股市大逆转是A股反转信号吗",
-          "url": "https://www.toutiao.com/trending/7699795496541359667/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时36分]"
-        },
-        {
           "title": "美股收盘：SpaceX跌超9%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9ASpaceX%E8%B7%8C%E8%B6%859%25",
           "source": "百度热搜",
@@ -586,6 +600,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时02分 ~ 12时03分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3184840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时03分]"
         },
         {
           "title": "恒指转为下跌0.4%，恒生科技指数下跌0.2%。此前恒生科技指数一度涨近2%。",
@@ -855,6 +881,17 @@
           "time_info": "[04时49分 ~ 05时03分]"
         },
         {
+          "title": "创业板巨震7.8% 能抄底吗",
+          "url": "https://www.toutiao.com/trending/7699821465096425023/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "A股半导体板块持续拉升，晶丰明源涨超10%，燧原科技、大普微、帝奥微跟涨。",
           "url": "https://wallstreetcn.com/livenews/3184200",
           "source": "华尔街见闻-快讯",
@@ -864,17 +901,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3184840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
         },
         {
           "title": "A股",
@@ -1031,6 +1057,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "美股三大指数低开",
+          "url": "https://flash.jin10.com/detail/20261023213052865800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "【两只热门宽基ETF成交双双破百亿】午后创业板ETF易方达（159915）、沪深300ETF华泰柏瑞（510300）成交额均突破100亿元。",
           "url": "https://wallstreetcn.com/livenews/3184190",
           "source": "华尔街见闻-快讯",
@@ -1051,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
+        },
+        {
+          "title": "一周热榜精选：AI融资担忧再度引爆美股！全球资金重选避险资产",
+          "url": "https://flash.jin10.com/detail/20261023212911077800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "A股互联网金融板块午后拉升，汇金科技20cm涨停，汇金股份、同花顺、华信永道、大智慧纷纷上扬。",
@@ -1158,7 +1206,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -1451,589 +1499,8 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 50,
-      "titles": [
-        {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时02分 ~ 21时36分]"
-        },
-        {
-          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
-          "url": "https://wallstreetcn.com/articles/3784246",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时17分 ~ 21时36分]"
-        },
-        {
-          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784249",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时02分 ~ 21时36分]"
-        },
-        {
-          "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
-          "url": "https://www.cls.cn/detail/2512977",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时02分]"
-        },
-        {
-          "title": "沃尔玛定价发行30亿美元美国债券和50亿加元加拿大债券。沃尔玛于10月19日签署了债券定价协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3184849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "日本5年期国债收益率下跌8.0个基点至2.210%。",
-          "url": "https://flash.jin10.com/detail/20261023085216931800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "AI投资热潮遭遇考验 沉寂已久的美债避险交易回归",
-          "url": "https://flash.jin10.com/detail/20261023114816077800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国至10月16日当周外国央行持有美国国债 219.58亿美元，前值-145.88亿美元。",
-          "url": "https://flash.jin10.com/detail/20261023043049789800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时49分 ~ 06时02分]"
-        },
-        {
-          "title": "隔夜，美国10年期国债收益率创下自2023年3月10日以来的最大单日跌幅，彼时该日期对应的事件为“硅谷银行倒闭”。",
-          "url": "https://flash.jin10.com/detail/20261023063347472800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "法国国债本周经历历史性抛售 市场关注穆迪是否会下调该国评级",
-          "url": "https://wallstreetcn.com/livenews/3184780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 21时36分]"
-        },
-        {
-          "title": "交易员对冲美债大幅上涨行情的成本正在飙升",
-          "url": "https://wallstreetcn.com/livenews/3183871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时05分]"
-        },
-        {
-          "title": "美国五年期国债收益率跌15个基点，报4.8%；30年期美债收益率跌10个基点，报5.3%。 纳斯达克100指数目前跌2.7%，半导体指数跌6.3%，标普跌1.3%。 现货白银日内跌幅达5.5%，报54.74美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3183882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时06分]"
-        },
-        {
-          "title": "2/10年期美债收益率周四跌超16个基点，抛售AI概念股让投资者寻求避险",
-          "url": "https://wallstreetcn.com/livenews/3183991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "日本10年期国债收益率下行10个基点至2.78%。",
-          "url": "https://wallstreetcn.com/livenews/3184069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时18分 ~ 10时06分]"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.02%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3184146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时03分]"
-        },
-        {
-          "title": "美国30年期国债收益率跌10个基点，报5.3%。",
-          "url": "https://flash.jin10.com/detail/20261023004700893800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时06分]"
-        },
-        {
-          "title": "英国长端国债收益率跌超7个基点",
-          "url": "https://wallstreetcn.com/livenews/3183880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时06分]"
-        },
-        {
-          "title": "美国5年期国债收益率跌15个基点，报4.8%。",
-          "url": "https://flash.jin10.com/detail/20261023004356870800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 02时06分]"
-        },
-        {
-          "title": "财政部在香港成功发行2026年第五期155亿元人民币国债",
-          "url": "https://wallstreetcn.com/livenews/3184138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时03分]"
-        },
-        {
-          "title": "法国/意大利10年期国债收益率利差首次突破+50个基点。",
-          "url": "https://wallstreetcn.com/livenews/3183864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时05分]"
-        },
-        {
-          "title": "瑞银资产管理表示，从较长远的投资视野来看，美债正展现吸引力，10年期美债收益率在未来12个月内料将走低；认真考虑分批进场布局美债。",
-          "url": "https://wallstreetcn.com/livenews/3184134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时03分]"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3184083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 11时02分]"
-        },
-        {
-          "title": "直逼欧债危机时！法国债务风险开始外溢？",
-          "url": "https://www.cls.cn/detail/2513129",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 17时04分]"
-        },
-        {
-          "title": "美国10年期国债收益率跌穿5%，创9月23日以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3183857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时05分]"
-        },
-        {
-          "title": "日本5年期国债收益率下行10个基点至2.19%。",
-          "url": "https://wallstreetcn.com/livenews/3184080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 11时02分]"
-        },
-        {
-          "title": "美国财政部拍卖四周期国债，得标利率3.945%，投标倍数2.82。 拍卖八周期国债，得标利率4.015%，投标倍数2.57。",
-          "url": "https://wallstreetcn.com/livenews/3183850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时05分]"
-        },
-        {
-          "title": "日本2年期国债收益率下跌6个基点，至1.840%。",
-          "url": "https://flash.jin10.com/detail/20261023095112083800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "法国国债仍承压，今晚还有这一关键变量",
-          "url": "https://flash.jin10.com/detail/20261023154511454800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。 仍然看空久期偏长的美债。 美国政府大幅举债和需求疲软将继续打压债市。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3183896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "双线资本：长期美债仍面临下行压力",
-          "url": "https://flash.jin10.com/detail/20261023012437559800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "美国财政部拍卖260亿美元五年期通胀保值国债（TIPS），得标利率2.367%、创2023年以来新高，投标倍数2.41。",
-          "url": "https://wallstreetcn.com/livenews/3183892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "10年期美债收益率跌破5%",
-          "url": "https://flash.jin10.com/detail/20261022234221078800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美债大涨交易卷土重来！AI股票遭抛售，投资者紧急避险：市场究竟在担心什么？",
-          "url": "https://flash.jin10.com/detail/20261023065141852800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "法国/意大利10年期国债收益率利差首次突破+50个基点，发债/德债收益率利差达到175个基点",
-          "url": "https://wallstreetcn.com/livenews/3183864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "日本5年期国债收益率下跌10.5个基点，至2.185%。",
-          "url": "https://flash.jin10.com/detail/20261023094029122800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "机构：英国债券在经历一年的重新定价后表现亮眼",
-          "url": "https://flash.jin10.com/detail/20261023173108557800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "大摩看好南非国债，但对兰特保持谨慎",
-          "url": "https://wallstreetcn.com/livenews/3183972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "国债期货收盘，30年期主力合约跌0.11%，10年期主力合约跌0.01%，5年期主力合约涨0.01%，2年期主力合约与昨日持平。",
-          "url": "https://wallstreetcn.com/livenews/3184291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "日本20年期国债收益率下行6个基点至3.62%。",
-          "url": "https://wallstreetcn.com/livenews/3184049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美债开始被抢着买，市场最怕的不再是加息？",
-          "url": "https://flash.jin10.com/detail/20261023192329845800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
-          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
-          "url": "https://wallstreetcn.com/livenews/3183910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "美国至10月22日8周国债竞拍-得标利率配置百分比 93.95%，前值50.08%。",
-          "url": "https://flash.jin10.com/detail/20261022233240216800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "日本5年期国债收益率下跌6.5个基点至2.225%。",
-          "url": "https://flash.jin10.com/detail/20261023081209479800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20261023113122429800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "日本10年期国债收益率下行7个基点至2.81%。",
-          "url": "https://wallstreetcn.com/livenews/3184043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "美国至10月22日8周国债竞拍-得标利率 4.015%，前值4.05%。",
-          "url": "https://flash.jin10.com/detail/20261022233228872800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3184042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "10年期美债收益率回落，美股建筑商相关股票上涨",
-          "url": "https://wallstreetcn.com/livenews/3183868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美债走势逆转了吗",
-          "url": "https://www.toutiao.com/trending/7699774353814064694/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "据路透调查：英国国债交易商预计，2027/28年度总融资需求将增加267亿英镑，达到3343亿英镑。",
-          "url": "https://flash.jin10.com/detail/20261023191804020800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "泽连斯基：我跟特朗普没有私人恩怨",
@@ -2047,6 +1514,19 @@
           "time_info": "[10时05分 ~ 20时02分]"
         },
         {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时08分 ~ 22时03分]"
+        },
+        {
           "title": "特朗普怒骂NBA球星詹姆斯：我早就说过他不行，简直是个耻辱",
           "url": "https://news.ifeng.com/c/8xS2bhN07ef",
           "source": "凤凰网",
@@ -2055,8 +1535,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时03分 ~ 21时36分]"
+          "appearance_count": 12,
+          "time_info": "[14时03分 ~ 22时03分]"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -2068,21 +1548,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 21时36分]"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时08分 ~ 21时36分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 22时03分]"
         },
         {
           "title": "特朗普痛批詹姆斯",
@@ -2095,6 +1562,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 10时06分]"
+        },
+        {
+          "title": "据路透社：特朗普政府一名官员表示，美国政府向农民提供的80亿美元柴油补贴将无法在11月3日选举前发放到位。",
+          "url": "https://flash.jin10.com/detail/20261023214031779800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗央行行长赫马蒂：伊朗拥有足够的外汇储备，可满足国家直至特朗普任期结束所需的进口需求。",
@@ -2505,7 +1983,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -2549,7 +2027,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -2560,7 +2038,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -2574,6 +2052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
+        },
+        {
+          "title": "美国白宫：梅拉尼娅·特朗普成功促成俄罗斯与乌克兰在奥列什基市实现局部停火。停火将于10月29日开始。",
+          "url": "https://flash.jin10.com/detail/20261023211832307800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "泽连斯基称与特朗普“没有私人恩怨”，但美乌关系偏偏被特朗普的个人好恶左右",
@@ -2611,8 +2100,601 @@
       ]
     },
     {
+      "keyword_group": "美债 国债",
+      "match_count": 51,
+      "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[07时02分 ~ 22时03分]"
+        },
+        {
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[09时17分 ~ 22时03分]"
+        },
+        {
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时02分 ~ 22时03分]"
+        },
+        {
+          "title": "黑天鹅序幕？上一次美债收益率这样跌 正是硅谷银行“爆雷日”",
+          "url": "https://www.cls.cn/detail/2512977",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 18时02分]"
+        },
+        {
+          "title": "日本5年期国债收益率下跌8.0个基点至2.210%。",
+          "url": "https://flash.jin10.com/detail/20261023085216931800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "AI投资热潮遭遇考验 沉寂已久的美债避险交易回归",
+          "url": "https://flash.jin10.com/detail/20261023114816077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "美国至10月16日当周外国央行持有美国国债 219.58亿美元，前值-145.88亿美元。",
+          "url": "https://flash.jin10.com/detail/20261023043049789800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 06时02分]"
+        },
+        {
+          "title": "隔夜，美国10年期国债收益率创下自2023年3月10日以来的最大单日跌幅，彼时该日期对应的事件为“硅谷银行倒闭”。",
+          "url": "https://flash.jin10.com/detail/20261023063347472800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时04分]"
+        },
+        {
+          "title": "法国国债本周经历历史性抛售 市场关注穆迪是否会下调该国评级",
+          "url": "https://wallstreetcn.com/livenews/3184780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时36分]"
+        },
+        {
+          "title": "沃尔玛定价发行30亿美元美国债券和50亿加元加拿大债券。沃尔玛于10月19日签署了债券定价协议。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3184849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时03分]"
+        },
+        {
+          "title": "交易员对冲美债大幅上涨行情的成本正在飙升",
+          "url": "https://wallstreetcn.com/livenews/3183871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "美国五年期国债收益率跌15个基点，报4.8%；30年期美债收益率跌10个基点，报5.3%。 纳斯达克100指数目前跌2.7%，半导体指数跌6.3%，标普跌1.3%。 现货白银日内跌幅达5.5%，报54.74美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3183882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 02时06分]"
+        },
+        {
+          "title": "2/10年期美债收益率周四跌超16个基点，抛售AI概念股让投资者寻求避险",
+          "url": "https://wallstreetcn.com/livenews/3183991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "日本10年期国债收益率下行10个基点至2.78%。",
+          "url": "https://wallstreetcn.com/livenews/3184069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 10时06分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.02%，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3184146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时03分]"
+        },
+        {
+          "title": "美国30年期国债收益率跌10个基点，报5.3%。",
+          "url": "https://flash.jin10.com/detail/20261023004700893800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 02时06分]"
+        },
+        {
+          "title": "英国长端国债收益率跌超7个基点",
+          "url": "https://wallstreetcn.com/livenews/3183880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 02时06分]"
+        },
+        {
+          "title": "美国5年期国债收益率跌15个基点，报4.8%。",
+          "url": "https://flash.jin10.com/detail/20261023004356870800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 02时06分]"
+        },
+        {
+          "title": "财政部在香港成功发行2026年第五期155亿元人民币国债",
+          "url": "https://wallstreetcn.com/livenews/3184138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时03分]"
+        },
+        {
+          "title": "法国/意大利10年期国债收益率利差首次突破+50个基点。",
+          "url": "https://wallstreetcn.com/livenews/3183864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "瑞银资产管理表示，从较长远的投资视野来看，美债正展现吸引力，10年期美债收益率在未来12个月内料将走低；认真考虑分批进场布局美债。",
+          "url": "https://wallstreetcn.com/livenews/3184134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时03分]"
+        },
+        {
+          "title": "油价走高压制美债表现，美股低开，半导体股涨跌互现，西部数据跌约3%，布油涨破115",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.05%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3184083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
+          "title": "直逼欧债危机时！法国债务风险开始外溢？",
+          "url": "https://www.cls.cn/detail/2513129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时03分 ~ 17时04分]"
+        },
+        {
+          "title": "美国10年期国债收益率跌穿5%，创9月23日以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3183857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "日本5年期国债收益率下行10个基点至2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3184080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 11时02分]"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.945%，投标倍数2.82。 拍卖八周期国债，得标利率4.015%，投标倍数2.57。",
+          "url": "https://wallstreetcn.com/livenews/3183850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 01时05分]"
+        },
+        {
+          "title": "日本2年期国债收益率下跌6个基点，至1.840%。",
+          "url": "https://flash.jin10.com/detail/20261023095112083800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "法国国债仍承压，今晚还有这一关键变量",
+          "url": "https://flash.jin10.com/detail/20261023154511454800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。 仍然看空久期偏长的美债。 美国政府大幅举债和需求疲软将继续打压债市。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3183896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "双线资本：长期美债仍面临下行压力",
+          "url": "https://flash.jin10.com/detail/20261023012437559800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "美国财政部拍卖260亿美元五年期通胀保值国债（TIPS），得标利率2.367%、创2023年以来新高，投标倍数2.41。",
+          "url": "https://wallstreetcn.com/livenews/3183892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "10年期美债收益率跌破5%",
+          "url": "https://flash.jin10.com/detail/20261022234221078800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美债大涨交易卷土重来！AI股票遭抛售，投资者紧急避险：市场究竟在担心什么？",
+          "url": "https://flash.jin10.com/detail/20261023065141852800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "法国/意大利10年期国债收益率利差首次突破+50个基点，发债/德债收益率利差达到175个基点",
+          "url": "https://wallstreetcn.com/livenews/3183864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "日本5年期国债收益率下跌10.5个基点，至2.185%。",
+          "url": "https://flash.jin10.com/detail/20261023094029122800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
+          "title": "机构：英国债券在经历一年的重新定价后表现亮眼",
+          "url": "https://flash.jin10.com/detail/20261023173108557800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "大摩看好南非国债，但对兰特保持谨慎",
+          "url": "https://wallstreetcn.com/livenews/3183972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.11%，10年期主力合约跌0.01%，5年期主力合约涨0.01%，2年期主力合约与昨日持平。",
+          "url": "https://wallstreetcn.com/livenews/3184291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "日本20年期国债收益率下行6个基点至3.62%。",
+          "url": "https://wallstreetcn.com/livenews/3184049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美债开始被抢着买，市场最怕的不再是加息？",
+          "url": "https://flash.jin10.com/detail/20261023192329845800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
+          "url": "https://wallstreetcn.com/livenews/3183910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国至10月22日8周国债竞拍-得标利率配置百分比 93.95%，前值50.08%。",
+          "url": "https://flash.jin10.com/detail/20261022233240216800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "日本5年期国债收益率下跌6.5个基点至2.225%。",
+          "url": "https://flash.jin10.com/detail/20261023081209479800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261023113122429800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本10年期国债收益率下行7个基点至2.81%。",
+          "url": "https://wallstreetcn.com/livenews/3184043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "美国至10月22日8周国债竞拍-得标利率 4.015%，前值4.05%。",
+          "url": "https://flash.jin10.com/detail/20261022233228872800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3184042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "10年期美债收益率回落，美股建筑商相关股票上涨",
+          "url": "https://wallstreetcn.com/livenews/3183868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美债走势逆转了吗",
+          "url": "https://www.toutiao.com/trending/7699774353814064694/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "据路透调查：英国国债交易商预计，2027/28年度总融资需求将增加267亿英镑，达到3343亿英镑。",
+          "url": "https://flash.jin10.com/detail/20261023191804020800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "原油",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
@@ -2654,15 +2736,26 @@
           "time_info": "11时02分"
         },
         {
-          "title": "夜盘期货开盘，燃油、纯苯、原油、丙烯涨超2%，液化石油气、聚丙烯涨近2%，PVC涨超1%；沪银、烧碱跌超1%，沪镍跌近1%。",
-          "url": "https://wallstreetcn.com/livenews/3184846",
-          "source": "华尔街见闻-快讯",
+          "title": "布伦特原油日内涨超2.00%，现报111.28美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261023214044381800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "中东原油出口格局分化：伊朗出口骤降100%，沙特和阿联酋实现增长",
+          "url": "https://flash.jin10.com/detail/20261023213857953800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "22时03分"
         },
         {
           "title": "现货黄金跌破4000美元/盎司关口，日内跌幅0.7%。 国际油价延续涨势，布油、WTI原油期货均涨逾1%。",
@@ -2702,6 +2795,30 @@
           "time_info": "[05时03分 ~ 06时02分]"
         },
         {
+          "title": "夜盘期货开盘，燃油、纯苯、原油、丙烯涨超2%，液化石油气、聚丙烯涨近2%，PVC涨超1%；沪银、烧碱跌超1%，沪镍跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3184846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时03分]"
+        },
+        {
+          "title": "布伦特原油突破115美元/桶，日内涨1.6％；WTI原油日内涨幅达2.0%，报101.47美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3184813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 22时03分]"
+        },
+        {
           "title": "海峡运输畅通 部分中东现货原油价格下跌",
           "url": "https://flash.jin10.com/detail/20261023154750992800",
           "source": "金十数据",
@@ -2724,6 +2841,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "WTI原油期货向上触及102美元/桶，日内涨5.02%。",
+          "url": "https://flash.jin10.com/detail/20261023213501490800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "印度9月原油进口量同比增长10.2%，至2230万吨；出口量同比下降48.7%，至80万吨。",
           "url": "https://flash.jin10.com/detail/20261023134158984800",
           "source": "金十数据",
@@ -2741,7 +2869,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -2801,17 +2929,6 @@
           "time_info": "17时04分"
         },
         {
-          "title": "布伦特原油突破115美元/桶，日内涨1.6％；WTI原油日内涨幅达2.0%，报101.47美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3184813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
           "title": "美国中央司令部：今天是美国中央司令部部队恢复对伊朗实施“钢铁之墙”海上封锁的第100天。这项行动已帮助阻止伊朗出口至少250亿美元的原油，并限制伊朗伊斯兰革命卫队资助代理民兵、犯罪网络和恐怖主义的能力。除美国部队允许的人道主义援助外，伊朗没有通过海路进行任何出口或进口。",
           "url": "https://flash.jin10.com/detail/20261023015818932800",
           "source": "金十数据",
@@ -2865,6 +2982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "布伦特原油站上111美元/桶，日内涨1.75%。",
+          "url": "https://flash.jin10.com/detail/20261023211754706800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
@@ -2882,8 +3010,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时02分 ~ 21时36分]"
+          "appearance_count": 16,
+          "time_info": "[11时02分 ~ 22时03分]"
         },
         {
           "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
@@ -2911,6 +3039,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时05分 ~ 16时03分]"
+        },
+        {
+          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
+          "url": "https://www.zhihu.com/question/2096713518582179306",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时03分 ~ 22时03分]"
         },
         {
           "title": "DeepSeek完成1000亿融资",
@@ -2941,20 +3084,6 @@
           "time_info": "[00时20分 ~ 13时03分]"
         },
         {
-          "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
-          "url": "https://www.zhihu.com/question/2096713518582179306",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时03分 ~ 21时36分]"
-        },
-        {
           "title": "玉渊谭天：DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
           "url": "https://flash.jin10.com/detail/20261022234951414800",
           "source": "金十数据",
@@ -2970,11 +3099,12 @@
           "url": "https://www.zhihu.com/question/2096564979164095426",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 21时36分]"
+          "appearance_count": 4,
+          "time_info": "[21时35分 ~ 22时03分]"
         },
         {
           "title": "玉渊谭天：商务部政策公布以来，DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
@@ -3172,7 +3302,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价",
@@ -3221,6 +3351,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时03分 ~ 16时03分]"
+        },
+        {
+          "title": "国际金价暴跌因获利了结",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "金价企稳三个月低位附近，市场关注流动性抛售与反弹可能",
