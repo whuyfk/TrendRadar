@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T14:04:13.606803+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-10-27T15:11:14.522248+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 63,
+      "match_count": 74,
       "titles": [
         {
           "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时05分 ~ 14时04分]"
+          "appearance_count": 25,
+          "time_info": "[00时05分 ~ 15时11分]"
         },
         {
           "title": "一图看懂 | 中石油A股创18年新高背后：和油有关的都在涨？",
@@ -101,11 +101,23 @@
           "ranks": [
             14,
             12,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时03分 ~ 14时04分]"
+          "appearance_count": 9,
+          "time_info": "[11时03分 ~ 15时11分]"
+        },
+        {
+          "title": "A股半导体板块持续下跌，星宸股份跌超14%，神工股份、寒武纪 、三安光电、力合微均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20261027145511974800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "A股温度计",
@@ -117,6 +129,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "创业板指跌超3%。工商银行盘中股价创历史新高，现涨0.58%，报8.66元。",
+          "url": "https://wallstreetcn.com/livenews/3186703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "沪指尾盘跌超1%，深成指跌超2%，创业板指跌超2.7%。光刻机、卫星导航、CRO概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261027145148818800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "A股三大指数集体翻绿，创业板指开盘一度涨超1%。",
@@ -302,6 +336,17 @@
           "time_info": "[10时08分 ~ 11时04分]"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
           "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.71%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市上涨个股近4000只。",
           "url": "https://wallstreetcn.com/livenews/3186563",
           "source": "华尔街见闻-快讯",
@@ -324,6 +369,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时03分]"
+        },
+        {
+          "title": "A股反弹或已开启 谁最具进攻相",
+          "url": "https://www.toutiao.com/trending/7701169993647394345/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
         },
         {
           "title": "美股费城半导体指数日内涨3%。英伟达涨3.11%，博通涨2.83%，美光涨3.47%，英特尔涨3.23%，AMD涨2.34%，高通涨2.09%，台积电涨2.04%，阿斯麦ADR涨2.46%。 存储芯片指数涨3.2%，AI软件先驱指数涨1.5%、AI赢家指数涨2.7%。标普半导体设备指数涨3%。 标普涨1%，恐慌指数VIX波动率日内跌幅达8.0%，报17.89；道指涨0.5%，纳指涨1.3%，纳斯达克100指数涨1.4%，银行指数涨1.4%。",
@@ -372,6 +428,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时03分]"
+        },
+        {
+          "title": "A股基本面底盘愈发坚实",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%BA%95%E7%9B%98%E6%84%88%E5%8F%91%E5%9D%9A%E5%AE%9E%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
         },
         {
           "title": "上证指数开盘报3698.44点，涨0.02%。 深证成指开盘报11591.36点，涨0.49%。 创业板指开盘报2661.71点，涨0.89%。 沪深300开盘报4105.48点，涨0.05%。 科创50开盘报1326.76点，涨0.86%。 中证500开盘报6745.72点，涨0.49%。 中证1000开盘报6664.61点，涨0.51%。",
@@ -426,7 +493,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -440,6 +507,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "A股千元股，只剩茅台了",
+          "url": "https://www.cls.cn/detail/2516348",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "金十图示：2026年10月26日（周一）美股热门股票行情一览（美股盘中）",
@@ -503,9 +581,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "创业板指跌超2%，联讯仪器退出千元股行列",
+          "url": "https://wallstreetcn.com/livenews/3186687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "港股光通信板块多数走高，海光芯正(01191.HK)涨超6%，剑桥科技(06166.HK)、华虹宏力(01347.HK)涨超4%，中际旭创(03308.HK)、长飞光纤光缆(06869.HK)涨超3%。",
@@ -580,7 +669,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -640,6 +729,17 @@
           "time_info": "11时04分"
         },
         {
+          "title": "联讯仪器跌近5%，退出千元股行列，A股千元股仅剩贵州茅台一家。",
+          "url": "https://flash.jin10.com/detail/20261027143813165800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.01%，报23233点。 恒生科技指数主连夜盘收涨0.08%，报3865点。",
           "url": "https://wallstreetcn.com/livenews/3186433",
           "source": "华尔街见闻-快讯",
@@ -668,7 +768,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -704,6 +804,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "创业板指跌超2%，航天装备、AI芯片、CRO、AI应用等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261027143724698800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "汇丰控股港股跌超6%，公司三季度业绩不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3186669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "A股冰雪产业盘初走高，雪人集团、盾安环境双双涨停，奥雅股份涨超7%，龙江交通涨超5%，探路者、冰轮环境跟涨。",
@@ -781,6 +903,18 @@
           "time_info": "[00时05分 ~ 11时04分]"
         },
         {
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 15时11分]"
+        },
+        {
           "title": "美国总统特朗普：关税不会导致通胀。关税带来成功，带来增长。",
           "url": "https://flash.jin10.com/detail/20261027073707480800",
           "source": "金十数据",
@@ -790,18 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
-        },
-        {
-          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
-          "url": "https://news.ifeng.com/c/8xYriizED1y",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 14时04分]"
         },
         {
           "title": "中期选举倒计时！特朗普支持率止跌回升，但民主党仍保持领先",
@@ -1102,7 +1224,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
@@ -1115,8 +1237,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时03分 ~ 14时04分]"
+          "appearance_count": 15,
+          "time_info": "[06时03分 ~ 15时11分]"
         },
         {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
@@ -1130,15 +1252,27 @@
           "time_info": "[00时05分 ~ 05时03分]"
         },
         {
+          "title": "印度尼西亚10年期国债收益率升至2022年11月以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3186697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "中国30年期国债期货创年内新高",
           "url": "https://wallstreetcn.com/livenews/3186656",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 15时11分]"
         },
         {
           "title": "美国财政部拍卖三个月期国债，得标利率4.050%，投标倍数3.07。 拍卖六个月期国债，得标利率4.210%，投标倍数2.63。",
@@ -1314,7 +1448,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
@@ -1327,8 +1461,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时04分 ~ 15时11分]"
+        },
+        {
+          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
+          "url": "https://www.zhihu.com/question/2098291700204622696",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[08时04分 ~ 14时04分]"
+          "time_info": "[10时07分 ~ 15时11分]"
         },
         {
           "title": "OpenAI公布三项科学成果",
@@ -1343,19 +1490,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时19分 ~ 13时02分]"
-        },
-        {
-          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
-          "url": "https://www.zhihu.com/question/2098291700204622696",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 14时04分]"
         },
         {
           "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
@@ -1464,6 +1598,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时06分]"
+        },
+        {
+          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+          "url": "https://www.zhihu.com/question/2098331248469062137",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
         },
         {
           "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
@@ -1785,6 +1930,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
+          "url": "https://www.zhihu.com/question/2097989360473694568",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
         }
       ]
     },
