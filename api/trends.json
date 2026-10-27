@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T05:02:46.689940+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-10-28T06:02:50.985195+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国两位主教与特朗普同框后，懊悔了",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
@@ -30,17 +30,6 @@
           "time_info": "04时02分"
         },
         {
-          "title": "特朗普：关闭边境无需新立法，只需要换一位总统",
-          "url": "https://wallstreetcn.com/livenews/3187914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
           "title": "美国总统特朗普：相信我会在得克萨斯州参观一艘载有委内瑞拉石油的油轮。认为美国国务卿鲁比奥将与我同行。我们将接收100万桶委内瑞拉石油。",
           "url": "https://flash.jin10.com/detail/20261027233917772800",
           "source": "金十数据",
@@ -50,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "美国财长贝森特：自特朗普就职以来，美国私营部门新增就业岗位超过100万个，联邦政府雇员人数则减少32.8万人，降至20世纪60年代以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20261028052514310800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "美国总统特朗普打算前往生产石油的得克萨斯州，考察囤积委内瑞拉石油的一个有关。",
@@ -74,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时03分]"
+        },
+        {
+          "title": "特朗普：关闭边境无需新立法，只需要换一位总统",
+          "url": "https://wallstreetcn.com/livenews/3187914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
         },
         {
           "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
@@ -140,7 +152,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -162,7 +174,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -189,6 +201,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "美国总统特朗普：（关于巴西）民主党是最擅长操纵选举的政党，不过巴西在这方面也做得相当不错，不是吗？",
+          "url": "https://flash.jin10.com/detail/20261028045928071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美国总统特朗普的妻子梅拉尼娅·特朗普：乌克兰局部停火已经开始。",
           "url": "https://wallstreetcn.com/livenews/3187819",
           "source": "华尔街见闻-快讯",
@@ -206,7 +229,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -217,27 +240,27 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们国家从未像现在这样繁荣昌盛。你们很快就会看到这一点。",
+          "url": "https://flash.jin10.com/detail/20261028045422442800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "行业周报：美国上周API原油库存减少超200万桶",
-          "url": "https://wallstreetcn.com/livenews/3187918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
         {
           "title": "美国至10月23日当周API投产原油量 4.7万桶/日，前值-40.8万桶/日。",
           "url": "https://flash.jin10.com/detail/20261028044409362800",
@@ -245,7 +268,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -256,7 +279,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -293,6 +316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 04时02分]"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存减少超200万桶",
+          "url": "https://wallstreetcn.com/livenews/3187918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
         },
         {
           "title": "WTI原油日内跌幅达2.0%，报99.67美元/桶。",
@@ -332,26 +367,38 @@
           "time_info": "[03时05分 ~ 04时02分]"
         },
         {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3187909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
           "title": "美国至10月23日当周API库欣原油库存 -45.3万桶，前值93.6万桶。",
           "url": "https://flash.jin10.com/detail/20261028044325946800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
         {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3187909",
+          "title": "一名美国官员表示，委内瑞拉第二大私营石油生产商NABEP已向美国交付首批100万桶免费原油，这批委内瑞拉原油将运往西特戈以及埃克森美孚炼油厂。",
+          "url": "https://wallstreetcn.com/livenews/3187932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "06时02分"
         },
         {
           "title": "美国至10月23日当周API原油库存 -203.1万桶，预期52.2万桶，前值-493.1万桶。",
@@ -360,7 +407,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -376,6 +423,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "白宫官员：美国政府已将这批来自委内瑞拉国家石油公司（NABEP）的原油出售给雪佛龙(CVX.N)旗下的CITGO Petroleum和埃克森美孚石油(XOM.N)。",
+          "url": "https://flash.jin10.com/detail/20261028050446494800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "WTI原油期货日内走低2.00%，现报99.72美元/桶。",
           "url": "https://flash.jin10.com/detail/20261028013840557800",
           "source": "金十数据",
@@ -385,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "白宫官员：美国政府已收到首批来自委内瑞拉国家石油公司（NABEP）的原油货物。根据双方8月达成的协议，这批原油是美国政府“零成本”获得的。",
+          "url": "https://flash.jin10.com/detail/20261028050349756800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "WTI 12月原油期货收跌1.86美元，跌幅1.83%，报99.90美元/桶。 布伦特12月原油期货收跌1.93美元，跌幅1.67%，报113.88美元/桶。",
@@ -444,11 +513,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         },
         {
           "title": "美国财政部20至30年期美债回购达60亿美元上限。",
@@ -570,7 +640,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -578,7 +648,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股千元股只剩贵州茅台意味着什么",
@@ -593,19 +663,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
-        },
-        {
-          "title": "泰瑞达三季度净营收13.1亿美元，分析师预期12.7亿美元。 三季度调整后每股收益（EPS）为2.29美元，分析师预期2.09美元。 三季度净利润3.599亿美元，分析师预期3.213亿美元。 预计四季度营收12.5亿-13.5亿美元，分析师预期12.4亿美元。 预计四季度调整后EPS为1.95-2.25美元，分析师预期2美元。 泰瑞达美股盘后跌5.8%。",
-          "url": "https://wallstreetcn.com/livenews/3187915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         },
         {
           "title": "美股城半导体指数日内涨3.00%，英伟达涨1.20%，博通涨3.89%，美光涨2.76%，英特尔涨3.56%，AMD涨5.43%，高通涨1.09%，台积电涨3.03%，阿斯麦涨3.00%。",
@@ -632,6 +691,30 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
+          "title": "泰瑞达三季度净营收13.1亿美元，分析师预期12.7亿美元。 三季度调整后每股收益（EPS）为2.29美元，分析师预期2.09美元。 三季度净利润3.599亿美元，分析师预期3.213亿美元。 预计四季度营收12.5亿-13.5亿美元，分析师预期12.4亿美元。 预计四季度调整后EPS为1.95-2.25美元，分析师预期2美元。 泰瑞达美股盘后跌5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3187915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3187911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.29%，报23093点。 恒生科技指数主连夜盘收涨0.68%，报3824点。",
           "url": "https://wallstreetcn.com/livenews/3187885",
           "source": "华尔街见闻-快讯",
@@ -642,6 +725,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "周二（10月27日），美股行业ETF涨跌各异，半导体ETF收涨3.02%，全球航空业ETF涨2.23%，全球科技股指数ETF、科技行业ETF至多涨1.84%，能源业ETF跌2.05%。 标普500指数的11个板块中，信息技术/科技板块收涨1.49%，可选消费板块涨1.36%，能源板块跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3187908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "周二（10月27日），彭博电动汽车价格回报指数涨1.12%，报2912.70点，亚太时段冲高回落，美股盘初快速拉升、随后逐步扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3187907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
         },
         {
           "title": "A股尾盘跳水原因",
@@ -655,46 +762,13 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
-          "title": "纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3187911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "周二（10月27日），美股行业ETF涨跌各异，半导体ETF收涨3.02%，全球航空业ETF涨2.23%，全球科技股指数ETF、科技行业ETF至多涨1.84%，能源业ETF跌2.05%。 标普500指数的11个板块中，信息技术/科技板块收涨1.49%，可选消费板块涨1.36%，能源板块跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3187908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "周二（10月27日），彭博电动汽车价格回报指数涨1.12%，报2912.70点，亚太时段冲高回落，美股盘初快速拉升、随后逐步扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3187907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
           "title": "恩智浦美股盘后跌超8%。该公司三季度营收37.9亿美元，预期37.5亿美元。三季度调整后EPS为4.20美元，分析师预期4.12美元。预计四季度营收37.5亿-39.5亿美元，分析师预期38.7亿美元。预计四季度调整后运营利润13.7亿-15.1亿美元，分析师预期14.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3187906",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -719,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "恩智浦美股盘后跌超8%。 该公司三季度营收37.9亿美元，预期37.5亿美元。 三季度调整后EPS为4.20美元，分析师预期4.12美元。 预计四季度营收37.5亿-39.5亿美元，分析师预期38.7亿美元。 预计四季度调整后运营利润13.7亿-15.1亿美元，分析师预期14.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3187906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
@@ -798,8 +883,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         },
         {
           "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
@@ -809,8 +894,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         },
         {
           "title": "Crusoe首席执行官：OpenAI正与Abilene合作开发另一款尚未发布的模型。 OpenAI尚未发布的新模型旨在解决数学问题。",
@@ -846,11 +931,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         },
         {
           "title": "男子趁金价下跌给媳妇买金镯子",
@@ -859,11 +945,12 @@
           "ranks": [
             6,
             10,
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 06时02分]"
         }
       ]
     },
@@ -893,6 +980,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“价格从未如此糟糕”，白银遭遇史诗级洗盘",
+          "url": "https://wallstreetcn.com/articles/3784585",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     }
