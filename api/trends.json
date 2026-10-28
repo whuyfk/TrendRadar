@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T11:02:57.216188+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-10-28T12:03:09.816532+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 43,
+      "match_count": 53,
       "titles": [
         {
           "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 11时02分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 12时03分]"
         },
         {
           "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 12时03分]"
         },
         {
           "title": "A股千元股只剩贵州茅台意味着什么",
@@ -66,9 +66,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "恒生科技指数盘中涨2%，MNIMAX涨超8%，联想集团涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3188107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股CRO概念异动拉升，义翘神州、诺思格涨超11%，近岸蛋白涨超8%，美迪西、益诺思涨超7%，昭衍新药跟涨。",
@@ -121,9 +132,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.69%，深成指涨1.34%，半导体芯片、算力硬件、游戏、消费电子等方向领涨，沪深京三市上涨个股超4000只。",
+          "url": "https://wallstreetcn.com/livenews/3188056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时03分]"
         },
         {
           "title": "美股城半导体指数日内涨3.00%，英伟达涨1.20%，博通涨3.89%，美光涨2.76%，英特尔涨3.56%，AMD涨5.43%，高通涨1.09%，台积电涨3.03%，阿斯麦涨3.00%。",
@@ -162,6 +186,19 @@
           "time_info": "[07时03分 ~ 08时04分]"
         },
         {
+          "title": "A股白酒股集体走低，皇台酒业触及跌停，金种子酒、金徽酒、五粮液、山西汾酒、今世缘跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3188053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时03分]"
+        },
+        {
           "title": "泰瑞达三季度净营收13.1亿美元，分析师预期12.7亿美元。 三季度调整后每股收益（EPS）为2.29美元，分析师预期2.09美元。 三季度净利润3.599亿美元，分析师预期3.213亿美元。 预计四季度营收12.5亿-13.5亿美元，分析师预期12.4亿美元。 预计四季度调整后EPS为1.95-2.25美元，分析师预期2美元。 泰瑞达美股盘后跌5.8%。",
           "url": "https://wallstreetcn.com/livenews/3187915",
           "source": "华尔街见闻-快讯",
@@ -172,30 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.69%，深成指涨1.34%，半导体芯片、算力硬件、游戏、消费电子等方向领涨，沪深京三市上涨个股超4000只。",
-          "url": "https://wallstreetcn.com/livenews/3188056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 11时02分]"
-        },
-        {
-          "title": "A股白酒股集体走低，皇台酒业触及跌停，金种子酒、金徽酒、五粮液、山西汾酒、今世缘跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3188053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
           "title": "纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF",
@@ -256,6 +269,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "A股CPO概念股震荡走强，共进股份触及涨停，杰普特涨超15%，仕佳光子、炬光科技、新易盛、天孚通信、中际旭创均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3188060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时03分]"
         },
         {
           "title": "周二（10月27日），彭博电动汽车价格回报指数涨1.12%，报2912.70点，亚太时段冲高回落，美股盘初快速拉升、随后逐步扩大涨幅。",
@@ -329,6 +354,17 @@
           "time_info": "[00时04分 ~ 00时05分]"
         },
         {
+          "title": "创业板指涨逾2% 上涨个股近3900只",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE2%25+%E4%B8%8A%E6%B6%A8%E4%B8%AA%E8%82%A1%E8%BF%913900%E5%8F%AA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
           "title": "美股收盘：特斯拉涨4.04%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A84.04%25",
           "source": "百度热搜",
@@ -338,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "上证指数早盘收报3674.44点，涨0.72%。 深证成指早盘收报11470.03点，涨1.99%。 创业板指早盘收报2624.64点，涨3.00%。 沪深300早盘收报4077.16点，涨0.68%。 科创50早盘收报1283.67点，涨2.51%。 中证500早盘收报6659.93点，涨2.28%。 中证1000早盘收报6594.51点，涨2.60%。",
+          "url": "https://wallstreetcn.com/livenews/3188097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股CPO板块持续拉升，振邦智能涨停，杰普特涨超14%，文峰光电涨超9%，南亚新材、仕佳光子涨超8%。",
@@ -351,15 +398,26 @@
           "time_info": "10时03分"
         },
         {
-          "title": "A股CPO概念股震荡走强，共进股份触及涨停，杰普特涨超15%，仕佳光子、炬光科技、新易盛、天孚通信、中际旭创均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3188060",
+          "title": "10月28日午间收评：创业板指半日涨3%，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3188096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "12时03分"
+        },
+        {
+          "title": "【长鑫科技已被纳入上证综合指数 位列第一大权重股】根据中证指数公司网站，长鑫科技已被纳入上证综合指数，权重为4.67%，当前为指数第一大权重股。长鑫科技也被纳入上证科创板综合指数，权重为15.74%，也为第一大权重股。根据编制方案，权重因子于每月第二个星期五的下一交易日或新计入样本权重超过15%时调整。",
+          "url": "https://wallstreetcn.com/livenews/3188091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股温度计",
@@ -373,6 +431,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "A股午评：创业板指涨3% 人形机器人概念爆发",
+          "url": "https://flash.jin10.com/detail/20261028113655390800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "恩智浦美股盘后跌超8%。该公司三季度营收37.9亿美元，预期37.5亿美元。三季度调整后EPS为4.20美元，分析师预期4.12美元。预计四季度营收37.5亿-39.5亿美元，分析师预期38.7亿美元。预计四季度调整后运营利润13.7亿-15.1亿美元，分析师预期14.5亿美元。",
           "url": "https://wallstreetcn.com/livenews/3187906",
           "source": "华尔街见闻-快讯",
@@ -382,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3188089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "金十图示：2026年10月27日（周二）美股热门股票行情一览（美股盘中）",
@@ -439,6 +519,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "港股物理AI板块持续走高，越疆(02432.HK)涨超12%，优必选(09880.HK)涨超11%，禾赛-W(02525.HK)涨超10%，群核科技(00068.HK)涨近9%。",
+          "url": "https://flash.jin10.com/detail/20261028112846619800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "A股白酒板块走弱，皇台酒业跌超9%，金种子酒、金徽酒、五粮液、山西汾酒跟跌。",
           "url": "https://flash.jin10.com/detail/20261028093813938800",
           "source": "金十数据",
@@ -472,6 +563,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "A股CRO概念板块再度拉升，义翘神州、近岸蛋白、诺思格涨超10%，万邦医药、阳光诺和、英诺激光、康希诺、康鹏科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261028112511160800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "A股游戏板块盘初拉升，盛天网络涨超10%，电魂网络、富春股份、星辉娱乐、冰川网络、凯撒文化跟涨。",
           "url": "https://flash.jin10.com/detail/20261028093349428800",
           "source": "金十数据",
@@ -481,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "创业板指涨3% 全市场超4000只个股上涨",
+          "url": "https://flash.jin10.com/detail/20261028112023675800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股存储芯片概念盘初反弹，君正股份涨超12%，普冉股份、香农芯创、大普微、澜起科技跟涨。",
@@ -533,8 +646,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉或成为美国第51个州",
+          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时03分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
@@ -546,17 +670,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普：委内瑞拉或成为美国第51个州",
-          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "美国总统特朗普：相信我会在得克萨斯州参观一艘载有委内瑞拉石油的油轮。认为美国国务卿鲁比奥将与我同行。我们将接收100万桶委内瑞拉石油。",
@@ -579,6 +692,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美媒：特朗普批准博索纳罗入境美国",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 12时03分]"
         },
         {
           "title": "美国总统特朗普打算前往生产石油的得克萨斯州，考察囤积委内瑞拉石油的一个有关。",
@@ -615,18 +741,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美媒：特朗普批准博索纳罗入境美国",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
@@ -759,7 +873,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -993,7 +1107,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -1089,7 +1203,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "科创50跌4%，千元股仅剩贵州茅台，工行建行再创新高，30年期国债创年内新高，恒科指跌超1%，智谱涨9%",
@@ -1103,8 +1217,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 11时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 12时03分]"
         },
         {
           "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
@@ -1209,7 +1323,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -1234,6 +1348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.05%，10年期主力合约跌0.01%，5年期主力合约跌0.00%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3188094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美国至10月27日6周国债竞拍-得标利率配置百分比 83.1%，前值78.53%。",
@@ -1291,6 +1416,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261028113117964800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "美国至10月27日1年期国债竞拍-得标利率 4.29%，前值4.40%。",
           "url": "https://flash.jin10.com/detail/20261027233149320800",
           "source": "金十数据",
@@ -1316,7 +1452,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索",
@@ -1327,8 +1463,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时04分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时04分 ~ 12时03分]"
+        },
+        {
+          "title": "谷歌发布世界模型Genie 4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8BGenie%204",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "谷歌推出最强世界模型Genie 4",
@@ -1392,7 +1539,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -1487,7 +1634,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
@@ -1498,8 +1645,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 11时02分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 12时03分]"
         },
         {
           "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
@@ -1528,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时04分 ~ 09时04分]"
+        },
+        {
+          "title": "印度珠宝商押注金价继续下跌，旺季将至仍不急于补货！四季度黄金进口量或腰斩",
+          "url": "https://flash.jin10.com/detail/20261028112748369800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -1545,8 +1703,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 11时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 12时03分]"
         },
         {
           "title": "DeepSeek七款工具同题实测",
@@ -1607,8 +1765,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时02分 ~ 11时02分]"
+          "appearance_count": 11,
+          "time_info": "[06时02分 ~ 12时03分]"
         }
       ]
     }
