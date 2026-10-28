@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-29T06:02:38.813148+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-10-29T07:02:43.309514+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "谷歌将TPUs（产品）视作将会出售的平台，甚至为了竞争也会这样做。 谷歌将在云领域加速新的客户部署。 CEO Pichai说，安全、信任是用户使用agents的头等顾虑。",
-          "url": "https://wallstreetcn.com/livenews/3189431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
         {
           "title": "谷歌(GOOG.O)业务主管：第三季度AI广告更新提升了满意度、点击量和转化率。",
           "url": "https://flash.jin10.com/detail/20261029044249254800",
@@ -28,28 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌侧重于改善TPU的利润率。",
-          "url": "https://wallstreetcn.com/livenews/3189430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "谷歌：所有的TPU库存都与已经签单的客户合同挂钩。",
-          "url": "https://wallstreetcn.com/livenews/3189429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
         },
         {
           "title": "谷歌母公司Alphabet的首席执行官Kurian列席公司分析师电话会议。",
@@ -63,6 +30,18 @@
           "time_info": "05时02分"
         },
         {
+          "title": "谷歌将TPUs（产品）视作将会出售的平台，甚至为了竞争也会这样做。 谷歌将在云领域加速新的客户部署。 CEO Pichai说，安全、信任是用户使用agents的头等顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3189431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
           "title": "谷歌母公司Alphabet首席执行官Pichai：Waymo自动驾驶里程已超过3亿英里。",
           "url": "https://wallstreetcn.com/livenews/3189403",
           "source": "华尔街见闻-快讯",
@@ -73,6 +52,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "谷歌侧重于改善TPU的利润率。",
+          "url": "https://wallstreetcn.com/livenews/3189430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "谷歌：所有的TPU库存都与已经签单的客户合同挂钩。",
+          "url": "https://wallstreetcn.com/livenews/3189429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "谷歌母公司Alphabet首席执行官Pichai：AI模型Argon已经促进谷歌的代码开发。 新款AI模型Carbon是我司最强大的，其性能超越Gemini 4 Argon。 谷歌将在Chrome、安卓以及Google Workspace中拓展智能体AI。 搜索查询量正以五年来最快速度增长。",
@@ -93,7 +96,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -126,7 +129,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -192,7 +195,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -203,7 +206,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -217,6 +220,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "纳指期货跌近1%，受谷歌(GOOG.O)盘后跌势拖累。",
+          "url": "https://flash.jin10.com/detail/20261029060917813800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周四亚太盘初，纳指期货跌0.85%，标普股指期货跌0.2%，小盘股指期货涨0.3%。 谷歌A当前（美股盘后）重挫10.7%，Nebius跌4.8%，SK海力士ADR、甲骨文跌2.9%，西部数据跌2.4%，英特尔、闪迪跌超2%，苹果涨0.2%，Meta涨0.9%，微软涨幅收窄至3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3189437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "谷歌母公司Alphabet（谷歌A）三季度营收1275.8亿美元，分析师预期1279.3亿美元。 三季度ex-TAC（剔除流量获取成本后的营收）为1112.1亿美元，分析师预期1112.9亿美元。 三季度谷歌云收入307.1亿美元，分析师预期291亿美元。 三季度谷歌广告收入820.1亿美元，分析师预期835.7亿美元。 三季度谷歌搜索与其他收入633.5亿美元，分析师预期648.5亿美元。 三季度谷歌服务收入963亿美元，分析师预期984亿美元。 三季度YouTube广告收入112.1亿美元，分析师预期114.3亿美元。 三季度资本开支513.6亿美元，分析师预期557.8亿美元。 三季度每股收益（EPS）为2.12美元，上年同期2.87美元。 三季度运营利润405.8亿美元，分析师预期431.6亿美元。 Gemini应用程序的用户数量已达10亿。 YouTube音乐和溢价订阅用户数突破1.5亿。 Gemini 4 Argon和Carbon是（公司）当前领先的前沿模型。 谷歌A美股盘后重挫7%。",
@@ -236,7 +261,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -269,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -280,7 +305,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -291,7 +316,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -302,7 +327,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -313,7 +338,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -324,7 +349,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -332,30 +357,19 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "多家A股公司抛出回购计划，两只龙头股披露回购进展",
           "url": "https://www.cls.cn/detail/2518264",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
-        },
-        {
-          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%",
@@ -367,8 +381,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
@@ -382,8 +396,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "学者：A股反弹第一枪打响",
@@ -436,6 +462,17 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+          "url": "https://www.cls.cn/detail/2518554",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "ServiceNOW三季度营收41.1亿美元，分析师预期41亿美元。 三季度调整后每股收益（EPS）为1美元，分析师预期1.03美元。 预计四季度订阅收入将达到42.5亿-42.6亿美元，分析师预期42.4亿美元。 预计四季度剩余待偿还债务将增长18.5%，三季度为136.5亿美元。 ServiceNOW美股盘后跌16.8%。",
           "url": "https://wallstreetcn.com/livenews/3189398",
           "source": "华尔街见闻-快讯",
@@ -458,6 +495,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "港股IPO“变奏”，融资额创16年来新高，基石投资者占比超八成",
+          "url": "https://wallstreetcn.com/livenews/3189443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "Honeywell Aerospace Inc.（HONA）美股盘后涨7.3%。",
           "url": "https://wallstreetcn.com/livenews/3189393",
           "source": "华尔街见闻-快讯",
@@ -467,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨0.12%，美股盘后重挫3.92%。",
+          "url": "https://wallstreetcn.com/livenews/3189439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2026年10月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -491,6 +550,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "微软美股盘后涨幅扩大至超过6%。 微软在电话会上预计第二财季资本支出预计超500亿美元，预计第二财季总收入960亿-971亿美元。 预计第二财季Azure营收按恒定汇率将增长49%-50%。 预计第二财季agents、基础设施（营收）将达到807亿美元。 预计日历年资本开支大概为1700亿美元。 预计2027财年将继续实现自由现金流为正。 公司将获得额外的资金来源。",
+          "url": "https://wallstreetcn.com/livenews/3189436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "金十图示：2026年10月28日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261029003047749800",
           "source": "金十数据",
@@ -513,13 +583,57 @@
           "time_info": "05时02分"
         },
         {
+          "title": "周三（10月28日）纽约尾盘，现货黄金涨0.17%，报4066.85美元/盎司，日内交投于4025.21-4082.58美元，经历了美联储按兵不动、主席沃什新闻发布会之后，在美股收盘时刷新日高。 现货白银跌0.81%，报53.857美元/盎司，美股收盘时刷新日高。 COMEX铜期货涨0.45%，报6.6825美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3189433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周三（10月28日），美股降息赢家指数涨0.08%，报90.20点，美联储宣布按兵不动、主席沃什举行新闻发布会、至美股收盘实现W形反转。",
+          "url": "https://wallstreetcn.com/livenews/3189432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘后一度涨6%。",
+          "url": "https://flash.jin10.com/detail/20261029060251160800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "微软(MSFT.O)首席财务官：在第二财季商业订单方面，预计商业销售动能将保持稳健增长，尽管业绩将受到前一年签署的重大Azure合同的影响。",
+          "url": "https://flash.jin10.com/detail/20261029060215858800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "纳斯达克100股指期货在美股盘后达到1%。",
           "url": "https://wallstreetcn.com/livenews/3189405",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -538,7 +652,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -548,8 +662,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
@@ -559,8 +673,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -570,8 +684,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "在被问及是否指示万斯帮助启动和伊朗谈判时，美国总统特朗普特回答：“没有。实际情况是他们需要医疗用品和其他各种东西方面的帮助。”他还对万斯说：“如果你想这么做，也没问题。”",
@@ -580,9 +694,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普走下空军一号，抵达俄亥俄州，前往集会助选。",
+          "url": "https://flash.jin10.com/detail/20261029064134158800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美媒：美国司法部加大对特朗普政敌的打击力度",
@@ -620,13 +745,25 @@
           "time_info": "[04时03分 ~ 05时02分]"
         },
         {
+          "title": "特朗普称他没有让万斯致信伊朗",
+          "url": "https://wallstreetcn.com/livenews/3189421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
           "title": "美国总统特朗普：没有和巴西前总统博索纳罗之子谈过话。",
           "url": "https://flash.jin10.com/detail/20261029051207380800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -642,15 +779,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "特朗普称他没有让万斯致信伊朗",
-          "url": "https://wallstreetcn.com/livenews/3189421",
+          "title": "美国总统特朗普：没有让副总统万斯致信伊朗。 给了（流亡的）巴西政客博索纳罗赴美“通行证”。",
+          "url": "https://wallstreetcn.com/livenews/3189438",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时02分"
         },
         {
           "title": "据国会山报：美国国务院官员透露，美国国务卿鲁比奥今天晚些时候将不再随美国总统特朗普前往俄亥俄州。",
@@ -692,7 +829,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -733,7 +870,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国财政部拍卖四个月期国债，得标利率4.140%，投标倍数3.08。",
@@ -781,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "全球基金经理对日本国债愈发看多",
+          "url": "https://wallstreetcn.com/livenews/3189444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国财政部拍卖两年期浮息国债（FRNS），贴现利率0.038%，投标倍数3.05。",
@@ -838,6 +986,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "两年期美债收益率周三跌约4个基点，美联储宣布按兵不动",
+          "url": "https://wallstreetcn.com/livenews/3189435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "市场反应：两年期美债收益率、彭博美元指数短线V形走势",
           "url": "https://wallstreetcn.com/livenews/3189334",
           "source": "华尔街见闻-快讯",
@@ -874,7 +1033,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
@@ -884,11 +1043,12 @@
             11,
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
@@ -902,6 +1062,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
+          "url": "https://www.zhihu.com/question/2096860633161545316",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "OpenAI与ServiceNow将提供联合安全解决方案。",
@@ -963,8 +1134,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时02分]"
         },
         {
           "title": "WTI原油日内涨幅扩大至3%，现报102.49美元/桶。",
@@ -1049,11 +1220,12 @@
           "url": "https://wallstreetcn.com/livenews/3189426",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         }
       ]
     }
