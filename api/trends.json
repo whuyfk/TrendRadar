@@ -1,11 +1,338 @@
 {
-  "generated_at": "2026-10-29T05:02:39.568210+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-10-29T06:02:38.813148+08:00",
+  "total_titles_processed": 705,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "谷歌将TPUs（产品）视作将会出售的平台，甚至为了竞争也会这样做。 谷歌将在云领域加速新的客户部署。 CEO Pichai说，安全、信任是用户使用agents的头等顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3189431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌(GOOG.O)业务主管：第三季度AI广告更新提升了满意度、点击量和转化率。",
+          "url": "https://flash.jin10.com/detail/20261029044249254800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌侧重于改善TPU的利润率。",
+          "url": "https://wallstreetcn.com/livenews/3189430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌：所有的TPU库存都与已经签单的客户合同挂钩。",
+          "url": "https://wallstreetcn.com/livenews/3189429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的首席执行官Kurian列席公司分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3189401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：Waymo自动驾驶里程已超过3亿英里。",
+          "url": "https://wallstreetcn.com/livenews/3189403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：AI模型Argon已经促进谷歌的代码开发。 新款AI模型Carbon是我司最强大的，其性能超越Gemini 4 Argon。 谷歌将在Chrome、安卓以及Google Workspace中拓展智能体AI。 搜索查询量正以五年来最快速度增长。",
+          "url": "https://wallstreetcn.com/livenews/3189400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：Gemini 4 Carbon将于今年晚些时候向消费者开放。",
+          "url": "https://flash.jin10.com/detail/20261029051326154800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌云：Cloud SQL的PostgreSQL蓝绿部署支持即将推出。",
+          "url": "https://flash.jin10.com/detail/20261029004138186800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：新AI模型Carbon表现优于Gemini 4 Argon。",
+          "url": "https://flash.jin10.com/detail/20261029043849088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：我们正为超过10亿用户开发Gemini 4 Carbon的精简版本。",
+          "url": "https://flash.jin10.com/detail/20261029051249147800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：新AI模型Carbon是谷歌最强的模型。",
+          "url": "https://flash.jin10.com/detail/20261029043846340800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌推出Gemini 4 Carbon前沿AI模型",
+          "url": "https://wallstreetcn.com/livenews/3189317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "谷歌云：宣布推出面向MySQL的Cloud SQL全托管蓝绿部署预览版。",
+          "url": "https://flash.jin10.com/detail/20261029004100496800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：AI模型Argon加快了谷歌的代码开发速度。",
+          "url": "https://flash.jin10.com/detail/20261029043841858800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌发布前沿模型Gemini 4 Carbon 编程与网络安全能力显著提升",
+          "url": "https://flash.jin10.com/detail/20261029013641195800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "谷歌现在出售TPUs，用于部署到消费者数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3189420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌Gemini Agent将在今年稍晚提供给用户。",
+          "url": "https://wallstreetcn.com/livenews/3189419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌公司称，公司与XREAL发布XREAL AURA有线XR眼镜，由安卓XR支持。 11月2日，美国、加拿大、韩国、日本可以下单。 面向开发者发布Connected APPs Platforms。",
+          "url": "https://wallstreetcn.com/livenews/3189312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "谷歌母公司Alphabet（谷歌A）三季度营收1275.8亿美元，分析师预期1279.3亿美元。 三季度ex-TAC（剔除流量获取成本后的营收）为1112.1亿美元，分析师预期1112.9亿美元。 三季度谷歌云收入307.1亿美元，分析师预期291亿美元。 三季度谷歌广告收入820.1亿美元，分析师预期835.7亿美元。 三季度谷歌搜索与其他收入633.5亿美元，分析师预期648.5亿美元。 三季度谷歌服务收入963亿美元，分析师预期984亿美元。 三季度YouTube广告收入112.1亿美元，分析师预期114.3亿美元。 三季度资本开支513.6亿美元，分析师预期557.8亿美元。 三季度每股收益（EPS）为2.12美元，上年同期2.87美元。 三季度运营利润405.8亿美元，分析师预期431.6亿美元。 Gemini应用程序的用户数量已达10亿。 YouTube音乐和溢价订阅用户数突破1.5亿。 Gemini 4 Argon和Carbon是（公司）当前领先的前沿模型。 谷歌A美股盘后重挫7%。",
+          "url": "https://wallstreetcn.com/livenews/3189386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌母公司Alphabet未来承诺、租赁、采购金额已经突破1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3189413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布面向红帽和容器的AlloyDB Omni Web UI正式可用。",
+          "url": "https://flash.jin10.com/detail/20261029002953231800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "AI投资回报承压 谷歌季度营收与利润双双不及预期",
+          "url": "https://flash.jin10.com/detail/20261029042133726800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：谷歌云平台占第三季度谷歌云营收的绝大部分。",
+          "url": "https://flash.jin10.com/detail/20261029050236961800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "电话会：谷歌母公司Alphabet预计全年资本开支1950亿-2050亿美元，分析师预期2022.1亿美元。谷歌A盘后跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3189410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌调拨82亿美元其他收入，来应对马斯克旗下太空探索公司SpaceX股价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3189409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌(GOOG.O)直接与Anthropic就TPU开展合作，并与博通(AVGO.O)合作。",
+          "url": "https://flash.jin10.com/detail/20261029050031859800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：Gemini企业客户的支出同比增长超过三倍。",
+          "url": "https://flash.jin10.com/detail/20261029045102885800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的云首席执行官Kurian：在财富100榜单上，Gemini Enterprise用户超过90%。 AI网络安全风险正驱动需求。 谷歌与Meta携手打造Torch TPU。 谷歌与直接与Anthropic围绕TPU合作，公司还与博通合作。 苹果公司在我司TUPs上预训练功能模型。",
+          "url": "https://wallstreetcn.com/livenews/3189401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "多家A股公司抛出回购计划，两只龙头股披露回购进展",
@@ -15,8 +342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
@@ -27,8 +354,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%",
@@ -40,8 +367,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
@@ -51,11 +378,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "学者：A股反弹第一枪打响",
@@ -100,11 +428,12 @@
           "url": "https://wallstreetcn.com/livenews/3189399",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
         },
         {
           "title": "ServiceNOW三季度营收41.1亿美元，分析师预期41亿美元。 三季度调整后每股收益（EPS）为1美元，分析师预期1.03美元。 预计四季度订阅收入将达到42.5亿-42.6亿美元，分析师预期42.4亿美元。 预计四季度剩余待偿还债务将增长18.5%，三季度为136.5亿美元。 ServiceNOW美股盘后跌16.8%。",
@@ -113,7 +442,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -124,7 +453,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -135,7 +464,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -179,9 +508,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "纳斯达克100股指期货在美股盘后达到1%。",
+          "url": "https://wallstreetcn.com/livenews/3189405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "美股三大指数高开 SK海力士涨超8%",
@@ -190,178 +530,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)业务主管：第三季度AI广告更新提升了满意度、点击量和转化率。",
-          "url": "https://flash.jin10.com/detail/20261029044249254800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：Waymo自动驾驶里程已超过3亿英里。",
-          "url": "https://wallstreetcn.com/livenews/3189403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌母公司Alphabet的首席执行官Kurian列席公司分析师电话会议。",
-          "url": "https://wallstreetcn.com/livenews/3189401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌母公司Alphabet首席执行官Pichai：AI模型Argon已经促进谷歌的代码开发。 新款AI模型Carbon是我司最强大的，其性能超越Gemini 4 Argon。 谷歌将在Chrome、安卓以及Google Workspace中拓展智能体AI。 搜索查询量正以五年来最快速度增长。",
-          "url": "https://wallstreetcn.com/livenews/3189400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌云：Cloud SQL的PostgreSQL蓝绿部署支持即将推出。",
-          "url": "https://flash.jin10.com/detail/20261029004138186800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：新AI模型Carbon表现优于Gemini 4 Argon。",
-          "url": "https://flash.jin10.com/detail/20261029043849088800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：新AI模型Carbon是谷歌最强的模型。",
-          "url": "https://flash.jin10.com/detail/20261029043846340800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌推出Gemini 4 Carbon前沿AI模型",
-          "url": "https://wallstreetcn.com/livenews/3189317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "谷歌云：宣布推出面向MySQL的Cloud SQL全托管蓝绿部署预览版。",
-          "url": "https://flash.jin10.com/detail/20261029004100496800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)CEO皮查伊：AI模型Argon加快了谷歌的代码开发速度。",
-          "url": "https://flash.jin10.com/detail/20261029043841858800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌发布前沿模型Gemini 4 Carbon 编程与网络安全能力显著提升",
-          "url": "https://flash.jin10.com/detail/20261029013641195800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "谷歌公司称，公司与XREAL发布XREAL AURA有线XR眼镜，由安卓XR支持。 11月2日，美国、加拿大、韩国、日本可以下单。 面向开发者发布Connected APPs Platforms。",
-          "url": "https://wallstreetcn.com/livenews/3189312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "谷歌母公司Alphabet（谷歌A）三季度营收1275.8亿美元，分析师预期1279.3亿美元。 三季度ex-TAC（剔除流量获取成本后的营收）为1112.1亿美元，分析师预期1112.9亿美元。 三季度谷歌云收入307.1亿美元，分析师预期291亿美元。 三季度谷歌广告收入820.1亿美元，分析师预期835.7亿美元。 三季度谷歌搜索与其他收入633.5亿美元，分析师预期648.5亿美元。 三季度谷歌服务收入963亿美元，分析师预期984亿美元。 三季度YouTube广告收入112.1亿美元，分析师预期114.3亿美元。 三季度资本开支513.6亿美元，分析师预期557.8亿美元。 三季度每股收益（EPS）为2.12美元，上年同期2.87美元。 三季度运营利润405.8亿美元，分析师预期431.6亿美元。 Gemini应用程序的用户数量已达10亿。 YouTube音乐和溢价订阅用户数突破1.5亿。 Gemini 4 Argon和Carbon是（公司）当前领先的前沿模型。 谷歌A美股盘后重挫7%。",
-          "url": "https://wallstreetcn.com/livenews/3189386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布面向红帽和容器的AlloyDB Omni Web UI正式可用。",
-          "url": "https://flash.jin10.com/detail/20261029002953231800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "AI投资回报承压 谷歌季度营收与利润双双不及预期",
-          "url": "https://flash.jin10.com/detail/20261029042133726800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -369,7 +538,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -379,8 +548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
@@ -390,8 +559,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -401,8 +570,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
+        },
+        {
+          "title": "在被问及是否指示万斯帮助启动和伊朗谈判时，美国总统特朗普特回答：“没有。实际情况是他们需要医疗用品和其他各种东西方面的帮助。”他还对万斯说：“如果你想这么做，也没问题。”",
+          "url": "https://flash.jin10.com/detail/20261029054242391800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "美媒：美国司法部加大对特朗普政敌的打击力度",
@@ -440,15 +620,37 @@
           "time_info": "[04时03分 ~ 05时02分]"
         },
         {
+          "title": "美国总统特朗普：没有和巴西前总统博索纳罗之子谈过话。",
+          "url": "https://flash.jin10.com/detail/20261029051207380800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普对美联储主席沃什的应对使命“充满信心”。",
           "url": "https://wallstreetcn.com/livenews/3189395",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普称他没有让万斯致信伊朗",
+          "url": "https://wallstreetcn.com/livenews/3189421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "据国会山报：美国国务院官员透露，美国国务卿鲁比奥今天晚些时候将不再随美国总统特朗普前往俄亥俄州。",
@@ -468,7 +670,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -484,13 +686,24 @@
           "time_info": "01时03分"
         },
         {
+          "title": "特朗普下令美国贸易代表就机器人和机械进口寻求谈判",
+          "url": "https://wallstreetcn.com/livenews/3189407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "巴西“逃亡”的议员、在大选中败落的博索纳罗：对美国总统特朗普和阿根廷总统米莱“欢迎我和我的家人”表示感谢。",
           "url": "https://wallstreetcn.com/livenews/3189379",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -512,7 +725,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -674,8 +887,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
@@ -683,11 +896,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "OpenAI与ServiceNow将提供联合安全解决方案。",
@@ -729,7 +943,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -749,8 +963,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
         },
         {
           "title": "WTI原油日内涨幅扩大至3%，现报102.49美元/桶。",
@@ -803,7 +1017,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -821,8 +1035,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 06时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（10月28日）纽约尾盘，ICE美元指数跌0.19%，报102.124点，日内交投区间为102.491-102.046点，美联储宣布按兵不动之际回升、逼近北京时间15:12刷新的日高，随后在美联储主席沃什新闻发布会的开场白环节跳水，02:50刷新日低。 彭博美元指数跌0.10%，报1224.08点，日内交投区间为1227.18-1223.16点。",
+          "url": "https://wallstreetcn.com/livenews/3189426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     }
