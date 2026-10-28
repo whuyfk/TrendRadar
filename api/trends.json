@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-28T12:03:09.816532+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-10-28T13:02:45.468416+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
+          "url": "https://www.cls.cn/detail/2517219",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 13时02分]"
+        },
         {
           "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
           "url": "https://www.cls.cn/detail/2517192",
@@ -17,20 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 12时03分]"
-        },
-        {
-          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
-          "url": "https://www.cls.cn/detail/2517219",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 12时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时02分 ~ 13时02分]"
         },
         {
           "title": "A股千元股只剩贵州茅台意味着什么",
@@ -69,17 +69,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "恒生科技指数盘中涨2%，MNIMAX涨超8%，联想集团涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3188107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "A股CRO概念异动拉升，义翘神州、诺思格涨超11%，近岸蛋白涨超8%，美迪西、益诺思涨超7%，昭衍新药跟涨。",
@@ -135,6 +124,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "恒生科技指数盘中涨2%，MNIMAX涨超8%，联想集团涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3188107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时02分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.69%，深成指涨1.34%，半导体芯片、算力硬件、游戏、消费电子等方向领涨，沪深京三市上涨个股超4000只。",
@@ -235,6 +236,18 @@
           "time_info": "[10时03分 ~ 11时02分]"
         },
         {
+          "title": "上证指数早盘收报3674.44点，涨0.72%。 深证成指早盘收报11470.03点，涨1.99%。 创业板指早盘收报2624.64点，涨3.00%。 沪深300早盘收报4077.16点，涨0.68%。 科创50早盘收报1283.67点，涨2.51%。 中证500早盘收报6659.93点，涨2.28%。 中证1000早盘收报6594.51点，涨2.60%。",
+          "url": "https://wallstreetcn.com/livenews/3188097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时02分]"
+        },
+        {
           "title": "恒生科技指数涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3188048",
           "source": "华尔街见闻-快讯",
@@ -245,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "10月28日午间收评：创业板指半日涨3%，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3188096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时02分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.29%，报23093点。 恒生科技指数主连夜盘收涨0.68%，报3824点。",
@@ -305,6 +330,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "【长鑫科技已被纳入上证综合指数 位列第一大权重股】根据中证指数公司网站，长鑫科技已被纳入上证综合指数，权重为4.67%，当前为指数第一大权重股。长鑫科技也被纳入上证科创板综合指数，权重为15.74%，也为第一大权重股。根据编制方案，权重因子于每月第二个星期五的下一交易日或新计入样本权重超过15%时调整。",
+          "url": "https://wallstreetcn.com/livenews/3188091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时02分]"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3188089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时02分]"
         },
         {
           "title": "A股三大指数全线高开，创业板指涨1.77%",
@@ -376,15 +425,15 @@
           "time_info": "08时04分"
         },
         {
-          "title": "上证指数早盘收报3674.44点，涨0.72%。 深证成指早盘收报11470.03点，涨1.99%。 创业板指早盘收报2624.64点，涨3.00%。 沪深300早盘收报4077.16点，涨0.68%。 科创50早盘收报1283.67点，涨2.51%。 中证500早盘收报6659.93点，涨2.28%。 中证1000早盘收报6594.51点，涨2.60%。",
-          "url": "https://wallstreetcn.com/livenews/3188097",
-          "source": "华尔街见闻-快讯",
+          "title": "A股午盘：全市场近4500股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%914500%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时02分"
         },
         {
           "title": "A股CPO板块持续拉升，振邦智能涨停，杰普特涨超14%，文峰光电涨超9%，南亚新材、仕佳光子涨超8%。",
@@ -396,28 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "10月28日午间收评：创业板指半日涨3%，机器人概念股集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3188096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "【长鑫科技已被纳入上证综合指数 位列第一大权重股】根据中证指数公司网站，长鑫科技已被纳入上证综合指数，权重为4.67%，当前为指数第一大权重股。长鑫科技也被纳入上证科创板综合指数，权重为15.74%，也为第一大权重股。根据编制方案，权重因子于每月第二个星期五的下一交易日或新计入样本权重超过15%时调整。",
-          "url": "https://wallstreetcn.com/livenews/3188091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "A股温度计",
@@ -437,7 +464,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -451,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
-          "url": "https://wallstreetcn.com/livenews/3188089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "金十图示：2026年10月27日（周二）美股热门股票行情一览（美股盘中）",
@@ -525,7 +541,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -569,9 +585,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "港股午评：恒生指数涨0.43%，恒生科技指数涨1.8%",
+          "url": "https://flash.jin10.com/detail/20261028120521873800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "A股游戏板块盘初拉升，盛天网络涨超10%，电魂网络、富春股份、星辉娱乐、冰川网络、凯撒文化跟涨。",
@@ -591,7 +618,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -616,12 +643,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "恒生科技指数涨超2%，恒生指数涨0.48%。",
+          "url": "https://flash.jin10.com/detail/20261028115407898800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国两位主教与特朗普同框后，懊悔了",
@@ -643,11 +681,12 @@
             12,
             7,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "特朗普：委内瑞拉或成为美国第51个州",
@@ -657,8 +696,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 12时03分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
@@ -670,6 +709,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普：将很快安排与普京、泽连斯基举行会晤。",
+          "url": "https://wallstreetcn.com/livenews/3188117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "特朗普：由于我对内塔尼亚胡的力挺 选情出现逆转",
+          "url": "https://flash.jin10.com/detail/20261028124142069800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及中期选举后是否会对伊朗发动更多打击）任何事都有可能发生。",
+          "url": "https://flash.jin10.com/detail/20261028123729031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "美国总统特朗普：对于巴西大选，华府没有选边站队。 会赞成博索纳罗前往美国。",
+          "url": "https://wallstreetcn.com/livenews/3188114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国总统特朗普：相信我会在得克萨斯州参观一艘载有委内瑞拉石油的油轮。认为美国国务卿鲁比奥将与我同行。我们将接收100万桶委内瑞拉石油。",
@@ -790,6 +873,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "美国总统特朗普：将在亚洲之行期间举行一次关于核裁军的会议。",
+          "url": "https://flash.jin10.com/detail/20261028123400041800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "据华盛顿邮报：美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定。",
           "url": "https://flash.jin10.com/detail/20261028031517828800",
           "source": "金十数据",
@@ -801,6 +895,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "美国总统特朗普：在乌克兰问题上正取得大量进展，希望能很快与普京和泽连斯基会面。",
+          "url": "https://flash.jin10.com/detail/20261028123052337800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国总统特朗普：我没获得诺贝尔奖，但我拯救了3000万条生命。这要好得多。",
           "url": "https://flash.jin10.com/detail/20261028044051034800",
           "source": "金十数据",
@@ -810,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：本来会批准弗拉维奥·博索纳罗前来美国。",
+          "url": "https://flash.jin10.com/detail/20261028122900465800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国总统特朗普：我们很快会在所有相关文件中正式禁用“AI/人工智能”这一术语。 华尔街日报何时才会开始将人工智能（AI）这个糟糕且不准确的名称改称为超级智能（SI）？ 几乎其他所有人都在使用这个名称，或者很快就会使用。 很快，我们将正式禁止在所有相关文件及其他一切场合使用“AI/人工智能”这一术语，因为该名称不准确。",
@@ -900,6 +1016,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "美国亚裔选民对共和党信任度下滑，特朗普经济支持率骤降",
+          "url": "https://flash.jin10.com/detail/20261028120743833800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国总统特朗普重申石油流出霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3187896",
           "source": "华尔街见闻-快讯",
@@ -920,12 +1047,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普拟放宽油气行业甲烷管制！声称可省450亿美元、增产2.1亿桶石油",
+          "url": "https://flash.jin10.com/detail/20261028115718533800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国至10月23日当周API投产原油量 4.7万桶/日，前值-40.8万桶/日。",
@@ -1079,6 +1217,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "资金提前买防涨保险，原油还会迎来大涨吗？",
+          "url": "https://flash.jin10.com/detail/20261028123602303800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国至10月23日当周API原油库存 -203.1万桶，预期52.2万桶，前值-493.1万桶。",
           "url": "https://flash.jin10.com/detail/20261028044238026800",
           "source": "金十数据",
@@ -1203,7 +1352,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "科创50跌4%，千元股仅剩贵州茅台，工行建行再创新高，30年期国债创年内新高，恒科指跌超1%，智谱涨9%",
@@ -1217,8 +1366,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 12时03分]"
+          "appearance_count": 19,
+          "time_info": "[00时04分 ~ 13时02分]"
         },
         {
           "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
@@ -1267,6 +1416,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时04分 ~ 09时04分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.05%，10年期主力合约跌0.01%，5年期主力合约跌0.00%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3188094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时02分]"
         },
         {
           "title": "国债期货开盘，30年期主力合约与昨日持平，10年期主力合约涨0.02%，5年期主力合约涨0.02%，2年期主力合约跌0.00%。",
@@ -1350,17 +1511,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.05%，10年期主力合约跌0.01%，5年期主力合约跌0.00%，2年期主力合约涨0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3188094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
           "title": "美国至10月27日6周国债竞拍-得标利率配置百分比 83.1%，前值78.53%。",
           "url": "https://flash.jin10.com/detail/20261027233239860800",
           "source": "金十数据",
@@ -1422,7 +1572,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1436,6 +1586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "日本2年期国债收益率上升2.0个基点，至1.895%。日本5年期国债收益率上升3.5个基点，至2.265%。",
+          "url": "https://flash.jin10.com/detail/20261028121045792800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "两年期美债收益率涨约1.3个基点",
@@ -1460,11 +1621,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时04分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时04分 ~ 13时02分]"
         },
         {
           "title": "谷歌发布世界模型Genie 4",
@@ -1645,8 +1807,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 12时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时02分 ~ 13时02分]"
         },
         {
           "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
@@ -1683,7 +1845,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
@@ -1703,8 +1865,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 12时03分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 13时02分]"
         },
         {
           "title": "DeepSeek七款工具同题实测",
@@ -1714,11 +1876,12 @@
             27,
             16,
             17,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 11时02分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 13时02分]"
         }
       ]
     },
@@ -1762,11 +1925,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时02分 ~ 12时03分]"
+          "appearance_count": 12,
+          "time_info": "[06时02分 ~ 13时02分]"
         }
       ]
     }
