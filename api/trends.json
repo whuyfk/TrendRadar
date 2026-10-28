@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T18:03:18.813018+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-10-28T19:02:56.392364+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
@@ -78,7 +78,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -149,6 +149,20 @@
           "time_info": "11时02分"
         },
         {
+          "title": "【午报】创业板指半日涨3%，全市场近4500股收红，人形机器人概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2517555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
+        },
+        {
           "title": "恒生科技指数盘中涨2%，MNIMAX涨超8%，联想集团涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3188107",
           "source": "华尔街见闻-快讯",
@@ -160,6 +174,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时03分 ~ 14时04分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量涨超3%，机器人概念延续强势，算力硬件股集体反弹",
+          "url": "https://www.cls.cn/detail/2517912",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.69%，深成指涨1.34%，半导体芯片、算力硬件、游戏、消费电子等方向领涨，沪深京三市上涨个股超4000只。",
@@ -236,17 +263,28 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
-          "title": "【午报】创业板指半日涨3%，全市场近4500股收红，人形机器人概念股再度爆发",
-          "url": "https://www.cls.cn/detail/2517555",
-          "source": "财联社热门",
+          "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3784632",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            12,
-            11
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "【焦点复盘】沪指、创业板指放量收复5日线，AI制药概念卷土重来，机器人概念午后现批量炸板",
+          "url": "https://www.cls.cn/detail/2517952",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时02分]"
         },
         {
           "title": "纳指100 ETF收涨将近1.3%，领跑美股大类资产类ETF",
@@ -284,18 +322,6 @@
           "time_info": "[16时02分 ~ 16时03分]"
         },
         {
-          "title": "【每日收评】创业板指放量涨超3%，机器人概念延续强势，算力硬件股集体反弹",
-          "url": "https://www.cls.cn/detail/2517912",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时03分]"
-        },
-        {
           "title": "上证指数早盘收报3674.44点，涨0.72%。 深证成指早盘收报11470.03点，涨1.99%。 创业板指早盘收报2624.64点，涨3.00%。 沪深300早盘收报4077.16点，涨0.68%。 科创50早盘收报1283.67点，涨2.51%。 中证500早盘收报6659.93点，涨2.28%。 中证1000早盘收报6594.51点，涨2.60%。",
           "url": "https://wallstreetcn.com/livenews/3188097",
           "source": "华尔街见闻-快讯",
@@ -306,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 13时02分]"
-        },
-        {
-          "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3784632",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时03分]"
         },
         {
           "title": "恒生科技指数涨超1%。",
@@ -414,6 +428,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 13时02分]"
+        },
+        {
+          "title": "如何看A股当下的配置性价比？易方达、招商、富国等头部公募发声",
+          "url": "https://www.cls.cn/detail/2517692",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时02分]"
         },
         {
           "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
@@ -515,7 +541,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -553,17 +579,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "【焦点复盘】沪指、创业板指放量收复5日线，AI制药概念卷土重来，机器人概念午后现批量炸板",
-          "url": "https://www.cls.cn/detail/2517952",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
-        },
-        {
           "title": "A股温度计",
           "url": "https://flash.jin10.com/detail/20261028085946194800",
           "source": "金十数据",
@@ -595,17 +610,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "如何看A股当下的配置性价比？易方达、招商、富国等头部公募发声",
-          "url": "https://www.cls.cn/detail/2517692",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "金十图示：2026年10月27日（周二）美股热门股票行情一览（美股盘中）",
@@ -872,6 +876,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "Ge Vernova第三季度营收126.4亿美元，预期为119.9亿美元。 第三季度每股收益4.81美元，去年同期为1.64美元。 第三季度调整后息税折旧摊销前利润（EBITDA）为19.4亿美元，预期为16.8亿美元。 Ge Vernova预计全年营收为465亿至475亿美元，此前预期为455亿至465亿美元。 Ge Vernova美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3188882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "恒生科技指数涨超2%，恒生指数涨0.48%。",
           "url": "https://flash.jin10.com/detail/20261028115407898800",
           "source": "金十数据",
@@ -897,7 +912,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普：委内瑞拉或成为美国第51个州",
@@ -938,18 +953,6 @@
           "time_info": "[00时04分 ~ 08时04分]"
         },
         {
-          "title": "国台办回应特朗普涉台言论",
-          "url": "https://www.toutiao.com/trending/7701604359507608091/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时03分]"
-        },
-        {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
           "url": "https://original.ifeng.com/c/8xagHUQBnzH",
           "source": "凤凰网",
@@ -957,8 +960,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时02分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -968,8 +971,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时03分 ~ 18时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 19时02分]"
+        },
+        {
+          "title": "国台办回应特朗普涉台言论",
+          "url": "https://www.toutiao.com/trending/7701604359507608091/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
@@ -1100,6 +1116,17 @@
           "time_info": "[13时02分 ~ 14时04分]"
         },
         {
+          "title": "如果共和党中期选举输了怎么办？特朗普回应",
+          "url": "https://news.ifeng.com/c/8xabEL09CAG",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 19时02分]"
+        },
+        {
           "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
           "url": "https://wallstreetcn.com/livenews/3187874",
           "source": "华尔街见闻-快讯",
@@ -1134,17 +1161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时05分]"
-        },
-        {
-          "title": "如果共和党中期选举输了怎么办？特朗普回应",
-          "url": "https://news.ifeng.com/c/8xabEL09CAG",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时03分"
         },
         {
           "title": "美国能源部长：能源部正在加速推进特朗普总统的美国核能复兴计划",
@@ -1189,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普炮轰：“AI”一词糟糕且不准确 将很快禁用！",
+          "url": "https://www.cls.cn/detail/2517911",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：在乌克兰问题上正取得大量进展，希望能很快与普京和泽连斯基会面。",
@@ -1285,7 +1312,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -1365,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "国台办回应特朗普最新涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普拟放宽油气行业甲烷管制！声称可省450亿美元、增产2.1亿桶石油",
@@ -1679,7 +1717,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -1720,7 +1758,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国至10月23日当周API投产原油量 4.7万桶/日，前值-40.8万桶/日。",
@@ -1916,6 +1954,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "消息人士称，黑海CPC混合原油11月的日均出口量预计将较10月下降2%。",
+          "url": "https://flash.jin10.com/detail/20261028182808917800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "消息人士：自10月中旬无人机袭击停止以来，俄罗斯炼油厂原油加工量增长了25%。",
@@ -2225,8 +2274,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时02分 ~ 18时03分]"
+          "appearance_count": 18,
+          "time_info": "[07时02分 ~ 19时02分]"
         },
         {
           "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
@@ -2263,7 +2312,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -2371,8 +2420,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[06时02分 ~ 18时03分]"
+          "appearance_count": 19,
+          "time_info": "[06时02分 ~ 19时02分]"
         }
       ]
     }
