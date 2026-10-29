@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T11:03:06.626446+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-10-29T12:03:20.596710+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "多家A股公司抛出回购计划，两只龙头股披露回购进展",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 11时03分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 12时03分]"
         },
         {
           "title": "创业板大涨超3%，机器人、算力硬件集体爆发，“易中天”强势反弹，创新药午后拉升，恒科指涨1%",
@@ -49,6 +49,19 @@
           "time_info": "[00时03分 ~ 09时03分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+          "url": "https://www.cls.cn/detail/2518554",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 12时03分]"
+        },
+        {
           "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
           "url": "https://wallstreetcn.com/articles/3784634",
           "source": "华尔街见闻",
@@ -59,19 +72,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 06时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
-          "url": "https://www.cls.cn/detail/2518554",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 11时03分]"
         },
         {
           "title": "学者：A股反弹第一枪打响",
@@ -122,16 +122,29 @@
           "time_info": "10时02分"
         },
         {
+          "title": "丹麦Genmab抗癌药物试验报捷 美股股价涨约30%创新高",
+          "url": "https://www.cls.cn/detail/2518474",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 12时03分]"
+        },
+        {
           "title": "创业板指跌超2%，沪指跌0.46%，深成指跌1.38%，算力硬件、半导体芯片、软件服务等方向跌幅居前，沪深京三市下跌个股近3800只。",
           "url": "https://wallstreetcn.com/livenews/3189527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时03分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.13%，报23103点。 恒生科技指数主连夜盘收跌0.18%，报3841点。",
@@ -146,16 +159,16 @@
           "time_info": "[04时03分 ~ 05时02分]"
         },
         {
-          "title": "丹麦Genmab抗癌药物试验报捷 美股股价涨约30%创新高",
-          "url": "https://www.cls.cn/detail/2518474",
-          "source": "财联社热门",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时03分]"
         },
         {
           "title": "飞塔信息（Fortinet）三季度营收20.8亿美元，分析师预期20.7亿美元。 三季度Billings（账单收入/订单金额）为23.4亿美元，分析师预期23亿美元。 三季度调整后每股收益（EPS）为0.91美元，分析师预期0.86美元。 预计全年营收81.3亿-82.2亿美元，公司原本预计80.2亿-81.8亿美元。 预计全年服务营收51.5亿-51.7亿美元，分析师预期52亿美元。 预计全年调整后毛利润率79.7%-80.3%，公司原本预计79%-81%。 预计全年Billings将为95.7亿-97.2亿美元，公司原本预计93.5亿-95.5亿美元。 预计四季度营收21.6亿-22.5亿美元，分析师预期21.7亿美元。 飞塔信息（FTNT）美股盘后暴跌22.5%。",
@@ -217,15 +230,16 @@
           "time_info": "[07时02分 ~ 08时04分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "创业板指、科创50指数均跌超3%，沪指跌0.7%，深成指跌1.85%，算力硬件、半导体芯片、软件服务等方向跌幅居前，沪深京三市下跌个股超4400只。",
+          "url": "https://wallstreetcn.com/livenews/3189531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "time_info": "[11时03分 ~ 12时03分]"
         },
         {
           "title": "美股收盘：SK海力士涨超13%",
@@ -256,7 +270,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -270,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "10月29日午间收评：创业板指半日跌3.63%，四大行总市值突破10万亿",
+          "url": "https://wallstreetcn.com/livenews/3189563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美股软件行业ETF美股盘后跌3%。",
@@ -289,7 +314,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -303,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "创业板指、科创50指数均跌超3%，沪指跌0.7%，深成指跌1.85%，算力硬件、半导体芯片、软件服务等方向跌幅居前，沪深京三市下跌个股超4400只。",
-          "url": "https://wallstreetcn.com/livenews/3189531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
         },
         {
           "title": "A股存储芯片板块低开，富满微、佰维存储跌超10%，盛合晶微、大普微、盛美上海、盈方微跟跌。",
@@ -358,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股午评：沪指跌0.93% 银行板块逆势走强",
+          "url": "https://flash.jin10.com/detail/20261029113607452800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "中国上证综指10月29日（周四）开盘下跌4.7点，跌幅：0.13%，报3676.77点；<br/>中国深证成指10月29日（周四）开盘下跌94.18点，跌幅：0.82%，报11379点；<br/>中国沪深300指数10月29日（周四）开盘下跌8.4点，跌幅：0.21%，报4075.47点；<br/>中国创业板指数10月29日（周四）开盘下跌38.54点，跌幅：1.46%，报2596.22点；<br/>中国科创50指数10月29日（周四）开盘下跌11.12点，跌幅：0.87%，报1271.81点。",
@@ -498,7 +523,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -539,8 +564,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 12时03分]"
         },
         {
           "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
@@ -551,8 +576,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 12时03分]"
         },
         {
           "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
@@ -564,8 +589,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时04分 ~ 11时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 12时03分]"
         },
         {
           "title": "Gemini 4 Carbon发布",
@@ -600,6 +625,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
+          "url": "https://www.zhihu.com/question/2098949045934880103",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 12时03分]"
         },
         {
           "title": "谷歌将TPUs（产品）视作将会出售的平台，甚至为了竞争也会这样做。 谷歌将在云领域加速新的客户部署。 CEO Pichai说，安全、信任是用户使用agents的头等顾虑。",
@@ -650,6 +688,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+          "url": "https://www.cls.cn/detail/2518619",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 12时03分]"
+        },
+        {
           "title": "谷歌母公司Alphabet首席执行官Pichai：AI模型Argon已经促进谷歌的代码开发。 新款AI模型Carbon是我司最强大的，其性能超越Gemini 4 Argon。 谷歌将在Chrome、安卓以及Google Workspace中拓展智能体AI。 搜索查询量正以五年来最快速度增长。",
           "url": "https://wallstreetcn.com/livenews/3189400",
           "source": "华尔街见闻-快讯",
@@ -662,39 +712,16 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
-          "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
-          "url": "https://www.zhihu.com/question/2098949045934880103",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 11时03分]"
-        },
-        {
-          "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
-          "url": "https://www.cls.cn/detail/2518619",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 11时03分]"
-        },
-        {
           "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
           "url": "https://wallstreetcn.com/articles/3784718",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时03分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：Gemini 4 Carbon将于今年晚些时候向消费者开放。",
@@ -1118,11 +1145,12 @@
           "url": "https://www.toutiao.com/trending/7701870124713643561/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时03分]"
         },
         {
           "title": "特朗普称他没有让万斯致信伊朗",
@@ -1232,7 +1260,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1339,7 +1367,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国财政部拍卖四个月期国债，得标利率4.140%，投标倍数3.08。",
@@ -1501,6 +1529,17 @@
           "time_info": "09时03分"
         },
         {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261029113115743800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "市场反应：两年期美债收益率、彭博美元指数短线V形走势",
           "url": "https://wallstreetcn.com/livenews/3189334",
           "source": "华尔街见闻-快讯",
@@ -1548,7 +1587,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
@@ -1562,8 +1601,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 12时03分]"
         },
         {
           "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
@@ -1577,6 +1616,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "OpenAI将整合Chat与Work",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%B0%86%E6%95%B4%E5%90%88Chat%E4%B8%8EWork",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
@@ -1651,8 +1701,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 11时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 12时03分]"
         },
         {
           "title": "WTI原油日内涨幅扩大至3%，现报102.49美元/桶。",
@@ -1712,8 +1762,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何理解梁文锋「在颠覆性的技术面前，闭源形成的护城河是短暂的」这一判断？",
+          "url": "https://www.zhihu.com/question/2098733383778149122",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "如何看待大伟哥谈 DeepSeek 追求性价比，米哈游 AI 大模型追求解决极难问题，称要做「前所未有的事」？",
+          "url": "https://www.zhihu.com/question/2098876748163199226",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 银价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
@@ -1725,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 06时02分]"
+        },
+        {
+          "title": "美联储按兵不动，金价为何冲不出去？",
+          "url": "https://flash.jin10.com/detail/20261029112016326800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
