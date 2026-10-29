@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T19:03:32.723292+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-10-29T20:03:02.009944+08:00",
+  "total_titles_processed": 2101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "多家A股公司抛出回购计划，两只龙头股披露回购进展",
@@ -86,6 +86,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时02分 ~ 17时02分]"
+        },
+        {
+          "title": "红果 国内第四大App",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C+%E5%9B%BD%E5%86%85%E7%AC%AC%E5%9B%9B%E5%A4%A7App",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            4,
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 20时03分]"
         },
         {
           "title": "学者：A股反弹第一枪打响",
@@ -183,6 +197,18 @@
           "time_info": "[09时03分 ~ 12时03分]"
         },
         {
+          "title": "A股为何又下跌了",
+          "url": "https://www.toutiao.com/trending/7701991844195864127/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 20时03分]"
+        },
+        {
           "title": "创业板指跌超2%，沪指跌0.46%，深成指跌1.38%，算力硬件、半导体芯片、软件服务等方向跌幅居前，沪深京三市下跌个股近3800只。",
           "url": "https://wallstreetcn.com/livenews/3189527",
           "source": "华尔街见闻-快讯",
@@ -194,19 +220,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 12时03分]"
-        },
-        {
-          "title": "红果 国内第四大App",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%9E%9C+%E5%9B%BD%E5%86%85%E7%AC%AC%E5%9B%9B%E5%A4%A7App",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时03分]"
         },
         {
           "title": "A股券商股震荡走弱，中金公司午后跌停，华鑫股份、财达证券跌超5%，西部证券、长江证券、山西证券跌幅居前。",
@@ -258,15 +271,16 @@
           "time_info": "[12时03分 ~ 14时03分]"
         },
         {
-          "title": "A股为何又下跌了",
-          "url": "https://www.toutiao.com/trending/7701991844195864127/",
-          "source": "今日头条",
+          "title": "A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元，恒科指跌近3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3784738",
+          "source": "华尔街见闻",
           "ranks": [
-            21
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时03分]"
+          "time_info": "[19时03分 ~ 20时03分]"
         },
         {
           "title": "飞塔信息（Fortinet）三季度营收20.8亿美元，分析师预期20.7亿美元。 三季度Billings（账单收入/订单金额）为23.4亿美元，分析师预期23亿美元。 三季度调整后每股收益（EPS）为0.91美元，分析师预期0.86美元。 预计全年营收81.3亿-82.2亿美元，公司原本预计80.2亿-81.8亿美元。 预计全年服务营收51.5亿-51.7亿美元，分析师预期52亿美元。 预计全年调整后毛利润率79.7%-80.3%，公司原本预计79%-81%。 预计全年Billings将为95.7亿-97.2亿美元，公司原本预计93.5亿-95.5亿美元。 预计四季度营收21.6亿-22.5亿美元，分析师预期21.7亿美元。 飞塔信息（FTNT）美股盘后暴跌22.5%。",
@@ -440,17 +454,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元，恒科指跌近3%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3784738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
-        },
-        {
           "title": "创业板指跌超4% CPO板块全天走低",
           "url": "https://flash.jin10.com/detail/20261029143339803800",
           "source": "金十数据",
@@ -501,7 +504,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -781,13 +784,24 @@
           "time_info": "05时02分"
         },
         {
+          "title": "中际旭创：拟变更565.31万股A股回购股份用途为注销",
+          "url": "https://wallstreetcn.com/livenews/3190455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "默沙东第三季度销售额为180.9亿美元，预期为173.1亿美元。 第三季度每股收益为2.04美元，预期为1.86美元。 默沙东预计全年调整后每股收益为2.77至2.82美元，此前预期为2.66至2.76美元。 默沙东美股盘前涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3190307",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -809,7 +823,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         }
@@ -817,7 +831,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
@@ -828,8 +842,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时04分 ~ 19时03分]"
+          "appearance_count": 18,
+          "time_info": "[08时04分 ~ 20时03分]"
         },
         {
           "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
@@ -853,8 +867,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时04分 ~ 19时03分]"
+          "appearance_count": 18,
+          "time_info": "[08时04分 ~ 20时03分]"
         },
         {
           "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
@@ -867,8 +881,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时02分 ~ 19时03分]"
+          "appearance_count": 15,
+          "time_info": "[11时02分 ~ 20时03分]"
         },
         {
           "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
@@ -1248,6 +1262,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "谷歌云收入翻倍仍遭抛售，市场转向审视AI投资的现金回报",
+          "url": "https://flash.jin10.com/detail/20261029192849755800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "谷歌调拨82亿美元其他收入，来应对马斯克旗下太空探索公司SpaceX股价下跌。",
           "url": "https://wallstreetcn.com/livenews/3189409",
           "source": "华尔街见闻-快讯",
@@ -1268,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "芬兰警方：谷歌(GOOG.O)数据中心选址问题调查范围广泛，预计于2027年结束。",
+          "url": "https://flash.jin10.com/detail/20261029192346903800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "Alphabet(GOOG.O)高管：Gemini企业客户的支出同比增长超过三倍。",
@@ -1295,7 +1331,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -1330,6 +1366,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时03分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普与奥巴马因芝乐坊开战",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%A0%E8%8A%9D%E4%B9%90%E5%9D%8A%E5%BC%80%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "在被问及是否指示万斯帮助启动和伊朗谈判时，美国总统特朗普特回答：“没有。实际情况是他们需要医疗用品和其他各种东西方面的帮助。”他还对万斯说：“如果你想这么做，也没问题。”",
@@ -1411,6 +1458,17 @@
           "time_info": "[04时03分 ~ 05时02分]"
         },
         {
+          "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
+          "url": "https://original.ifeng.com/c/8xcGu6PqBfo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时03分]"
+        },
+        {
           "title": "燃料生产巨头的高管给特朗普泼冷水：俄罗斯柴油不会压低美国的价格",
           "url": "https://wallstreetcn.com/livenews/3189373",
           "source": "华尔街见闻-快讯",
@@ -1433,17 +1491,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时02分 ~ 12时03分]"
-        },
-        {
-          "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
-          "url": "https://original.ifeng.com/c/8xcGu6PqBfo",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 19时03分]"
         },
         {
           "title": "特朗普称他没有让万斯致信伊朗",
@@ -1652,7 +1699,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -2043,11 +2090,12 @@
           "ranks": [
             16,
             1,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 19时03分]"
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 20时03分]"
         },
         {
           "title": "OpenAI将整合Chat与Work",
@@ -2236,11 +2284,12 @@
           "url": "https://www.toutiao.com/trending/7702013997255495231/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 20时03分]"
         },
         {
           "title": "美联储按兵不动，金价为何冲不出去？",
@@ -2272,8 +2321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 19时03分]"
+          "appearance_count": 13,
+          "time_info": "[12时03分 ~ 20时03分]"
         },
         {
           "title": "如何看待大伟哥谈 DeepSeek 追求性价比，米哈游 AI 大模型追求解决极难问题，称要做「前所未有的事」？",
