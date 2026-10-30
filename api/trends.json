@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-30T10:03:06.127514+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-10-30T11:02:57.885208+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 43,
+      "match_count": 52,
       "titles": [
         {
           "title": "微软花式挑战历史新高 美股“三连涨”后面临严峻考验 | 今夜看点",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 11时02分]"
         },
         {
           "title": "如何看待红果短剧跃升为国内第四大app？它瓜分了谁的市场？",
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时04分 ~ 10时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时04分 ~ 11时02分]"
         },
         {
           "title": "红果 国内第四大App",
@@ -81,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -97,37 +97,26 @@
           "time_info": "05时02分"
         },
         {
-          "title": "恒生科技指数涨超1%，小米涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3190915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
           "title": "港股AI次新股盘初回调，智谱(02513.HK)跌超6.6%，芯碁微装(09630.HK)跌超5%，天数智芯(09903.HK)、群核科技(00068.HK)、MiniMax(00100.HK)均跌超3.5%。",
           "url": "https://flash.jin10.com/detail/20261030094005570800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
         {
-          "title": "A股机器人概念股继续活跃，巨轮智能、天奇股份涨停，大业股份、明志科技、正裕工业、步科股份涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3190914",
-          "source": "华尔街见闻-快讯",
+          "title": "A股互联网金融板块下挫，指南针、财富趋势跌超10%，汉鑫科技、大众交通、大智慧、粤传媒、天融信跟跌。",
+          "url": "https://flash.jin10.com/detail/20261030104450821800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "11时02分"
         },
         {
           "title": "惠普（HPQ）美股盘后跌5.8%，惠与（HPE）也跌3.5%。",
@@ -152,15 +141,16 @@
           "time_info": "07时02分"
         },
         {
-          "title": "A股白酒股逆势拉升，古井贡酒、迎驾贡酒涨超7%，皇台酒业、泸州老窖、今世缘、金种子酒跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3190911",
+          "title": "恒生科技指数涨超1%，小米涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3190915",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
           "title": "A股温度计",
@@ -187,6 +177,53 @@
           "time_info": "[09时04分 ~ 10时03分]"
         },
         {
+          "title": "A股机器人概念股继续活跃，巨轮智能、天奇股份涨停，大业股份、明志科技、正裕工业、步科股份涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3190914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "A股白酒股逆势拉升，古井贡酒、迎驾贡酒涨超7%，皇台酒业、泸州老窖、今世缘、金种子酒跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3190911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "专家：A股新一轮调整开启",
+          "url": "https://www.toutiao.com/trending/7702236701950742054/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
+          "title": "创业板指低开3.29% 新易盛跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%803.29%25+%E6%96%B0%E6%98%93%E7%9B%9B%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
           "title": "机构：基本面支撑A股中长期配置价值",
           "url": "https://www.toutiao.com/trending/7701673434153041929/",
           "source": "今日头条",
@@ -199,26 +236,52 @@
           "time_info": "[08时05分 ~ 09时04分]"
         },
         {
-          "title": "专家：A股新一轮调整开启",
-          "url": "https://www.toutiao.com/trending/7702236701950742054/",
-          "source": "今日头条",
+          "title": "恒生科技指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3190905",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
-          "title": "创业板指低开3.29% 新易盛跌超10%",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%803.29%25+%E6%96%B0%E6%98%93%E7%9B%9B%E8%B7%8C%E8%B6%8510%25",
-          "source": "百度热搜",
+          "title": "上证指数开盘报3605.65点，跌1.25%。 深证成指开盘报10871.13点，跌2.40%。 创业板指开盘报2434.80点，跌3.29%。 沪深300开盘报3985.24点，跌1.40%。 科创50开盘报1190.95点，跌3.02%。 中证500开盘报6318.16点，跌2.10%。 中证1000开盘报6243.98点，跌2.11%。",
+          "url": "https://wallstreetcn.com/livenews/3190899",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            9,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "中际旭创港股早盘低开7.2%，股价创上市以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3190898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "恒指高开0.23%，报23011.29点；恒生科技指数跌0.63%。美的集团涨近4%，携程、小米、网易等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3190895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
           "title": "A股回购增持潮起：产业资本加速入场，稳市信号不断增强",
@@ -249,18 +312,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "恒生科技指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3190905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -293,29 +345,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "上证指数开盘报3605.65点，跌1.25%。 深证成指开盘报10871.13点，跌2.40%。 创业板指开盘报2434.80点，跌3.29%。 沪深300开盘报3985.24点，跌1.40%。 科创50开盘报1190.95点，跌3.02%。 中证500开盘报6318.16点，跌2.10%。 中证1000开盘报6243.98点，跌2.11%。",
-          "url": "https://wallstreetcn.com/livenews/3190899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "中际旭创港股早盘低开7.2%，股价创上市以来新低。",
-          "url": "https://wallstreetcn.com/livenews/3190898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -326,7 +356,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -353,24 +383,13 @@
           "time_info": "05时02分"
         },
         {
-          "title": "恒指高开0.23%，报23011.29点；恒生科技指数跌0.63%。美的集团涨近4%，携程、小米、网易等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3190895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
           "title": "A股商业航天板块盘初走弱，光启技术封板跌停，欧科亿、宏力达跌超10%，鸿远电子、多伦科技、长盈通、西部超导等跟跌。",
           "url": "https://flash.jin10.com/detail/20261030093442192800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -381,7 +400,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -395,6 +414,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "A股科技股估值进入相对低位",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E4%BC%B0%E5%80%BC%E8%BF%9B%E5%85%A5%E7%9B%B8%E5%AF%B9%E4%BD%8E%E4%BD%8D%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "A股磨底阶段如何应对",
@@ -414,7 +455,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -425,9 +466,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股培育钻石板块盘中震荡回升，沃尔德涨超10%，力量钻石、四方达、惠丰钻石等跟涨。消息面上，培育钻石需求或已进入量价齐升的复苏通道。",
+          "url": "https://flash.jin10.com/detail/20261030102952972800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "中国上证综指10月30日（周五）开盘下跌45.79点，跌幅：1.25%，报3605.65点；<br/>中国深证成指10月30日（周五）开盘下跌267.07点，跌幅：2.4%，报10871.13点；<br/>中国沪深300指数10月30日（周五）开盘下跌56.6点，跌幅：1.4%，报3985.24点；<br/>中国创业板指数10月30日（周五）开盘下跌82.79点，跌幅：3.29%，报2434.8点；<br/>中国科创50指数10月30日（周五）开盘下跌37.14点，跌幅：3.02%，报1190.95点。",
@@ -436,7 +488,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -447,9 +499,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股元件板块盘中回暖，明阳电路20CM涨停，满坤科技涨超17%，澳弘电子封板涨停，超声电子、金禄电子、金百泽等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261030102450984800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "英特尔(INTC.O)美股盘后暴跌22%，英特预计四季度营收150亿-160亿美元，市场预期为171亿美元。",
@@ -474,6 +537,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "A股CRO概念板块水下拉起，睿智医药涨超12%，东方海洋封板涨停，近岸蛋白涨近11%，万邦医药、百花医药、普蕊斯等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261030102311221800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "港股新股冷热分化：高认购与破发并存",
           "url": "https://wallstreetcn.com/livenews/3190825",
           "source": "华尔街见闻-快讯",
@@ -483,6 +557,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
+        },
+        {
+          "title": "A股新易盛成交额达100亿元，现跌8%。",
+          "url": "https://flash.jin10.com/detail/20261030102024208800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股中药板块逆市走高，羚锐制药、桂林三金双双封板涨停，信邦制药、步长制药、葵花药业、吉林敖东、康美药业等多股涨超3%。",
+          "url": "https://flash.jin10.com/detail/20261030101954925800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股再度跌破3600点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%8D%E5%BA%A6%E8%B7%8C%E7%A0%B43600%E7%82%B9%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "十余家A股上市银行三季报扫描：营收增速分化，息差企稳与资产质量韧性并存",
@@ -499,7 +606,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "马杜罗案主审法官去世，新任法官与特朗普“很不对付”",
@@ -607,6 +714,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
+          "url": "https://wallstreetcn.com/articles/3784793",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
           "title": "美国总统特朗普重申将墨西哥湾更名为美国湾，提议将霍尔木兹海峡更名为特朗普海峡。",
           "url": "https://wallstreetcn.com/livenews/3190707",
           "source": "华尔街见闻-快讯",
@@ -617,17 +736,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时03分]"
-        },
-        {
-          "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
-          "url": "https://wallstreetcn.com/articles/3784793",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "美国总统特朗普：加拿大近来对我们态度不错。",
@@ -873,6 +981,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "美国总统特朗普周五日程一览",
+          "url": "https://flash.jin10.com/detail/20261030102700458800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "白宫顾问哈塞特：如果美国10月通胀数据真的很高，美联储可能会采取行动。 10月CPI、PCE通胀数据应该会表明美联储应该如何做。 美联储主席沃什在允许美联储内部存在“正常”异议方面做得很好。 拒绝谈论（再次被美国总统特朗普盯上的）美联储理事库克。 并不担心联邦公开市场委员会（FOMC）的现状。",
           "url": "https://wallstreetcn.com/livenews/3190613",
           "source": "华尔街见闻-快讯",
@@ -931,7 +1050,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "分析师：欧元区国债收益率高企，降低欧洲央行加息必要性",
@@ -973,11 +1092,12 @@
           "url": "https://wallstreetcn.com/livenews/3190904",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
           "title": "美国至10月23日当周外国央行持有美国国债 -42.5亿美元，前值219.58亿美元。",
@@ -1063,7 +1183,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1129,9 +1249,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "美债收益率回落也救不了黄金，缺的是增量买盘",
+          "url": "https://flash.jin10.com/detail/20261030103103844800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "美国两年期国债收益率跌超6.4个基点，美股盘初刷新日低",
@@ -1151,7 +1282,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1173,7 +1304,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1220,12 +1351,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美科技巨头财报接连“踩雷”，亚洲芯片股再重挫，避险资金转向美债",
+          "url": "https://flash.jin10.com/detail/20261030101709339800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌盘前大跌逾11%，或创上市以来最大财报后跌幅",
@@ -1266,6 +1408,30 @@
           "time_info": "[00时02分 ~ 09时04分]"
         },
         {
+          "title": "谷歌创纪录暴跌，美股指终结三连涨，云服务股普跌，盘后英特尔狂泻20%、亚马逊重挫",
+          "url": "https://wallstreetcn.com/articles/3784748",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 11时02分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌超1% 谷歌创上市以来最大单日跌幅",
+          "url": "https://www.cls.cn/detail/2519945",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 11时02分]"
+        },
+        {
           "title": "谷歌财报重挫市场信心，纳指低开跌1.35%，Alphabet跌幅扩大至13.7%，创历史最大跌幅",
           "url": "https://wallstreetcn.com/articles/3784748",
           "source": "华尔街见闻",
@@ -1278,28 +1444,15 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
-          "title": "谷歌创纪录暴跌，美股指终结三连涨，云服务股普跌，盘后英特尔狂泻20%、亚马逊重挫",
-          "url": "https://wallstreetcn.com/articles/3784748",
-          "source": "华尔街见闻",
+          "title": "【早报】谷歌跌12%，英特尔盘后跌超20%；沪市9只主动ETF全部完成募集；中际旭创、新易盛、胜宏科技等披露三季报",
+          "url": "https://www.cls.cn/detail/2519971",
+          "source": "财联社热门",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 纳指跌超1% 谷歌创上市以来最大单日跌幅",
-          "url": "https://www.cls.cn/detail/2519945",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时03分]"
+          "time_info": "[08时05分 ~ 11时02分]"
         },
         {
           "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
@@ -1312,17 +1465,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时02分]"
-        },
-        {
-          "title": "【早报】谷歌跌12%，英特尔盘后跌超20%；沪市9只主动ETF全部完成募集；中际旭创、新易盛、胜宏科技等披露三季报",
-          "url": "https://www.cls.cn/detail/2519971",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 10时03分]"
         },
         {
           "title": "谷歌市值蒸发5000亿美元",
@@ -1359,11 +1501,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 10时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 11时02分]"
         },
         {
           "title": "谷歌重夺大模型第一 华尔街却不买账",
@@ -1374,8 +1517,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 10时03分]"
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 11时02分]"
         },
         {
           "title": "谷歌市值蒸发超5000亿美元",
@@ -1457,6 +1600,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "谷歌 A股",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%20A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
           "title": "标普500指数初步收跌0.3%，电信板块跌6.6%，科技板块跌1%，保健、房地产板块涨2.3%。 纳斯达克100指数初步收跌1.4%，成分股中，ALNY初步收跌24.4%，飞塔信息跌20.7%，迈威尔科技/美满电子跌13.2%，谷歌A跌12.6%，谷歌C跌12.4%，泰瑞达、Nebius、闪迪、CoreWeave至少跌5.1%，拼多多涨2.2%，吉利德科学、莫德纳至多涨3.9%，科磊涨5.4%，Doordash涨5.7%，恩智浦涨5.8%。 北美科技软件股指数ETF收跌约3.5%。",
           "url": "https://wallstreetcn.com/livenews/3190742",
           "source": "华尔街见闻-快讯",
@@ -1485,24 +1639,13 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "国际油价走高，布油、WTI原油期货现涨约2.8%，分别报113.87美元/桶和104.86美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3190917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
           "title": "国际油价短线上扬 WTI原油触及103美元关口",
           "url": "https://flash.jin10.com/detail/20261030094004044800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1516,6 +1659,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "国际油价走高，布油、WTI原油期货现涨约2.8%，分别报113.87美元/桶和104.86美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3190917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
           "title": "上期所原油期货2612合约夜盘收1.96%，报721.50元人民币/桶。 沪金夜盘收跌1.02%，沪银收跌4.10%。",
@@ -1547,7 +1702,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -1624,7 +1779,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
@@ -1639,11 +1794,12 @@
           "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%E4%BD%BF%E7%94%A8%E9%A2%9D%E5%BA%A6%E7%BF%BB%E5%80%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "OpenAI将AI失准监测范围扩大至所有前沿模型。",
@@ -1703,25 +1859,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何理解梁文锋「在颠覆性的技术面前，闭源形成的护城河是短暂的」这一判断？",
-          "url": "https://www.zhihu.com/question/2098733383778149122",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 银价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价跌回8字头 有人直奔柜台买金条",
@@ -1736,6 +1875,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "金价暴跌消费者发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何理解梁文锋「在颠覆性的技术面前，闭源形成的护城河是短暂的」这一判断？",
+          "url": "https://www.zhihu.com/question/2098733383778149122",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
