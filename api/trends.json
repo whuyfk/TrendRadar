@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-10-31T04:02:40.482168+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-10-31T05:03:57.866193+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
         {
           "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
           "url": "https://wallstreetcn.com/livenews/3191844",
@@ -28,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.25%，报23345点。 恒生科技指数主连夜盘收跌0.08%，报3758点。",
@@ -38,9 +39,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
         },
         {
           "title": "A股三大股指午后全线翻红转涨",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7%，现报10711.48点。英伟达跌3.59%，博通跌5.34%，美光跌4.99%，英特尔跌28.34%，AMD跌9.63%，高通跌11.19%，台积电跌5.33%，阿斯麦跌5.65%。",
@@ -100,8 +101,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "金十图示：2026年10月30日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261031040618950800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "金十图示：2026年10月30日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261031040531429800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "金十图示：2026年10月30日（周五）美股热门股票行情一览（美股盘中）",
@@ -124,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美股收盘：三大股指低收 费半跌超7%",
+          "url": "https://flash.jin10.com/detail/20261031040239850800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "硅基流动港股发行上市备案材料获中国证监会接收",
@@ -150,9 +184,195 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 10,
+      "keyword_group": "特朗普",
+      "match_count": 14,
       "titles": [
+        {
+          "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
+          "url": "https://news.ifeng.com/c/8xeG9SuF3iC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
+        },
+        {
+          "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
+          "url": "https://www.cls.cn/detail/2521289",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
+        },
+        {
+          "title": "据CBS：美国总统特朗普：线上集会是很好的工具，当地时间周一将举行“相当多场”线上集会。",
+          "url": "https://flash.jin10.com/detail/20261031044542959800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "怎么看特朗普前律师疑卖特赦",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%BE%8B%E5%B8%88%E7%96%91%E5%8D%96%E7%89%B9%E8%B5%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时03分]"
+        },
+        {
+          "title": "据NewsNation，美国总统特朗普将于北京时间11月2日凌晨4时在爱荷华州杜布克举行集会，并于当天北京时间上午8时在堪萨斯州萨利纳举行第二场集会。美国副总统万斯将于11月3日选举前一天在俄亥俄州斯旺顿举行集会。",
+          "url": "https://flash.jin10.com/detail/20261031024956635800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时02分]"
+        },
+        {
+          "title": "美国总统特朗普的政府正向立陶宛施压，要求其放宽欧盟对白俄罗斯钾肥出口的制裁，以确保美国农民获得更便宜的化肥，并减少对加拿大的依赖。 欧洲官员反对这一做法。",
+          "url": "https://wallstreetcn.com/livenews/3191825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时03分]"
+        },
+        {
+          "title": "俄总统新闻秘书：目前尚无普京与特朗普通话计划",
+          "url": "https://wallstreetcn.com/livenews/3191823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时03分]"
+        },
+        {
+          "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
+          "url": "https://wallstreetcn.com/articles/3784793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "王骁谈特朗普中期选举处境",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在伊朗花掉的任何钱，都已经通过我们在委内瑞拉的行动加倍弥补回来，赚取了数千亿美元，很多很多倍。",
+          "url": "https://flash.jin10.com/detail/20261031041120585800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普：愚蠢的人想让我制裁俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20261031041055446800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普：美伊双方正在谈判，坦白说，我们还有时间。",
+          "url": "https://flash.jin10.com/detail/20261031040755202800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普再次表示伊朗战事将“很快结束”",
+          "url": "https://wallstreetcn.com/livenews/3191757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "据NewsNation：美国总统特朗普目前正在白宫椭圆形办公室会见斯蒂芬·哈伯德（Stephen Hubbard）。哈伯德此前刚从俄罗斯监狱获释。",
+          "url": "https://flash.jin10.com/detail/20261031035858594800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "WTI 12月原油期货收涨2.12美元，涨幅将近2.08%，报104.12美元/桶，10月份累计上涨超过17.75%，连续四个月上涨，期间累计涨幅超过52.33%。 布伦特12月原油期货收报117.64美元/桶。 NYMEX 11月天然气期货收报2.8980美元/百万英热单位。 NYMEX 11月汽油期货收报3.3120美元/加仑，NYMEX 11月取暖油期货收报4.7905美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3191843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
         {
           "title": "WTI 12月原油期货收涨2.12美元，涨幅将近2.08%，报104.12美元/桶，10月份累计上涨超过17.75%，连续四个月上涨，期间累计涨幅超过52.33%。 NYMEX 11月天然气期货收报2.8980美元/百万英热单位。 NYMEX 11月汽油期货收报3.3120美元/加仑，NYMEX 11月取暖油期货收报4.7905美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3191843",
@@ -165,17 +385,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "WTI 12月原油期货收涨2.12美元，涨幅将近2.08%，报104.12美元/桶，10月份累计上涨超过17.75%，连续四个月上涨，期间累计涨幅超过52.33%。 布伦特12月原油期货收报117.64美元/桶。 NYMEX 11月天然气期货收报2.8980美元/百万英热单位。 NYMEX 11月汽油期货收报3.3120美元/加仑，NYMEX 11月取暖油期货收报4.7905美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3191843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
           "title": "上期所原油期货2612合约夜盘收涨4.25%，报758.50元人民币/桶。 沪金夜盘收跌3.51%，沪银收跌6.8%。",
           "url": "https://wallstreetcn.com/livenews/3191842",
           "source": "华尔街见闻-快讯",
@@ -184,8 +393,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
         },
         {
           "title": "EIA：美国8月原油产量上升、石油需求下降",
@@ -224,13 +433,24 @@
           "time_info": "[03时02分 ~ 04时02分]"
         },
         {
+          "title": "英国海上贸易行动办公室：经核实消息源称，一艘原油油轮在通过霍尔木兹海峡时遭不明发射物击中。",
+          "url": "https://flash.jin10.com/detail/20261031041849709800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，原油投机者削减WTI净多头头寸6,616份合约，至104,314份。",
           "url": "https://flash.jin10.com/detail/20261031033035082800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -274,6 +494,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "美股跌幅持续扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，美债上涨，黄金创一年新低",
+          "url": "https://wallstreetcn.com/articles/3784816",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
           "title": "科技股抛售加剧，美股低开低走，费半跌超7%，英特尔一度暴跌30%，美债上涨，黄金创一年新低",
           "url": "https://wallstreetcn.com/articles/3784816",
           "source": "华尔街见闻",
@@ -283,17 +514,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美股跌幅持续扩大，科技股抛售加剧，费半跌9%，英特尔暴跌30%，美债上涨，黄金创一年新低",
-          "url": "https://wallstreetcn.com/articles/3784816",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
         },
         {
           "title": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元",
@@ -307,17 +527,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国超长期国债期货净空头头寸8,417份合约，至383,578份；投机者削减CBOT美国5年期国债期货净空头头寸45,053份合约，至1,029,056份；投机者削减CBOT美国国债期货净空头头寸49,281份合约，至19,138份。",
-          "url": "https://flash.jin10.com/detail/20261031033123816800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
           "title": "英国长端国债收益率10月份累跌超20个基点",
           "url": "https://wallstreetcn.com/livenews/3191829",
           "source": "华尔街见闻-快讯",
@@ -327,8 +536,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国超长期国债期货净空头头寸8,417份合约，至383,578份；投机者削减CBOT美国5年期国债期货净空头头寸45,053份合约，至1,029,056份；投机者削减CBOT美国国债期货净空头头寸49,281份合约，至19,138份。",
+          "url": "https://flash.jin10.com/detail/20261031033123816800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
         },
         {
           "title": "纳斯达克指数再度刷新盘中低点，美债期货成交量骤增",
@@ -340,8 +561,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时03分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国10年期国债期货净空头头寸17,245份合约，至981,538份；投机者增加CBOT美国2年期国债期货净空头头寸152,693份合约，至1,009,476份。",
@@ -350,7 +571,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -375,125 +596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
-          "url": "https://news.ifeng.com/c/8xeG9SuF3iC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
-          "url": "https://www.cls.cn/detail/2521289",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "据NewsNation，美国总统特朗普将于北京时间11月2日凌晨4时在爱荷华州杜布克举行集会，并于当天北京时间上午8时在堪萨斯州萨利纳举行第二场集会。美国副总统万斯将于11月3日选举前一天在俄亥俄州斯旺顿举行集会。",
-          "url": "https://flash.jin10.com/detail/20261031024956635800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "怎么看特朗普前律师疑卖特赦",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%BE%8B%E5%B8%88%E7%96%91%E5%8D%96%E7%89%B9%E8%B5%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            15,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
-          "url": "https://wallstreetcn.com/articles/3784793",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国总统特朗普的政府正向立陶宛施压，要求其放宽欧盟对白俄罗斯钾肥出口的制裁，以确保美国农民获得更便宜的化肥，并减少对加拿大的依赖。 欧洲官员反对这一做法。",
-          "url": "https://wallstreetcn.com/livenews/3191825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
-        },
-        {
-          "title": "俄总统新闻秘书：目前尚无普京与特朗普通话计划",
-          "url": "https://wallstreetcn.com/livenews/3191823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
-        },
-        {
-          "title": "王骁谈特朗普中期选举处境",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%AA%81%E8%B0%88%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%84%E5%A2%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普再次表示伊朗战事将“很快结束”",
-          "url": "https://wallstreetcn.com/livenews/3191757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     },
@@ -559,11 +661,12 @@
             28,
             25,
             26,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
         },
         {
           "title": "金价跳水400元有人抄底有人观望",
@@ -613,8 +716,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
         },
         {
           "title": "亚马逊自由现金流「烧穿了」，谷歌的利润下降了，英特尔营收展望不及预期，三件事放一起看能说明什么？",
@@ -626,8 +729,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
         },
         {
           "title": "轮番“历史性暴跌”！谷歌的病，亚马逊也得了",
@@ -637,8 +740,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时03分]"
         }
       ]
     },
@@ -670,6 +773,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数30日下跌",
+          "url": "https://flash.jin10.com/detail/20261031042419551800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     }
