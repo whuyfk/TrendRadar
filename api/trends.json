@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T16:02:38.095153+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-10-31T17:02:32.678505+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时02分 ~ 17时02分]"
         },
         {
           "title": "A股三大股指午后全线翻红转涨",
@@ -75,11 +75,12 @@
             10,
             11,
             14,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 17时02分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.25%，报23345点。 恒生科技指数主连夜盘收跌0.08%，报3758点。",
@@ -92,6 +93,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时02分 ~ 08时03分]"
+        },
+        {
+          "title": "42家A股上市银行三季报悉数“交卷” 营收利润双增长",
+          "url": "https://flash.jin10.com/detail/20261031162825232800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "英特尔美股暴跌科技股同步大跌",
@@ -357,7 +369,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
@@ -367,19 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时03分 ~ 16时02分]"
-        },
-        {
-          "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
-          "url": "https://news.ifeng.com/c/8xeG9SuF3iC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时03分 ~ 17时02分]"
         },
         {
           "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
@@ -391,8 +392,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 17时02分]"
+        },
+        {
+          "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
+          "url": "https://news.ifeng.com/c/8xeG9SuF3iC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
@@ -427,8 +439,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 16时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 17时02分]"
         },
         {
           "title": "怎么看特朗普前律师疑卖特赦",
@@ -530,6 +542,17 @@
           "time_info": "[07时02分 ~ 09时02分]"
         },
         {
+          "title": "特朗普：曾有“愚蠢的人”想让我制裁俄罗斯",
+          "url": "https://wallstreetcn.com/livenews/3191940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "特朗普竞选集会屡遭抗议打断，已形成一套固定回应套路",
           "url": "https://flash.jin10.com/detail/20261031104055019800",
           "source": "金十数据",
@@ -561,11 +584,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时02分]"
         },
         {
           "title": "据NewsNation，美国总统特朗普将于北京时间11月2日凌晨4时在爱荷华州杜布克举行集会，并于当天北京时间上午8时在堪萨斯州萨利纳举行第二场集会。美国副总统万斯将于11月3日选举前一天在俄亥俄州斯旺顿举行集会。",
@@ -712,8 +736,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时03分 ~ 16时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时03分 ~ 17时02分]"
         },
         {
           "title": "英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月",
@@ -723,8 +747,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 17时02分]"
         },
         {
           "title": "上期所原油期货2612合约夜盘收涨4.25%，报758.50元人民币/桶。 沪金夜盘收跌3.51%，沪银收跌6.8%。",
@@ -1036,6 +1060,145 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "OpenAI将最新一轮融资目标砍掉100亿美元，现在寻求按1.25万亿美元估值融资大约200亿美元。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3191865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            12,
+            16,
+            17,
+            18,
+            21,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时02分 ~ 17时02分]"
+        },
+        {
+          "title": "ChatGPT支持多账号切换",
+          "url": "https://flash.jin10.com/detail/20261031143242804800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 17时02分]"
+        },
+        {
+          "title": "OpenAI融资目标骤降100亿美元，估值同步下调至1.25万亿美元",
+          "url": "https://flash.jin10.com/detail/20261031081337100800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时02分]"
+        },
+        {
+          "title": "据英国金融时报：随着科技焦虑加剧，OpenAI将融资目标下调100亿美元。",
+          "url": "https://flash.jin10.com/detail/20261031081008234800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时02分]"
+        },
+        {
+          "title": "日本寻求扩大接入Anthropic和OpenAI的权限。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3191776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+          "url": "https://www.cls.cn/detail/2521127",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "日本要求Anthropic和OpenAI开放更多先进AI模型权限",
+          "url": "https://flash.jin10.com/detail/20261030232033817800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "据日经新闻：日本要求Anthropic和OpenAI提供更多先进模型的访问权限。",
+          "url": "https://flash.jin10.com/detail/20261030231415262800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "OpenAI：将于2027年年初发布第一份报告。 如果我们因青少年反复讨论暴力而暂停其账户，我们将努力向家长发送通知。 与心理健康和暴力预防专家合作，开发自动化方法，以便在用户表现出暴力活动迹象时更早地进行干预。",
+          "url": "https://wallstreetcn.com/livenews/3191792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "怎么看用户发现 OpenAI 在用户结账声明，ChatGPT 和 Codex 的用量将共享一个额度？",
+          "url": "https://www.zhihu.com/question/2099435995737350620",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "OpenAI到底手握多少数学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%88%B0%E5%BA%95%E6%89%8B%E6%8F%A1%E5%A4%9A%E5%B0%91%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 银价",
       "match_count": 11,
       "titles": [
@@ -1050,8 +1213,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时02分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时02分 ~ 17时02分]"
         },
         {
           "title": "谁在牵引金价走势",
@@ -1179,132 +1342,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI将最新一轮融资目标砍掉100亿美元，现在寻求按1.25万亿美元估值融资大约200亿美元。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3191865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            12,
-            16,
-            17,
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 16时02分]"
-        },
-        {
-          "title": "ChatGPT支持多账号切换",
-          "url": "https://flash.jin10.com/detail/20261031143242804800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时02分]"
-        },
-        {
-          "title": "OpenAI融资目标骤降100亿美元，估值同步下调至1.25万亿美元",
-          "url": "https://flash.jin10.com/detail/20261031081337100800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
-        },
-        {
-          "title": "据英国金融时报：随着科技焦虑加剧，OpenAI将融资目标下调100亿美元。",
-          "url": "https://flash.jin10.com/detail/20261031081008234800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
-        },
-        {
-          "title": "日本寻求扩大接入Anthropic和OpenAI的权限。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3191776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "日本要求Anthropic和OpenAI开放更多先进AI模型权限",
-          "url": "https://flash.jin10.com/detail/20261030232033817800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "据日经新闻：日本要求Anthropic和OpenAI提供更多先进模型的访问权限。",
-          "url": "https://flash.jin10.com/detail/20261030231415262800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "OpenAI：将于2027年年初发布第一份报告。 如果我们因青少年反复讨论暴力而暂停其账户，我们将努力向家长发送通知。 与心理健康和暴力预防专家合作，开发自动化方法，以便在用户表现出暴力活动迹象时更早地进行干预。",
-          "url": "https://wallstreetcn.com/livenews/3191792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "怎么看用户发现 OpenAI 在用户结账声明，ChatGPT 和 Codex 的用量将共享一个额度？",
-          "url": "https://www.zhihu.com/question/2099435995737350620",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "OpenAI到底手握多少数学成果",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%88%B0%E5%BA%95%E6%89%8B%E6%8F%A1%E5%A4%9A%E5%B0%91%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
       "titles": [
@@ -1425,11 +1462,12 @@
             15,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时02分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时02分 ~ 17时02分]"
         },
         {
           "title": "怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？",
