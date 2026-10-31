@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T11:02:46.599578+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-10-31T12:02:56.277130+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "A股三大股指午后全线翻红转涨",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时02分]"
         },
         {
           "title": "美股",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时02分]"
         },
         {
           "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
@@ -77,27 +77,29 @@
           "time_info": "[04时02分 ~ 08时03分]"
         },
         {
-          "title": "英特尔美股暴跌科技股同步大跌",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E7%A7%91%E6%8A%80%E8%82%A1%E5%90%8C%E6%AD%A5%E5%A4%A7%E8%B7%8C&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时02分]"
-        },
-        {
           "title": "股权高度集中，年内17家港股公司被香港证监会公示",
           "url": "https://wallstreetcn.com/livenews/3191916",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时02分]"
+        },
+        {
+          "title": "英特尔美股暴跌科技股同步大跌",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E7%A7%91%E6%8A%80%E8%82%A1%E5%90%8C%E6%AD%A5%E5%A4%A7%E8%B7%8C&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时02分]"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7%，现报10711.48点。英伟达跌3.59%，博通跌5.34%，美光跌4.99%，英特尔跌28.34%，AMD跌9.63%，高通跌11.19%，台积电跌5.33%，阿斯麦跌5.65%。",
@@ -199,6 +201,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "研究员：美股科技股大跌是挤水行动",
+          "url": "https://www.toutiao.com/trending/7702642859194715686/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "金十图示：2026年10月30日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20261031040531429800",
           "source": "金十数据",
@@ -265,6 +278,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美股AI板块为何暴跌",
+          "url": "https://www.toutiao.com/trending/7702479389816016420/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "硅基流动港股发行上市备案材料获中国证监会接收",
           "url": "https://wallstreetcn.com/livenews/3191752",
           "source": "华尔街见闻-快讯",
@@ -301,7 +325,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
@@ -327,8 +351,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时02分]"
         },
         {
           "title": "怎么看特朗普前律师疑卖特赦",
@@ -345,8 +369,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 11时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 12时02分]"
         },
         {
           "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
@@ -356,8 +380,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2521415",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "time_info": "[09时02分 ~ 12时02分]"
         },
         {
           "title": "王骁谈特朗普中期选举处境",
@@ -374,18 +411,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 10时02分]"
-        },
-        {
-          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2521415",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "美国总统特朗普的政府正向立陶宛施压，要求其放宽欧盟对白俄罗斯钾肥出口的制裁，以确保美国农民获得更便宜的化肥，并减少对加拿大的依赖。 欧洲官员反对这一做法。",
@@ -416,15 +441,19 @@
           "time_info": "[02时02分 ~ 08时03分]"
         },
         {
-          "title": "特朗普竞选集会屡遭抗议打断，已形成一套固定回应套路",
-          "url": "https://flash.jin10.com/detail/20261031104055019800",
-          "source": "金十数据",
+          "title": "报道：特朗普“国家能源主导委员会”最新任命将聚焦油气项目",
+          "url": "https://wallstreetcn.com/livenews/3191851",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3,
+            12,
+            21,
+            23,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 12时02分]"
         },
         {
           "title": "据CBS：美国总统特朗普：线上集会是很好的工具，当地时间周一将举行“相当多场”线上集会。",
@@ -463,18 +492,16 @@
           "time_info": "[07时02分 ~ 09时02分]"
         },
         {
-          "title": "报道：特朗普“国家能源主导委员会”最新任命将聚焦油气项目",
-          "url": "https://wallstreetcn.com/livenews/3191851",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普竞选集会屡遭抗议打断，已形成一套固定回应套路",
+          "url": "https://flash.jin10.com/detail/20261031104055019800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            12,
-            21,
-            23
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
         },
         {
           "title": "据NewsNation，美国总统特朗普将于北京时间11月2日凌晨4时在爱荷华州杜布克举行集会，并于当天北京时间上午8时在堪萨斯州萨利纳举行第二场集会。美国副总统万斯将于11月3日选举前一天在俄亥俄州斯旺顿举行集会。",
@@ -489,6 +516,20 @@
           "time_info": "[03时02分 ~ 04时02分]"
         },
         {
+          "title": "报道：特朗普计划在中期选举次日恢复对伊朗的打击",
+          "url": "https://wallstreetcn.com/livenews/3191861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时02分]"
+        },
+        {
           "title": "白宫顾问哈塞特：特朗普尊重美联储独立性，10月通胀数据将决定政策走向",
           "url": "https://wallstreetcn.com/articles/3784793",
           "source": "华尔街见闻",
@@ -500,28 +541,27 @@
           "time_info": "[00时02分 ~ 02时02分]"
         },
         {
-          "title": "报道：特朗普计划在中期选举次日恢复对伊朗的打击",
-          "url": "https://wallstreetcn.com/livenews/3191861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时02分]"
-        },
-        {
           "title": "特朗普连跑28天竞选活动自嘲嗓音仅剩五成功力，仍将奔赴两州助选",
           "url": "https://flash.jin10.com/detail/20261031101340210800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普拟为博索纳罗提供庇护加剧美巴紧张，鲁比奥与巴西外长同意再次会面",
+          "url": "https://flash.jin10.com/detail/20261031105822997800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "12时02分"
         },
         {
           "title": "美国总统特朗普：我们在伊朗花掉的任何钱，都已经通过我们在委内瑞拉的行动加倍弥补回来，赚取了数千亿美元，很多很多倍。",
@@ -605,8 +645,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 12时02分]"
         },
         {
           "title": "英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月",
@@ -616,8 +656,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时02分]"
         },
         {
           "title": "上期所原油期货2612合约夜盘收涨4.25%，报758.50元人民币/桶。 沪金夜盘收跌3.51%，沪银收跌6.8%。",
@@ -775,6 +815,19 @@
           "time_info": "[03时02分 ~ 08时03分]"
         },
         {
+          "title": "10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784820",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时02分 ~ 12时02分]"
+        },
+        {
           "title": "英国长端国债收益率10月份累跌超20个基点",
           "url": "https://wallstreetcn.com/livenews/3191829",
           "source": "华尔街见闻-快讯",
@@ -800,18 +853,6 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
-          "title": "10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784820",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时02分 ~ 11时02分]"
-        },
-        {
           "title": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元",
           "url": "https://wallstreetcn.com/articles/3784816",
           "source": "华尔街见闻",
@@ -834,6 +875,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美债收益率在10月份普遍跌超30个基点",
+          "url": "https://wallstreetcn.com/livenews/3191858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时02分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国超长期国债期货净空头头寸8,417份合约，至383,578份；投机者削减CBOT美国5年期国债期货净空头头寸45,053份合约，至1,029,056份；投机者削减CBOT美国国债期货净空头头寸49,281份合约，至19,138份。",
@@ -872,19 +927,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时02分 ~ 09时02分]"
-        },
-        {
-          "title": "美债收益率在10月份普遍跌超30个基点",
-          "url": "https://wallstreetcn.com/livenews/3191858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国10年期国债期货净空头头寸17,245份合约，至981,538份；投机者增加CBOT美国2年期国债期货净空头头寸152,693份合约，至1,009,476份。",
@@ -932,11 +974,12 @@
           "ranks": [
             2,
             10,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 12时02分]"
         },
         {
           "title": "OpenAI融资目标骤降100亿美元，估值同步下调至1.25万亿美元",
@@ -1027,6 +1070,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "谁在牵引金价走势",
+          "url": "https://www.toutiao.com/trending/7702443620019736118/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25,
+            26,
+            23,
+            30,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
+        },
+        {
+          "title": "金价降了卖爆了 银价已腰斩",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%99%8D%E4%BA%86%E5%8D%96%E7%88%86%E4%BA%86+%E9%93%B6%E4%BB%B7%E5%B7%B2%E8%85%B0%E6%96%A9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
+        },
+        {
+          "title": "国际金价暴跌创近一年新低",
+          "url": "https://www.douyin.com/hot/2722142",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
+        },
+        {
+          "title": "金价跌至一年来新低",
+          "url": "https://www.toutiao.com/trending/7701933940197687315/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "金价跳水400元有人抄底有人观望",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4400%E5%85%83%E6%9C%89%E4%BA%BA%E6%8A%84%E5%BA%95%E6%9C%89%E4%BA%BA%E8%A7%82%E6%9C%9B%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "银价已腰斩",
+          "url": "https://www.toutiao.com/trending/7701881720597757994/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "白银缺了六年，银价为何从高点跌掉一半？",
+          "url": "https://flash.jin10.com/detail/20261030230205727800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "金价涨跌要看哪些变化",
+          "url": "https://www.toutiao.com/trending/7702489688199663140/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "国际金价跌穿3900美元，恐将创2008年以来最差的10月份表现",
+          "url": "https://wallstreetcn.com/livenews/3191750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
@@ -1140,110 +1295,22 @@
       ]
     },
     {
-      "keyword_group": "金价 银价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "谁在牵引金价走势",
-          "url": "https://www.toutiao.com/trending/7702443620019736118/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25,
-            26,
-            23,
-            30,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "金价降了卖爆了 银价已腰斩",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%99%8D%E4%BA%86%E5%8D%96%E7%88%86%E4%BA%86+%E9%93%B6%E4%BB%B7%E5%B7%B2%E8%85%B0%E6%96%A9",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
-        },
-        {
-          "title": "金价跌至一年来新低",
-          "url": "https://www.toutiao.com/trending/7701933940197687315/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "国际金价暴跌创近一年新低",
-          "url": "https://www.douyin.com/hot/2722142",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "金价跳水400元有人抄底有人观望",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4400%E5%85%83%E6%9C%89%E4%BA%BA%E6%8A%84%E5%BA%95%E6%9C%89%E4%BA%BA%E8%A7%82%E6%9C%9B%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "银价已腰斩",
-          "url": "https://www.toutiao.com/trending/7701881720597757994/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "白银缺了六年，银价为何从高点跌掉一半？",
-          "url": "https://flash.jin10.com/detail/20261030230205727800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "国际金价跌穿3900美元，恐将创2008年以来最差的10月份表现",
-          "url": "https://wallstreetcn.com/livenews/3191750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            15,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时02分]"
+        },
         {
           "title": "怎么看 DeepSeek 官网 JS 出现 Cyber 申请，以后开源模型都会削弱网络安全能力吗？",
           "url": "https://www.zhihu.com/question/2099480874530228121",
@@ -1257,18 +1324,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "横店系资本投了DeepSeek",
