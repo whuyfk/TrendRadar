@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T10:02:58.202176+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-10-31T11:02:46.599578+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 11时02分]"
         },
         {
           "title": "美股",
@@ -37,6 +38,20 @@
           "time_info": "[00时02分 ~ 09时02分]"
         },
         {
+          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
+          "url": "https://www.cls.cn/detail/2521391",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 11时02分]"
+        },
+        {
           "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
           "url": "https://wallstreetcn.com/livenews/3191844",
           "source": "华尔街见闻-快讯",
@@ -48,19 +63,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时02分 ~ 08时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
-          "url": "https://www.cls.cn/detail/2521391",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 10时02分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.25%，报23345点。 恒生科技指数主连夜盘收跌0.08%，报3758点。",
@@ -81,20 +83,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "股权高度集中，年内17家港股公司被香港证监会公示",
           "url": "https://wallstreetcn.com/livenews/3191916",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7%，现报10711.48点。英伟达跌3.59%，博通跌5.34%，美光跌4.99%，英特尔跌28.34%，AMD跌9.63%，高通跌11.19%，台积电跌5.33%，阿斯麦跌5.65%。",
@@ -298,7 +301,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
@@ -324,8 +327,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 11时02分]"
         },
         {
           "title": "怎么看特朗普前律师疑卖特赦",
@@ -338,11 +341,23 @@
             14,
             19,
             18,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 10时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 11时02分]"
+        },
+        {
+          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
+          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 11时02分]"
         },
         {
           "title": "王骁谈特朗普中期选举处境",
@@ -361,15 +376,16 @@
           "time_info": "[00时02分 ~ 10时02分]"
         },
         {
-          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
-          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
-          "source": "凤凰网",
+          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2521415",
+          "source": "财联社热门",
           "ranks": [
-            2
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时03分 ~ 10时02分]"
+          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "美国总统特朗普的政府正向立陶宛施压，要求其放宽欧盟对白俄罗斯钾肥出口的制裁，以确保美国农民获得更便宜的化肥，并减少对加拿大的依赖。 欧洲官员反对这一做法。",
@@ -400,16 +416,15 @@
           "time_info": "[02时02分 ~ 08时03分]"
         },
         {
-          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2521415",
-          "source": "财联社热门",
+          "title": "特朗普竞选集会屡遭抗议打断，已形成一套固定回应套路",
+          "url": "https://flash.jin10.com/detail/20261031104055019800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "据CBS：美国总统特朗普：线上集会是很好的工具，当地时间周一将举行“相当多场”线上集会。",
@@ -454,11 +469,12 @@
           "ranks": [
             3,
             12,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时03分 ~ 10时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 11时02分]"
         },
         {
           "title": "据NewsNation，美国总统特朗普将于北京时间11月2日凌晨4时在爱荷华州杜布克举行集会，并于当天北京时间上午8时在堪萨斯州萨利纳举行第二场集会。美国副总统万斯将于11月3日选举前一天在俄亥俄州斯旺顿举行集会。",
@@ -489,11 +505,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时02分]"
+        },
+        {
+          "title": "特朗普连跑28天竞选活动自嘲嗓音仅剩五成功力，仍将奔赴两州助选",
+          "url": "https://flash.jin10.com/detail/20261031101340210800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "美国总统特朗普：我们在伊朗花掉的任何钱，都已经通过我们在委内瑞拉的行动加倍弥补回来，赚取了数千亿美元，很多很多倍。",
@@ -535,7 +563,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -577,8 +605,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 11时02分]"
+        },
+        {
+          "title": "英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月",
+          "url": "https://wallstreetcn.com/articles/3784816",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时03分 ~ 10时02分]"
+          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "上期所原油期货2612合约夜盘收涨4.25%，报758.50元人民币/桶。 沪金夜盘收跌3.51%，沪银收跌6.8%。",
@@ -604,17 +643,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时02分 ~ 08时03分]"
-        },
-        {
-          "title": "英特尔跌幅创四十年之最，纳指跌近3%，苹果市值超越英伟达，黄金一年新低，原油连涨四个月",
-          "url": "https://wallstreetcn.com/articles/3784816",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
         },
         {
           "title": "WTI 12月原油期货收涨2.12美元，涨幅将近2.08%，报104.12美元/桶，10月份累计上涨超过17.75%，连续四个月上涨，期间累计涨幅超过52.33%。 NYMEX 11月天然气期货收报2.8980美元/百万英热单位。 NYMEX 11月汽油期货收报3.3120美元/加仑，NYMEX 11月取暖油期货收报4.7905美元/加仑。",
@@ -725,7 +753,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -772,6 +800,18 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
+          "title": "10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784820",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时02分 ~ 11时02分]"
+        },
+        {
           "title": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元",
           "url": "https://wallstreetcn.com/articles/3784816",
           "source": "华尔街见闻",
@@ -794,18 +834,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 07时02分]"
-        },
-        {
-          "title": "10月收官日！沪指跌超1%失守3600点，创业板跌超4%，白酒、医药爆发，光模块“易中天”大跌，30年期国债创3月来最大跌幅",
-          "url": "https://wallstreetcn.com/articles/3784820",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时02分 ~ 10时02分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国超长期国债期货净空头头寸8,417份合约，至383,578份；投机者削减CBOT美国5年期国债期货净空头头寸45,053份合约，至1,029,056份；投机者削减CBOT美国国债期货净空头头寸49,281份合约，至19,138份。",
@@ -851,11 +879,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至10月27日当周，投机者增加CBOT美国10年期国债期货净空头头寸17,245份合约，至981,538份；投机者增加CBOT美国2年期国债期货净空头头寸152,693份合约，至1,009,476份。",
@@ -902,11 +931,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "OpenAI融资目标骤降100亿美元，估值同步下调至1.25万亿美元",
@@ -994,7 +1024,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -1056,8 +1086,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时02分 ~ 10时02分]"
+          "appearance_count": 6,
+          "time_info": "[06时02分 ~ 11时02分]"
         },
         {
           "title": "谷歌母公司Alphabet拟参与美国1850亿美元“金穹”计划",
@@ -1111,7 +1141,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谁在牵引金价走势",
@@ -1151,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "国际金价暴跌创近一年新低",
+          "url": "https://www.douyin.com/hot/2722142",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "金价跳水400元有人抄底有人观望",
@@ -1222,11 +1263,12 @@
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "横店系资本投了DeepSeek",
