@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T10:03:14.049705+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-11-02T11:02:59.157295+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "暗藏风险？11家A股公司三季报有董事拒投“赞成票”",
@@ -35,11 +35,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 11时02分]"
         },
         {
           "title": "深交所：港股通标的证券名单调入深演智能（新），11月02日起生效。",
@@ -59,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -70,18 +71,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "A股机器人概念股震荡调整，宇树科技跌超10%，大业股份、正裕工业、天奇股份跌停，山东矿机、爱仕达跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3192170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -92,29 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "A股券商股开盘走强，国金证券逼近涨停，太平洋、中国银河、东方财富、中金公司、广发证券跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3192168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
-        },
-        {
-          "title": "恒生科技指数涨幅扩大至1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3192166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -132,6 +100,30 @@
           "time_info": "[07时02分 ~ 09时02分]"
         },
         {
+          "title": "A股机器人概念股震荡调整，宇树科技跌超10%，大业股份、正裕工业、天奇股份跌停，山东矿机、爱仕达跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3192170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "A股券商股开盘走强，国金证券逼近涨停，太平洋、中国银河、东方财富、中金公司、广发证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3192168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
           "title": "周一亚市盘初，美股期货小幅走高，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.4%。",
           "url": "https://wallstreetcn.com/livenews/3192114",
           "source": "华尔街见闻-快讯",
@@ -144,6 +136,18 @@
           "time_info": "[08时03分 ~ 09时02分]"
         },
         {
+          "title": "恒生科技指数涨幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3192166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
           "title": "两家A股公司被证监会立案",
           "url": "https://www.toutiao.com/trending/7703187065659260982/",
           "source": "今日头条",
@@ -154,6 +158,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 10时03分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
+          "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
+          "url": "https://wallstreetcn.com/articles/3784952",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "基金经理：A股估值已被极度压缩",
@@ -179,37 +207,51 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
-          "url": "https://wallstreetcn.com/articles/3784952",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
           "title": "A股白酒股延续涨势，皇台酒业2连板，水井坊涨超8%，舍得酒业、古井贡酒、迎驾贡酒、今世缘跟涨。",
           "url": "https://wallstreetcn.com/livenews/3192165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "上证指数开盘报3614.31点，涨0.42%。 深证成指开盘报10897.50点，涨0.59%。 创业板指开盘报2439.08点，涨1.05%。 沪深300开盘报4005.94点，涨0.51%。 科创50开盘报1185.51点，涨2.13%。 中证500开盘报6309.16点，涨0.69%。 中证1000开盘报6197.38点，涨0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3192159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "恒指高开0.03%，报23301.74点；恒生科技指数涨0.55%。MINIMAX、比亚迪股份、天数智芯涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3192156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
+        },
+        {
+          "title": "创业板指快速拉升，盘中涨近2%，此前一度翻绿。",
+          "url": "https://wallstreetcn.com/livenews/3192193",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "11时02分"
         },
         {
           "title": "港股内银板块持续走强，哈尔滨银行(06138.HK)涨超10%，工商银行(01398.HK)涨超2%，招商银行(03968.HK)、中国银行(03988.HK)等跟涨。",
@@ -218,7 +260,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -234,15 +276,15 @@
           "time_info": "09时02分"
         },
         {
-          "title": "上证指数开盘报3614.31点，涨0.42%。 深证成指开盘报10897.50点，涨0.59%。 创业板指开盘报2439.08点，涨1.05%。 沪深300开盘报4005.94点，涨0.51%。 科创50开盘报1185.51点，涨2.13%。 中证500开盘报6309.16点，涨0.69%。 中证1000开盘报6197.38点，涨0.59%。",
-          "url": "https://wallstreetcn.com/livenews/3192159",
+          "title": "A股零售、食品等消费股继续活跃，青岛食品6连板，合百集团、百大集团、国芳集团涨停，广百股份、一鸣食品、南方乳业等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3192186",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "11时02分"
         },
         {
           "title": "A股白酒板块直线拉升，皇台酒业涨停，水井坊、古井贡酒、金种子酒、舍得酒业、泸州老窖跟涨。",
@@ -251,20 +293,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
         {
-          "title": "恒指高开0.03%，报23301.74点；恒生科技指数涨0.55%。MINIMAX、比亚迪股份、天数智芯涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3192156",
+          "title": "创业板指翻绿，此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3192181",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股游戏股集体走强，大晟文化涨停，电魂网络触及涨停，冰川网络、盛天网络、顺网科技、世纪华通跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3192178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "A股光伏设备板块短线拉升，亚玛顿、清源股份涨停，阳光电源、艾罗能源、固德威、德业股份、隆基绿能跟涨。",
+          "url": "https://flash.jin10.com/detail/20261102102108723800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "A股文化传媒板块集体低开，新华传媒再度一字跌停走出2连跌停板，中国科传、思美传媒、粤传媒跟跌。",
@@ -273,7 +337,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -284,7 +348,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -306,7 +370,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -317,9 +381,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股锂电池板块异动拉升，欣旺达涨超12%，宁德时代、领湃科技、鹏辉能源、亿纬锂能、国轩高科跟涨。",
+          "url": "https://flash.jin10.com/detail/20261102101537949800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "深交所：港股通标的证券名单调入深演智能（新），11月02日起生效。",
@@ -328,7 +403,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -339,9 +414,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股大金融板块日内持续走高，证券、互联金融方向持续领涨，银之杰20cm涨停，此前国金证券、太平洋、恒生电子涨停，华信永道、天阳科技、汇金科技、赢时胜、指南针均涨超10%。",
+          "url": "https://flash.jin10.com/detail/20261102101247189800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         },
         {
           "title": "香港恒生指数11月2日（周一）开盘上涨7.32点，涨幅0.03%，报23301.74点；<br/>香港恒生科技指数11月2日（周一）开盘上涨20.7点，涨幅0.55%，报3775.6点；<br/>国企指数11月2日（周一）开盘上涨14.35点，涨幅0.18%，报7876.57点；<br/>红筹指数11月2日（周一）开盘下跌14.8点，跌幅0.38%，报3905.14点。",
@@ -350,15 +436,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股三大股指短线拉升，沪指现涨0.7%，深证成指涨超1%，创业板指涨超1.5%。",
+          "url": "https://flash.jin10.com/detail/20261102101026765800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "美股年末行情中盘成长股表现更强？",
+          "url": "https://flash.jin10.com/detail/20261102100854818800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：支持马斯克执掌CNN",
@@ -368,8 +476,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时02分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 11时02分]"
         },
         {
           "title": "特朗普称将邀请泽连斯基参加G20",
@@ -419,8 +527,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 11时02分]"
+        },
+        {
+          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
+          "url": "https://www.cls.cn/detail/2521947",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时02分 ~ 11时02分]"
         },
         {
           "title": "特朗普：我们之所以还没彻底解决伊朗问题，仅仅是因为我想表现得友善一些。如果可以的话，我希望能尽力挽救那些生命。但到了某个节点，我们终究得给他们沉重的一击。",
@@ -432,18 +553,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
-          "url": "https://www.cls.cn/detail/2521947",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 10时03分]"
         },
         {
           "title": "美媒：卢拉和米莱的胜利归功于特朗普",
@@ -597,6 +706,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "美公务机坠机点距特朗普私宅仅几公里",
+          "url": "https://www.toutiao.com/trending/7703379957224967730/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
           "title": "内塔尼亚胡敦促特朗普中期选举后立即打击伊朗",
           "url": "https://flash.jin10.com/detail/20261102020722377800",
           "source": "金十数据",
@@ -670,15 +791,15 @@
           "time_info": "[00时03分 ~ 01时02分]"
         },
         {
-          "title": "美公务机坠机点距特朗普私宅仅几公里",
-          "url": "https://www.toutiao.com/trending/7703379957224967730/",
-          "source": "今日头条",
+          "title": "美国总统特朗普周一日程一览",
+          "url": "https://flash.jin10.com/detail/20261102101113524800",
+          "source": "金十数据",
           "ranks": [
-            30
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -714,11 +835,12 @@
           "url": "https://wallstreetcn.com/livenews/3192162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 11时02分]"
         },
         {
           "title": "国债期货早盘开盘",
@@ -727,7 +849,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -760,15 +882,78 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
       ]
     },
     {
+      "keyword_group": "金价 银价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价大跌白银价格腰斩",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时03分]"
+        },
+        {
+          "title": "一周之内黄金价格经历了什么",
+          "url": "https://www.toutiao.com/trending/7703167704085040667/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "金十图示：2026年11月02日（周一）上海金早盘价为838.43元/克，较国际金价(836.15元/克)，高2.28元/克",
+          "url": "https://flash.jin10.com/detail/20261102102622149800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "金价震荡下的“黄金生意”",
+          "url": "https://www.toutiao.com/trending/7703392010274606634/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "金价下跌 大妈还抢吗",
+          "url": "https://www.toutiao.com/trending/7703396920877649451/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
@@ -804,12 +989,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "OpenAI宣布所有模型共用额度",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E6%89%80%E6%9C%89%E6%A8%A1%E5%9E%8B%E5%85%B1%E7%94%A8%E9%A2%9D%E5%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十提示：北美进入冬令时，原油、黄金等大宗商品开盘时间调整至北京时间07:00。",
@@ -844,6 +1040,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "布伦特原油向下触及110美元/桶，日内跌1.51%。",
+          "url": "https://flash.jin10.com/detail/20261102101436814800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -879,36 +1086,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时03分 ~ 10时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价大跌白银价格腰斩",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 10时03分]"
-        },
-        {
-          "title": "一周之内黄金价格经历了什么",
-          "url": "https://www.toutiao.com/trending/7703167704085040667/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时02分]"
         }
       ]
     }
