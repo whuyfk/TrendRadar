@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T15:02:46.205196+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-11-02T16:03:01.455626+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 74,
+      "match_count": 79,
       "titles": [
         {
           "title": "暗藏风险？11家A股公司三季报有董事拒投“赞成票”",
@@ -38,11 +38,12 @@
             10,
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时02分 ~ 16时03分]"
         },
         {
           "title": "美股AI暴跌,万亿市值蒸发",
@@ -53,11 +54,12 @@
             18,
             21,
             22,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 15时02分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 16时03分]"
         },
         {
           "title": "深交所：港股通标的证券名单调入深演智能（新），11月02日起生效。",
@@ -115,6 +117,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "大空头再度加仓京东！直言港股估值遭极端压制，企业越赚钱，股价却越低迷",
+          "url": "https://flash.jin10.com/detail/20261102155202237800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "A股机器人板块盘初走弱，宇树科技、派斯林跌超10%，埃斯顿跌超6%，凯尔达、雷赛智能等跟跌。",
           "url": "https://flash.jin10.com/detail/20261102093637304800",
           "source": "金十数据",
@@ -135,6 +148,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "A股农历924重大利好来了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%9C%E5%8E%86924%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 16时03分]"
+        },
+        {
+          "title": "券商：A股已具备跟随海外反弹的条件",
+          "url": "https://www.toutiao.com/trending/7703410692304879670/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 16时03分]"
         },
         {
           "title": "A股市场调整已较充分，机构建议均衡配置弹性资产与防御底仓",
@@ -283,18 +322,6 @@
           "time_info": "[10时02分 ~ 11时02分]"
         },
         {
-          "title": "A股农历924重大利好来了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%9C%E5%8E%86924%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时02分]"
-        },
-        {
           "title": "创业板指快速拉升，盘中涨近2%，此前一度翻绿。",
           "url": "https://wallstreetcn.com/livenews/3192193",
           "source": "华尔街见闻-快讯",
@@ -321,18 +348,6 @@
           "time_info": "[12时02分 ~ 14时03分]"
         },
         {
-          "title": "券商：A股已具备跟随海外反弹的条件",
-          "url": "https://www.toutiao.com/trending/7703410692304879670/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时02分]"
-        },
-        {
           "title": "恒生科技指数盘中涨超2%。MINIMAX涨6%，宁德时代涨近5%，小米涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3192219",
           "source": "华尔街见闻-快讯",
@@ -344,6 +359,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 14时03分]"
+        },
+        {
+          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
+          "url": "https://www.cls.cn/detail/2522235",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时03分]"
         },
         {
           "title": "基金经理：A股估值已被极度压缩",
@@ -403,6 +430,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 15时02分]"
+        },
+        {
+          "title": "A股创业板指涨1.87% 全市超百股涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A81.87%25+%E5%85%A8%E5%B8%82%E8%B6%85%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "上证指数开盘报3614.31点，涨0.42%。 深证成指开盘报10897.50点，涨0.59%。 创业板指开盘报2439.08点，涨1.05%。 沪深300开盘报4005.94点，涨0.51%。 科创50开盘报1185.51点，涨2.13%。 中证500开盘报6309.16点，涨0.69%。 中证1000开盘报6197.38点，涨0.59%。",
@@ -589,17 +627,6 @@
           "time_info": "14时03分"
         },
         {
-          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
-          "url": "https://www.cls.cn/detail/2522235",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
           "title": "三重考验即将来袭：美股本周直面中期选举、非农和财报冲击 能否绝处逢生？",
           "url": "https://www.cls.cn/detail/2522003",
           "source": "财联社热门",
@@ -721,6 +748,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "A股收盘：创业板指反弹涨1.87%，AI漫剧概念全线爆发",
+          "url": "https://wallstreetcn.com/livenews/3192308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "A股锂电池板块异动拉升，欣旺达涨超12%，宁德时代、领湃科技、鹏辉能源、亿纬锂能、国轩高科跟涨。",
           "url": "https://flash.jin10.com/detail/20261102101537949800",
           "source": "金十数据",
@@ -754,6 +792,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "上证指数收报3638.03点，涨1.08%。 深证成指收报11010.68点，涨1.63%。 创业板指收报2458.70点，涨1.87%。 沪深300收报4016.92点，涨0.79%。 科创50收报1196.94点，涨3.11%。 中证500收报6420.23点，涨2.46%。 中证1000收报6329.34点，涨2.73%。",
+          "url": "https://wallstreetcn.com/livenews/3192307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "A股开盘，上证指数涨0.42%，深证成指涨0.59%，创业板指涨1.05%。",
           "url": "https://flash.jin10.com/detail/20261102092518717800",
           "source": "金十数据",
@@ -785,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-11-02）",
+          "url": "https://flash.jin10.com/detail/20261102153142529800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "宽基ETF午后成交继续抬升，科创50ETF华夏、创业板ETF易方达均破百亿",
@@ -913,8 +973,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时02分 ~ 15时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时02分 ~ 16时03分]"
         },
         {
           "title": "中期选举对特朗普有多重要",
@@ -930,8 +990,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 15时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 16时03分]"
+        },
+        {
+          "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2100501083466326367",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 16时03分]"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
@@ -947,16 +1020,30 @@
           "time_info": "[00时03分 ~ 07时02分]"
         },
         {
-          "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2100501083466326367",
-          "source": "知乎",
+          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            2
+            14,
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 16时03分]"
+        },
+        {
+          "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
+          "url": "https://www.zhihu.com/question/2008641759798894962",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 16时03分]"
         },
         {
           "title": "特朗普：我们之所以还没彻底解决伊朗问题，仅仅是因为我想表现得友善一些。如果可以的话，我希望能尽力挽救那些生命。但到了某个节点，我们终究得给他们沉重的一击。",
@@ -968,30 +1055,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时02分]"
-        },
-        {
-          "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
-          "url": "https://www.zhihu.com/question/2008641759798894962",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时02分]"
         },
         {
           "title": "美媒：卢拉和米莱的胜利归功于特朗普",
@@ -1170,6 +1233,17 @@
           "time_info": "[10时02分 ~ 11时02分]"
         },
         {
+          "title": "特朗普万圣节扮“特朗普”：有钱人花9个小时打扮，我只有10分钟",
+          "url": "https://news.ifeng.com/c/8xixkoq17yj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时03分]"
+        },
+        {
           "title": "内塔尼亚胡敦促特朗普中期选举后立即打击伊朗",
           "url": "https://flash.jin10.com/detail/20261102020722377800",
           "source": "金十数据",
@@ -1181,6 +1255,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时02分]"
+        },
+        {
+          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时03分]"
         },
         {
           "title": "特朗普称在“某个时点”将对伊朗“施以重锤”",
@@ -1277,17 +1363,6 @@
           "time_info": "13时02分"
         },
         {
-          "title": "特朗普万圣节扮“特朗普”：有钱人花9个小时打扮，我只有10分钟",
-          "url": "https://news.ifeng.com/c/8xixkoq17yj",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
           "title": "美国总统特朗普：房利美和房地美明年将在堪萨斯州投资43亿美元用于抵押贷款。",
           "url": "https://flash.jin10.com/detail/20261102112749476800",
           "source": "金十数据",
@@ -1308,17 +1383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        },
-        {
-          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         },
         {
           "title": "美国总统特朗普周一日程一览",
@@ -1481,7 +1545,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
@@ -1556,7 +1620,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1567,7 +1631,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1695,7 +1759,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1760,11 +1824,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时02分 ~ 16时03分]"
         },
         {
           "title": "DeepSeek亮出“超级智能体”架构",
