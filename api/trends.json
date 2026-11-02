@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T12:02:46.051559+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-11-02T13:02:55.138158+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "暗藏风险？11家A股公司三季报有董事拒投“赞成票”",
@@ -37,11 +37,25 @@
           "ranks": [
             17,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 12时02分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 13时02分]"
+        },
+        {
+          "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
+          "url": "https://wallstreetcn.com/articles/3784952",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时02分 ~ 13时02分]"
         },
         {
           "title": "深交所：港股通标的证券名单调入深演智能（新），11月02日起生效。",
@@ -72,7 +86,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -88,19 +102,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
-          "url": "https://wallstreetcn.com/articles/3784952",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 12时02分]"
-        },
-        {
           "title": "A股机器人板块盘初走弱，宇树科技、派斯林跌超10%，埃斯顿跌超6%，凯尔达、雷赛智能等跟跌。",
           "url": "https://flash.jin10.com/detail/20261102093637304800",
           "source": "金十数据",
@@ -110,17 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "11月2日午间收评：创业板指半日涨超3%，全市场上涨个股超4800只",
-          "url": "https://wallstreetcn.com/livenews/3192225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "A股市场调整已较充分，机构建议均衡配置弹性资产与防御底仓",
@@ -184,6 +174,18 @@
           "time_info": "[10时03分 ~ 11时02分]"
         },
         {
+          "title": "11月2日午间收评：创业板指半日涨超3%，全市场上涨个股超4800只",
+          "url": "https://wallstreetcn.com/livenews/3192225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
           "title": "两家A股公司被证监会立案",
           "url": "https://www.toutiao.com/trending/7703187065659260982/",
           "source": "今日头条",
@@ -206,6 +208,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
+          "title": "创业板指快速拉升，盘中涨近2%，此前一度翻绿。",
+          "url": "https://wallstreetcn.com/livenews/3192193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 13时02分]"
         },
         {
           "title": "基金经理：A股估值已被极度压缩",
@@ -243,16 +258,16 @@
           "time_info": "[10时03分 ~ 11时02分]"
         },
         {
-          "title": "创业板指快速拉升，盘中涨近2%，此前一度翻绿。",
-          "url": "https://wallstreetcn.com/livenews/3192193",
+          "title": "创业板指涨超3%，沪指涨1.10%，深成指涨2.21%，白酒、大金融、短剧、物理AI等方向涨幅居前，沪深京三市上涨个股近4600只。",
+          "url": "https://wallstreetcn.com/livenews/3192222",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            22
+            7,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时02分]"
+          "time_info": "[12时02分 ~ 13时02分]"
         },
         {
           "title": "上证指数开盘报3614.31点，涨0.42%。 深证成指开盘报10897.50点，涨0.59%。 创业板指开盘报2439.08点，涨1.05%。 沪深300开盘报4005.94点，涨0.51%。 科创50开盘报1185.51点，涨2.13%。 中证500开盘报6309.16点，涨0.69%。 中证1000开盘报6197.38点，涨0.59%。",
@@ -277,6 +292,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 12时02分]"
+        },
+        {
+          "title": "恒生科技指数盘中涨超2%。MINIMAX涨6%，宁德时代涨近5%，小米涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3192219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.7%，深成指涨1.52%，游戏、白酒、AI漫剧、券商等方向领涨，沪深京三市上涨个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3192214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
         },
         {
           "title": "恒指高开0.03%，报23301.74点；恒生科技指数涨0.55%。MINIMAX、比亚迪股份、天数智芯涨超2%。",
@@ -315,13 +354,25 @@
           "time_info": "[11时02分 ~ 12时02分]"
         },
         {
+          "title": "A股AI漫剧概念持续走强，海看股份20cm涨停，芒果超媒涨超12%，上海电影、奥飞娱乐、龙版传媒等多股封板，华策影视、百纳千成、捷成股份涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3192209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
           "title": "A股东山精密触及涨停，成交额74.67亿元。",
           "url": "https://flash.jin10.com/detail/20261102112929101800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -343,18 +394,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "创业板指涨超3%，沪指涨1.10%，深成指涨2.21%，白酒、大金融、短剧、物理AI等方向涨幅居前，沪深京三市上涨个股近4600只。",
-          "url": "https://wallstreetcn.com/livenews/3192222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -365,7 +405,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -381,17 +421,6 @@
           "time_info": "09时02分"
         },
         {
-          "title": "恒生科技指数盘中涨超2%。MINIMAX涨6%，宁德时代涨近5%，小米涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3192219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "A股白酒板块直线拉升，皇台酒业涨停，水井坊、古井贡酒、金种子酒、舍得酒业、泸州老窖跟涨。",
           "url": "https://flash.jin10.com/detail/20261102093230866800",
           "source": "金十数据",
@@ -403,15 +432,15 @@
           "time_info": "10时03分"
         },
         {
-          "title": "创业板指涨超2%，沪指涨0.7%，深成指涨1.52%，游戏、白酒、AI漫剧、券商等方向领涨，沪深京三市上涨个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3192214",
-          "source": "华尔街见闻-快讯",
+          "title": "三重考验即将来袭：美股本周直面中期选举、非农和财报冲击 能否绝处逢生？",
+          "url": "https://www.cls.cn/detail/2522003",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时02分"
         },
         {
           "title": "A股光伏设备板块短线拉升，亚玛顿、清源股份涨停，阳光电源、艾罗能源、固德威、德业股份、隆基绿能跟涨。",
@@ -423,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "A股AI漫剧概念持续走强，海看股份20cm涨停，芒果超媒涨超12%，上海电影、奥飞娱乐、龙版传媒等多股封板，华策影视、百纳千成、捷成股份涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3192209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "A股文化传媒板块集体低开，新华传媒再度一字跌停走出2连跌停板，中国科传、思美传媒、粤传媒跟跌。",
@@ -453,7 +471,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -486,7 +504,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -524,6 +542,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "港股午评：恒生科技指数强势拉升收涨2.85% AI硬件方向领涨大盘",
+          "url": "https://flash.jin10.com/detail/20261102120752959800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "深交所：港股通标的证券名单调入深演智能（新），11月02日起生效。",
           "url": "https://wallstreetcn.com/livenews/3192141",
           "source": "华尔街见闻-快讯",
@@ -557,6 +586,17 @@
           "time_info": "11时02分"
         },
         {
+          "title": "摩根士丹利：三大风险可能触发美股调整，但中期走势依然乐观",
+          "url": "https://flash.jin10.com/detail/20261102120428452800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "香港恒生指数11月2日（周一）开盘上涨7.32点，涨幅0.03%，报23301.74点；<br/>香港恒生科技指数11月2日（周一）开盘上涨20.7点，涨幅0.55%，报3775.6点；<br/>国企指数11月2日（周一）开盘上涨14.35点，涨幅0.18%，报7876.57点；<br/>红筹指数11月2日（周一）开盘下跌14.8点，跌幅0.38%，报3905.14点。",
           "url": "https://flash.jin10.com/detail/20261102092257237800",
           "source": "金十数据",
@@ -574,7 +614,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -596,7 +636,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -610,12 +650,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指半日涨3.28%",
+          "url": "https://www.toutiao.com/trending/7703410366308204554/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普：支持马斯克执掌CNN",
@@ -651,6 +702,20 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
+          "url": "https://www.cls.cn/detail/2521947",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时02分 ~ 13时02分]"
+        },
+        {
           "title": "中期选举对特朗普有多重要",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
           "source": "bilibili 热搜",
@@ -678,19 +743,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 07时02分]"
-        },
-        {
-          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
-          "url": "https://www.cls.cn/detail/2521947",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 12时02分]"
         },
         {
           "title": "特朗普：我们之所以还没彻底解决伊朗问题，仅仅是因为我想表现得友善一些。如果可以的话，我希望能尽力挽救那些生命。但到了某个节点，我们终究得给他们沉重的一击。",
@@ -916,6 +968,18 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
           "title": "美媒：特朗普正为伊朗战争寻找替罪羊",
           "url": "https://flash.jin10.com/detail/20261102050013314800",
           "source": "金十数据",
@@ -926,6 +990,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
+          "url": "https://www.zhihu.com/question/2008641759798894962",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：希望特朗普政府能与掌控国会的任何一方合作。",
@@ -940,13 +1015,24 @@
           "time_info": "[00时03分 ~ 01时02分]"
         },
         {
+          "title": "美一飞机特朗普私宅附近坠毁",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%80%E9%A3%9E%E6%9C%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%81%E5%AE%85%E9%99%84%E8%BF%91%E5%9D%A0%E6%AF%81%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "美国总统特朗普：房利美和房地美明年将在堪萨斯州投资43亿美元用于抵押贷款。",
           "url": "https://flash.jin10.com/detail/20261102112749476800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -957,29 +1043,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
-          "url": "https://www.zhihu.com/question/2008641759798894962",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -995,13 +1059,24 @@
           "time_info": "11时02分"
         },
         {
+          "title": "美飞机坠毁地点在特朗普私宅附近",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%9C%B0%E7%82%B9%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%81%E5%AE%85%E9%99%84%E8%BF%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
           "title": "鲁比奥称特朗普更想“和平结束”伊朗战争，但双方已同时提高战备！",
           "url": "https://flash.jin10.com/detail/20261102111641067800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -1009,7 +1084,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "华尔街严阵以待：美债发行指引或迎近三年来最大调整",
@@ -1029,7 +1104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1046,6 +1121,18 @@
           "time_info": "[09时02分 ~ 10时03分]"
         },
         {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.26%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3192223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
           "title": "国债期货开盘，30年期主力合约跌0.15%，10年期主力合约跌0.02%，5年期主力合约跌0.02%，2年期主力合约涨0.00%。",
           "url": "https://wallstreetcn.com/livenews/3192162",
           "source": "华尔街见闻-快讯",
@@ -1058,15 +1145,15 @@
           "time_info": "[10时03分 ~ 11时02分]"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.26%，10年期主力合约涨0.09%，5年期主力合约涨0.07%，2年期主力合约涨0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3192223",
+          "title": "印度10年期国债收益率下行6个基点至7.36%。",
+          "url": "https://wallstreetcn.com/livenews/3192234",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时02分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -1116,7 +1203,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价大跌白银价格腰斩",
@@ -1148,11 +1235,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 13时02分]"
         },
         {
           "title": "金十图示：2026年11月02日（周一）上海金早盘价为838.43元/克，较国际金价(836.15元/克)，高2.28元/克",
@@ -1164,6 +1252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "金价下跌为何金店反而“没货可卖”",
+          "url": "https://www.toutiao.com/trending/7703423952273542706/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "金价下跌 大妈还抢吗",
@@ -1180,8 +1279,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI与ADNOC签署能源领域AI部署协议。",
+          "url": "https://wallstreetcn.com/livenews/3192244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
           "url": "https://www.zhihu.com/question/2099437165495300675",
@@ -1227,6 +1337,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+          "url": "https://www.zhihu.com/question/2099967799934313950",
+          "source": "知乎",
+          "ranks": [
+            2,
+            7,
+            6,
+            4,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时03分]"
+        },
+        {
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时02分]"
+        },
+        {
+          "title": "DeepSeek亮出“超级智能体”架构",
+          "url": "https://www.toutiao.com/trending/7703258129567321638/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 10时03分]"
+        },
+        {
+          "title": "DeepSeek 主打性价比而 Kimi 瞄准高价，这种定价分歧反映出怎样的商业逻辑？",
+          "url": "https://www.zhihu.com/question/2099804149479223383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -1278,52 +1446,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-          "url": "https://www.zhihu.com/question/2099967799934313950",
-          "source": "知乎",
-          "ranks": [
-            2,
-            7,
-            6,
-            4,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时03分]"
-        },
-        {
-          "title": "DeepSeek Agent小白教程",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "DeepSeek亮出“超级智能体”架构",
-          "url": "https://www.toutiao.com/trending/7703258129567321638/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 10时03分]"
         }
       ]
     }
