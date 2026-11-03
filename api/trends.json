@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T07:02:53.759229+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-11-03T08:03:37.630169+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
@@ -37,11 +37,12 @@
             1,
             8,
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "中期选举对特朗普有多重要",
@@ -65,11 +66,12 @@
             18,
             21,
             20,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”",
@@ -81,17 +83,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时02分 ~ 05时02分]"
-        },
-        {
-          "title": "美国最高法院拒绝阻止加州统计选民所投选票，特朗普政府声称这些选民很可能是非公民。",
-          "url": "https://flash.jin10.com/detail/20261103064843301800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         },
         {
           "title": "美国法官下令特朗普政府停止要求加州选举官员将“被列为疑似非公民者”所投的选票与其他选票分离开来。",
@@ -160,6 +151,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美国最高法院拒绝阻止加州统计选民所投选票，特朗普政府声称这些选民很可能是非公民。",
+          "url": "https://flash.jin10.com/detail/20261103064843301800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时03分]"
         },
         {
           "title": "美国总统特朗普：我们现在拥有格陵兰岛。 我们现在也拥有格陵兰了，我们要感谢丹麦和欧洲让这一切成为可能。",
@@ -544,13 +547,24 @@
           "time_info": "04时02分"
         },
         {
+          "title": "特朗普称不急于再炸伊朗！白宫三派角力，卡塔尔推动三天信任方案",
+          "url": "https://flash.jin10.com/detail/20261103065149749800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "市场消息：一位白宫官员称，美国总统特朗普将在北京时间周三早上在白宫监控选举结果。",
           "url": "https://flash.jin10.com/detail/20261103055913886800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -561,7 +575,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -569,7 +583,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "多家A股公司拟出手回购、增持，协创数据拟增持最高10亿元",
@@ -580,8 +594,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
@@ -591,8 +605,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
+        },
+        {
+          "title": "A股将迎千亿级增量资金",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "A股再迎奇迹日",
@@ -611,15 +637,20 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "A股将迎千亿级增量资金",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
+            17,
+            20,
+            14,
+            13,
+            12,
             16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "A股将迎千亿级增量资金",
@@ -639,19 +670,16 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            20,
-            14,
-            13,
-            12
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时03分]"
         },
         {
           "title": "A股再迎奇迹日",
@@ -663,39 +691,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "Palantir美股盘后跌超3.8%。",
-          "url": "https://wallstreetcn.com/livenews/3192874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
-          "url": "https://wallstreetcn.com/articles/3784983",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "机构称A股市场处于反弹孕育期，业绩确定性成配置主线",
-          "url": "https://wallstreetcn.com/livenews/3192871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         },
         {
           "title": "美股冲高回落，纳斯达克100转跌，中概指数涨超3%，布油大跌8%",
@@ -732,6 +727,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "Palantir美股盘后跌超3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3192874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时03分]"
+        },
+        {
+          "title": "机构称A股市场处于反弹孕育期，业绩确定性成配置主线",
+          "url": "https://wallstreetcn.com/livenews/3192871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时03分]"
         },
         {
           "title": "黑石和加拿大养老基金将投资31亿美元，收购三菱持有的LNG Canada股份",
@@ -830,6 +849,39 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
+          "title": "【早报】国际油价，创三个月来最大跌幅；苹果股价，盘后直线跳水；证监会发声，事关稳市场稳预期；一批A股公司拟回购股份",
+          "url": "https://www.cls.cn/detail/2523174",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一",
+          "url": "https://www.toutiao.com/trending/7703680814925333018/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美股收盘：纳指冲高回落收跌1% AI投资回报疑虑升温",
+          "url": "https://www.cls.cn/detail/2523159",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后跌0.5%。",
           "url": "https://flash.jin10.com/detail/20261103053205612800",
           "source": "金十数据",
@@ -847,9 +899,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "中长期资金近两年净买入A股超1.5万亿",
+          "url": "https://www.toutiao.com/trending/7703557600734085641/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "美股三大指数高开 科技股普遍反弹",
@@ -883,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "多项稳市措施明确 如何影响A股",
+          "url": "https://www.toutiao.com/trending/7703600678349835785/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "金十图示：2026年11月02日（周一）美股热门股票行情一览（美股收盘）",
@@ -927,6 +1001,206 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "WTI 12月原油期货收跌7.66美元，跌幅超过7.35%，报96.46美元/桶，北京时间02:10曾跌至95.15美元，上周五收报104.12美元。 NYMEX 12月天然气期货收报2.8560美元/百万英热单位。 NYMEX 12月汽油期货收报2.9001美元/加仑，NYMEX 12月取暖油期货收报4.4216美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3192814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "受伊朗和平谈判拖累原油价格走低，美国能源股下跌",
+          "url": "https://wallstreetcn.com/livenews/3192739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "上海原油连续主力合约日内跌幅扩大至8%，现报685.40元。",
+          "url": "https://wallstreetcn.com/livenews/3192759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时03分]"
+        },
+        {
+          "title": "布伦特原油跌6%，现报104.99美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3192736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "上期所原油期货夜盘收跌超8.6%",
+          "url": "https://wallstreetcn.com/livenews/3192791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 04时02分]"
+        },
+        {
+          "title": "美国原油期货结算价为每桶96.46美元，下跌7.66美元，跌幅7.36%。",
+          "url": "https://flash.jin10.com/detail/20261103033112979800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "布伦特原油日内跌幅达7.0%，报105.32美元/桶；WTI原油跌破97美元/桶关口，报96.98美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3192747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时03分]"
+        },
+        {
+          "title": "布伦特原油期货跌超9美元/桶，WTI原油期货跌8美元，投资者关注为结束伊朗战争而达成协议的前景。",
+          "url": "https://wallstreetcn.com/livenews/3192782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 04时02分]"
+        },
+        {
+          "title": "WTI原油期货日内下跌8.00%，现报95.75美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261103015157321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "WTI 12月原油期货收跌7.66美元，跌幅超过7.35%，报96.46美元/桶，北京时间02:10曾跌至95.15美元，上周五收报104.12美元。 布伦特1月原油期货收跌8.66美元，跌幅超过7.63%，报104.77美元/桶，上周五收报113.43美元。 NYMEX 12月天然气期货收报2.8560美元/百万英热单位。 NYMEX 12月汽油期货收报2.9001美元/加仑，NYMEX 12月取暖油期货收报4.4216美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3192814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "WTI原油日内下跌6.00%，现报95.94美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261103002234702800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "布伦特原油日内暴跌6.00%，现报104.99美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261102232552146800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "现货黄金、WTI原油周二开盘持稳，现分别报3947美元/盎司和95.4美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261103070135926800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达8.0%，报104.33美元/桶；WTI原油日内跌幅超过7.5%，报95.89美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3192778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶104.77美元，下跌8.66美元，跌幅7.63%。",
+          "url": "https://flash.jin10.com/detail/20261103035606448800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国战略石油储备原油库存降至1982年以来最低",
+          "url": "https://wallstreetcn.com/livenews/3192717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "布伦特原油跌破104美元/桶，日内跌6.89%。",
+          "url": "https://flash.jin10.com/detail/20261103005311116800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     },
@@ -1119,191 +1393,63 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 16,
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
       "titles": [
         {
-          "title": "WTI 12月原油期货收跌7.66美元，跌幅超过7.35%，报96.46美元/桶，北京时间02:10曾跌至95.15美元，上周五收报104.12美元。 NYMEX 12月天然气期货收报2.8560美元/百万英热单位。 NYMEX 12月汽油期货收报2.9001美元/加仑，NYMEX 12月取暖油期货收报4.4216美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3192814",
+          "title": "OpenAI称前美国陆军部长Dan Driscoll将加入该公司，将担任OpenAI国家安全现代化高级顾问。",
+          "url": "https://wallstreetcn.com/livenews/3192897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "08时03分"
         },
         {
-          "title": "受伊朗和平谈判拖累原油价格走低，美国能源股下跌",
-          "url": "https://wallstreetcn.com/livenews/3192739",
+          "title": "OpenAI聘请原美国陆军部长Dan Driscoll。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3192882",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "上海原油连续主力合约日内跌幅扩大至8%，现报685.40元。",
-          "url": "https://wallstreetcn.com/livenews/3192759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时03分]"
-        },
-        {
-          "title": "布伦特原油跌6%，现报104.99美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3192736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "上期所原油期货夜盘收跌超8.6%",
-          "url": "https://wallstreetcn.com/livenews/3192791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时02分]"
-        },
-        {
-          "title": "美国原油期货结算价为每桶96.46美元，下跌7.66美元，跌幅7.36%。",
-          "url": "https://flash.jin10.com/detail/20261103033112979800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时02分]"
-        },
-        {
-          "title": "布伦特原油日内跌幅达7.0%，报105.32美元/桶；WTI原油跌破97美元/桶关口，报96.98美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3192747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时03分]"
-        },
-        {
-          "title": "布伦特原油期货跌超9美元/桶，WTI原油期货跌8美元，投资者关注为结束伊朗战争而达成协议的前景。",
-          "url": "https://wallstreetcn.com/livenews/3192782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时04分 ~ 04时02分]"
-        },
-        {
-          "title": "WTI原油期货日内下跌8.00%，现报95.75美元/桶。",
-          "url": "https://flash.jin10.com/detail/20261103015157321800",
-          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时04分"
+          "time_info": "08时03分"
         },
         {
-          "title": "WTI 12月原油期货收跌7.66美元，跌幅超过7.35%，报96.46美元/桶，北京时间02:10曾跌至95.15美元，上周五收报104.12美元。 布伦特1月原油期货收跌8.66美元，跌幅超过7.63%，报104.77美元/桶，上周五收报113.43美元。 NYMEX 12月天然气期货收报2.8560美元/百万英热单位。 NYMEX 12月汽油期货收报2.9001美元/加仑，NYMEX 12月取暖油期货收报4.4216美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3192814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "WTI原油日内下跌6.00%，现报95.94美元/桶。",
-          "url": "https://flash.jin10.com/detail/20261103002234702800",
+          "title": "据英国金融时报：前美国陆军部长丹尼尔·德里斯科尔（Daniel P. Driscoll）将加入OpenAI，担任国家安全现代化高级顾问。",
+          "url": "https://flash.jin10.com/detail/20261103070253959800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "08时03分"
         },
         {
-          "title": "布伦特原油日内暴跌6.00%，现报104.99美元/桶。",
-          "url": "https://flash.jin10.com/detail/20261102232552146800",
-          "source": "金十数据",
+          "title": "OpenAI将在美国佐治亚州提供最高1000兆瓦的需求响应能力。",
+          "url": "https://wallstreetcn.com/livenews/3192720",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         },
         {
-          "title": "布伦特原油日内跌幅达8.0%，报104.33美元/桶；WTI原油日内跌幅超过7.5%，报95.89美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3192778",
-          "source": "华尔街见闻-快讯",
+          "title": "怎么看 OpenAI CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？",
+          "url": "https://www.zhihu.com/question/2100164407087067932",
+          "source": "知乎",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时04分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶104.77美元，下跌8.66美元，跌幅7.63%。",
-          "url": "https://flash.jin10.com/detail/20261103035606448800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "美国战略石油储备原油库存降至1982年以来最低",
-          "url": "https://wallstreetcn.com/livenews/3192717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "布伦特原油跌破104美元/桶，日内跌6.89%。",
-          "url": "https://flash.jin10.com/detail/20261103005311116800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "08时03分"
         }
       ]
     },
@@ -1357,7 +1503,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -1375,8 +1521,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 08时03分]"
         },
         {
           "title": "DeepSeek Agent小白教程",
@@ -1451,23 +1597,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI将在美国佐治亚州提供最高1000兆瓦的需求响应能力。",
-          "url": "https://wallstreetcn.com/livenews/3192720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     }
