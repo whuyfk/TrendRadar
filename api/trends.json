@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T03:03:16.256313+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-11-04T04:04:07.694770+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
@@ -35,11 +35,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "胡锡进：若特朗普真对伊朗使用核武器，世界政治规则将被改写",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
@@ -58,22 +59,24 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普回应中期选举魔咒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
-        },
-        {
-          "title": "美国司法部称，特朗普拱门至少需要33个月才能建成，地面以上施工要到2027年5月才会开始。",
-          "url": "https://flash.jin10.com/detail/20261104025701661800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "[01时02分 ~ 04时04分]"
         },
         {
           "title": "美媒：特朗普称“通胀问题已解决” 但数据却显示并非如此",
@@ -98,16 +101,39 @@
           "time_info": "02时04分"
         },
         {
-          "title": "特朗普回应中期选举魔咒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "美保守派各州选民抛弃特朗普",
+          "url": "https://www.toutiao.com/trending/7703953564963458623/",
+          "source": "今日头条",
           "ranks": [
-            30,
-            29
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 04时04分]"
+        },
+        {
+          "title": "美国司法部称，特朗普拱门至少需要33个月才能建成，地面以上施工要到2027年5月才会开始。",
+          "url": "https://flash.jin10.com/detail/20261104025701661800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时04分]"
+        },
+        {
+          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
+          "url": "https://wallstreetcn.com/articles/3785095",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时03分]"
+          "time_info": "[03时02分 ~ 04时04分]"
         },
         {
           "title": "特朗普在中期选举还能翻盘吗",
@@ -122,17 +148,6 @@
           "time_info": "[00时02分 ~ 01时02分]"
         },
         {
-          "title": "美保守派各州选民抛弃特朗普",
-          "url": "https://www.toutiao.com/trending/7703953564963458623/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时03分]"
-        },
-        {
           "title": "特朗普放话力保马斯克：若民主党对其展开调查 将提前赦免他",
           "url": "https://www.cls.cn/detail/2523716",
           "source": "财联社热门",
@@ -144,17 +159,6 @@
           "time_info": "[00时02分 ~ 00时03分]"
         },
         {
-          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
-          "url": "https://wallstreetcn.com/articles/3785095",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 03时03分]"
-        },
-        {
           "title": "美国总统特朗普：将林肯纪念堂倒影池命名为“特朗普”只是玩笑，是《每日邮报》歪曲报道。",
           "url": "https://flash.jin10.com/detail/20261104012219806800",
           "source": "金十数据",
@@ -164,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美媒：特朗普政府与委内瑞拉谈判 为美军长期驻留铺路",
+          "url": "https://flash.jin10.com/detail/20261104031452943800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "美国总统特朗普：关岛一直被认为是民主党的传统优势地区，但共和党刚刚提前宣布在州长选举中获胜，祝贺托尼·阿达（Tony Ada）！此外，共和党还取得了关岛参议院多数席位。真令人惊讶，希望这预示着接下来还会有更多好消息！",
@@ -183,7 +198,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -191,7 +206,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
@@ -201,8 +216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "临近2.3万亿元关口！A股融资余额继续回落，电子、通信仍遭减持，这些方向有所回升",
@@ -212,8 +227,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "美国中选“最可能剧本”，将是美股“最危险剧本”？",
@@ -224,8 +239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "美国中期选举日，美股小幅反弹，半导体ETF领涨，光通信反弹，国际油价走低",
@@ -237,8 +252,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时04分]"
         },
         {
           "title": "【每日收评】创业板指跌近3%，中际旭创重挫12%，多只宽基ETF放量破百亿",
@@ -249,8 +264,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "美股开盘：苹果股价大跌近4%",
@@ -261,8 +276,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "等待最后一跌？大摩Wilson：无论中选结果如何，都或是抄底美股的良机",
@@ -274,8 +289,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "苹果换帅后首份财报引发股价走弱 美股市场熬到关键节点 | 今夜看点",
@@ -287,8 +302,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "美中选前市场保持观望，美股期货走低，苹果盘前大跌4.7%，国际油价快速走低，黄金跌破3900美元",
@@ -335,6 +350,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "恒生指数主连夜盘收跌0.46%，报23400点。 恒生科技指数主连夜盘收跌0.36%，报3846点。",
+          "url": "https://wallstreetcn.com/livenews/3193542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
           "title": "美股费城半导体指数涨超4%，英伟达涨3.03%，博通涨3.90%，美光涨3.62%，英特尔涨3.28%，AMD涨5.81%，高通涨1.28%，台积电涨2.32%，阿斯麦涨2.46%。 纳指涨1.1%，道指跌0.27%，标普500指数涨0.6%。纳斯达克100指数涨1.1%。",
           "url": "https://wallstreetcn.com/livenews/3193479",
           "source": "华尔街见闻-快讯",
@@ -348,6 +374,91 @@
       ]
     },
     {
+      "keyword_group": "原油",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "布伦特原油期货结算价为每桶103.60美元，下跌1.17美元，跌幅1.12%。",
+          "url": "https://flash.jin10.com/detail/20261104034630712800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "WTI 12月原油期货收跌0.40美元，跌幅超过0.41%，报96.09美元/桶，亚太盘初以来持续平缓地走高，北京时间20:11刷新日高至98.82美元，随后快速回吐涨幅，21:25出现一波短线跳水行情、刷新日低至93.59美元。 布伦特1月原油期货收跌1.17美元，跌幅1.12%，报103.60美元/桶。 NYMEX 12月天然气期货收报2.8950美元/百万英热单位。 NYMEX 12月汽油期货收报2.9355美元/加仑，NYMEX 12月取暖油期货收报4.5306美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3193552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美伊冲突推高原油价格预期",
+          "url": "https://www.douyin.com/hot/2727343",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 04时04分]"
+        },
+        {
+          "title": "上期所原油期货2612合约夜盘收跌2.32%，报678.80元人民币/桶。 沪金夜盘收跌0.11%，沪银收跌1.31%。",
+          "url": "https://wallstreetcn.com/livenews/3193534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时04分]"
+        },
+        {
+          "title": "波斯湾原油流量恢复，实物原油价格暴跌",
+          "url": "https://wallstreetcn.com/livenews/3193481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时04分]"
+        },
+        {
+          "title": "美国原油期货结算价为每桶96.09美元，下跌37美分，跌幅0.38%。",
+          "url": "https://flash.jin10.com/detail/20261104033112431800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "巴克莱银行：维持2026年布伦特原油每桶100美元和2027年每桶85美元的预测。",
+          "url": "https://wallstreetcn.com/livenews/3193459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 5,
       "titles": [
@@ -356,11 +467,12 @@
           "url": "https://www.zhihu.com/question/2099981630773400745",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "DeepSeek又崩了",
@@ -371,8 +483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "DeepSeek Agent小白教程",
@@ -382,11 +494,12 @@
             17,
             14,
             22,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "DeepSeek V5计划基于昇腾训练",
@@ -395,11 +508,12 @@
           "ranks": [
             20,
             22,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "DeepSeek为什么要开源",
@@ -411,8 +525,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 03时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 04时04分]"
         }
       ]
     },
@@ -471,98 +585,72 @@
       ]
     },
     {
-      "keyword_group": "原油",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上期所原油期货2612合约夜盘收跌2.32%，报678.80元人民币/桶。 沪金夜盘收跌0.11%，沪银收跌1.31%。",
-          "url": "https://wallstreetcn.com/livenews/3193534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "美伊冲突推高原油价格预期",
-          "url": "https://www.douyin.com/hot/2727343",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 03时03分]"
-        },
-        {
-          "title": "波斯湾原油流量恢复，实物原油价格暴跌",
-          "url": "https://wallstreetcn.com/livenews/3193481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时04分]"
-        },
-        {
-          "title": "巴克莱银行：维持2026年布伦特原油每桶100美元和2027年每桶85美元的预测。",
-          "url": "https://wallstreetcn.com/livenews/3193459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini推出按小时和按日结算的合约，均设有固定结算时间。 预测合约结果正确时支付1美元，最大损失为购买价格。 现已上线Zcash和Hyperliquid的新预测市场。",
           "url": "https://wallstreetcn.com/livenews/3193537",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时04分]"
         },
         {
           "title": "Gemini：现已上线Zcash和Hyperliquid的新预测市场。",
           "url": "https://flash.jin10.com/detail/20261104024325492800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时04分]"
+        },
+        {
+          "title": "谷歌遭遇挫折：欧盟法院顾问警告称，AI聊天机器人可能违反版权规定",
+          "url": "https://wallstreetcn.com/livenews/3193545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "04时04分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "与部分OpenAI、Anthropic AI黑客事件相关的以色列公司称系“错误”所致",
           "url": "https://wallstreetcn.com/livenews/3193526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时04分]"
+        },
+        {
+          "title": "报道：OpenAI内部代码访问权限过宽 多项安全风险长期未解决",
+          "url": "https://flash.jin10.com/detail/20261104032142878800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "04时04分"
         }
       ]
     },
