@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T11:02:51.109810+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-11-03T12:02:45.001078+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "多家A股公司拟出手回购、增持，协创数据拟增持最高10亿元",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时02分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时02分]"
         },
         {
           "title": "A股将迎千亿级增量资金",
@@ -74,6 +74,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 08时03分]"
+        },
+        {
+          "title": "美股收盘：纳指冲高回落收跌1% AI投资回报疑虑升温",
+          "url": "https://www.cls.cn/detail/2523159",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 12时02分]"
         },
         {
           "title": "A股再迎奇迹日",
@@ -108,19 +122,6 @@
           "time_info": "[00时02分 ~ 08时03分]"
         },
         {
-          "title": "美股收盘：纳指冲高回落收跌1% AI投资回报疑虑升温",
-          "url": "https://www.cls.cn/detail/2523159",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时02分]"
-        },
-        {
           "title": "【早报】国际油价，创三个月来最大跌幅；苹果股价，盘后直线跳水；证监会发声，事关稳市场稳预期；一批A股公司拟回购股份",
           "url": "https://www.cls.cn/detail/2523174",
           "source": "财联社热门",
@@ -129,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 12时02分]"
         },
         {
           "title": "A股再迎奇迹日",
@@ -368,6 +369,18 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
+          "title": "美股将通宵",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%86%E9%80%9A%E5%AE%B5%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
+        },
+        {
           "title": "上证指数开盘报3624.58点，跌0.37%。 深证成指开盘报10934.30点，跌0.69%。 创业板指开盘报2429.77点，跌1.18%。 沪深300开盘报4005.25点，跌0.29%。 科创50开盘报1184.53点，跌1.04%。 中证500开盘报6373.95点，跌0.72%。 中证1000开盘报6288.47点，跌0.65%。",
           "url": "https://wallstreetcn.com/livenews/3192929",
           "source": "华尔街见闻-快讯",
@@ -429,9 +442,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "上证指数早盘收报3612.09点，跌0.71%。 深证成指早盘收报10993.07点，跌0.16%。 创业板指早盘收报2435.60点，跌0.94%。 沪深300早盘收报4013.89点，跌0.08%。 科创50早盘收报1166.58点，跌2.54%。 中证500早盘收报6391.05点，跌0.45%。 中证1000早盘收报6298.52点，跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3193040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌幅扩大至近3%。",
@@ -456,13 +480,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "A股午评：三大股指水下宽幅震荡 算力硬件板块领跌大盘",
+          "url": "https://flash.jin10.com/detail/20261103113546828800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "多只宽基ETF早盘成交放量，上证50ETF华夏（510050）目前成交超70亿，环比上一日增超1.5倍，沪深300ETF华泰柏瑞（510300）、创业板ETF易方达（159915）、科创50ETF华夏（588000）均成交超65亿元。",
           "url": "https://wallstreetcn.com/livenews/3192985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -495,7 +530,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -539,7 +574,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -561,7 +596,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -572,18 +607,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "美股将通宵",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%86%E9%80%9A%E5%AE%B5%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -597,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "中国金融时报：中长期资金近两年净买入A股超1.5万亿元",
+          "url": "https://wallstreetcn.com/livenews/3193029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "A股白酒板块局部高开，皇台酒业3连板，水井坊、金徽酒、金种子酒、贵州茅台、老白干酒跟涨。",
@@ -616,7 +651,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -638,7 +673,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -704,7 +739,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -726,7 +761,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -748,7 +783,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -759,7 +794,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -770,7 +805,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         }
@@ -778,7 +813,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
@@ -842,11 +877,23 @@
             21,
             20,
             19,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 09时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 12时02分]"
+        },
+        {
+          "title": "曾支持特朗普的蓝领工人，变了",
+          "url": "https://original.ifeng.com/c/8xkAIzPlrxi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
         },
         {
           "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”",
@@ -858,17 +905,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 09时03分]"
-        },
-        {
-          "title": "曾支持特朗普的蓝领工人，变了",
-          "url": "https://original.ifeng.com/c/8xkAIzPlrxi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "特朗普能力阻“蓝色海啸”吗",
@@ -891,6 +927,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普谈中期选举：如果我们输了，美国就完了",
+          "url": "https://news.ifeng.com/c/8xkSdrMQQky",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "纳斯达克100指数跌幅迅速收窄，美国总统特朗普声称“正在伊朗问题上取得胜利”。 特朗普告诉Axios：“‘不急于’就重启伊朗战争做决定。”",
@@ -998,6 +1045,18 @@
           "time_info": "[04时02分 ~ 05时02分]"
         },
         {
+          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时02分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗最近甚至表示他们不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20261103033458812800",
           "source": "金十数据",
@@ -1032,17 +1091,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时02分]"
         },
         {
           "title": "美国加州州长纽森：明天，我们将对美国历史上最腐败的总统作出裁决。（纽森所指为当地时间11月3日美国中期选举，意在呼吁选民通过投票表达对特朗普执政表现的不满。）",
@@ -1091,6 +1139,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
+          "title": "特朗普屡次被曝半夜给员工打电话",
+          "url": "https://www.toutiao.com/trending/7703476793600197170/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普放话不在乎台海问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8F%B0%E6%B5%B7%E9%97%AE%E9%A2%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时02分]"
         },
         {
           "title": "市场消息：美国总统特朗普表示，伊朗方面一直在谈论谈判，但到某个时候，或许不得不通过军事手段来解决这一问题。",
@@ -1286,7 +1358,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -1363,7 +1435,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -1434,17 +1506,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "特朗普屡次被曝半夜给员工打电话",
-          "url": "https://www.toutiao.com/trending/7703476793600197170/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
           "title": "市场消息：一位白宫官员称，美国总统特朗普将在北京时间周三早上在白宫监控选举结果。",
           "url": "https://flash.jin10.com/detail/20261103055913886800",
           "source": "金十数据",
@@ -1487,23 +1548,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "特朗普放话不在乎台海问题",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8F%B0%E6%B5%B7%E9%97%AE%E9%A2%98%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "10年期美债价格上涨，临近美股收盘时回吐涨幅",
@@ -1612,6 +1662,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "澳洲联储利率决议过后，澳大利亚3年期国债收益率下行4个基点，澳元/美元短线走低约20点后小幅反弹。",
+          "url": "https://wallstreetcn.com/livenews/3193045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "美国至11月2日3个月国债竞拍-投标倍数 2.88，前值3.07。",
           "url": "https://flash.jin10.com/detail/20261103003157755800",
           "source": "金十数据",
@@ -1698,6 +1759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.46%，10年期主力合约涨0.12%，5年期主力合约涨0.08%，2年期主力合约涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3193032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "国债期货早盘开盘",
@@ -1956,9 +2028,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "怎么看 OpenAI CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？",
+          "url": "https://www.zhihu.com/question/2100164407087067932",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时03分 ~ 12时02分]"
         },
         {
           "title": "OpenAI称前美国陆军部长Dan Driscoll将加入该公司，将担任OpenAI国家安全现代化高级顾问。",
@@ -1971,17 +2054,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 09时03分]"
-        },
-        {
-          "title": "怎么看 OpenAI CEO 说，最好的内存应该留给数据中心，而不是闲置在本地 PC 浪费？",
-          "url": "https://www.zhihu.com/question/2100164407087067932",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时03分 ~ 11时02分]"
         },
         {
           "title": "OpenAI聘请原美国陆军部长Dan Driscoll。（英国金融时报）",
@@ -2040,6 +2112,19 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "伊朗最高领袖释放与美国进一步谈判信号 国际油价应声大跌金价跳涨2%",
+          "url": "https://www.cls.cn/detail/2523079",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 12时02分]"
+        },
+        {
           "title": "油价回落提振情绪，美股全线上涨，WTI原油日内下跌6%，金价徘徊3900美元关口",
           "url": "https://wallstreetcn.com/articles/3784983",
           "source": "华尔街见闻",
@@ -2049,18 +2134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 02时03分]"
-        },
-        {
-          "title": "伊朗最高领袖释放与美国进一步谈判信号 国际油价应声大跌金价跳涨2%",
-          "url": "https://www.cls.cn/detail/2523079",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 11时02分]"
         },
         {
           "title": "新人买三金后金价下跌又来买金手链",
@@ -2081,7 +2154,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -2100,7 +2173,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek Harness入驻B站",
@@ -2109,11 +2182,12 @@
           "ranks": [
             1,
             9,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 11时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 12时02分]"
         },
         {
           "title": "DeepSeek Agent小白教程",
@@ -2152,6 +2226,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 11时02分]"
+        },
+        {
+          "title": "DeepSeek V5明年有望基于昇腾950完成训练，DeepSeek深度绑定华为国产算力",
+          "url": "https://wallstreetcn.com/livenews/3193012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
