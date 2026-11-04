@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T06:03:02.092028+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-11-05T07:06:42.068297+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普态度转折，称渴望与民主党达成协议",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "特朗普为何突然终止军援以色列？专家：看似突然，实则是权宜之计",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "特朗普：我不后悔",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "特朗普承认伊朗战事影响中期选举",
@@ -59,11 +59,12 @@
           "ranks": [
             24,
             25,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "特朗普称将停止对以色列援助",
@@ -71,11 +72,23 @@
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 06时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普称可在许多议题上与民主党合作，但排除取消关税",
+          "url": "https://flash.jin10.com/detail/20261105062629288800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "据多位白宫记者反映，白宫记者团刚刚被召集，参加一场不在日程安排上的总统活动。这将是选举以来记者团首次当面听到美国总统特朗普讲话。",
@@ -353,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
+          "url": "https://wallstreetcn.com/articles/3785177",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国总统特朗普：伊朗战争将在我想结束的时候结束。",
@@ -633,19 +657,8 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
-          "url": "https://wallstreetcn.com/articles/3785134",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
-        },
         {
           "title": "近20家A股公司掀“回购潮”，最高拟回购10亿元",
           "url": "https://www.cls.cn/detail/2525406",
@@ -655,8 +668,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "A股一日反弹可否延续？12家基金公司拆解三大推手",
@@ -666,6 +679,17 @@
             5,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
+        },
+        {
+          "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -679,8 +703,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "美股",
@@ -692,19 +716,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
           "url": "https://wallstreetcn.com/articles/3785133",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 06时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 07时06分]"
         },
         {
           "title": "A股迎来“大奇迹日” 后市怎么看",
@@ -721,15 +746,51 @@
           "time_info": "[00时02分 ~ 06时03分]"
         },
         {
+          "title": "民主党横扫国会！美股债齐涨，道指大涨3%，光通信与数据中心股下挫，原油暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "黄金ETF收涨将近3.7%，与地产ETF领跑美股大类资产类ETF，布油基金跌超8.6%",
           "url": "https://wallstreetcn.com/livenews/3194519",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时06分]"
+        },
+        {
+          "title": "周三（11月4日），美股行业ETF多数收涨，全球航空业ETF收涨6.7%，可选消费ETF涨4.26%，金融业ETF涨3.51%，网络股指数ETF涨2.36%，科技行业ETF、全球科技股指数ETF至多跌0.44%，半导体ETF跌2.75%，能源业ETF跌4.74%。",
+          "url": "https://wallstreetcn.com/livenews/3194515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时06分]"
+        },
+        {
+          "title": "Applovin美股盘后涨12%。",
+          "url": "https://wallstreetcn.com/livenews/3194511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时06分]"
         },
         {
           "title": "美股恐慌指数VIX波动率日内跌幅达20.0%，报16.66。",
@@ -742,17 +803,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时03分]"
-        },
-        {
-          "title": "周三（11月4日），美股行业ETF多数收涨，全球航空业ETF收涨6.7%，可选消费ETF涨4.26%，金融业ETF涨3.51%，网络股指数ETF涨2.36%，科技行业ETF、全球科技股指数ETF至多跌0.44%，半导体ETF跌2.75%，能源业ETF跌4.74%。",
-          "url": "https://wallstreetcn.com/livenews/3194515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
         },
         {
           "title": "金十图示：2026年11月04日（周三）美股热门股票行情一览（美股盘中）",
@@ -777,6 +827,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫",
+          "url": "https://www.cls.cn/detail/2525646",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "金十图示：2026年11月04日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261105013023921800",
           "source": "金十数据",
@@ -786,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "Applovin美股盘后涨12%。",
-          "url": "https://wallstreetcn.com/livenews/3194511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
         },
         {
           "title": "金十图示：2026年11月04日（周三）美股热门股票行情一览（美股收盘）",
@@ -819,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "A股因何强势反弹？五重催化共振",
+          "url": "https://www.cls.cn/detail/2525278",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "金十图示：2026年11月04日（周三）热门中概股行情一览（美股收盘）",
@@ -1010,7 +1071,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -1208,8 +1269,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？",
@@ -1220,8 +1281,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 06时03分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时06分]"
         },
         {
           "title": "DeepSeek为什么要开源",
@@ -1232,11 +1293,12 @@
             19,
             27,
             14,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 06时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 07时06分]"
         }
       ]
     },
@@ -1249,11 +1311,12 @@
           "url": "https://flash.jin10.com/detail/20261105054532327800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时06分]"
         },
         {
           "title": "新兴市场外汇指数刷新日高，得益于美元在美国中期选举结果出炉后走弱。",
@@ -1317,11 +1380,12 @@
           "url": "https://wallstreetcn.com/livenews/3194521",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时03分 ~ 07时06分]"
         },
         {
           "title": "国际金价 直线拉升",
@@ -1333,6 +1397,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI开发了自主漏洞发现流程。 OpenAI验证了1724个Linux内核漏洞。",
+          "url": "https://wallstreetcn.com/livenews/3194534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     }
