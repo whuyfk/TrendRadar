@@ -1,11 +1,383 @@
 {
-  "generated_at": "2026-11-06T05:03:05.430464+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-11-06T06:02:44.432912+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "万斯发长文与特朗普切割？特朗普回应",
+          "url": "https://news.ifeng.com/c/8xo5HAP62LX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
+          "url": "https://wallstreetcn.com/articles/3785203",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "中期选举惨败后，特朗普首次公开露面(图)",
+          "url": "https://news.ifeng.com/c/8xoF88iEdTb",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普选输，日本先怕了",
+          "url": "https://news.ifeng.com/c/8xoNqjlAt87",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "历史性失利后特朗普首次亮相：一场关于吊灯、钢梁与大理石的导览",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34409961",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：如果可以，我宁愿不摧毁这个国家的其余部分，但也许我不得不这么做。你们很快就会知道。",
+          "url": "https://wallstreetcn.com/livenews/3195355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普女婿库什纳：下周在阿布扎比，美国将召集自2月以来与乌克兰和俄罗斯的首次三方和平会谈。",
+          "url": "https://flash.jin10.com/detail/20261106055149655800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普谈俄罗斯和乌克兰：会达成重大协议。 今天会见了德米特里耶夫。解决俄乌冲突将涉及的不止乌克兰。",
+          "url": "https://wallstreetcn.com/livenews/3195354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普女婿库什纳：目标是通过务实、俄乌双方同意的安排，解决各方的安全关切。",
+          "url": "https://flash.jin10.com/detail/20261106055142205800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普女婿库什纳：美国与乌克兰、北约及欧洲伙伴进行了富有成效和实质性的讨论。",
+          "url": "https://flash.jin10.com/detail/20261106055120811800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普女婿库什纳：讨论了乌克兰的安全保障以及更广泛的欧洲安全架构。",
+          "url": "https://flash.jin10.com/detail/20261106055115352800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普就俄罗斯柴油油轮表态：正在研究禁止相关交易的法律。 伊朗任何行动都必须经过我方批准。",
+          "url": "https://wallstreetcn.com/livenews/3195351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国国务卿鲁比奥考虑退出总统特朗普的政府，此前特朗普所属共和党在中期选举中败落。",
+          "url": "https://wallstreetcn.com/livenews/3195317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "据媒体报道，美国总统特朗普的政府与伊朗讨论了遣返伊朗公民一事。",
+          "url": "https://wallstreetcn.com/livenews/3195309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "特朗普：非常接近解决俄乌冲突",
+          "url": "https://flash.jin10.com/detail/20261106053810211800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：弹劾对特朗普总统不起作用，对我也不起作用。",
+          "url": "https://flash.jin10.com/detail/20261106043043172800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普确认会见俄罗斯总统普京特使德米特里耶夫。",
+          "url": "https://flash.jin10.com/detail/20261106053429600800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：解决俄乌冲突将涉及的不止乌克兰。",
+          "url": "https://flash.jin10.com/detail/20261106053356629800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：非常接近解决俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20261106053347802800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊拉克总理与特朗普通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20261106031141234800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们必须把剩下的伊朗问题解决掉，我们已经准备就绪。",
+          "url": "https://flash.jin10.com/detail/20261106053248242800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "乌克兰资深议员阿拉哈米亚：请求美国第一夫人梅拉尼娅·特朗普继续推动局势降级努力。",
+          "url": "https://flash.jin10.com/detail/20261106002014801800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "田纳西州消息人士：特朗普正推动赫格塞思转任该州联邦参议员",
+          "url": "https://flash.jin10.com/detail/20261106040039335800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）如果可以的话，我宁愿不摧毁这个国家的其他地方，但也许我不得不这么做。你很快就会知道了。",
+          "url": "https://flash.jin10.com/detail/20261106053157866800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普谈及伊朗冲突时表示，过去六七个月里，没有人丧生。你看俄罗斯和乌克兰——那才叫战争。每个月都有2.5万人丧生。那才是战争。至于伊朗则不然。",
+          "url": "https://flash.jin10.com/detail/20261106053048876800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "乌克兰外长表示，没有美国、没有美国总统特朗普，战争不可能结束，但需要界定欧洲的新角色。",
+          "url": "https://flash.jin10.com/detail/20261106001548475800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我认为目前进展非常顺利。",
+          "url": "https://flash.jin10.com/detail/20261106052924739800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "俄罗斯总统普京特使德米特里耶夫：俄罗斯总统普京赞赏美国总统特朗普的促和努力。",
+          "url": "https://flash.jin10.com/detail/20261106001225715800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）需要决定是进一步行动还是“予以确认”（其符合协议）。",
+          "url": "https://flash.jin10.com/detail/20261106052905209800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美媒：鲁比奥考虑离开特朗普政府",
+          "url": "https://flash.jin10.com/detail/20261106034016763800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "美国总统特朗普：美国参议院民主党领袖舒默其实人还不错。",
+          "url": "https://flash.jin10.com/detail/20261106052647153800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：（关于俄柴油油轮被迫改道）我们正在考虑研究一项法律予以禁止。",
+          "url": "https://flash.jin10.com/detail/20261106052417717800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗未经美国批准，什么都不会做。",
+          "url": "https://flash.jin10.com/detail/20261106052047024800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股",
@@ -15,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
@@ -26,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
@@ -37,11 +409,12 @@
             13,
             5,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
@@ -51,22 +424,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
-        },
-        {
-          "title": "A股放量反弹能走多远",
-          "url": "https://www.toutiao.com/trending/7704528211891195428/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            16,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "美股存储板块大跌 闪迪跌超17%",
@@ -77,8 +436,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "A股放量反弹能走多远",
+          "url": "https://www.toutiao.com/trending/7704528211891195428/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            16,
+            20,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "美股三大指数集体收涨",
@@ -91,8 +465,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
@@ -102,8 +476,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨近1%，全市场超4800股收红，光伏概念股集体爆发",
@@ -114,8 +488,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "美股开盘：高通绩后跌超12%",
@@ -127,8 +501,22 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美股存储光通信板块重挫",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E6%9D%BF%E5%9D%97%E9%87%8D%E6%8C%AB&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 06时02分]"
         },
         {
           "title": "美股开盘纳指大跌728点",
@@ -145,17 +533,38 @@
           "time_info": "[02时02分 ~ 05时03分]"
         },
         {
-          "title": "美股存储光通信板块重挫",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E6%9D%BF%E5%9D%97%E9%87%8D%E6%8C%AB&t=31&band_rank=26&Refer=top",
+          "title": "周四（11月5日），美股行业ETF全线溃败，半导体ETF收跌11.21%，全球科技股指数ETF、科技行业ETF至少跌8%，网络股指数ETF跌4.51%，能源业ETF跌2.98%。",
+          "url": "https://wallstreetcn.com/livenews/3195352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美股AI硬件股大跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            26,
-            29,
+            28,
             20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时02分 ~ 05时03分]"
+          "time_info": "[01时02分 ~ 06时02分]"
         },
         {
           "title": "金十图示：2026年11月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -180,28 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时02分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 05时03分]"
-        },
-        {
-          "title": "美股AI硬件股大跌",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时03分]"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.64%，报653.19点。科技板块跌3.8%，银行板块跌0.6%。 欧元区STOXX 50指数初步收跌0.76%，报6221.67点，美股开盘之前高位震荡，随后持续下挫。 富时泛欧绩优300指数初步收跌0.54%，报2607.62点。",
@@ -240,6 +627,17 @@
           "time_info": "[04时02分 ~ 05时03分]"
         },
         {
+          "title": "Cloudflare美股盘后涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3195347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美股遭遇全面抛售 纳指跌近4% AI产业链多股跌超10%",
           "url": "https://flash.jin10.com/detail/20261106002734129800",
           "source": "金十数据",
@@ -249,6 +647,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "周四（11月5日），彭博电动汽车价格回报指数跌0.03%，报2949.24点，亚太早盘显著上涨、北京时间10:47刷新日高至3022.50点，美股开盘之前高位震荡，美股盘初显著回撤、23:54刷新日低至2930.86点。",
+          "url": "https://wallstreetcn.com/livenews/3195344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股存储芯片指数跌约15%，盘初持续下跌，大部分时间低位持稳；费城半导体指数跌超10%，AI软件先驱指数跌5.1%、AI赢家指数跌9.7%，科技股七巨头指数跌4%，超大规模云服务商指数跌3.1%。 标普500指数初步收跌4.3%，科技板块重挫7%，工业、可选消费、金融、能源等板块至少跌超%。 纳斯达克100指数初步收跌6.4%，成分股中，闪迪初步收盘暴跌22.3%，Astera Labs跌20%，Lumentum跌18.7%，美光、西部数据、AMD、希捷科技等至少跌超16%，汤森路透涨0.7%，拼多多涨2.1%，Applovin涨30.7%。",
+          "url": "https://wallstreetcn.com/livenews/3195338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "【美股史诗级抛售，前五大富豪的财富蒸发1500亿美元，马斯克一人损失近1000亿美元】美股遭遇大幅抛售，科技股成为重灾区。福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。埃隆·马斯克单日身价减少912亿美元，跌幅10.50%；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少151亿美元，跌幅8.70%；甲骨文创始人拉里·埃里森减少132亿美元，跌幅8.05%；Meta创始人马克·扎克伯格减少129亿美元，跌幅5.98%。上述五位富豪单日身价合计缩水1529亿美元。其中，马斯克一人身价减少额占五人合计损失的近六成。此次财富缩水主要反映相关上市公司股价下跌对富豪持股估值的影响。",
@@ -264,293 +684,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "万斯发长文与特朗普切割？特朗普回应",
-          "url": "https://news.ifeng.com/c/8xo5HAP62LX",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
-        },
-        {
-          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
-          "url": "https://wallstreetcn.com/articles/3785203",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
-        },
-        {
-          "title": "中期选举惨败后，特朗普首次公开露面(图)",
-          "url": "https://news.ifeng.com/c/8xoF88iEdTb",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
-        },
-        {
-          "title": "特朗普选输，日本先怕了",
-          "url": "https://news.ifeng.com/c/8xoNqjlAt87",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
-        },
-        {
-          "title": "历史性失利后特朗普首次亮相：一场关于吊灯、钢梁与大理石的导览",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34409961",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 05时03分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥考虑退出总统特朗普的政府，此前特朗普所属共和党在中期选举中败落。",
-          "url": "https://wallstreetcn.com/livenews/3195317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "据媒体报道，美国总统特朗普的政府与伊朗讨论了遣返伊朗公民一事。",
-          "url": "https://wallstreetcn.com/livenews/3195309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思：弹劾对特朗普总统不起作用，对我也不起作用。",
-          "url": "https://flash.jin10.com/detail/20261106043043172800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "伊拉克总理与特朗普通电话 讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20261106031141234800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "乌克兰资深议员阿拉哈米亚：请求美国第一夫人梅拉尼娅·特朗普继续推动局势降级努力。",
-          "url": "https://flash.jin10.com/detail/20261106002014801800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "田纳西州消息人士：特朗普正推动赫格塞思转任该州联邦参议员",
-          "url": "https://flash.jin10.com/detail/20261106040039335800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "乌克兰外长表示，没有美国、没有美国总统特朗普，战争不可能结束，但需要界定欧洲的新角色。",
-          "url": "https://flash.jin10.com/detail/20261106001548475800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "俄罗斯总统普京特使德米特里耶夫：俄罗斯总统普京赞赏美国总统特朗普的促和努力。",
-          "url": "https://flash.jin10.com/detail/20261106001225715800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "美媒：鲁比奥考虑离开特朗普政府",
-          "url": "https://flash.jin10.com/detail/20261106034016763800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "布伦特原油向上触及97美元/桶，日内涨3.30%。",
-          "url": "https://flash.jin10.com/detail/20261106023345731800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "WTI 12月原油期货收涨2.40美元，涨幅超过2.72%，报90.52美元/桶，脱离10月7日以来最低收盘位88.12美元，亚太午盘以来持续走高。 NYMEX 12月天然气期货收报2.9470美元/百万英热单位。 NYMEX 12月汽油期货收报2.7634美元/加仑，NYMEX 12月取暖油期货收报4.3519美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3195318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "上期所原油期货2612合约夜盘收涨0.22%，报639.80元人民币/桶。 沪金夜盘收涨0.27%，沪银收跌0.06%。",
-          "url": "https://wallstreetcn.com/livenews/3195300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时02分 ~ 05时03分]"
-        },
-        {
-          "title": "WTI原油期货结算价为每桶90.52美元，上涨2.40美元，涨幅2.72%。",
-          "url": "https://flash.jin10.com/detail/20261106033200843800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "布伦特原油日内涨4%，现报98.41美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3195320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "布伦特原油突破98美元/桶，日内涨3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3195299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时02分 ~ 05时03分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达3.0%，报90.79美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3195248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时03分]"
-        },
-        {
-          "title": "WTI 12月原油期货收涨2.40美元，涨幅超过2.72%，报90.52美元/桶，脱离10月7日以来最低收盘位88.12美元，亚太午盘以来持续走高。 布伦特1月原油期货收涨3.67美元，涨幅将近3.88%，报98.29美元/桶。 NYMEX 12月天然气期货收报2.9470美元/百万英热单位。 NYMEX 12月汽油期货收报2.7634美元/加仑，NYMEX 12月取暖油期货收报4.3519美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3195318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        },
-        {
-          "title": "WTI原油日内上涨3.00%，现报90.67美元/桶。",
-          "url": "https://flash.jin10.com/detail/20261106001321598800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶98.29美元，上涨3.67美元，涨幅3.88%。",
-          "url": "https://flash.jin10.com/detail/20261106034246346800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国至11月5日8周国债竞拍-得标利率配置百分比 93.38%，前值66.2%。",
@@ -653,6 +788,162 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "美国至10月30日当周外国央行持有美国国债 -248.97亿美元，前值-42.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20261106053041735800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "两年期美债收益率跌超12个基点",
+          "url": "https://wallstreetcn.com/livenews/3195334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "布伦特原油向上触及97美元/桶，日内涨3.30%。",
+          "url": "https://flash.jin10.com/detail/20261106023345731800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "WTI 12月原油期货收涨2.40美元，涨幅超过2.72%，报90.52美元/桶，脱离10月7日以来最低收盘位88.12美元，亚太午盘以来持续走高。 NYMEX 12月天然气期货收报2.9470美元/百万英热单位。 NYMEX 12月汽油期货收报2.7634美元/加仑，NYMEX 12月取暖油期货收报4.3519美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3195318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "上期所原油期货2612合约夜盘收涨0.22%，报639.80元人民币/桶。 沪金夜盘收涨0.27%，沪银收跌0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3195300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "WTI原油期货结算价为每桶90.52美元，上涨2.40美元，涨幅2.72%。",
+          "url": "https://flash.jin10.com/detail/20261106033200843800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "布伦特原油日内涨4%，现报98.41美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3195320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "布伦特原油突破98美元/桶，日内涨3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3195299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报90.79美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3195248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时03分]"
+        },
+        {
+          "title": "WTI 12月原油期货收涨2.40美元，涨幅超过2.72%，报90.52美元/桶，脱离10月7日以来最低收盘位88.12美元，亚太午盘以来持续走高。 布伦特1月原油期货收涨3.67美元，涨幅将近3.88%，报98.29美元/桶。 NYMEX 12月天然气期货收报2.9470美元/百万英热单位。 NYMEX 12月汽油期货收报2.7634美元/加仑，NYMEX 12月取暖油期货收报4.3519美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3195318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
+        },
+        {
+          "title": "布伦特原油美盘末涨幅扩大至4.00%，现报97.67美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261106053237934800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "WTI原油日内上涨3.00%，现报90.67美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261106001321598800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶98.29美元，上涨3.67美元，涨幅3.88%。",
+          "url": "https://flash.jin10.com/detail/20261106034246346800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     },
@@ -791,11 +1082,12 @@
           "url": "https://wallstreetcn.com/livenews/3195326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 06时02分]"
         },
         {
           "title": "美元指数5日下跌",
@@ -804,7 +1096,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
         }
@@ -824,6 +1116,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：将2026年底黄金价格预测下调至每盎司4150美元，将2027年底预测下调至每盎司4800美元。",
+          "url": "https://flash.jin10.com/detail/20261106053928854800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     }
