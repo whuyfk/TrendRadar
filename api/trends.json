@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T09:02:58.292842+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-11-05T10:02:57.013639+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普态度转折，称渴望与民主党达成协议",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "特朗普为何突然终止军援以色列？专家：看似突然，实则是权宜之计",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "特朗普：我不后悔",
@@ -77,8 +77,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "万斯“甩锅”伊朗战争，特朗普选举失利后首次露面",
@@ -87,9 +87,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时02分]"
+        },
+        {
+          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
+          "url": "https://wallstreetcn.com/articles/3785203",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时02分]"
         },
         {
           "title": "特朗普：会继续争取通过阳光保护法案",
@@ -109,9 +121,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "特朗普称不会替换国防部长赫格塞思",
+          "url": "https://www.toutiao.com/trending/7704410077016359474/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "据多位白宫记者反映，白宫记者团刚刚被召集，参加一场不在日程安排上的总统活动。这将是选举以来记者团首次当面听到美国总统特朗普讲话。",
@@ -148,17 +171,6 @@
           "time_info": "[01时38分 ~ 03时02分]"
         },
         {
-          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
-          "url": "https://wallstreetcn.com/articles/3785203",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "众议院民主党领袖杰弗里斯：我们将通过一项法案，阻止特朗普的关税政策，结束伊朗战争。",
           "url": "https://flash.jin10.com/detail/20261105013416339800",
           "source": "金十数据",
@@ -176,7 +188,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -193,6 +205,19 @@
           "time_info": "[01时38分 ~ 03时02分]"
         },
         {
+          "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
+          "url": "https://www.cls.cn/detail/2525608",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 10时02分]"
+        },
+        {
           "title": "特朗普称可在许多议题上与民主党合作，但排除取消关税",
           "url": "https://flash.jin10.com/detail/20261105062629288800",
           "source": "金十数据",
@@ -203,6 +228,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时06分 ~ 08时03分]"
+        },
+        {
+          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
+          "url": "https://wallstreetcn.com/articles/3785177",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 10时02分]"
         },
         {
           "title": "特朗普称不惧民主党弹劾",
@@ -241,29 +279,16 @@
           "time_info": "[01时38分 ~ 02时02分]"
         },
         {
-          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
-          "url": "https://wallstreetcn.com/articles/3785177",
+          "title": "特朗普中期选举受挫，反数据中心势力悄然崛起",
+          "url": "https://wallstreetcn.com/articles/3785179",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7,
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时06分 ~ 09时02分]"
-        },
-        {
-          "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
-          "url": "https://www.cls.cn/detail/2525608",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "time_info": "[08时03分 ~ 10时02分]"
         },
         {
           "title": "特朗普称美防长不换人",
@@ -313,16 +338,16 @@
           "time_info": "[03时02分 ~ 04时03分]"
         },
         {
-          "title": "特朗普中期选举受挫，反数据中心势力悄然崛起",
-          "url": "https://wallstreetcn.com/articles/3785179",
-          "source": "华尔街见闻",
+          "title": "特朗普称不惧民主党弹劾 国际原油价格一度暴跌10% | 环球市场",
+          "url": "https://www.cls.cn/detail/2525653",
+          "source": "财联社热门",
           "ranks": [
-            10,
+            12,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "time_info": "[09时02分 ~ 10时02分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗人民在战场和霍尔木兹海峡问题上让特朗普遭遇战略性失败，并在华盛顿让他遭受了政治失败。与此同时，美国民众却不得不为他的战争买单。任何试图对抗伊朗的人，都将付出代价——无论是在战场上，还是在自己的家门口。",
@@ -396,6 +421,18 @@
           "time_info": "[05时28分 ~ 06时03分]"
         },
         {
+          "title": "特朗普中期选举失利后首次露面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 10时02分]"
+        },
+        {
           "title": "美国总统特朗普正在征询顾问意见，讨论国防部长赫格塞斯是否应当离职。 德桑蒂斯（DeSantis）被视作赫格塞斯的潜在继任者。 特朗普尚未决定是否撤换赫格塞斯。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3194404",
           "source": "华尔街见闻-快讯",
@@ -405,6 +442,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普中期选举失利后首次露面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时02分]"
         },
         {
           "title": "民主党夺下美国参议院，特朗普重塑美联储之路再添屏障",
@@ -504,17 +552,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普称不惧民主党弹劾 国际原油价格一度暴跌10% | 环球市场",
-          "url": "https://www.cls.cn/detail/2525653",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
         },
         {
           "title": "美国总统特朗普：美国副总统万斯也许不会参选（下一届总统选举）。",
@@ -627,6 +664,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普宣布将停止每年约 40 亿美元对以色列援助，背后原因是什么？将对美以关系和中东局势产生什么影响？",
+          "url": "https://www.zhihu.com/question/2101246252964917912",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "特朗普称自行决定伊朗战事何时结束",
           "url": "https://flash.jin10.com/detail/20261105025323913800",
           "source": "金十数据",
@@ -647,17 +695,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普中期选举失利后首次露面",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         },
         {
           "title": "美国总统特朗普：如果他们弹劾我，将摧毁民主党。",
@@ -781,17 +818,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "特朗普中期选举失利后首次露面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "特朗普称不后悔对伊动武",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%90%8E%E6%82%94%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
           "source": "百度热搜",
@@ -806,7 +832,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 29,
+      "match_count": 47,
       "titles": [
         {
           "title": "近20家A股公司掀“回购潮”，最高拟回购10亿元",
@@ -818,8 +844,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "A股一日反弹可否延续？12家基金公司拆解三大推手",
@@ -831,8 +857,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
@@ -856,8 +882,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时38分 ~ 09时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时38分 ~ 10时02分]"
         },
         {
           "title": "A股成交额重返2万亿！19股量能创年内新高，TMT板块成交占比超四成",
@@ -868,8 +894,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "美股",
@@ -893,19 +919,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
-        },
-        {
-          "title": "美股收盘 中国资产爆发",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E7%88%86%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 10时02分]"
         },
         {
           "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
@@ -915,8 +930,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 10时02分]"
         },
         {
           "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
@@ -927,8 +942,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 10时02分]"
+        },
+        {
+          "title": "美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫",
+          "url": "https://www.cls.cn/detail/2525646",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 10时02分]"
         },
         {
           "title": "A股迎来“大奇迹日” 后市怎么看",
@@ -956,17 +985,93 @@
           "time_info": "07时06分"
         },
         {
-          "title": "美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫",
-          "url": "https://www.cls.cn/detail/2525646",
-          "source": "财联社热门",
+          "title": "港股AI应用板块持续走强，微盟集团(02013.HK)涨近20%，金蝶国际(00268.HK)涨超12%，金山云(03896.HK)、京东健康(06618.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261105094842020800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7,
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "恒生科技指数持续拉升，涨幅扩大至4.6%；恒指涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3194640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "沪指拉升翻红，深成指、创业板指均涨超1%，科创50指数涨超2%，光伏、贵金属、短剧、锂电池等涨幅居前，沪深京三市上涨个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3194637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "美股史诗级暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "美股收盘 中国资产爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时06分 ~ 09时02分]"
+          "time_info": "[08时03分 ~ 10时02分]"
+        },
+        {
+          "title": "A股文化传媒板块再度拉升，福石控股、浙文互联涨停，易点天下、蓝色光标、值得买跟涨。",
+          "url": "https://flash.jin10.com/detail/20261105094533802800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股半导体芯片股继续反弹，有研新材、先导基电、博通集成涨停，京仪装备涨超12%，盛科通信、华峰测控、恒玄科技、托伦斯涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3194634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "创业板指、深成指双双翻红，光伏设备、贵金属、民航机场、白酒等方向领涨，沪深京三市上涨个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3194629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "黄金ETF收涨将近3.7%，与地产ETF领跑美股大类资产类ETF，布油基金跌超8.6%",
@@ -979,6 +1084,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时06分]"
+        },
+        {
+          "title": "A股因何强势反弹？五重催化共振",
+          "url": "https://www.cls.cn/detail/2525278",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时02分]"
         },
         {
           "title": "周三（11月4日），美股行业ETF多数收涨，全球航空业ETF收涨6.7%，可选消费ETF涨4.26%，金融业ETF涨3.51%，网络股指数ETF涨2.36%，科技行业ETF、全球科技股指数ETF至多跌0.44%，半导体ETF跌2.75%，能源业ETF跌4.74%。",
@@ -1005,17 +1121,6 @@
           "time_info": "[06时03分 ~ 07时06分]"
         },
         {
-          "title": "A股因何强势反弹？五重催化共振",
-          "url": "https://www.cls.cn/detail/2525278",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 08时03分]"
-        },
-        {
           "title": "美股恐慌指数VIX波动率日内跌幅达20.0%，报16.66。",
           "url": "https://wallstreetcn.com/livenews/3194491",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时03分]"
+        },
+        {
+          "title": "深成指拉升翻红，沪指、创业板指跌幅收窄，光伏设备、贵金属、民航机场、白酒等方向领涨，沪深京三市上涨个股超3800只。",
+          "url": "https://wallstreetcn.com/livenews/3194622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "金十图示：2026年11月04日（周三）美股热门股票行情一览（美股盘中）",
@@ -1048,6 +1164,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "恒生科技指数盘初涨幅扩大至3%，恒指涨2%，网易涨超7%，联想集团逆市跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3194617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股光伏设备板块继续走强，永臻股份3连板，贝特利20cm涨停，同享科技、海泰新能、时创能源、清源股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3194613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "金十图示：2026年11月04日（周三）热门中概股行情一览（美股盘中）",
@@ -1078,7 +1216,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -1094,6 +1232,28 @@
           "time_info": "05时28分"
         },
         {
+          "title": "A股PCB概念股开盘领跌，满坤科技跌近10%，澳弘电子、东山精密、明阳电路、生益科技、景旺电子跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3194608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "上证指数开盘报3646.57点，跌1.07%。 深证成指开盘报11216.81点，跌1.05%。 创业板指开盘报2493.73点，跌2.00%。 沪深300开盘报4065.72点，跌0.87%。 科创50开盘报1236.01点，跌2.33%。 中证500开盘报6557.88点，跌0.97%。 中证1000开盘报6462.29点，跌0.76%。",
+          "url": "https://wallstreetcn.com/livenews/3194605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "金十图示：2026年11月04日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20261105050517777800",
           "source": "金十数据",
@@ -1103,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "创业板指盘初持续走强翻红，开盘一度跌2%。",
+          "url": "https://flash.jin10.com/detail/20261105094142990800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "房地美股价跌24%，房利美股价下跌22%。",
@@ -1116,6 +1287,39 @@
           "time_info": "00时02分"
         },
         {
+          "title": "恒指高开1.7%，恒生科技指数涨1.4%",
+          "url": "https://wallstreetcn.com/livenews/3194600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "多只港股通互联网ETF涨超5%",
+          "url": "https://flash.jin10.com/detail/20261105093953967800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3194599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 科技股走势显著分化",
           "url": "https://flash.jin10.com/detail/20261105050205652800",
           "source": "金十数据",
@@ -1125,6 +1329,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "深证成指盘初持续回升快速翻红，创业板指跌幅收窄至0.6%，沪指现跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20261105093615386800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股食品加工制造板块短线拉升，南侨食品涨停，黑芝麻、安记食品、巴比食品、仲景食品、仙乐健康等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20261105093527956800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "大V：五大AI各自适合干什么",
@@ -1152,7 +1378,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "EIA报告：美国最新一周原油产量升至纪录高位。",
@@ -1198,6 +1424,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时03分]"
+        },
+        {
+          "title": "发生了什么？布伦特原油突然跳水暴跌10%",
+          "url": "https://www.cls.cn/detail/2525588",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时02分]"
         },
         {
           "title": "欧佩克：原油运输及保险成本飙升，加剧全球通胀压力",
@@ -1266,17 +1504,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "发生了什么？布伦特原油突然跳水暴跌10%",
-          "url": "https://www.cls.cn/detail/2525588",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "美国10月30日当周EIA库欣地区原油库存变动 28万桶，前值 -62.4万桶。",
           "url": "https://wallstreetcn.com/livenews/3194367",
           "source": "华尔街见闻-快讯",
@@ -1332,6 +1559,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "SC原油主力合约日内跌幅扩大至10.00%，现报608.50元/桶。",
+          "url": "https://flash.jin10.com/detail/20261105094034836800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
           "url": "https://wallstreetcn.com/livenews/3194358",
           "source": "华尔街见闻-快讯",
@@ -1363,12 +1601,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "商品期货开盘，燃料油主力合约跌超12%，LU燃油、沥青跌超10%，液化气跌近9%，原油跌超8%。沪银涨超5%，沪金涨超3%，沪镍涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3194588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "施罗德（Schroders）高级经济学家布朗（George Brown）表示，考虑到美国财政赤字约占经济总量的6%，且公众持有的债务已超过32万亿美元（不包括政府欠医疗保险和社会保障等计划的资金），再加上特朗普政府和即将上任的民主党国会都承诺增加新的支出，“这一假设值得重新审视”。 “如果政治妥协日益意味着更大的赤字而非财政巩固，投资者可能会要求更高的期限溢价来持有长期国债。” 这可能会导致收益率曲线变得更加陡峭。",
@@ -1452,15 +1701,37 @@
           "time_info": "04时03分"
         },
         {
+          "title": "国债期货开盘，30年期主力合约涨0.10%，10年期主力合约涨0.05%，5年期主力合约涨0.01%，2年期主力合约涨0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3194609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
           "url": "https://wallstreetcn.com/livenews/3194566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "日本10年期国债收益率日内下行5个基点至2.76%。",
+          "url": "https://wallstreetcn.com/livenews/3194604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "法国10年期国债收益率跌超18个基点",
@@ -1488,7 +1759,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek Harness零基础全流程教学",
@@ -1504,8 +1775,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 10时02分]"
         },
         {
           "title": "网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？",
@@ -1534,6 +1805,70 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时38分 ~ 07时06分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 工程师高熙说的「AI 竞赛中，真正的对手不是其他大模型公司，而是时间」？",
+          "url": "https://www.zhihu.com/question/2101053619059389232",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国际金价涨超3.3%，现货白银涨约4.9%",
+          "url": "https://wallstreetcn.com/livenews/3194521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时03分 ~ 08时03分]"
+        },
+        {
+          "title": "国际金价银价直线拉升",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
+        },
+        {
+          "title": "金价急涨买还是卖",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%80%A5%E6%B6%A8%E4%B9%B0%E8%BF%98%E6%98%AF%E5%8D%96&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "国际金价 直线拉升",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7+%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
@@ -1614,48 +1949,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时06分 ~ 08时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国际金价涨超3.3%，现货白银涨约4.9%",
-          "url": "https://wallstreetcn.com/livenews/3194521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时03分 ~ 08时03分]"
-        },
-        {
-          "title": "国际金价银价直线拉升",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
-        },
-        {
-          "title": "国际金价 直线拉升",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7+%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
         }
       ]
     },
