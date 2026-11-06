@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-07T04:02:49.063110+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-11-07T05:49:14.063165+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
           "title": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水",
           "url": "https://wallstreetcn.com/articles/3785294",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "深交所优化创业板指编制方案，采用“分级靠档”机制设置权重上限",
@@ -49,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
@@ -70,11 +71,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？",
@@ -87,8 +89,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "美股大跌特朗普甩锅民主党",
@@ -100,8 +102,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
+        },
+        {
+          "title": "周五（11月6日），美股AI软件先驱指数涨0.29%，报115.31点，本周累计下跌8.06%。",
+          "url": "https://wallstreetcn.com/livenews/3196242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "金十图示：2026年11月06日（周五）美股热门股票行情一览（美股盘中）",
@@ -115,6 +128,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "周五（11月6日），美股人工智能（AI）赢家指数涨3.46%，报317.72点，本周累计下跌11.95%。",
+          "url": "https://wallstreetcn.com/livenews/3196241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "近百亿美股持仓遭遇大跌，但斌回应：AI就此落幕，可能极小",
           "url": "https://www.cls.cn/detail/2527369",
           "source": "财联社热门",
@@ -126,6 +150,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美股芯片巨头指数｜标普500半导体及其设备指数收涨3.57%，报9264.71点，本周累计下跌11.20%。",
+          "url": "https://wallstreetcn.com/livenews/3196239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "金十图示：2026年11月06日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261107013024611800",
           "source": "金十数据",
@@ -135,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "周五（11月6日），美股存储芯片与硬件供应链指数涨3.14%，报127.98点，本周累计下跌21.34%，期内几乎整体处于下跌状态，11月2-4日平缓地持续走低、5日盘初加速下跌、后续持续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3196238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "A股国家队最新增持路径浮出水面",
@@ -162,6 +208,17 @@
           "time_info": "[00时02分 ~ 01时03分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周五（11月6日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报217.77点，本周累计下跌1.36%，11月4日高开、5日低开形成冲高回落行情。 “超大”市值科技股指数涨1.44%，报422.56点，本周累计下跌3.35%，11月2-4日高位震荡、5日低开、后续低位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3196237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "高盛大砍黄金目标价！美联储政策立场趋鹰 美股暴跌亦成拖累",
           "url": "https://www.cls.cn/detail/2527406",
           "source": "财联社热门",
@@ -179,9 +236,42 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "周五（11月6日），美股行业ETF涨跌各异，半导体ETF收涨3.62%，全球科技股指数ETF涨2.03%，科技行业ETF涨1.45%，能源业ETF跌0.02%，银行业ETF跌0.47%。 2026年迄今，能源业ETF累计上涨40.55%，半导体ETF、生物科技指数ETF、医疗业ETF涨28.83%-20.86%，可选消费ETF则累跌0.92%，网络股指数ETF跌3.19%。",
+          "url": "https://wallstreetcn.com/livenews/3196229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "金十图示：2026年11月06日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261107050607450800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "金十图示：2026年11月06日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261107050605277800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "美股存储芯片指数涨超8%，成分股拉姆研究涨10%，闪迪涨7.8%，应用材料、泰瑞达、Rambus、美光至少涨超5%。此前报道称，台积电考虑进军存储芯片市场。 费城半导体指数涨幅扩大至将近7%。台积电一度涨约7.8%，英伟达涨7.3%（周四跌9.3%）。 纳斯达克100指数涨2.4%，纳指涨2%，标普涨1.1%，道指跌幅收窄至0.15%。",
@@ -206,6 +296,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX涨超8%",
+          "url": "https://flash.jin10.com/detail/20261107050528365800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "CoreWeave转跌，此前一度涨9.3%。IREN涨幅收窄至大约12%，美股盘初曾涨约24.6%。Nebius Group涨幅收窄至大约2.4%，盘初一度涨13.7%。",
           "url": "https://wallstreetcn.com/livenews/3196157",
           "source": "华尔街见闻-快讯",
@@ -215,6 +316,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "拉美股市与货币上涨，墨西哥比索在墨西哥央行降息后反弹",
+          "url": "https://wallstreetcn.com/livenews/3196216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "半导体ETF反弹超4.5%，在美股盘初领跑行业ETF，全球科技股指数ETF、科技行业ETF至少涨超2.3%，能源业ETF、银行业ETF跌约0.7%。",
@@ -242,7 +354,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
@@ -252,8 +364,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
         },
         {
           "title": "特朗普签发公告：禁止擅改总统办公室",
@@ -263,8 +375,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
+        },
+        {
+          "title": "特朗普任命新白宫办公厅主任",
+          "url": "https://news.ifeng.com/c/8xqWagzSy9p",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 05时49分]"
         },
         {
           "title": "特朗普沉迷白宫装修 共和党内部不满情绪升温",
@@ -307,7 +430,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -318,9 +441,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普称正在与伊朗进行沟通",
+          "url": "https://flash.jin10.com/detail/20261107050757585800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "特朗普宣布任命斯蒂芬·米勒为白宫幕僚长",
@@ -329,7 +463,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -343,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普称正在与伊朗进行沟通",
+          "url": "https://wallstreetcn.com/livenews/3196224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "白宫顾问哈塞特：将针对（美国总统特朗普控告）美联储理事库克一事发布一份“基于证据的报告”。 特朗普将审阅报告，并决定库克（的去留）。",
@@ -370,8 +515,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI新一轮融资首批110亿美元到账",
+          "url": "https://flash.jin10.com/detail/20261107051814657800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
         {
           "title": "市场消息：OpenAI一名员工否认在办公室安装窃听设备的指控。",
           "url": "https://flash.jin10.com/detail/20261107031721658800",
@@ -379,7 +535,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -439,12 +595,117 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI完成新一轮110亿美元融资，估值达1.25万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3196217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "市场消息：OpenAI完成新一轮110亿美元融资，估值达1.25万亿美元。",
+          "url": "https://flash.jin10.com/detail/20261107045852518800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "非农大超预期，美股芯片领涨，费半大涨7%，美债收益率走高，黄金承压回落",
+          "url": "https://wallstreetcn.com/articles/3785315",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 05时49分]"
+        },
+        {
+          "title": "德国10年期国债收益率涨超1个基点，使得本周累计跌幅收窄至不足7个基点",
+          "url": "https://wallstreetcn.com/livenews/3196145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "周五（11月6日），新兴市场ETF收涨2.2%，领跑美股大类资产类ETF，纳斯达克100 ETF涨1.4%，罗素2000指数ETF、做多美元指数、巴克莱美国可转债ETF、标普500 ETF至少涨0.31%，大豆基金涨0.08%。 美国国债20+年ETF收跌0.01%，农产品基金跌0.19%，道指ETF跌0.4%，日元做多跌0.45%，美国布伦特油价基金跌0.5%，美国房地产ETF、欧元做多、黄金ETF至多跌0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3196234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美国10年期国债收益率短线跳水，从4.84%上方下挫、刷新日低至4.8103%，随后快速转涨。此前彭博报道称，嫌弃用的芯片不够新，微软正逐步终止向甲骨文租用AI云算力的安排。 11月4日美国中期选举投票以来，半导体/AI板块已经经历了一波暴跌行情。",
+          "url": "https://wallstreetcn.com/livenews/3196156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月3日当周，投机者将CBOT美国5年期国债期货净空头头寸增加246,314手，至1,275,370手。",
+          "url": "https://flash.jin10.com/detail/20261107043343186800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月3日当周，投机者将CBOT美国超长期国债期货净空头头寸减少21,646手，至361,932手。投机者将CBOT美国国债期货净空头头寸减少10,041手，至9,097手。",
+          "url": "https://flash.jin10.com/detail/20261107043335149800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至11月3日当周，投机者将CBOT美国10年期国债期货净空头头寸减少19,179手，至962,359手。投机者将CBOT美国2年期国债期货净空头头寸减少6,932手，至1,002,544手。",
+          "url": "https://flash.jin10.com/detail/20261107043325810800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         }
       ]
     },
     {
       "keyword_group": "原油",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "WTI原油期货结算价为每桶90.83美元，上涨31美分，涨幅0.34%。",
@@ -453,7 +714,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -464,7 +725,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -498,7 +759,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -509,16 +770,38 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：11月3日当周，投机者所持NYMEX WTI原油净多头头寸减少14,468手合约，至85,303手合约，创最近17周新低。 所持布伦特与WTI原油净多头头寸减少78,492手合约，至272,075手合约，创最近16周新低。 所持NYMEX柴油/取暖油净多头头寸降低至7,120手合约，创最近17周新低。 所持NYMEX汽油净多头头寸降低至86,963手合约，创七周新低。 所持NYMEX天然气净空头头寸达到234,022手合约，创约七年新高。",
+          "url": "https://wallstreetcn.com/livenews/3196211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "市场消息：谷歌(GOOG.O)购入高通(QCOM.O)价值5.48亿美元的股份。",
+          "url": "https://flash.jin10.com/detail/20261107052218956800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
         {
           "title": "“新云”概念股CoreWeave一度涨约9.2%，Nebius Group一度涨13.7%。 美股超大规模云服务商（Hyperscalers）指数维持超过1.3%的涨幅，成分股Meta、甲骨文、谷歌A涨1.8%，亚马逊涨0.8%，微软跌1.2%。 北美科技软件股指数ETF转而重新涨超0.1%，美股盘初一度涨约0.9%。",
           "url": "https://wallstreetcn.com/livenews/3196100",
@@ -532,13 +815,24 @@
           "time_info": "[00时02分 ~ 01时03分]"
         },
         {
+          "title": "谷歌斥资5.48亿美元买入高通股份",
+          "url": "https://wallstreetcn.com/livenews/3196236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
           "title": "市场消息：谷歌(GOOG.O)收购Crusoe位于怀俄明州的数据中心选址。",
           "url": "https://flash.jin10.com/detail/20261107024936400800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -549,85 +843,15 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "非农大超预期，美股芯片领涨，费半大涨7%，美债收益率走高，黄金承压回落",
-          "url": "https://wallstreetcn.com/articles/3785315",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "德国10年期国债收益率涨超1个基点，使得本周累计跌幅收窄至不足7个基点",
-          "url": "https://wallstreetcn.com/livenews/3196145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国10年期国债收益率短线跳水，从4.84%上方下挫、刷新日低至4.8103%，随后快速转涨。此前彭博报道称，嫌弃用的芯片不够新，微软正逐步终止向甲骨文租用AI云算力的安排。 11月4日美国中期选举投票以来，半导体/AI板块已经经历了一波暴跌行情。",
-          "url": "https://wallstreetcn.com/livenews/3196156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 银价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股历史性暴跌或影响金价",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%E6%88%96%E5%BD%B1%E5%93%8D%E9%87%91%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时03分]"
-        },
-        {
-          "title": "男子预判金价能到 2000 元 / 克，花光积蓄买 7 斤黄金，9 个月亏 114 万元，急用钱无奈割肉，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2101426752694261522",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？",
@@ -641,13 +865,67 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "DeepSeek Harness基础教学",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 05时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 银价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "男子预判金价能到 2000 元 / 克，花光积蓄买 7 斤黄金，9 个月亏 114 万元，急用钱无奈割肉，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2101426752694261522",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 05时49分]"
+        },
+        {
+          "title": "美股历史性暴跌或影响金价",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%E6%88%96%E5%BD%B1%E5%93%8D%E9%87%91%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 01时03分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美元指数6日大幅上涨",
+          "url": "https://flash.jin10.com/detail/20261107050835503800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
         {
           "title": "美元指数突破102关口，日内涨0.61%。",
           "url": "https://wallstreetcn.com/livenews/3196110",
