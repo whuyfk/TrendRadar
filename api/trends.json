@@ -1,11 +1,504 @@
 {
-  "generated_at": "2026-11-06T07:02:47.797900+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-11-06T08:40:12.757051+08:00",
+  "total_titles_processed": 807,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
+      "match_count": 41,
+      "titles": [
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
+        },
+        {
+          "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
+          "url": "https://www.cls.cn/detail/2526694",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4,
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
+        },
+        {
+          "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
+          "url": "https://wallstreetcn.com/articles/3785208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
+        },
+        {
+          "title": "A股放量反弹能走多远",
+          "url": "https://www.toutiao.com/trending/7704528211891195428/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            16,
+            20,
+            26,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.douyin.com/hot/2729994",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 07时02分]"
+        },
+        {
+          "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
+          "url": "https://wallstreetcn.com/articles/3785234",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
+        },
+        {
+          "title": "美股存储板块大跌 闪迪跌超17%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8517%25",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨近1%，全市场超4800股收红，光伏概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2526261",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美股开盘：高通绩后跌超12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E9%AB%98%E9%80%9A%E7%BB%A9%E5%90%8E%E8%B7%8C%E8%B6%8512%25",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
+          "url": "https://www.cls.cn/detail/2526796",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时40分]"
+        },
+        {
+          "title": "【早报】深夜闪崩，美股现史诗级抛售；费城半导体指数重挫12%，创2020年来最大跌幅；国际油价，大幅走高",
+          "url": "https://www.cls.cn/detail/2526813",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "美股创 19 个月来最大单日跌幅、纳指暴跌 5.52%，科技股遭遇抛售潮，引发市场恐慌的核心原因是什么？",
+          "url": "https://www.zhihu.com/question/2101831171671904273",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "美股存储光通信板块重挫",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E6%9D%BF%E5%9D%97%E9%87%8D%E6%8C%AB&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            29,
+            20,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美股开盘纳指大跌728点",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E7%BA%B3%E6%8C%87%E5%A4%A7%E8%B7%8C728%E7%82%B9&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            22,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美股创纪录“血洗”2.8万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%88%9B%E7%BA%AA%E5%BD%95%E2%80%9C%E8%A1%80%E6%B4%97%E2%80%9D2.8%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "美股崩跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "美股暴跌 遭遇历史性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E5%8E%86%E5%8F%B2%E6%80%A7%E6%8A%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时40分]"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20261106082827160800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "美股",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美股AI硬件股大跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时02分]"
+        },
+        {
+          "title": "金十图示：2026年11月05日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261106013127747800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时02分]"
+        },
+        {
+          "title": "金十图示：2026年11月05日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261106013015841800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时03分 ~ 03时02分]"
+        },
+        {
+          "title": "周四（11月5日），美股行业ETF全线溃败，半导体ETF收跌11.21%，全球科技股指数ETF、科技行业ETF至少跌8%，网络股指数ETF跌4.51%，能源业ETF跌2.98%。",
+          "url": "https://wallstreetcn.com/livenews/3195352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普回应美股暴跌",
+          "url": "https://www.toutiao.com/trending/7704442784173998121/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水",
+          "url": "https://wallstreetcn.com/articles/3785294",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "欧洲STOXX 600指数初步收跌0.64%，报653.19点。科技板块跌3.8%，银行板块跌0.6%。 欧元区STOXX 50指数初步收跌0.76%，报6221.67点，美股开盘之前高位震荡，随后持续下挫。 富时泛欧绩优300指数初步收跌0.54%，报2607.62点。",
+          "url": "https://wallstreetcn.com/livenews/3195252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时03分]"
+        },
+        {
+          "title": "Cloudflare美股盘后涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3195347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美股费城半导体指数恐创2020年3月以来最大单日跌幅，最新下跌11.2%。",
+          "url": "https://wallstreetcn.com/livenews/3195247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 02时03分]"
+        },
+        {
+          "title": "美股三大指数集体大幅收跌",
+          "url": "https://www.douyin.com/hot/2731825",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌1.58%，报24494点。 恒生科技指数主连夜盘收跌2.18%，报4075点。",
+          "url": "https://wallstreetcn.com/livenews/3195305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时03分]"
+        },
+        {
+          "title": "这波A股反弹能持续多久",
+          "url": "https://www.toutiao.com/trending/7704703500302683691/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "周四美股大幅收跌 AI监管担忧加速资金撤出科技股",
+          "url": "https://flash.jin10.com/detail/20261106065444723800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "A股科技板块强势反弹，基金经理从“贝塔反弹”切向“阿尔法选股”",
+          "url": "https://wallstreetcn.com/livenews/3195370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美股遭遇全面抛售 纳指跌近4% AI产业链多股跌超10%",
+          "url": "https://flash.jin10.com/detail/20261106002734129800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "周四（11月5日），彭博电动汽车价格回报指数跌0.03%，报2949.24点，亚太早盘显著上涨、北京时间10:47刷新日高至3022.50点，美股开盘之前高位震荡，美股盘初显著回撤、23:54刷新日低至2930.86点。",
+          "url": "https://wallstreetcn.com/livenews/3195344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数收跌11.17%，报47.31点美股早盘持续下跌，北京时间23:00以来低位窄幅震荡、23:54刷新日低至45.09点。 最近24小时，现货比特币跌5.35%，暂报75859美元，美股开盘之前高位窄幅震荡，随后陷入美股半导体概念股/AI概念股被抛售的浪潮，00:00以来低位企稳。 现货以太坊跌7.63%，暂报2232.877美元。",
+          "url": "https://wallstreetcn.com/livenews/3195364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "纳指期货现涨0.4%，部分美股科技股在盘后反弹，闪迪(SNDK.O)和美光科技(MU.O)涨4%，AMD(AMD.O)涨2%，英伟达(NVDA.O)涨1%。",
+          "url": "https://flash.jin10.com/detail/20261106081812960800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "特朗普称美股大跌赖民主党",
+          "url": "https://wallstreetcn.com/livenews/3195425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
+          "title": "美股存储芯片指数跌约15%，盘初持续下跌，大部分时间低位持稳；费城半导体指数跌超10%，AI软件先驱指数跌5.1%、AI赢家指数跌9.7%，科技股七巨头指数跌4%，超大规模云服务商指数跌3.1%。 标普500指数初步收跌4.3%，科技板块重挫7%，工业、可选消费、金融、能源等板块至少跌超%。 纳斯达克100指数初步收跌6.4%，成分股中，闪迪初步收盘暴跌22.3%，Astera Labs跌20%，Lumentum跌18.7%，美光、西部数据、AMD、希捷科技等至少跌超16%，汤森路透涨0.7%，拼多多涨2.1%，Applovin涨30.7%。",
+          "url": "https://wallstreetcn.com/livenews/3195338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "【美股史诗级抛售，前五大富豪的财富蒸发1500亿美元，马斯克一人损失近1000亿美元】美股遭遇大幅抛售，科技股成为重灾区。福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。埃隆·马斯克单日身价减少912亿美元，跌幅10.50%；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少151亿美元，跌幅8.70%；甲骨文创始人拉里·埃里森减少132亿美元，跌幅8.05%；Meta创始人马克·扎克伯格减少129亿美元，跌幅5.98%。上述五位富豪单日身价合计缩水1529亿美元。其中，马斯克一人身价减少额占五人合计损失的近六成。此次财富缩水主要反映相关上市公司股价下跌对富豪持股估值的影响。",
+          "url": "https://wallstreetcn.com/livenews/3195260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "万斯发长文与特朗普切割？特朗普回应",
@@ -15,8 +508,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
         },
         {
           "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
@@ -26,8 +519,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
         },
         {
           "title": "中期选举惨败后，特朗普首次公开露面(图)",
@@ -61,8 +554,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 08时40分]"
         },
         {
           "title": "美国国务卿鲁比奥：计划与总统特朗普“共进退”。（纽约时报）",
@@ -71,7 +564,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -196,6 +689,28 @@
           "time_info": "[04时02分 ~ 05时03分]"
         },
         {
+          "title": "万斯“与特朗普切割” 特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E2%80%9C%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%87%E5%89%B2%E2%80%9D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普称俄乌冲突接近解决",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E6%8E%A5%E8%BF%91%E8%A7%A3%E5%86%B3",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
           "title": "美国国防部长赫格塞思：弹劾对特朗普总统不起作用，对我也不起作用。",
           "url": "https://flash.jin10.com/detail/20261106043043172800",
           "source": "金十数据",
@@ -279,7 +794,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -312,7 +827,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -345,9 +860,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我只是没在选票上。如果我在选票上，我们早就以压倒性优势获胜了！",
+          "url": "https://flash.jin10.com/detail/20261106081600334800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我认为目前进展非常顺利。",
@@ -389,7 +915,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -440,376 +966,8 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
-          "url": "https://wallstreetcn.com/articles/3785134",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
-          "url": "https://www.cls.cn/detail/2526694",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
-          "url": "https://wallstreetcn.com/articles/3785208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "A股放量反弹能走多远",
-          "url": "https://www.toutiao.com/trending/7704528211891195428/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            16,
-            20,
-            26,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.douyin.com/hot/2729994",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
-          "url": "https://wallstreetcn.com/articles/3785234",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股存储板块大跌 闪迪跌超17%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8517%25",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时02分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落涨近1%，全市场超4800股收红，光伏概念股集体爆发",
-          "url": "https://www.cls.cn/detail/2526261",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美股开盘：高通绩后跌超12%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E9%AB%98%E9%80%9A%E7%BB%A9%E5%90%8E%E8%B7%8C%E8%B6%8512%25",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美股存储光通信板块重挫",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E6%9D%BF%E5%9D%97%E9%87%8D%E6%8C%AB&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29,
-            20,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股开盘纳指大跌728点",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E7%BA%B3%E6%8C%87%E5%A4%A7%E8%B7%8C728%E7%82%B9&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            22,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
-          "url": "https://www.cls.cn/detail/2526796",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美股",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美股AI硬件股大跌",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 06时02分]"
-        },
-        {
-          "title": "金十图示：2026年11月05日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261106013127747800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 03时02分]"
-        },
-        {
-          "title": "金十图示：2026年11月05日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261106013015841800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 03时02分]"
-        },
-        {
-          "title": "周四（11月5日），美股行业ETF全线溃败，半导体ETF收跌11.21%，全球科技股指数ETF、科技行业ETF至少跌8%，网络股指数ETF跌4.51%，能源业ETF跌2.98%。",
-          "url": "https://wallstreetcn.com/livenews/3195352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数初步收跌0.64%，报653.19点。科技板块跌3.8%，银行板块跌0.6%。 欧元区STOXX 50指数初步收跌0.76%，报6221.67点，美股开盘之前高位震荡，随后持续下挫。 富时泛欧绩优300指数初步收跌0.54%，报2607.62点。",
-          "url": "https://wallstreetcn.com/livenews/3195252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时03分]"
-        },
-        {
-          "title": "Cloudflare美股盘后涨16%。",
-          "url": "https://wallstreetcn.com/livenews/3195347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股费城半导体指数恐创2020年3月以来最大单日跌幅，最新下跌11.2%。",
-          "url": "https://wallstreetcn.com/livenews/3195247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 02时03分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌1.58%，报24494点。 恒生科技指数主连夜盘收跌2.18%，报4075点。",
-          "url": "https://wallstreetcn.com/livenews/3195305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时03分]"
-        },
-        {
-          "title": "周四美股大幅收跌 AI监管担忧加速资金撤出科技股",
-          "url": "https://flash.jin10.com/detail/20261106065444723800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美股暴跌 遭遇历史性抛售",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E5%8E%86%E5%8F%B2%E6%80%A7%E6%8A%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "A股科技板块强势反弹，基金经理从“贝塔反弹”切向“阿尔法选股”",
-          "url": "https://wallstreetcn.com/livenews/3195370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美股遭遇全面抛售 纳指跌近4% AI产业链多股跌超10%",
-          "url": "https://flash.jin10.com/detail/20261106002734129800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "周四（11月5日），彭博电动汽车价格回报指数跌0.03%，报2949.24点，亚太早盘显著上涨、北京时间10:47刷新日高至3022.50点，美股开盘之前高位震荡，美股盘初显著回撤、23:54刷新日低至2930.86点。",
-          "url": "https://wallstreetcn.com/livenews/3195344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数收跌11.17%，报47.31点美股早盘持续下跌，北京时间23:00以来低位窄幅震荡、23:54刷新日低至45.09点。 最近24小时，现货比特币跌5.35%，暂报75859美元，美股开盘之前高位窄幅震荡，随后陷入美股半导体概念股/AI概念股被抛售的浪潮，00:00以来低位企稳。 现货以太坊跌7.63%，暂报2232.877美元。",
-          "url": "https://wallstreetcn.com/livenews/3195364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美股存储芯片指数跌约15%，盘初持续下跌，大部分时间低位持稳；费城半导体指数跌超10%，AI软件先驱指数跌5.1%、AI赢家指数跌9.7%，科技股七巨头指数跌4%，超大规模云服务商指数跌3.1%。 标普500指数初步收跌4.3%，科技板块重挫7%，工业、可选消费、金融、能源等板块至少跌超%。 纳斯达克100指数初步收跌6.4%，成分股中，闪迪初步收盘暴跌22.3%，Astera Labs跌20%，Lumentum跌18.7%，美光、西部数据、AMD、希捷科技等至少跌超16%，汤森路透涨0.7%，拼多多涨2.1%，Applovin涨30.7%。",
-          "url": "https://wallstreetcn.com/livenews/3195338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "【美股史诗级抛售，前五大富豪的财富蒸发1500亿美元，马斯克一人损失近1000亿美元】美股遭遇大幅抛售，科技股成为重灾区。福布斯实时亿万富豪排行榜显示，美股下跌令全球多位科技富豪身价大幅缩水。埃隆·马斯克单日身价减少912亿美元，跌幅10.50%；戴尔科技创始人迈克尔·戴尔减少205亿美元，跌幅9.60%；英伟达CEO黄仁勋减少151亿美元，跌幅8.70%；甲骨文创始人拉里·埃里森减少132亿美元，跌幅8.05%；Meta创始人马克·扎克伯格减少129亿美元，跌幅5.98%。上述五位富豪单日身价合计缩水1529亿美元。其中，马斯克一人身价减少额占五人合计损失的近六成。此次财富缩水主要反映相关上市公司股价下跌对富豪持股估值的影响。",
-          "url": "https://wallstreetcn.com/livenews/3195260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国至11月5日8周国债竞拍-得标利率配置百分比 93.38%，前值66.2%。",
@@ -914,6 +1072,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "日本5年期国债收益率下行7.5个基点，至2.115%。",
+          "url": "https://wallstreetcn.com/livenews/3195430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
+        },
+        {
           "title": "美国至10月30日当周外国央行持有美国国债 -248.97亿美元，前值-42.5亿美元。",
           "url": "https://flash.jin10.com/detail/20261106053041735800",
           "source": "金十数据",
@@ -942,9 +1111,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3195413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时40分"
         }
       ]
     },
@@ -1043,7 +1223,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -1170,7 +1350,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI推出GPT-6 Cyber，其网络安全评级为“关键”级",
@@ -1194,6 +1374,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时03分]"
+        },
+        {
+          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
         },
         {
           "title": "OpenAI推出GPT-6 Cyber网络安全模型 漏洞检测能力超越GPT-6 Astra",
@@ -1221,7 +1412,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛：将2026年底黄金价格预测下调至每盎司4150美元，将2027年底预测下调至每盎司4800美元。",
@@ -1236,13 +1427,24 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "国际金价接连收复4000美元、4100美元关口，这轮反弹能走多远？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34414569",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时39分 ~ 08时40分]"
+        },
+        {
           "title": "国际金价涨0.7%，纽约铜跌约3.5%",
           "url": "https://wallstreetcn.com/livenews/3195361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -1253,7 +1455,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -1269,11 +1471,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时02分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[05时02分 ~ 08时40分]"
         },
         {
           "title": "DeepSeek Harness官宣日活达154万",
@@ -1282,7 +1485,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
