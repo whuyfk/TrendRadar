@@ -1,776 +1,100 @@
 {
-  "generated_at": "2026-11-08T23:02:25.156107+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-11-09T00:02:30.549379+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
-          "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时02分 ~ 23时02分]"
-        },
-        {
-          "title": "特朗普为何容忍万斯的“攻击”？专家：他不想下台后就坐牢",
-          "url": "https://v.ifeng.com/c/8xrIPvD29En",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时02分]"
-        },
-        {
-          "title": "不改变政策路线！特朗普撤换白宫幕僚长，任命“强硬派”Stephen Miller",
-          "url": "https://wallstreetcn.com/articles/3785431",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普邀请UFC掌门人出任白宫新闻秘书遭拒绝",
-          "url": "https://wallstreetcn.com/livenews/3196438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            3,
-            4,
-            8,
-            12,
-            15,
-            20,
-            22,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时02分 ~ 19时02分]"
-        },
-        {
-          "title": "UFC总裁将与特朗普面谈",
-          "url": "https://wallstreetcn.com/livenews/3196440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            3,
-            7,
-            11,
-            14,
-            19,
-            21,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 19时02分]"
-        },
-        {
-          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
-          "url": "https://www.cls.cn/detail/2527984",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时02分 ~ 22时02分]"
-        },
-        {
-          "title": "美方对伊朗发动小规模打击！特朗普证实、伊朗称两枚导弹击中格什姆岛",
-          "url": "https://wallstreetcn.com/articles/3785419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 09时02分]"
-        },
-        {
-          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
-          "url": "https://www.cls.cn/detail/2527972",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时02分 ~ 22时02分]"
-        },
-        {
-          "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34431066",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时02分 ~ 23时02分]"
-        },
-        {
-          "title": "特朗普下令美国司法部调查民主党人“威胁弹劾”行为",
-          "url": "https://wallstreetcn.com/livenews/3196444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            10,
-            15,
-            17,
-            21,
-            22,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时02分 ~ 21时02分]"
-        },
-        {
-          "title": "消息人士：达纳·怀特拒绝特朗普邀请其出任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261108054754829800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            12,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 12时03分]"
-        },
-        {
-          "title": "据CNN：消息人士称，UFC首席执行官达纳·怀特拒绝了特朗普提出的邀请，未接受出任白宫新闻秘书一职。",
-          "url": "https://flash.jin10.com/detail/20261108054125488800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            14,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 12时03分]"
-        },
-        {
-          "title": "特朗普邀格斗界大佬出任白宫新闻秘书",
-          "url": "https://news.ifeng.com/c/8xs5ZHVK3YV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时02分 ~ 09时02分]"
-        },
-        {
-          "title": "希拉里称不担心特朗普赦免马斯克",
-          "url": "https://www.toutiao.com/trending/7704921785329893426/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普政府人事调整启动，白宫副幕僚长沃尔特斯将离职",
-          "url": "https://flash.jin10.com/detail/20261108113353196800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时02分]"
-        },
-        {
-          "title": "特朗普拟邀请UFC总裁出任白宫新闻秘书 双方计划周一会面",
-          "url": "https://flash.jin10.com/detail/20261108084240523800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时02分 ~ 13时02分]"
-        },
-        {
-          "title": "一名携枪男子在白宫附近被捕，嫌疑人自称前来行刺特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34428612",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 22时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-11-08）",
-          "url": "https://flash.jin10.com/detail/20261108182831188800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时02分]"
-        },
-        {
-          "title": "希拉里称不担心特朗普赦免马斯克",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%8C%E6%8B%89%E9%87%8C%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D%E9%A9%AC%E6%96%AF%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时02分]"
-        },
-        {
-          "title": "据以色列第12频道：美国总统特朗普的亲信要求以色列反对派领导人艾森科特迅速组建政府并取代内塔尼亚胡。",
-          "url": "https://flash.jin10.com/detail/20261108031225387800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时02分]"
-        },
-        {
-          "title": "特朗普下令司法部彻查民主党“敲诈勒索”，指控其滥用弹劾与监禁威胁",
-          "url": "https://flash.jin10.com/detail/20261108015435230800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "美国总统特朗普：民主党人四处威胁许多人，包括美国司法部长和其他人，扬言要弹劾他们。这是最高级别的敲诈勒索，他们应该为此被追究责任。",
-          "url": "https://flash.jin10.com/detail/20261108014720001800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "伊朗军方：特朗普政府选举失利反映其对伊战略失败",
-          "url": "https://flash.jin10.com/detail/20261108152432807800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 17时02分]"
-        },
-        {
-          "title": "特朗普早晨第一条社媒动态：转发认为民主党得票表现异常的帖子",
-          "url": "https://flash.jin10.com/detail/20261107225120075800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "特朗普“凯旋门”项目遭叫停，白宫迅速重新包装改称“军事凯旋门”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34425754",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "特朗普：随着最新中期选举结果出炉，美国倒退了一大步",
-          "url": "https://flash.jin10.com/detail/20261108215226612800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "特朗普邀UFC总裁任新闻秘书",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80UFC%E6%80%BB%E8%A3%81%E4%BB%BB%E6%96%B0%E9%97%BB%E7%A7%98%E4%B9%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
-        },
-        {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安告知美国总统特朗普，希望结束乌克兰战争的外交努力将取得积极成果。",
-          "url": "https://flash.jin10.com/detail/20261108014243939800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安向美国总统特朗普表示，美伊紧张局势应通过外交途径解决，安卡拉将继续为和平作出努力。",
-          "url": "https://flash.jin10.com/detail/20261108014240244800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安与美国总统特朗普通电话，讨论地区和全球事态发展。",
-          "url": "https://flash.jin10.com/detail/20261108014236123800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "特朗普呼吁向司法部或其本人举报民主党“非法威胁”",
-          "url": "https://flash.jin10.com/detail/20261108025002193800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普邀请UFC总裁达纳·怀特担任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261108024303729800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "美国总统特朗普：达纳·怀特已获邀出任新闻秘书一职。",
-          "url": "https://flash.jin10.com/detail/20261108024111249800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普邀UFC总裁任新闻秘书遭拒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80UFC%E6%80%BB%E8%A3%81%E4%BB%BB%E6%96%B0%E9%97%BB%E7%A7%98%E4%B9%A6%E9%81%AD%E6%8B%92%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "特朗普从不为所动到愈发愤怒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8E%E4%B8%8D%E4%B8%BA%E6%89%80%E5%8A%A8%E5%88%B0%E6%84%88%E5%8F%91%E6%84%A4%E6%80%92%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
-          "url": "https://www.cls.cn/detail/2527975",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时02分 ~ 22时02分]"
-        },
-        {
-          "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
-          "url": "https://www.cls.cn/detail/2527967",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时02分 ~ 21时02分]"
-        },
         {
           "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
           "url": "https://www.cls.cn/detail/2528180",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            7,
-            6,
-            2,
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时02分 ~ 23时02分]"
-        },
-        {
-          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
-          "url": "https://wallstreetcn.com/articles/3785315",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            10,
-            12,
-            13,
-            14,
-            15,
-            16,
-            17,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时02分 ~ 23时02分]"
-        },
-        {
-          "title": "10月以来市场震荡调整，基金投顾逆势加仓A股",
-          "url": "https://wallstreetcn.com/livenews/3196424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            13,
-            14,
-            15,
-            19,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 15时02分]"
-        },
-        {
-          "title": "据上交所官网消息，集益威半导体（上海）股份有限公司科创板IPO审核状态变更为“已问询”。",
-          "url": "https://flash.jin10.com/detail/20261108205059382800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时02分 ~ 23时02分]"
-        },
-        {
-          "title": "A股后市怎么走",
-          "url": "https://www.toutiao.com/trending/7704981115135688745/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时03分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
           "url": "https://wallstreetcn.com/articles/3785486",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
-          "title": "美股惊魂一周！AI抛售暂歇，但强劲非农敲响加息警钟，周五反弹恐只是“死猫跳”？",
-          "url": "https://wallstreetcn.com/articles/3785420",
-          "source": "华尔街见闻",
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
+          "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34431066",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "00时02分"
+        },
+        {
+          "title": "以色列总统赫尔佐格：我们必须推进特朗普关于加沙的20点计划的实施。",
+          "url": "https://flash.jin10.com/detail/20261108232304935800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
           "url": "https://www.cls.cn/detail/2528016",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时02分 ~ 23时02分]"
-        },
-        {
-          "title": "据传 ChatGPT 开始大规模封号，是真的吗？原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2102508937723565758",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时02分 ~ 22时02分]"
-        },
-        {
-          "title": "OpenAI dots读验证码代用户登录",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%20dots%E8%AF%BB%E9%AA%8C%E8%AF%81%E7%A0%81%E4%BB%A3%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
-          "title": "据传 ChatGPT 也开始大规模封号，原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2102508937723565758",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
-        },
-        {
-          "title": "从如今来看，OpenAI 关闭 Sora 算不算比较失败的决策？",
-          "url": "https://www.zhihu.com/question/2100676515159721950",
-          "source": "知乎",
-          "ranks": [
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
-          "url": "https://www.zhihu.com/question/2102422630783571434",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4,
-            5,
-            3,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 10时02分]"
-        },
-        {
-          "title": "DeepSeek Harness基础教学",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            18,
-            12,
-            20,
-            17,
-            19,
-            30,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 12时03分]"
-        },
-        {
-          "title": "梁文锋DeepSeek不止国运级",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8BDeepSeek%E4%B8%8D%E6%AD%A2%E5%9B%BD%E8%BF%90%E7%BA%A7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "九尾说Gemini墨迹",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%E8%AF%B4Gemini%E5%A2%A8%E8%BF%B9&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "原油“暴跌一周”：8天前还是“战火纷飞”，中选后对冲基金狂卖66亿美元",
-          "url": "https://wallstreetcn.com/articles/3785468",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时02分]"
+          "time_info": "00时02分"
         }
       ]
     }
