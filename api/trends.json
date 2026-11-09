@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-10T00:03:31.143591+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-11-10T02:03:56.637158+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
           "url": "https://wallstreetcn.com/articles/3785518",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "A股再掀回购小高潮！捷佳伟创拟最高5亿元回购股份",
@@ -26,19 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
           "url": "https://www.cls.cn/detail/2529406",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "年内第八低！A股成交额跌破1.5万亿，近20股量能创年内新高，这些方向高占比",
@@ -48,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
@@ -59,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "【焦点复盘】创业板指高开低走跌0.27%，全市场超3100股飘绿，寒潮概念现多点开花",
@@ -70,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "美股三大股指高开 英伟达逆势下跌7%",
@@ -81,8 +83,30 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
+        },
+        {
+          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
+          "url": "https://www.zhihu.com/question/2103054279376204138",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "美股费城半导体指数涨超5%，英伟达跌3.89%，博通涨7.69%，美光涨5.37%，英特尔涨3.15%，AMD涨8.41%，高通涨3.77%，台积电涨4.09%，阿斯麦涨5.44%。",
@@ -96,15 +120,26 @@
           "time_info": "00时03分"
         },
         {
-          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
-          "url": "https://www.zhihu.com/question/2103054279376204138",
-          "source": "知乎",
+          "title": "金十图示：2026年11月09日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261110013215293800",
+          "source": "金十数据",
           "ranks": [
-            16
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "金十图示：2026年11月09日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261110013213495800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "美股半导体及其设备制造指数低开高走，涨1.2%刷新日高、逼近9377点，开盘时跌至9039点下方。 成分股普遍走高，AMD涨约9%，应用材料涨8.7%表现第二，第一太阳能则跌3.3%，英伟达跌4.4%。",
@@ -118,21 +153,21 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
+          "title": "美股高开高走科技股大涨",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E6%B6%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "02时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
@@ -142,8 +177,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
@@ -153,8 +188,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
+        },
+        {
+          "title": "美国上市的中国基金中规模第二大的KraneShares金瑞中证中国互联网ETF（KWEB）上周流入1.145亿美元，吸金规模创美国总统特朗普5月访华以来的最高纪录。 今年迄今，此类ETF合计吸金624亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3197088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "02时03分"
         },
         {
           "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
@@ -164,30 +210,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "伊朗向特朗普发48小时最后通牒",
-          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "特朗普即将会见关键调解人，称无意升级伊朗战事，鲁比奥泼冷水：谈判远未突破",
           "url": "https://wallstreetcn.com/articles/3785571",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         },
         {
           "title": "特朗普称若美伊谈判取得进展，再次发动打击可能性极低",
@@ -195,6 +231,28 @@
           "source": "澎湃新闻",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
+        },
+        {
+          "title": "特朗普谈UFO：美军飞行员“曾告诉我一些非常奇怪的事情”",
+          "url": "https://news.ifeng.com/c/8xv9TnAfekO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗向特朗普发48小时最后通牒",
+          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -223,6 +281,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "据半岛电视台：美国官员称特朗普与卡塔尔首相兼外交大臣的会晤已在白宫开始。",
+          "url": "https://flash.jin10.com/detail/20261110013144313800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
           "title": "特朗普：共和党失利是因为美国人“厌恶以色列”",
           "url": "https://wallstreetcn.com/livenews/3197012",
           "source": "华尔街见闻-快讯",
@@ -232,6 +301,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德国两年期国债收益率涨2个基点，投资者权衡股市上涨与油价下跌",
+          "url": "https://wallstreetcn.com/livenews/3197078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率4.060%，投标倍数2.67。 拍卖六个月期国债，得标利率4.145%，投标倍数2.92。",
+          "url": "https://wallstreetcn.com/livenews/3197061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "原油",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球股市集体拉升 原油直线闪崩",
+          "url": "https://www.toutiao.com/trending/7706147841831551497/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：上周美国战略石油储备的原油库存降至2.795亿桶，为1982年以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3197060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     },
@@ -247,25 +372,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "原油",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球股市集体拉升 原油直线闪崩",
-          "url": "https://www.toutiao.com/trending/7706147841831551497/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时03分]"
         }
       ]
     }
