@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T18:11:03.316170+08:00",
-  "total_titles_processed": 1792,
+  "generated_at": "2026-11-10T19:13:07.388886+08:00",
+  "total_titles_processed": 1897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 99,
+      "match_count": 100,
       "titles": [
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 18时11分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 19时13分]"
         },
         {
           "title": "特朗普质疑美国中期选举结果，称提前投票数据异常",
@@ -86,8 +86,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时03分 ~ 18时11分]"
+          "appearance_count": 14,
+          "time_info": "[08时03分 ~ 19时13分]"
         },
         {
           "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
@@ -124,8 +124,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 18时11分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 19时13分]"
         },
         {
           "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
@@ -220,9 +220,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "特朗普称似乎没必要再对伊朗采取军事行动，国际油价早盘一度跌超 5%，中东局势真的进入阶段性降温了吗？",
+          "url": "https://www.zhihu.com/question/2103391365900014384",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 19时13分]"
         },
         {
           "title": "特朗普称看到伊朗冲突结束的积极势头 重申不太可能再打伊朗",
@@ -419,17 +430,6 @@
           "time_info": "[05时02分 ~ 06时03分]"
         },
         {
-          "title": "特朗普称似乎没必要再对伊朗采取军事行动，国际油价早盘一度跌超 5%，中东局势真的进入阶段性降温了吗？",
-          "url": "https://www.zhihu.com/question/2103391365900014384",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时02分 ~ 18时11分]"
-        },
-        {
           "title": "特朗普：不希望美在AI领域落后中国",
           "url": "https://www.toutiao.com/trending/7705984247575626249/",
           "source": "今日头条",
@@ -604,7 +604,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -750,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "外媒：见完特朗普，卡塔尔首相“临时”造访巴黎参加G7外长会",
+          "url": "https://wallstreetcn.com/livenews/3197627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国总统特朗普：沙特阿拉伯也更倾向于以和平方式解决伊朗冲突。",
@@ -1140,7 +1151,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "A股再掀回购小高潮！捷佳伟创拟最高5亿元回购股份",
@@ -1335,6 +1346,19 @@
           "time_info": "[09时12分 ~ 10时02分]"
         },
         {
+          "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
+          "url": "https://www.cls.cn/detail/2530324",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时13分]"
+        },
+        {
           "title": "多只创业板人工智能ETF涨超3%",
           "url": "https://flash.jin10.com/detail/20261110094306838800",
           "source": "金十数据",
@@ -1355,17 +1379,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
-        },
-        {
-          "title": "上海合晶：调整2026年度向特定对象发行A股股票方案，募集资金总额由不超过9亿元下调至不超过7亿元，募投项目仅保留12英寸半导体大硅片产业化项目，原方案其他内容不变。",
-          "url": "https://wallstreetcn.com/livenews/3197607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "A股乳业等消费股表现活跃，阳光乳业直线涨停，品渥食品、一鸣食品、惠发食品、皇氏集团、均瑶健康跟涨。",
@@ -1423,6 +1436,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "英伟达美股盘前转跌，此前一度涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3197645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "连续冲高回落A股在等什么",
           "url": "https://www.toutiao.com/trending/7706232370449515058/",
           "source": "今日头条",
@@ -1435,16 +1459,17 @@
           "time_info": "[17时06分 ~ 18时11分]"
         },
         {
-          "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
-          "url": "https://www.cls.cn/detail/2530324",
+          "title": "多家券商给A股配置支招，“阶段低点”或已过去，“大级别底部”仍待确认",
+          "url": "https://www.cls.cn/detail/2530060",
           "source": "财联社热门",
           "ranks": [
-            11,
-            5
+            13,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 18时11分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 19时13分]"
         },
         {
           "title": "上证指数早盘收报3662.81点，涨0.06%。 深证成指早盘收报11229.66点，涨0.76%。 创业板指早盘收报2495.29点，涨1.49%。 沪深300早盘收报4058.95点，涨0.07%。 科创50早盘收报1270.14点，涨1.05%。 中证500早盘收报6640.40点，涨0.82%。 中证1000早盘收报6570.03点，涨1.08%。",
@@ -1483,6 +1508,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 14时09分]"
+        },
+        {
+          "title": "上海合晶：调整2026年度向特定对象发行A股股票方案，募集资金总额由不超过9亿元下调至不超过7亿元，募投项目仅保留12英寸半导体大硅片产业化项目，原方案其他内容不变。",
+          "url": "https://wallstreetcn.com/livenews/3197607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时13分]"
         },
         {
           "title": "周一（11月9日），彭博电动汽车价格回报指数涨0.10%，报2906.18点，全天实现V形反转，港股盘初涨至2927.54点刷新日高。",
@@ -1560,18 +1597,6 @@
           "time_info": "[11时02分 ~ 13时02分]"
         },
         {
-          "title": "多家券商给A股配置支招，“阶段低点”或已过去，“大级别底部”仍待确认",
-          "url": "https://www.cls.cn/detail/2530060",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时06分 ~ 18时11分]"
-        },
-        {
           "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
           "url": "https://www.zhihu.com/question/2103054279376204138",
           "source": "知乎",
@@ -1581,6 +1606,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时03分 ~ 07时02分]"
+        },
+        {
+          "title": "瑞银将先导智能A股评级上调至中性，目标价34.60元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3197597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时13分]"
         },
         {
           "title": "中一签赚7万 A股再现“大肉签”",
@@ -1641,6 +1678,17 @@
           "time_info": "[05时02分 ~ 06时03分]"
         },
         {
+          "title": "A股连续冲高回落反弹还在吗",
+          "url": "https://www.toutiao.com/trending/7706469971311726116/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 19时13分]"
+        },
+        {
           "title": "港股收盘：中际旭创涨近9%",
           "url": "https://www.baidu.com/s?wd=%E6%B8%AF%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E9%99%85%E6%97%AD%E5%88%9B%E6%B6%A8%E8%BF%919%25",
           "source": "百度热搜",
@@ -1661,17 +1709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "瑞银将先导智能A股评级上调至中性，目标价34.60元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3197597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "A股温度计",
@@ -2109,7 +2146,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -2161,7 +2198,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "年内最后一批储蓄国债“秒光”，有大行上线两分钟额度售罄，定存利率回升抢购潮未止",
@@ -2172,11 +2209,12 @@
             8,
             9,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 18时11分]"
+          "appearance_count": 9,
+          "time_info": "[13时02分 ~ 19时13分]"
         },
         {
           "title": "今年第九期和第十期电子式储蓄国债发行",
@@ -2188,17 +2226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        },
-        {
-          "title": "法德10年期国债收益率差收窄至142.8个基点，为10月19日以来最低。",
-          "url": "https://wallstreetcn.com/livenews/3197605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "日本拍卖30年期国债，认购倍数3.36，过去12个月均值为3.6%。",
@@ -2224,6 +2251,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时03分]"
+        },
+        {
+          "title": "法德10年期国债收益率差收窄至142.8个基点，为10月19日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3197605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时13分]"
         },
         {
           "title": "德国两年期国债收益率涨2个基点，投资者权衡股市上涨与油价下跌",
@@ -2310,7 +2349,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -2379,6 +2418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "欧洲央行管委Kazaks：货币政策仍需维持一些鹰派姿态。 我们必须保持警惕、谨慎。 必须在不过度损害经济的前提下控制通货膨胀。 政策必须阻止能源通胀外溢。 2027年通胀率可能大幅超过4%。 如果能源情势持续，可能需要进一步收紧货币政策。 欧洲央行无需放缓或停止量化紧缩政策。 政府债券收益率上升可能拖慢经济。 法国债券压力是对财政风险的重新定价。",
+          "url": "https://wallstreetcn.com/livenews/3197614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "美国至11月9日6周国债竞拍-得标利率配置百分比 21.32%，前值28.03%。",
@@ -2460,8 +2510,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时02分 ~ 18时11分]"
+          "appearance_count": 15,
+          "time_info": "[07时02分 ~ 19时13分]"
         },
         {
           "title": "全球股市集体拉升 原油直线闪崩",
@@ -2597,7 +2647,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -2674,7 +2724,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -2699,6 +2749,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek改架构数学能力提升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%94%B9%E6%9E%B6%E6%9E%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "DeepSeek和B站也有iPhone Duo版本了，苹果称全球适配应用已超10万",
+          "url": "https://wallstreetcn.com/livenews/3197638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
+          "title": "DeepSeek把战场搬到了“驾驭层”",
+          "url": "https://www.toutiao.com/trending/7706211015670631987/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
@@ -2803,7 +2892,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -2817,34 +2906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek改架构数学能力提升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%94%B9%E6%9E%B6%E6%9E%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B%E6%8F%90%E5%8D%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时06分"
-        },
-        {
-          "title": "DeepSeek把战场搬到了“驾驭层”",
-          "url": "https://www.toutiao.com/trending/7706211015670631987/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         }
       ]
     },
