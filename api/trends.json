@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T15:02:51.989659+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-11-11T16:03:08.215585+08:00",
+  "total_titles_processed": 1583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时02分 ~ 15时02分]"
+          "appearance_count": 17,
+          "time_info": "[07时02分 ~ 16时03分]"
         },
         {
           "title": "阿里巴巴：拟分拆平头哥在港股独立上市",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时03分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时03分 ~ 16时03分]"
         },
         {
           "title": "美股低开 英伟达开盘跌近3%",
@@ -77,7 +77,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -121,9 +121,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "西部证券曹柳龙：中长期来看对A股市场不必悲观",
+          "url": "https://flash.jin10.com/detail/20261111153030849800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "上证指数早盘收报3654.95点，跌0.24%。 深证成指早盘收报11253.67点，涨0.11%。 创业板指早盘收报2519.14点，涨0.99%。 沪深300早盘收报4047.21点，跌0.29%。 科创50早盘收报1263.43点，跌0.13%。 中证500早盘收报6642.23点，跌0.06%。 中证1000早盘收报6586.90点，涨0.11%。",
@@ -299,6 +310,18 @@
           "time_info": "[12时03分 ~ 14时03分]"
         },
         {
+          "title": "美联储鲍曼研判：通胀正扩大年内或再加息，美股恐因AI大幅回调！",
+          "url": "https://www.cls.cn/detail/2530892",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 16时03分]"
+        },
+        {
           "title": "创业板指涨超1%，算力硬件、短剧、机器人等方向涨幅居前，沪深京三市上涨个股近2800只。",
           "url": "https://wallstreetcn.com/livenews/3198089",
           "source": "华尔街见闻-快讯",
@@ -360,6 +383,17 @@
           "time_info": "[10时02分 ~ 11时02分]"
         },
         {
+          "title": "创业板指震荡反弹涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E9%9C%87%E8%8D%A1%E5%8F%8D%E5%BC%B9%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
           "title": "上证指数开盘报3655.66点，跌0.22%。 深证成指开盘报11205.35点，跌0.32%。 创业板指开盘报2490.10点，跌0.17%。 沪深300开盘报4049.43点，跌0.24%。 科创50开盘报1260.07点，跌0.39%。 中证500开盘报6623.12点，跌0.34%。 中证1000开盘报6555.14点，跌0.37%。",
           "url": "https://wallstreetcn.com/livenews/3198026",
           "source": "华尔街见闻-快讯",
@@ -416,6 +450,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-11-11）",
+          "url": "https://flash.jin10.com/detail/20261111152726308800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "黄金ETF收跌将近2.7%，领跌美股大类资产类ETF，大豆基金涨约2.8%",
@@ -528,17 +573,6 @@
           "time_info": "00时03分"
         },
         {
-          "title": "美联储鲍曼研判：通胀正扩大年内或再加息，美股恐因AI大幅回调！",
-          "url": "https://www.cls.cn/detail/2530892",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
           "title": "韩国创业板指指数上涨5%。",
           "url": "https://flash.jin10.com/detail/20261111103639384800",
           "source": "金十数据",
@@ -622,7 +656,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -655,7 +689,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -680,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "A股收盘：创业板指高开高走涨超3%，“易中天”均大涨超13%",
+          "url": "https://wallstreetcn.com/livenews/3198206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "A股造纸板块直线拉升，青山纸业直线涨停，凯恩股份、松炀资源、森林包装、宜宾纸业、恒达新材跟涨。",
@@ -715,6 +760,17 @@
           "time_info": "14时03分"
         },
         {
+          "title": "上证指数收报3680.64点，涨0.46%。 深证成指收报11389.74点，涨1.32%。 创业板指收报2572.07点，涨3.11%。 沪深300收报4075.71点，涨0.41%。 科创50收报1300.38点，涨2.80%。 中证500收报6713.18点，涨1.01%。 中证1000收报6669.55点，涨1.37%。",
+          "url": "https://wallstreetcn.com/livenews/3198205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "韩国交易所启动韩国创业板指侧车机制。",
           "url": "https://flash.jin10.com/detail/20261111103014026800",
           "source": "金十数据",
@@ -743,7 +799,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -787,7 +843,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -798,7 +854,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -828,7 +884,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展",
@@ -839,8 +895,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时03分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时03分 ~ 16时03分]"
         },
         {
           "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
@@ -851,8 +907,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时03分 ~ 15时02分]"
+          "appearance_count": 15,
+          "time_info": "[08时03分 ~ 16时03分]"
         },
         {
           "title": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元",
@@ -1001,7 +1057,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1026,6 +1082,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "国债期货收盘，30年期主力合约跌0.43%，10年期主力合约跌0.12%，5年期主力合约跌0.08%，2年期主力合约跌0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3198224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美国10年期国债收益率回升至5%，为11月以来首次。",
@@ -1078,7 +1145,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1116,6 +1183,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "国债期货午盘收盘",
+          "url": "https://flash.jin10.com/detail/20261111151642492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "美国两年期国债收益率涨幅扩大至20个基点，在CPI数据发布之际，至少有望创今年最大单日涨幅。",
           "url": "https://wallstreetcn.com/livenews/3197835",
           "source": "华尔街见闻-快讯",
@@ -1149,6 +1227,28 @@
           "time_info": "01时03分"
         },
         {
+          "title": "国际黄金将替代美债只是幻觉？市场对AI对预期或过度悲观！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20261111151535255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "越南通过国债拍卖筹集6万亿越南盾（2.3406亿美元）。",
+          "url": "https://flash.jin10.com/detail/20261111151512616800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "美国10年期国债收益率涨幅扩大至10个基点，报4.99%。",
           "url": "https://wallstreetcn.com/livenews/3197772",
           "source": "华尔街见闻-快讯",
@@ -1169,12 +1269,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "韩国对15家金融公司处以12亿美元罚款 因存在国债拍卖串通行为",
+          "url": "https://flash.jin10.com/detail/20261111151117452800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：这笔账，以色列等国必须买单",
@@ -1188,18 +1299,6 @@
           "time_info": "[00时03分 ~ 07时03分]"
         },
         {
-          "title": "中期选举惨败，特朗普却准备更强硬，后两年计划曝光",
-          "url": "https://news.ifeng.com/c/8xxOVJVXDXb",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时03分 ~ 15时02分]"
-        },
-        {
           "title": "肯尼迪家族反对特朗普建凯旋门：不能让它遮住家族墓地",
           "url": "https://news.ifeng.com/c/8xxesMaIqls",
           "source": "凤凰网",
@@ -1208,8 +1307,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时02分 ~ 15时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 16时03分]"
+        },
+        {
+          "title": "中期选举惨败，特朗普却准备更强硬，后两年计划曝光",
+          "url": "https://news.ifeng.com/c/8xxOVJVXDXb",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时03分 ~ 16时03分]"
         },
         {
           "title": "泽连斯基：我的职责不是取悦特朗普",
@@ -1219,8 +1330,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 16时03分]"
         },
         {
           "title": "高市早苗称十分想见金正恩，并已获特朗普支持",
@@ -1280,6 +1391,17 @@
           "time_info": "[14时02分 ~ 14时03分]"
         },
         {
+          "title": "拜登公布特朗普亲笔信",
+          "url": "https://www.douyin.com/hot/2740488",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
+        },
+        {
           "title": "特朗普确认FBI调查黄仁勋，“连续第二天”表达支持：他是一个非常正直的人",
           "url": "https://wallstreetcn.com/articles/3785612",
           "source": "华尔街见闻",
@@ -1289,6 +1411,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普写给拜登的信全文曝光",
+          "url": "https://www.toutiao.com/trending/7706382018820440127/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "加拿大总理卡尼：可能本月晚些时候在亚洲峰会上会见美国总统特朗普。",
@@ -1330,7 +1463,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1404,7 +1537,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊和谈信号重创原油，黄仁勋风波未阻AI交易回暖，纳指涨近3%，英伟达逆市跌超4%",
@@ -1519,6 +1652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "据科威特通讯社（KUNA）：科威特原油价格下跌7.38美元，降至每桶81.31美元。",
+          "url": "https://flash.jin10.com/detail/20261111152604831800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "布伦特原油突破92美元/桶关口，报92.01美元/桶；WTI原油5分钟内上涨0.55美元/桶，报86.72美元/桶。",
@@ -1735,6 +1879,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
+          "url": "https://www.zhihu.com/question/2103666307413680604",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 16时03分]"
+        },
+        {
           "title": "Anthropic在美国IPO之前发布一套办公软件，对标微软和谷歌公司",
           "url": "https://wallstreetcn.com/livenews/3197852",
           "source": "华尔街见闻-快讯",
@@ -1745,17 +1900,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 03时03分]"
-        },
-        {
-          "title": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
-          "url": "https://www.zhihu.com/question/2103666307413680604",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时02分]"
         },
         {
           "title": "谷歌(GOOG.O)：Google Fi“超级网络”将于今日起陆续向Pixel 9及更新型号手机推出。",
@@ -1873,7 +2017,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
