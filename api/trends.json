@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T11:02:40.552652+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-11-11T12:03:10.225232+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
         {
           "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 11时02分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 12时03分]"
         },
         {
           "title": "美股低开 英伟达开盘跌近3%",
@@ -43,6 +43,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时03分 ~ 07时03分]"
+        },
+        {
+          "title": "阿里巴巴：拟分拆平头哥在港股独立上市",
+          "url": "https://wallstreetcn.com/articles/3785661",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
         },
         {
           "title": "纳斯达克 23 小时连续交易 12 月实施，覆盖 A 股、港股绝大部分交易时段，对国内投资者有何影响？",
@@ -58,16 +71,26 @@
           "time_info": "[07时02分 ~ 10时02分]"
         },
         {
-          "title": "阿里巴巴：拟分拆平头哥在港股独立上市",
-          "url": "https://wallstreetcn.com/articles/3785661",
-          "source": "华尔街见闻",
+          "title": "A股午评：三大指数震荡分化 光通信与PCB板块掀涨停潮",
+          "url": "https://flash.jin10.com/detail/20261111114013893800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "上证指数早盘收报3654.95点，跌0.24%。 深证成指早盘收报11253.67点，涨0.11%。 创业板指早盘收报2519.14点，涨0.99%。 沪深300早盘收报4047.21点，跌0.29%。 科创50早盘收报1263.43点，跌0.13%。 中证500早盘收报6642.23点，跌0.06%。 中证1000早盘收报6586.90点，涨0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3198098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股算力芯片概念再度活跃，天普股份触及涨停，大胜达、旋极信息、安凯微、翱捷科技、燧原科技、芯原股份等冲高。消息面上，阿里巴巴拟分拆平头哥半导体并在港交所独立上市。",
@@ -87,9 +110,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "11月11日午间收评：创业板指半日涨近1%，算力硬件股集体反弹",
+          "url": "https://wallstreetcn.com/livenews/3198097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股PCB概念股再度拉升，光洋股份3连板，股价续创历史新高，四会富仕、杰普特、迅捷兴、东山精密、沪电股份涨超5%。",
@@ -188,6 +222,18 @@
           "time_info": "[08时04分 ~ 09时03分]"
         },
         {
+          "title": "A股机器人概念股再度拉升，瑞迪智驱触及20cm涨停，锋龙股份、汉王科技、达意隆、日发精机、中重科技等多股封板，德尔股份、江苏北人涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3198071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时02分 ~ 12时03分]"
+        },
+        {
           "title": "恒指盘初跌1%，恒生科技指数跌1.3%。",
           "url": "https://wallstreetcn.com/livenews/3198030",
           "source": "华尔街见闻-快讯",
@@ -280,15 +326,26 @@
           "time_info": "02时03分"
         },
         {
-          "title": "A股机器人概念股再度拉升，瑞迪智驱触及20cm涨停，锋龙股份、汉王科技、达意隆、日发精机、中重科技等多股封板，德尔股份、江苏北人涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3198071",
+          "title": "A股光通信概念股集体走强。东方财富数据显示，开盘30分钟内，光通信板块获主力资金净流入近60亿元，位居两市第一。消息面上，外围传出一则与美国科技巨头微软相关的消息，被市场解读为对中国光模块板块构成情绪面利好。（券商中国）",
+          "url": "https://wallstreetcn.com/livenews/3198092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时02分"
+          "time_info": "12时03分"
+        },
+        {
+          "title": "“易中天”集体上涨，新易盛涨超10%，中际旭创涨超9%，天孚通信涨超7%。创业板指涨幅扩大至1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3198090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股教育板块异动拉升，传智教育涨停，创业黑马、昂立教育、学大教育、凯文教育、博通股份跟涨。",
@@ -308,9 +365,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
+        },
+        {
+          "title": "创业板指涨超1%，算力硬件、短剧、机器人等方向涨幅居前，沪深京三市上涨个股近2800只。",
+          "url": "https://wallstreetcn.com/livenews/3198089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股温度计",
@@ -341,7 +409,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -445,13 +513,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "创业板指涨超1%，机器人、CPO、AI语料等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20261111111722218800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "韩国交易所启动韩国创业板指侧车机制。",
           "url": "https://flash.jin10.com/detail/20261111103014026800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -462,7 +541,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -484,7 +563,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -498,12 +577,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "美国10月CPI超预期，美联储加息预期升温，现货黄金现卖出信号。隔夜美股三大股指收跌，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20261111110840520800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展",
@@ -514,8 +604,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
         },
         {
           "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
@@ -526,8 +616,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
         },
         {
           "title": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元",
@@ -562,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "日本10年期国债收益率上升9.0个基点，至2.780%。",
+          "url": "https://flash.jin10.com/detail/20261111113832397800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "英国两年期国债收益率涨约13个基点",
@@ -622,6 +723,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 11时02分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约与昨日持平，10年期主力合约跌0.02%，5年期主力合约跌0.01%，2年期主力合约跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3198094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261111113126911800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "日本2年期国债收益率上升6.0个基点，至1.835%。",
@@ -959,7 +1082,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
         },
@@ -978,7 +1101,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：这笔账，以色列等国必须买单",
@@ -999,8 +1122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
         },
         {
           "title": "高市早苗称十分想见金正恩，并已获特朗普支持",
@@ -1024,6 +1147,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时03分 ~ 06时03分]"
+        },
+        {
+          "title": "肯尼迪家族反对特朗普建凯旋门：不能让它遮住家族墓地",
+          "url": "https://news.ifeng.com/c/8xxesMaIqls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "不达协议也不打击 特朗普转向对伊朗实施长期经济绞杀",
@@ -1251,6 +1385,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "Gemini 4 Carbon全面开放",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Carbon%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时03分]"
+        },
+        {
           "title": "Anthropic推出AI办公工具套件 加速挑战微软和谷歌",
           "url": "https://flash.jin10.com/detail/20261111014814350800",
           "source": "金十数据",
@@ -1260,17 +1406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "Gemini 4 Carbon全面开放",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Carbon%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         },
         {
           "title": "Anthropic在美国IPO之前发布一套办公软件，对标微软和谷歌公司",
