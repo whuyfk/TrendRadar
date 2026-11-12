@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T06:02:44.070764+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-11-13T07:02:39.411049+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普回应黄仁勋辞职",
@@ -16,8 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时02分]"
         },
         {
           "title": "黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时02分]"
         },
         {
           "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
@@ -53,30 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基与美国总统特使威特科夫、特朗普女婿库什纳的会谈结束。",
-          "url": "https://flash.jin10.com/detail/20261113055447928800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普关于伊朗的论调冲击到新兴市场外汇。 明晟公司MSCI新兴市场股票指数跌1.3%，发展中国家外汇指数跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3199376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
@@ -86,11 +64,12 @@
             15,
             9,
             13,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普称美国不需要与伊朗达成协议",
@@ -108,17 +87,6 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
-          "title": "特朗普女婿库什纳：与乌克兰总统泽连斯基进行了良好讨论。 俄罗斯总统普京愿意让欧洲在谈判桌上占有一席之地。 人们希望看到这场战争结束。 我们正与欧洲密切合作，但无法断定能在谈判桌上与欧洲达成协议。 过去三天进行了非常密集的会谈。 与俄罗斯总统普京举行了详细且富有成效的会晤。 已与俄罗斯总统普京和乌克兰总统泽连斯基敲定战俘交换事宜。",
-          "url": "https://wallstreetcn.com/livenews/3199375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
           "title": "美国总统特朗普称他依然是史上最亲以色列的总统。",
           "url": "https://flash.jin10.com/detail/20261113045644177800",
           "source": "金十数据",
@@ -128,6 +96,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基与美国总统特使威特科夫、特朗普女婿库什纳的会谈结束。",
+          "url": "https://flash.jin10.com/detail/20261113055447928800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普关于伊朗的论调冲击到新兴市场外汇。 明晟公司MSCI新兴市场股票指数跌1.3%，发展中国家外汇指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3199376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普女婿库什纳：与乌克兰总统泽连斯基进行了良好讨论。 俄罗斯总统普京愿意让欧洲在谈判桌上占有一席之地。 人们希望看到这场战争结束。 我们正与欧洲密切合作，但无法断定能在谈判桌上与欧洲达成协议。 过去三天进行了非常密集的会谈。 与俄罗斯总统普京举行了详细且富有成效的会晤。 已与俄罗斯总统普京和乌克兰总统泽连斯基敲定战俘交换事宜。",
+          "url": "https://wallstreetcn.com/livenews/3199375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普连续发帖痛斥民主党“腐败”",
@@ -147,11 +151,24 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：希望下调信用卡费用。",
+          "url": "https://wallstreetcn.com/livenews/3199368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
@@ -164,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时02分]"
-        },
-        {
-          "title": "美国总统特朗普：希望下调信用卡费用。",
-          "url": "https://wallstreetcn.com/livenews/3199368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
         },
         {
           "title": "特朗普建议库克接替黄仁勋担任英伟达CEO，说：只有他能替代",
@@ -199,6 +205,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普称美国不需要与伊朗达成协议，油价直线拉升",
+          "url": "https://wallstreetcn.com/articles/3785827",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "据俄新社：美国特使特朗普女婿库什纳称与俄罗斯总统普京的会谈具有实质性和详细性。",
           "url": "https://flash.jin10.com/detail/20261112235300745800",
           "source": "金十数据",
@@ -208,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "据英国金融时报：在美国民主党于中期选举中取得全面胜利，并承诺将调查美国总统家族与美国企业界之间的关联一周后，预测市场平台Kalshi宣布与特朗普之子小唐纳德·特朗普切断合作关系。",
+          "url": "https://flash.jin10.com/detail/20261113064800017800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：我在佛罗里达州赢得了94%的古巴裔选票。我认为，与当时相比，我现在更受欢迎了。",
@@ -227,9 +255,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普称希望在卸任前解决古巴问题 考虑动用武力",
+          "url": "https://flash.jin10.com/detail/20261113064522073800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "特朗普：我想要在任期内“解决好”古巴问题",
@@ -370,7 +409,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -378,7 +417,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股回购潮延续！天孚通信、华虹宏力、海光信息等热门公司集体公告回购事项",
@@ -388,8 +427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
@@ -399,8 +438,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
+        },
+        {
+          "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
+          "url": "https://wallstreetcn.com/articles/3785806",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 07时02分]"
         },
         {
           "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
@@ -415,17 +466,6 @@
           "time_info": "[00时02分 ~ 06时02分]"
         },
         {
-          "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
-          "url": "https://wallstreetcn.com/articles/3785806",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 06时02分]"
-        },
-        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -434,11 +474,12 @@
             8,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时02分]"
         },
         {
           "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
@@ -449,8 +490,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌超2%，全市场超4600股飘绿，算力芯片概念逆势走强",
@@ -462,8 +503,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "美股半导体指数、标普、纳斯达克100指数转涨，道指涨超0.3%。 英伟达目前跌4.5%。",
@@ -493,11 +534,12 @@
           "url": "https://wallstreetcn.com/livenews/3199369",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "金十图示：2026年11月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -533,6 +575,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "A股分红回购持续加码，投资者回报机制加快完善",
+          "url": "https://wallstreetcn.com/livenews/3199385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "周四（11月12日）纽约尾盘，ICE美元指数涨0.25%，报103.166点，日内交投区间为102.801-103.242点，美股盘初显著走高。 彭博美元指数涨0.17%，报1234.45点，日内交投区间为1231.06-1235.22点。",
           "url": "https://wallstreetcn.com/livenews/3199339",
           "source": "华尔街见闻-快讯",
@@ -550,9 +603,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "周四（11月12日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.6733元，较周三纽约尾盘涨6点，日内整体交投于6.6749-6.6653元区间，整体冲高回落，发布中间价前后显著走高、美股早盘显著回撤。",
+          "url": "https://wallstreetcn.com/livenews/3199379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2026年11月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -561,9 +625,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "黄金ETF收跌超2.8%，与小盘股指ETF领跌美股大类资产类ETF，布油基金涨超3.8%",
+          "url": "https://wallstreetcn.com/livenews/3199395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2026年11月12日（周四）热门中概股行情一览（美股收盘）",
@@ -572,7 +647,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -616,7 +691,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -852,7 +927,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国10年期国债收益率涨幅扩大至10个基点，报5.09%。",
@@ -867,6 +942,18 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
+          "title": "美国至11月6日当周外国央行持有美国国债 -195.11亿美元，前值-248.97亿美元。",
+          "url": "https://flash.jin10.com/detail/20261113053033259800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
           "title": "2/10年期美债收益率跌超12个基点，交易员提高对美联储加息前景的押注",
           "url": "https://wallstreetcn.com/livenews/3199346",
           "source": "华尔街见闻-快讯",
@@ -879,15 +966,15 @@
           "time_info": "[05时02分 ~ 06时02分]"
         },
         {
-          "title": "美国至11月6日当周外国央行持有美国国债 -195.11亿美元，前值-248.97亿美元。",
-          "url": "https://flash.jin10.com/detail/20261113053033259800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：物价正处在良好轨道上。 可以通过经济增长和控制开支来压低美国债务的增长曲线。",
+          "url": "https://wallstreetcn.com/livenews/3199387",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时02分"
+          "time_info": "07时02分"
         },
         {
           "title": "美国2-5年期国债收益率涨幅扩大至至少10个基点。",
@@ -973,17 +1060,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
-          "url": "https://flash.jin10.com/detail/20261113053836003800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
           "title": "任天堂宣布，自2027年1月26日起，用户将无法再使用苹果或谷歌账户登录任天堂账户。",
           "url": "https://wallstreetcn.com/livenews/3199218",
           "source": "华尔街见闻-快讯",
@@ -993,17 +1069,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
-          "url": "https://wallstreetcn.com/livenews/3199372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
         },
         {
           "title": "郭明錤：黄仁勋离职为谷歌TPU创造机会，库克在供应链管理及成本控制方面具备优势",
@@ -1028,6 +1093,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
+          "url": "https://flash.jin10.com/detail/20261113053836003800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
+          "url": "https://wallstreetcn.com/livenews/3199372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "谷歌在全球范围将Gemini 4 Hydrogen接入搜索",
@@ -1058,8 +1147,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "金价再迎暴跌专家劝别抄底",
@@ -1068,22 +1157,24 @@
           "ranks": [
             18,
             19,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "国际金价跌超2.8%至3880美元附近，美股早盘创去年10月初以来新低，最近三天跌超6%",
           "url": "https://wallstreetcn.com/livenews/3199374",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "国际金价跌穿3870美元，创逾一年来新低",
@@ -1111,7 +1202,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
@@ -1135,6 +1226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "Cerebras Systems首席执行官：由于数据中心容量合同延迟，OpenAI首批算力容量的交付进度落后于计划。",
+          "url": "https://wallstreetcn.com/livenews/3199381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元。",
