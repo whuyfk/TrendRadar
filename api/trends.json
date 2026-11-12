@@ -1,8 +1,312 @@
 {
-  "generated_at": "2026-11-13T04:02:34.538604+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-11-13T05:02:39.184951+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "特朗普回应黄仁勋辞职",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时02分]"
+        },
+        {
+          "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
+          "url": "https://news.ifeng.com/c/8xzYXm9lGHV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
+          "url": "https://www.zhihu.com/question/2104153189284931494",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克",
+          "url": "https://www.cls.cn/detail/2533159",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时02分]"
+        },
+        {
+          "title": "美国总统特朗普称他依然是史上最亲以色列的总统。",
+          "url": "https://flash.jin10.com/detail/20261113045644177800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
+          "url": "https://www.zhihu.com/question/2103845113960952123",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普称美国不需要与伊朗达成协议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            26,
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普连续发帖痛斥民主党“腐败”",
+          "url": "https://wallstreetcn.com/livenews/3199323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
+          "url": "https://wallstreetcn.com/livenews/3199299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普建议库克接替黄仁勋担任英伟达CEO，说：只有他能替代",
+          "url": "https://wallstreetcn.com/livenews/3199212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国财长贝森特：长期以来，华盛顿将美国工业衰退视为不可避免。 总统特朗普认识到，这是政策选择的结果，因此可以逆转。 在特朗普的贸易政策重置及其历史性减税法案实施后，该行业重获增长势头，这表明正确的政策能够扭转数十年的工业衰退。 该行业已连续十个月扩张，今年迄今新增10.1万个就业岗位。9月产出再次上升，职位空缺攀升至58.4万个，为新冠疫情前时代有记录以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3199268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "据俄新社：美国特使特朗普女婿库什纳称与俄罗斯总统普京的会谈具有实质性和详细性。",
+          "url": "https://flash.jin10.com/detail/20261112235300745800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国总统特朗普：我在佛罗里达州赢得了94%的古巴裔选票。我认为，与当时相比，我现在更受欢迎了。",
+          "url": "https://flash.jin10.com/detail/20261113043856130800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口",
+          "url": "https://www.cls.cn/detail/2533138",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普：我想要在任期内“解决好”古巴问题",
+          "url": "https://wallstreetcn.com/livenews/3199341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国财长贝森特：长期以来，华盛顿一直将美国的工业衰退视为不可避免。特朗普总统认识到，这源于政策选择，因此也可以扭转。在特朗普重塑贸易政策并推动其历史性减税措施落地后，该行业重新焕发动力，这表明正确的政策能够扭转数十年的工业衰退。",
+          "url": "https://flash.jin10.com/detail/20261113012033651800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "白宫讨论商务部长卢特尼克去留 特朗普仍表示信任",
+          "url": "https://flash.jin10.com/detail/20261113031324544800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：如有需要，可能会对伊朗动用军事力量。",
+          "url": "https://wallstreetcn.com/livenews/3199338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：（关于古巴）当然会考虑动用“一点点”军事力量。",
+          "url": "https://flash.jin10.com/detail/20261113043147814800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境",
+          "url": "https://wallstreetcn.com/livenews/3199334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我希望在离任前解决古巴问题。",
+          "url": "https://flash.jin10.com/detail/20261113043007500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
+          "url": "https://flash.jin10.com/detail/20261113023659035800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国总统特朗普：如有需要，我可能会对伊朗动用军事力量。",
+          "url": "https://flash.jin10.com/detail/20261113042931644800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "小唐纳德·特朗普卸任预测市场平台Kalshi顾问职务",
+          "url": "https://wallstreetcn.com/livenews/3199332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：未来两年我们会应对得很好。我们拥有一种非常强大的权力，那就是否决权，而我打算经常行使这项权力。",
+          "url": "https://flash.jin10.com/detail/20261113042816298800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "白宫：美国总统特朗普对商务部长卢特尼克仍然有信心。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3199193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "原油",
       "match_count": 20,
@@ -58,7 +362,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -69,7 +373,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -104,7 +408,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -115,7 +419,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -233,7 +537,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "A股回购潮延续！天孚通信、华虹宏力、海光信息等热门公司集体公告回购事项",
@@ -243,8 +547,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
@@ -254,8 +558,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
@@ -266,8 +570,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
@@ -277,8 +581,47 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时02分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时02分]"
+        },
+        {
+          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
+          "url": "https://wallstreetcn.com/articles/3785762",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌超2%，全市场超4600股飘绿，算力芯片概念逆势走强",
+          "url": "https://www.cls.cn/detail/2532758",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "美股半导体指数、标普、纳斯达克100指数转涨，道指涨超0.3%。 英伟达目前跌4.5%。",
@@ -290,43 +633,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
-          "url": "https://wallstreetcn.com/articles/3785762",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时02分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌超2%，全市场超4600股飘绿，算力芯片概念逆势走强",
-          "url": "https://www.cls.cn/detail/2532758",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报23914点。 恒生科技指数主连夜盘收跌0.25%，报3916点。",
@@ -374,6 +680,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "周四（11月12日）纽约尾盘，ICE美元指数涨0.25%，报103.166点，日内交投区间为102.801-103.242点，美股盘初显著走高。 彭博美元指数涨0.17%，报1234.45点，日内交投区间为1231.06-1235.22点。",
+          "url": "https://wallstreetcn.com/livenews/3199339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
           "title": "纳斯达克金龙中国指数盘初跌3.3%。 热门中概股里，Boss直聘跌19.23%，世纪互联跌14.47%，万国数据跌14.39%，金山云跌8.45%，阿里巴巴跌7.33%，日月光半导体跌5.1%，禾赛、未来跌超4%，晶科控股跌超3.1%，拼多多跌2.7%，新东方跌1.9%。 百胜中国涨0.41%，网易涨0.44%，网易有道涨2.63%，霸王茶姬涨4.5%。 ETF中，KWEB跌2.7%，CQQQ跌1.2%。 富时A50夜期涨0.34%，在美股盘初刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3199190",
           "source": "华尔街见闻-快讯",
@@ -409,188 +726,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "特朗普回应黄仁勋辞职",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普连续发帖痛斥民主党“腐败”",
-          "url": "https://wallstreetcn.com/livenews/3199323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
-          "url": "https://www.zhihu.com/question/2103845113960952123",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
-          "url": "https://news.ifeng.com/c/8xzYXm9lGHV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
-          "url": "https://www.zhihu.com/question/2104153189284931494",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克",
-          "url": "https://www.cls.cn/detail/2533159",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普称美国不需要与伊朗达成协议",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
-          "url": "https://wallstreetcn.com/livenews/3199299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普建议库克接替黄仁勋担任英伟达CEO，说：只有他能替代",
-          "url": "https://wallstreetcn.com/livenews/3199212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国财长贝森特：长期以来，华盛顿将美国工业衰退视为不可避免。 总统特朗普认识到，这是政策选择的结果，因此可以逆转。 在特朗普的贸易政策重置及其历史性减税法案实施后，该行业重获增长势头，这表明正确的政策能够扭转数十年的工业衰退。 该行业已连续十个月扩张，今年迄今新增10.1万个就业岗位。9月产出再次上升，职位空缺攀升至58.4万个，为新冠疫情前时代有记录以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3199268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "据俄新社：美国特使特朗普女婿库什纳称与俄罗斯总统普京的会谈具有实质性和详细性。",
-          "url": "https://flash.jin10.com/detail/20261112235300745800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国财长贝森特：长期以来，华盛顿一直将美国的工业衰退视为不可避免。特朗普总统认识到，这源于政策选择，因此也可以扭转。在特朗普重塑贸易政策并推动其历史性减税措施落地后，该行业重新焕发动力，这表明正确的政策能够扭转数十年的工业衰退。",
-          "url": "https://flash.jin10.com/detail/20261113012033651800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "白宫讨论商务部长卢特尼克去留 特朗普仍表示信任",
-          "url": "https://flash.jin10.com/detail/20261113031324544800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
-          "url": "https://flash.jin10.com/detail/20261113023659035800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "白宫：美国总统特朗普对商务部长卢特尼克仍然有信心。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3199193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 国债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国10年期国债收益率涨幅扩大至10个基点，报5.09%。",
@@ -603,6 +740,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "2/10年期美债收益率跌超12个基点，交易员提高对美联储加息前景的押注",
+          "url": "https://wallstreetcn.com/livenews/3199346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "美国2-5年期国债收益率涨幅扩大至至少10个基点。",
@@ -673,9 +821,84 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：Gemini 4 Hydrogen今天在全球范围内正式推出。",
+          "url": "https://flash.jin10.com/detail/20261113045826316800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "标普500指数初步收跌0.3%，原材料板块跌1.3%，工业、金融、科技板块至少跌约0.7%，电信板块涨0.2%，能源板块涨1.4%。 纳斯达克100指数初步收跌0.3%，成分股中，Nebius Group NV初步收跌17.5%，KDP跌7.4%，莫德纳跌7.1%，考虑出售贷款来融资的CoreWeave跌6.6%，被MSCI除名的Strategy跌6.2%，英伟达跌4.7%，闪迪、Lumentum、应用材料等跌幅紧随其后，铿腾电子、Diamondback Energy、思科、谷歌CD、特斯拉、谷歌A至多涨1.8%，核电股CEG涨2.8%，博通涨5.5%，AMD涨5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3199354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "任天堂宣布，自2027年1月26日起，用户将无法再使用苹果或谷歌账户登录任天堂账户。",
+          "url": "https://wallstreetcn.com/livenews/3199218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "郭明錤：黄仁勋离职为谷歌TPU创造机会，库克在供应链管理及成本控制方面具备优势",
+          "url": "https://wallstreetcn.com/livenews/3199326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "谷歌在全球范围将Gemini 4 Hydrogen接入搜索",
+          "url": "https://wallstreetcn.com/livenews/3199285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 银价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金价再迎暴跌专家劝别抄底",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E8%BF%8E%E6%9A%B4%E8%B7%8C%E4%B8%93%E5%AE%B6%E5%8A%9D%E5%88%AB%E6%8A%84%E5%BA%95%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 05时02分]"
+        },
         {
           "title": "专家解析金价急跌",
           "url": "https://www.toutiao.com/trending/7702287998239244850/",
@@ -686,18 +909,6 @@
             10,
             17,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时02分]"
-        },
-        {
-          "title": "金价再迎暴跌专家劝别抄底",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E8%BF%8E%E6%9A%B4%E8%B7%8C%E4%B8%93%E5%AE%B6%E5%8A%9D%E5%88%AB%E6%8A%84%E5%BA%95%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            19
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -724,45 +935,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "郭明錤：黄仁勋离职为谷歌TPU创造机会，库克在供应链管理及成本控制方面具备优势",
-          "url": "https://wallstreetcn.com/livenews/3199326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "任天堂宣布，自2027年1月26日起，用户将无法再使用苹果或谷歌账户登录任天堂账户。",
-          "url": "https://wallstreetcn.com/livenews/3199218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "谷歌在全球范围将Gemini 4 Hydrogen接入搜索",
-          "url": "https://wallstreetcn.com/livenews/3199285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
         }
       ]
     },
@@ -803,6 +975,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（11月12日）纽约尾盘，彭博谷物分类指数跌1.53%，报29.4833点。 CBOT玉米期货跌1.28%，报44.225美元/蒲式耳。 CBOT小麦期货跌2.85%，报5.9750美元/蒲式耳。 CBOT大豆期货跌0.93%，报12.1950美元/蒲式耳。",
+          "url": "https://wallstreetcn.com/livenews/3199345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20261113043040748800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         }
       ]
     }
