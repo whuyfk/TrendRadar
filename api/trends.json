@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T03:03:37.061145+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-11-13T04:02:34.538604+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "原油",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国至11月6日当周EIA原油进口 54.4万桶，前值117.9万桶。",
@@ -52,15 +52,38 @@
           "time_info": "02时02分"
         },
         {
+          "title": "布伦特原油期货结算价为每桶95.82美元，上涨3.06美元，涨幅3.3%。",
+          "url": "https://flash.jin10.com/detail/20261113034507620800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "WTI原油突破89美元/桶，日内涨3.00%。",
+          "url": "https://flash.jin10.com/detail/20261113034329160800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "高盛预计2027年布伦特原油均价为每桶88美元",
           "url": "https://wallstreetcn.com/livenews/3199307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时02分]"
         },
         {
           "title": "提醒：北京时间01:00，美国能源信息署（EIA）将发布政府版原油库存周报，数据因日前债市休市而较以往推后一天。",
@@ -73,6 +96,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "WTI 12月原油期货收涨2.21美元，涨幅超过2.55%，报88.74美元/桶。 NYMEX 12月天然气期货收报3.34美元/百万英热单位。 NYMEX 12月汽油期货收报2.6708美元/加仑，NYMEX 12月取暖油期货收报4.2865美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3199321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "WTI原油期货结算价为每桶88.74美元，上涨2.21美元，涨幅2.55%。",
+          "url": "https://flash.jin10.com/detail/20261113033105759800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "布伦特原油日内涨幅达2.0%，报94.62美元/桶。",
@@ -169,7 +214,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -180,7 +225,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -198,8 +243,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
@@ -209,8 +254,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
@@ -221,8 +266,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
@@ -232,8 +277,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时03分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 04时02分]"
         },
         {
           "title": "美股半导体指数、标普、纳斯达克100指数转涨，道指涨超0.3%。 英伟达目前跌4.5%。",
@@ -247,17 +292,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "恒生指数主连夜盘收跌0.29%，报23914点。 恒生科技指数主连夜盘收跌0.25%，报3916点。",
-          "url": "https://wallstreetcn.com/livenews/3199310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
           "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
           "url": "https://wallstreetcn.com/articles/3785762",
           "source": "华尔街见闻",
@@ -265,8 +299,22 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌超2%，全市场超4600股飘绿，算力芯片概念逆势走强",
@@ -277,21 +325,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "恒生指数主连夜盘收跌0.29%，报23914点。 恒生科技指数主连夜盘收跌0.25%，报3916点。",
+          "url": "https://wallstreetcn.com/livenews/3199310",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            8,
-            7
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时03分]"
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时02分]"
         },
         {
           "title": "金十图示：2026年11月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -363,7 +410,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普回应黄仁勋辞职",
@@ -374,8 +421,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普连续发帖痛斥民主党“腐败”",
+          "url": "https://wallstreetcn.com/livenews/3199323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
@@ -388,8 +446,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
@@ -399,8 +457,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
@@ -410,8 +468,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克",
@@ -419,11 +477,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时02分]"
         },
         {
           "title": "特朗普称美国不需要与伊朗达成协议",
@@ -431,11 +490,24 @@
           "source": "百度热搜",
           "ranks": [
             27,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
+          "url": "https://wallstreetcn.com/livenews/3199299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时02分]"
         },
         {
           "title": "特朗普建议库克接替黄仁勋担任英伟达CEO，说：只有他能替代",
@@ -471,17 +543,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
-          "url": "https://wallstreetcn.com/livenews/3199299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
           "title": "美国财长贝森特：长期以来，华盛顿一直将美国的工业衰退视为不可避免。特朗普总统认识到，这源于政策选择，因此也可以扭转。在特朗普重塑贸易政策并推动其历史性减税措施落地后，该行业重新焕发动力，这表明正确的政策能够扭转数十年的工业衰退。",
           "url": "https://flash.jin10.com/detail/20261113012033651800",
           "source": "金十数据",
@@ -493,13 +554,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "白宫讨论商务部长卢特尼克去留 特朗普仍表示信任",
+          "url": "https://flash.jin10.com/detail/20261113031324544800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "特朗普女婿库什纳称俄乌问题多边谈判将于下周举行",
           "url": "https://flash.jin10.com/detail/20261113023659035800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -561,7 +633,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -572,7 +644,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -583,7 +655,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         },
@@ -594,7 +666,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
         }
@@ -612,11 +684,12 @@
             8,
             9,
             10,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "金价再迎暴跌专家劝别抄底",
@@ -627,8 +700,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
         },
         {
           "title": "国际金价跌穿3870美元，创逾一年来新低",
@@ -655,48 +728,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
-          "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
-          "url": "https://www.cls.cn/detail/2532641",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时03分]"
-        },
-        {
-          "title": "OpenAI：正在调查微软连接器的一个问题，新建立的连接可能无法正常使用，相关工具也未按预期运行。",
-          "url": "https://wallstreetcn.com/livenews/3199298",
+          "title": "郭明錤：黄仁勋离职为谷歌TPU创造机会，库克在供应链管理及成本控制方面具备优势",
+          "url": "https://wallstreetcn.com/livenews/3199326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "04时02分"
         },
-        {
-          "title": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3199198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
         {
           "title": "任天堂宣布，自2027年1月26日起，用户将无法再使用苹果或谷歌账户登录任天堂账户。",
           "url": "https://wallstreetcn.com/livenews/3199218",
@@ -715,9 +760,49 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
+          "url": "https://www.cls.cn/detail/2532641",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "OpenAI：正在调查微软连接器的一个问题，新建立的连接可能无法正常使用，相关工具也未按预期运行。",
+          "url": "https://wallstreetcn.com/livenews/3199298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "报道：OpenAI融资150亿美元，公司估值达到1.25万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3199198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
