@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-11-12T13:03:12.833411+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-11-12T14:02:57.875393+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 65,
+      "match_count": 76,
       "titles": [
+        {
+          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3785732",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 14时02分]"
+        },
         {
           "title": "A股回购阵容继续扩大，10余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份",
           "url": "https://www.cls.cn/detail/2531762",
@@ -20,18 +32,6 @@
           "time_info": "[01时05分 ~ 09时02分]"
         },
         {
-          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3785732",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 13时03分]"
-        },
-        {
           "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
           "url": "https://wallstreetcn.com/articles/3785762",
           "source": "华尔街见闻",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 13时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 14时02分]"
         },
         {
           "title": "美股收盘：科技板块再续昂扬反弹 多只存储、光通信牛股涨幅“上双”",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时03分 ~ 13时03分]"
+          "appearance_count": 10,
+          "time_info": "[07时03分 ~ 14时02分]"
         },
         {
           "title": "【早报】美股科技股，集体大幅走高；原油上行、黄金承压",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 13时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 14时02分]"
         },
         {
           "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”",
@@ -79,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 13时03分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 14时02分]"
         },
         {
           "title": "美股科技股再续昂扬反弹",
@@ -120,15 +120,26 @@
           "time_info": "[08时03分 ~ 09时02分]"
         },
         {
-          "title": "上交所：截至今年三季度末，科创板上市ETF共计134只，总规模近3700亿元",
-          "url": "https://wallstreetcn.com/livenews/3198816",
+          "title": "A股军工板块逆势拉升，长城军工逼近涨停，航天南湖涨超13%，北方长龙、晟楠科技、国科军工、内蒙一机、建设工业等快速跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3198854",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "14时02分"
+        },
+        {
+          "title": "恒生科技指数跌超2%，阿里巴巴跌超5%，智谱、MINIMAX跌约8%。",
+          "url": "https://wallstreetcn.com/livenews/3198853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "A股电子特气概念震荡反弹，中船特气涨超11%，广钢气体、雅克科技、华特气体、侨源股份、昊华科技跟涨。",
@@ -140,6 +151,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "创业板指跌超2%，早盘一度涨近2%，贵金属、游戏、机器人、短剧等方向跌幅居前，沪深京三市下跌个股超4600只。",
+          "url": "https://wallstreetcn.com/livenews/3198851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "A股CPO概念股冲高回落，“易中天”午后集体转跌。中际旭创跌超5%，新易盛跌超3%，天孚通信跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3198849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后跌幅扩大至9%，媒体报道称，英伟达正准备罢免黄仁勋。",
@@ -175,6 +208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 13时03分]"
+        },
+        {
+          "title": "上交所：截至今年三季度末，科创板上市ETF共计134只，总规模近3700亿元",
+          "url": "https://wallstreetcn.com/livenews/3198816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 14时02分]"
         },
         {
           "title": "A股算力租赁概念异动拉升，鸿博股份直线涨停，利通电子、中创环保、并行科技、南兴股份、青云科技跟涨。",
@@ -498,6 +543,39 @@
           "time_info": "10时02分"
         },
         {
+          "title": "A股贵金属板块持续走低，山金国际跌超8%，赤峰黄金、西部黄金、招金黄金、中金黄金、四川黄金均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3198839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "创业板午后涨超3%，算力硬件集体爆发，光模块龙头“易中天”均大涨超13%，恒科指跌超1%，权重科网股回落",
+          "url": "https://wallstreetcn.com/articles/3785695",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "恒生科技指数跌幅达2%，恒指跌1.07%。黄金股、物理AI、机器人概念股等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261112135211253800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "新兴市场ETF收涨超2.4%，领跑美股大类资产类ETF，黄金ETF跌超1.1%",
           "url": "https://wallstreetcn.com/livenews/3198627",
           "source": "华尔街见闻-快讯",
@@ -540,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "A股三大指数持续回落，创业板指跌1%，沪指跌0.24%，深证成指跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3198833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "深交所港股通标的证券名单调入传音控股，11月12日起生效。",
@@ -586,6 +675,17 @@
           "time_info": "12时03分"
         },
         {
+          "title": "A股福建本地股异动拉升，福建水泥涨停，平潭发展、海峡创新、路桥信息、福建金森跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3198829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20261112050151049800",
           "source": "金十数据",
@@ -619,6 +719,17 @@
           "time_info": "09时02分"
         },
         {
+          "title": "创业板指跌幅达2%，深成指跌1.4%，沪指跌0.65%。贵金属、影视院线板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261112135008649800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
           "title": "美股存储芯片指数涨9.2%，费城半导体指数涨5.5%，半导体设备指数涨4.8%，超大规模云服务商指数持平，科技股七巨头指数涨0.7%，AI赢家指数涨5%、AI关键先驱指数涨1.7%。 标普500指数初步收涨1.2%，科技板块涨2.6%，能源板块涨1.7%，可选消费板块跌0.5%。 纳斯达克100指数初步收2.3%，成分股中，CoreWeave初步收涨24%，Nebius、闪迪、美光科技、Arm控股、Lumentum至少涨约10%，吉利德科学跌0.6%，铿腾电子、莫德纳跌0.9%，Meta跌1.4%，亚马逊跌1.8%，SpaceX跌2%，微软跌2.5%，爱彼迎跌3%。",
           "url": "https://wallstreetcn.com/livenews/3198620",
           "source": "华尔街见闻-快讯",
@@ -636,9 +747,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "A股CPO概念股冲高回落，“易中天”午后集体转跌。中际旭创跌超5%，新易盛跌超3%，天孚通信跌超1%。",
+          "url": "https://flash.jin10.com/detail/20261112134545985800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "英伟达美股盘后跌3.1%，纽约时报援引知情人士报道称，英伟达CEO黄仁勋与自家公司副总裁有过一段关系。",
@@ -680,7 +802,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -765,7 +887,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
@@ -775,8 +897,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时02分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[09时02分 ~ 14时02分]"
         },
         {
           "title": "美国总统特朗普：美国副总统万斯干得非常出色。我们对此深表感谢。",
@@ -874,6 +996,17 @@
           "time_info": "[04时05分 ~ 05时10分]"
         },
         {
+          "title": "泽连斯基：虽说可能不礼貌，但我的工作不是哄特朗普开心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34453537",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 14时02分]"
+        },
+        {
           "title": "泽连斯基嘲讽特朗普",
           "url": "https://www.toutiao.com/trending/7706912243841188390/",
           "source": "今日头条",
@@ -910,17 +1043,6 @@
           "time_info": "[02时02分 ~ 03时02分]"
         },
         {
-          "title": "泽连斯基：虽说可能不礼貌，但我的工作不是哄特朗普开心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34453537",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
           "title": "据美国哥伦比亚广播公司：特朗普政府已获悉，英伟达(NVDA.O)董事会正准备在近期讨论罢免首席执行官黄仁勋。",
           "url": "https://flash.jin10.com/detail/20261112073301655800",
           "source": "金十数据",
@@ -930,6 +1052,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "特朗普解除制裁后俄罗斯柴油出口翻倍，但美国一桶也未收到",
+          "url": "https://flash.jin10.com/detail/20261112135342150800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "特朗普媒体科技集团盘中大涨28% 有望创近11个月最大单日涨幅",
@@ -1067,7 +1200,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌推出Gemini Decisions 1",
@@ -1080,6 +1213,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时02分 ~ 13时03分]"
+        },
+        {
+          "title": "莫迪重要盟友称谷歌150亿美元数据中心项目进展顺利",
+          "url": "https://flash.jin10.com/detail/20261112135740173800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "谷歌公司发布配置Decision1的Gemini Decisions API模型。",
@@ -1206,6 +1350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "8个场景实测Gemini 4 Carbon",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%204%20Carbon",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)内部正在测试一款名为Hydrogen的高速Gemini AI模型。",
@@ -1336,7 +1491,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         }
@@ -1506,11 +1661,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时02分 ~ 13时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 14时02分]"
         },
         {
           "title": "豆包工作正式接入Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash等模型，并推出限时特惠计划。",
