@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T08:03:37.836581+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-11-12T09:02:55.431366+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "A股回购阵容继续扩大，10余家公司密集公告回购情况，江西铜业拟最高5亿元回购股份",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 08时03分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时02分]"
         },
         {
           "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”",
@@ -36,22 +36,24 @@
           "url": "https://www.toutiao.com/trending/7707050204091911730/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
         },
         {
           "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
           "url": "https://wallstreetcn.com/articles/3785732",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
         },
         {
           "title": "131年老字号终别A股：萃华珠宝明日迎最后交易日，股价只剩0.23元",
@@ -63,19 +65,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 07时03分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 09时02分]"
         },
         {
           "title": "【早报】英伟达，盘后大跌9%；美股科技股，集体大幅走高；原油上行、黄金承压",
           "url": "https://www.cls.cn/detail/2532081",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
         },
         {
           "title": "英伟达美股盘后跳水，媒体报道称：黄仁勋曾与英伟达高管有过婚外情",
@@ -84,9 +87,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
+        },
+        {
+          "title": "深交所公告，港股通标的证券名单发生调整并自2026年11月12日起生效，调入传音控股。",
+          "url": "https://wallstreetcn.com/livenews/3198699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "09时02分"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后跌幅扩大至9%，媒体报道称，英伟达正准备罢免黄仁勋。",
@@ -98,6 +112,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "美股收盘：科技板块再续昂扬反弹 多只存储、光通信牛股涨幅“上双”",
+          "url": "https://www.cls.cn/detail/2532064",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 09时02分]"
         },
         {
           "title": "券商：2027年港股基本面与估值或迎共振修复",
@@ -145,18 +172,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 03时02分]"
-        },
-        {
-          "title": "美股收盘：科技板块再续昂扬反弹 多只存储、光通信牛股涨幅“上双”",
-          "url": "https://www.cls.cn/detail/2532064",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 08时03分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.70%，报24107点。 恒生科技指数主连夜盘收跌0.82%，报3990点。",
@@ -298,6 +313,28 @@
           "time_info": "06时03分"
         },
         {
+          "title": "深交所港股通标的证券名单调入传音控股，11月12日起生效。",
+          "url": "https://flash.jin10.com/detail/20261112083153348800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20261112083121415800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20261112050151049800",
           "source": "金十数据",
@@ -318,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "中信建投：关注2027年弱美元撬动的港股机会",
+          "url": "https://flash.jin10.com/detail/20261112083010526800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         },
         {
           "title": "美股存储芯片指数涨9.2%，费城半导体指数涨5.5%，半导体设备指数涨4.8%，超大规模云服务商指数持平，科技股七巨头指数涨0.7%，AI赢家指数涨5%、AI关键先驱指数涨1.7%。 标普500指数初步收涨1.2%，科技板块涨2.6%，能源板块涨1.7%，可选消费板块跌0.5%。 纳斯达克100指数初步收2.3%，成分股中，CoreWeave初步收涨24%，Nebius、闪迪、美光科技、Arm控股、Lumentum至少涨约10%，吉利德科学跌0.6%，铿腾电子、莫德纳跌0.9%，Meta跌1.4%，亚马逊跌1.8%，SpaceX跌2%，微软跌2.5%，爱彼迎跌3%。",
@@ -348,7 +396,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -367,7 +415,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国总统特朗普：美国副总统万斯干得非常出色。我们对此深表感谢。",
@@ -381,6 +429,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美媒：英伟达准备罢免黄仁勋，特朗普政府已知情",
+          "url": "https://news.ifeng.com/c/8xz85EBAuVN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
           "title": "美国总统特朗普谈美国副总统万斯：副总统做得非常出色，我们对此非常感激。",
           "url": "https://wallstreetcn.com/livenews/3198553",
           "source": "华尔街见闻-快讯",
@@ -392,15 +451,15 @@
           "time_info": "01时05分"
         },
         {
-          "title": "特朗普政府已获悉，英伟达董事会正准备在近期罢免黄仁勋。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3198671",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普政府正式提出出售美国公共土地！拟缩减联邦土地规模，民主党强烈反对",
+          "url": "https://flash.jin10.com/detail/20261112084526878800",
+          "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "09时02分"
         },
         {
           "title": "美媒：万斯寻求与雷扎伊面对面会谈 已获特朗普相关授权",
@@ -439,6 +498,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普政府已获悉，英伟达董事会正准备在近期罢免黄仁勋。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3198671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时02分]"
         },
         {
           "title": "据华尔街日报：美国和中东官员表示，近几天，特朗普已告知高级顾问及有关方面，他对万斯重启与伊朗的谈判持开放态度，并已授权万斯负责谈判。美国官员强调，关于派遣万斯与伊朗官员直接会面的讨论仍处于初步阶段。",
@@ -483,7 +554,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -582,7 +653,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -659,7 +730,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -744,7 +815,7 @@
     },
     {
       "keyword_group": "原油",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "布伦特原油期货结算价为每桶92.76美元，上涨1.27美元，涨幅1.39%。",
@@ -798,6 +869,17 @@
           "time_info": "[03时02分 ~ 05时10分]"
         },
         {
+          "title": "原油ETF",
+          "url": "https://flash.jin10.com/detail/20261112083825670800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
           "title": "加拿大重质原油因油轮运费下降而反弹",
           "url": "https://wallstreetcn.com/livenews/3198638",
           "source": "华尔街见闻-快讯",
@@ -823,7 +905,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
@@ -861,6 +943,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 02时02分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3198684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
@@ -916,7 +1009,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
