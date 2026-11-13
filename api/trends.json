@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T12:03:05.953846+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-11-13T13:03:22.833977+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "A股回购潮延续！天孚通信、华虹宏力、海光信息等热门公司集体公告回购事项",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 13时03分]"
         },
         {
           "title": "美股收盘：AMD“五连阳”累涨超40% 科技硬件链盘后利好频出",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 12时03分]"
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 13时03分]"
         },
         {
           "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
@@ -135,15 +135,15 @@
           "time_info": "[00时02分 ~ 11时03分]"
         },
         {
-          "title": "A股午评：指数冲高回落走势分化 影视院线逆市拉升",
-          "url": "https://flash.jin10.com/detail/20261113114116168800",
-          "source": "金十数据",
+          "title": "A股英伟达概念股遭遇冲击",
+          "url": "https://www.toutiao.com/trending/7707322757604786715/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时03分"
         },
         {
           "title": "A股房地产板块震荡回落，深物业A跌停，特发服务、我爱我家、世联行、阳光股份、信达地产、大名城跟跌。",
@@ -179,17 +179,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "上证指数早盘收报3663.71点，涨0.22%。 深证成指早盘收报11135.40点，跌0.56%。 创业板指早盘收报2472.53点，跌1.47%。 沪深300早盘收报4042.05点，跌0.05%。 科创50早盘收报1303.51点，跌0.48%。 中证500早盘收报6588.58点，跌0.24%。 中证1000早盘收报6514.71点，跌0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3199544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
           "title": "A股游戏板块短线拉升，凯撒文化涨停，大晟文化、完美世界、富春股份、宝通科技、名臣健康等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20261113094057767800",
           "source": "金十数据",
@@ -201,16 +190,40 @@
           "time_info": "10时04分"
         },
         {
+          "title": "英伟达事件发酵 A股产业链公司回应业务情况",
+          "url": "https://flash.jin10.com/detail/20261113123018774800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "恒生科技指数下跌1%。",
           "url": "https://wallstreetcn.com/livenews/3199527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时03分]"
+        },
+        {
+          "title": "A股午评：指数冲高回落走势分化 影视院线逆市拉升",
+          "url": "https://flash.jin10.com/detail/20261113114116168800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时03分]"
+          "time_info": "[12时03分 ~ 13时03分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报23914点。 恒生科技指数主连夜盘收跌0.25%，报3916点。",
@@ -235,6 +248,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 11时03分]"
+        },
+        {
+          "title": "上证指数早盘收报3663.71点，涨0.22%。 深证成指早盘收报11135.40点，跌0.56%。 创业板指早盘收报2472.53点，跌1.47%。 沪深300早盘收报4042.05点，跌0.05%。 科创50早盘收报1303.51点，跌0.48%。 中证500早盘收报6588.58点，跌0.24%。 中证1000早盘收报6514.71点，跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3199544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时03分]"
         },
         {
           "title": "A股半导体芯片开盘领涨，天普股份4连板，华东重机一字涨停，旋极信息、大胜达、摩尔线程、天普股份、寒武纪涨超4%。",
@@ -318,6 +343,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "港股午评：恒指收跌0.92% PCB、光通信板块走低",
+          "url": "https://flash.jin10.com/detail/20261113121535265800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "金十图示：2026年11月12日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261113013449951800",
           "source": "金十数据",
@@ -390,7 +426,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -621,7 +657,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -687,7 +723,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
@@ -695,8 +731,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
+        {
+          "title": "特朗普、马斯克、赵长鹏回应黄仁勋辞职",
+          "url": "https://original.ifeng.com/c/8y0ZpSEe8Cg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 13时03分]"
+        },
         {
           "title": "黄仁勋辞职，谁来接棒英伟达？CUDA之父领跑，特朗普推荐库克",
           "url": "https://www.cls.cn/detail/2533159",
@@ -710,19 +757,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时02分 ~ 12时03分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 13时03分]"
         },
         {
-          "title": "特朗普、马斯克、赵长鹏回应黄仁勋辞职",
-          "url": "https://original.ifeng.com/c/8y0ZpSEe8Cg",
-          "source": "凤凰网",
+          "title": "特朗普称美国不需要与伊朗达成协议，油价直线拉升",
+          "url": "https://wallstreetcn.com/articles/3785827",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 12时03分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 13时03分]"
         },
         {
           "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口",
@@ -735,8 +784,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时02分 ~ 12时03分]"
+          "appearance_count": 12,
+          "time_info": "[05时02分 ~ 13时03分]"
         },
         {
           "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
@@ -746,8 +795,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 12时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 13时03分]"
         },
         {
           "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
@@ -774,19 +823,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 08时03分]"
-        },
-        {
-          "title": "特朗普称美国不需要与伊朗达成协议，油价直线拉升",
-          "url": "https://wallstreetcn.com/articles/3785827",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时02分 ~ 12时03分]"
         },
         {
           "title": "特朗普连续发帖痛斥民主党腐败",
@@ -852,6 +888,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普连发数帖炮轰民主党“腐败”",
+          "url": "https://wallstreetcn.com/livenews/3199559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "乌克兰总统泽连斯基与美国总统特使威特科夫、特朗普女婿库什纳的会谈结束。",
@@ -935,6 +982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "俄方：普京与特朗普将在APEC期间会晤",
+          "url": "https://www.toutiao.com/trending/7707462716412199450/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "特朗普谈黄仁勋：他拥有非凡的才能。 昨天和他谈过话，他为他的家人感到难过。 他最终将会没事的。",
@@ -1335,6 +1393,241 @@
       ]
     },
     {
+      "keyword_group": "美债 国债",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
+          "url": "https://wallstreetcn.com/articles/3785806",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时03分 ~ 13时03分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3199415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 09时04分]"
+        },
+        {
+          "title": "印度10年期国债收益率上行5个基点至7.30%。",
+          "url": "https://wallstreetcn.com/livenews/3199547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时03分]"
+        },
+        {
+          "title": "美国10年期国债收益率涨幅扩大至10个基点，报5.09%。",
+          "url": "https://wallstreetcn.com/livenews/3199255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.28%，10年期主力合约跌0.08%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3199543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时03分]"
+        },
+        {
+          "title": "美国至11月6日当周外国央行持有美国国债 -195.11亿美元，前值-248.97亿美元。",
+          "url": "https://flash.jin10.com/detail/20261113053033259800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "2/10年期美债收益率跌超12个基点，交易员提高对美联储加息前景的押注",
+          "url": "https://wallstreetcn.com/livenews/3199346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "美国财长贝森特：物价正处在良好轨道上。 可以通过经济增长和控制开支来压低美国债务的增长曲线。",
+          "url": "https://wallstreetcn.com/livenews/3199387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时03分]"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261113113201609800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本10年期国债收益率上升8.5个基点，至2.875%。",
+          "url": "https://flash.jin10.com/detail/20261113121657342800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "国债期货开盘，30年期主力合约涨0.13%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3199463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "美国2-5年期国债收益率涨幅扩大至至少10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3199205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "美国财政部拍卖四周期国债，得标利率3.955%，投标倍数2.94。 拍卖八周期国债，得标利率4.080%，投标倍数2.50。",
+          "url": "https://wallstreetcn.com/livenews/3199242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "日本2年期国债收益率上升4.0个基点，至1.890%。",
+          "url": "https://flash.jin10.com/detail/20261113115030196800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "国债期货早盘开盘",
+          "url": "https://flash.jin10.com/detail/20261113093113639800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "周四（11月12日），美联储隔夜逆回购协议（RRP）使用规模为2.5亿美元，上个交易日（11月11日美债休市）报1.52亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3199288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "英国2/10年期国债收益率涨约8个基点",
+          "url": "https://wallstreetcn.com/livenews/3199287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "日本5年期国债收益率上升7个基点至2.265%。",
+          "url": "https://wallstreetcn.com/livenews/3199418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时04分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率4.225%，投标倍数2.78。",
+          "url": "https://wallstreetcn.com/livenews/3199283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "美国财政部拍卖250亿美元30年期国债，得标利率5.441%（10月8日为5.618%——2000年8月份以来最高），投标倍数2.36（前次为2.54）。",
+          "url": "https://wallstreetcn.com/livenews/3199282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "原油",
       "match_count": 20,
       "titles": [
@@ -1563,217 +1856,6 @@
       ]
     },
     {
-      "keyword_group": "美债 国债",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
-          "url": "https://wallstreetcn.com/articles/3785806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时03分 ~ 12时03分]"
-        },
-        {
-          "title": "印度10年期国债收益率上行5个基点至7.30%。",
-          "url": "https://wallstreetcn.com/livenews/3199547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "国债期货早盘收盘，30年期主力合约跌0.28%，10年期主力合约跌0.08%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
-          "url": "https://wallstreetcn.com/livenews/3199543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3199415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时04分]"
-        },
-        {
-          "title": "美国10年期国债收益率涨幅扩大至10个基点，报5.09%。",
-          "url": "https://wallstreetcn.com/livenews/3199255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国至11月6日当周外国央行持有美国国债 -195.11亿美元，前值-248.97亿美元。",
-          "url": "https://flash.jin10.com/detail/20261113053033259800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "2/10年期美债收益率跌超12个基点，交易员提高对美联储加息前景的押注",
-          "url": "https://wallstreetcn.com/livenews/3199346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "美国财长贝森特：物价正处在良好轨道上。 可以通过经济增长和控制开支来压低美国债务的增长曲线。",
-          "url": "https://wallstreetcn.com/livenews/3199387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时03分]"
-        },
-        {
-          "title": "国债期货早盘收盘",
-          "url": "https://flash.jin10.com/detail/20261113113201609800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "国债期货开盘，30年期主力合约涨0.13%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
-          "url": "https://wallstreetcn.com/livenews/3199463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "美国2-5年期国债收益率涨幅扩大至至少10个基点。",
-          "url": "https://wallstreetcn.com/livenews/3199205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国财政部拍卖四周期国债，得标利率3.955%，投标倍数2.94。 拍卖八周期国债，得标利率4.080%，投标倍数2.50。",
-          "url": "https://wallstreetcn.com/livenews/3199242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "国债期货早盘开盘",
-          "url": "https://flash.jin10.com/detail/20261113093113639800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "周四（11月12日），美联储隔夜逆回购协议（RRP）使用规模为2.5亿美元，上个交易日（11月11日美债休市）报1.52亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3199288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "英国2/10年期国债收益率涨约8个基点",
-          "url": "https://wallstreetcn.com/livenews/3199287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "日本5年期国债收益率上升7个基点至2.265%。",
-          "url": "https://wallstreetcn.com/livenews/3199418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时04分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率4.225%，投标倍数2.78。",
-          "url": "https://wallstreetcn.com/livenews/3199283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "美国财政部拍卖250亿美元30年期国债，得标利率5.441%（10月8日为5.618%——2000年8月份以来最高），投标倍数2.36（前次为2.54）。",
-          "url": "https://wallstreetcn.com/livenews/3199282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 10,
       "titles": [
@@ -1798,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "如何评价 Google 11 月 13 日发布的模型 Gemini 4 Hydrogen？",
+          "url": "https://www.zhihu.com/question/2104402653010834622",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 13时03分]"
         },
         {
           "title": "郭明錤：黄仁勋离职为谷歌TPU创造机会，库克在供应链管理及成本控制方面具备优势",
@@ -1848,17 +1941,6 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
-          "title": "如何评价 Google 11 月 13 日发布的模型 Gemini 4 Hydrogen？",
-          "url": "https://www.zhihu.com/question/2104402653010834622",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时02分 ~ 12时03分]"
-        },
-        {
           "title": "谷歌发布Gemini 4 Hydrogen",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini%204%20Hydroge",
           "source": "bilibili 热搜",
@@ -1877,7 +1959,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -1983,7 +2065,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         },
@@ -2088,7 +2170,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周四（11月12日）纽约尾盘，彭博谷物分类指数跌1.53%，报29.4833点。 CBOT玉米期货跌1.28%，报44.225美元/蒲式耳。 CBOT小麦期货跌2.85%，报5.9750美元/蒲式耳。 CBOT大豆期货跌0.93%，报12.1950美元/蒲式耳。",
@@ -2112,6 +2194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "黄金或迎33亿美元指数调仓买盘！法兴银行：明年1月资金将集中涌入",
+          "url": "https://flash.jin10.com/detail/20261113115137558800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     }
