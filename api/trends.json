@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T11:03:03.942147+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-11-13T12:03:05.953846+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 大A 恒生科技 创业板 科创板",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "A股回购潮延续！天孚通信、华虹宏力、海光信息等热门公司集体公告回购事项",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
         },
         {
           "title": "美股收盘：AMD“五连阳”累涨超40% 科技硬件链盘后利好频出",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
         },
         {
           "title": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬",
@@ -135,15 +135,15 @@
           "time_info": "[00时02分 ~ 11时03分]"
         },
         {
-          "title": "恒生科技指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3199527",
-          "source": "华尔街见闻-快讯",
+          "title": "A股午评：指数冲高回落走势分化 影视院线逆市拉升",
+          "url": "https://flash.jin10.com/detail/20261113114116168800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "12时03分"
         },
         {
           "title": "A股房地产板块震荡回落，深物业A跌停，特发服务、我爱我家、世联行、阳光股份、信达地产、大名城跟跌。",
@@ -163,7 +163,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -179,6 +179,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "上证指数早盘收报3663.71点，涨0.22%。 深证成指早盘收报11135.40点，跌0.56%。 创业板指早盘收报2472.53点，跌1.47%。 沪深300早盘收报4042.05点，跌0.05%。 科创50早盘收报1303.51点，跌0.48%。 中证500早盘收报6588.58点，跌0.24%。 中证1000早盘收报6514.71点，跌0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3199544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "A股游戏板块短线拉升，凯撒文化涨停，大晟文化、完美世界、富春股份、宝通科技、名臣健康等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20261113094057767800",
           "source": "金十数据",
@@ -188,6 +199,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "恒生科技指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3199527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时03分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报23914点。 恒生科技指数主连夜盘收跌0.25%，报3916点。",
@@ -250,6 +273,18 @@
           "time_info": "[07时02分 ~ 08时03分]"
         },
         {
+          "title": "创业板指探底回升翻红，此前一度跌超1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3199494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时03分]"
+        },
+        {
           "title": "A股广电系板块异动拉升，湖北广电触及涨停，幸福蓝海、东方明珠、吉视传媒、江苏有线、中广天择、华数传媒跟涨。",
           "url": "https://flash.jin10.com/detail/20261113094050144800",
           "source": "金十数据",
@@ -267,7 +302,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -344,9 +379,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "港股新能源车企股持续震荡走低，蔚来-SW(09866.HK)跌超5%，小鹏集团(09868.HK)跌3.93%，理想汽车(02015.HK)跌2.22%，吉利汽车(00175.HK)跌2.23%。",
+          "url": "https://flash.jin10.com/detail/20261113112922923800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "周五亚太盘初，纳指期货涨超0.3%，闪迪、美光科技、Lumentum、Nebius、SpaceX当前（美股盘后）至少涨约1%，英伟达涨超0.8%，AMD、微软跌超0.2%。",
@@ -459,17 +505,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "创业板指探底回升翻红，此前一度跌超1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3199494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
           "title": "A股算力芯片概念延续此前强势，华东重机一字涨停，旋极信息、大胜达、摩尔线程、天普股份、寒武纪涨超4%。",
           "url": "https://flash.jin10.com/detail/20261113093307173800",
           "source": "金十数据",
@@ -498,7 +533,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -531,7 +566,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -575,9 +610,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "A股AI漫剧概念涨势扩大，华是科技20cm涨停，续创历史新高，此前湖北广电、横店影视、文投控股涨停，幸福蓝海触及20cm涨停，华智数媒、新炬网络、博纳影业涨幅靠前。",
+          "url": "https://flash.jin10.com/detail/20261113111514057800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "A股温度计",
@@ -633,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "A股小家电板块短线拉升，富佳股份涨停，爱仕达、德昌股份、小熊电器、欧圣电气、倍轻松等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20261113111041037800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -653,8 +710,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 11时03分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普、马斯克、赵长鹏回应黄仁勋辞职",
+          "url": "https://original.ifeng.com/c/8y0ZpSEe8Cg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 12时03分]"
+        },
+        {
+          "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口",
+          "url": "https://www.cls.cn/detail/2533138",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[05时02分 ~ 12时03分]"
         },
         {
           "title": "泽连斯基拿特朗普玩梗，逗乐丹麦人",
@@ -664,8 +746,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 11时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 12时03分]"
         },
         {
           "title": "蒂姆·库克被提名为英伟达一把手潜在继任者，特朗普也建议其担任 CEO，库克成为英伟达新掌门的概率大吗？",
@@ -694,29 +776,17 @@
           "time_info": "[01时02分 ~ 08时03分]"
         },
         {
-          "title": "特朗普、马斯克、赵长鹏回应黄仁勋辞职",
-          "url": "https://original.ifeng.com/c/8y0ZpSEe8Cg",
-          "source": "凤凰网",
+          "title": "特朗普称美国不需要与伊朗达成协议，油价直线拉升",
+          "url": "https://wallstreetcn.com/articles/3785827",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普称美国不需要与伊朗达成协议 国际油价大幅拉升 现货黄金失守3900美元关口",
-          "url": "https://www.cls.cn/detail/2533138",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
+            10,
             7,
             6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[05时02分 ~ 11时03分]"
+          "time_info": "[07时02分 ~ 12时03分]"
         },
         {
           "title": "特朗普连续发帖痛斥民主党腐败",
@@ -730,19 +800,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时03分 ~ 11时03分]"
-        },
-        {
-          "title": "特朗普称美国不需要与伊朗达成协议，油价直线拉升",
-          "url": "https://wallstreetcn.com/articles/3785827",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 11时03分]"
         },
         {
           "title": "如何评价特朗普离任时给拜登的信？「与他在现实中的言论截然不同」指的是什么？",
@@ -875,7 +932,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1040,7 +1097,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1117,7 +1174,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1183,7 +1240,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
         },
@@ -1507,7 +1564,7 @@
     },
     {
       "keyword_group": "美债 国债",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "黄仁勋辞职叠加油价走强，美股承压，英伟达市值一度跌破4万亿，美债、黄金遭抛售",
@@ -1519,8 +1576,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时03分 ~ 11时03分]"
+          "appearance_count": 8,
+          "time_info": "[08时03分 ~ 12时03分]"
+        },
+        {
+          "title": "印度10年期国债收益率上行5个基点至7.30%。",
+          "url": "https://wallstreetcn.com/livenews/3199547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约跌0.28%，10年期主力合约跌0.08%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3199543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "中国即将发行或正在发行的国债和政策性金融债",
@@ -1581,6 +1660,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时03分]"
+        },
+        {
+          "title": "国债期货早盘收盘",
+          "url": "https://flash.jin10.com/detail/20261113113201609800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.13%，10年期主力合约涨0.04%，5年期主力合约涨0.03%，2年期主力合约涨0.01%。",
@@ -1685,7 +1775,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：Gemini 4 Hydrogen今天在全球范围内正式推出。",
@@ -1765,19 +1855,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 12时03分]"
         },
         {
           "title": "谷歌发布Gemini 4 Hydrogen",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini%204%20Hydroge",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 12时03分]"
+        },
+        {
+          "title": "韩国政府：若发生严重违反协议的情况，将暂停或吊销谷歌地图的出口许可。",
+          "url": "https://flash.jin10.com/detail/20261113111435306800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "谷歌在全球范围将Gemini 4 Hydrogen接入搜索",
@@ -1794,7 +1896,7 @@
     },
     {
       "keyword_group": "金价 银价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价再迎暴跌专家劝别抄底",
@@ -1870,9 +1972,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时03分"
+        },
+        {
+          "title": "金价连跌三天，今晚PPI能救场吗？",
+          "url": "https://flash.jin10.com/detail/20261113113046040800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "国际金价跌穿3870美元，创逾一年来新低",
