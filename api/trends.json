@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T09:02:53.339528+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-11-14T10:03:03.369916+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "黄仁勋辞职，特朗普“钦点”接班人：乔布斯也没他做得好",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 09时02分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 10时03分]"
         },
         {
           "title": "鲁比奥也上名单了，民主党酝酿调查特朗普政府多名高官",
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 10时03分]"
         },
         {
           "title": "“击败”特朗普后，美国民主党开始内讧了",
@@ -53,8 +53,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 10时03分]"
         },
         {
           "title": "美空管局要求全部航班暂停起飞，特朗普听取简报",
@@ -68,26 +68,27 @@
           "time_info": "[07时02分 ~ 09时02分]"
         },
         {
-          "title": "特朗普说美空管系统故障与网络攻击无关",
-          "url": "https://wallstreetcn.com/livenews/3200069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
           "title": "美国因出现特殊情况及安全原因，所有航班暂停起飞，特朗普已听取简报，具体情况如何？造成影响有多大？",
           "url": "https://www.zhihu.com/question/2104838863910690956",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普：美空管系统故障与网络攻击无关",
+          "url": "https://www.toutiao.com/trending/7707821891762946084/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "美国最高法院将审议是否维持美国总统特朗普的南部边境庇护禁令。",
@@ -100,6 +101,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时03分]"
+        },
+        {
+          "title": "特朗普说美空管系统故障与网络攻击无关",
+          "url": "https://wallstreetcn.com/livenews/3200069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时03分]"
         },
         {
           "title": "美国总统特朗普的AI工作组周四开会，讨论网络威胁，但并没有研究英伟达事件。（Semafor）",
@@ -152,6 +165,17 @@
           "time_info": "[03时03分 ~ 04时03分]"
         },
         {
+          "title": "特朗普：空管系统故障与网络攻击无关",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%A9%BA%E7%AE%A1%E7%B3%BB%E7%BB%9F%E6%95%85%E9%9A%9C%E4%B8%8E%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%97%A0%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "特朗普贸易战重塑Jeep生产计划，加拿大威胁起诉Stellantis",
           "url": "https://wallstreetcn.com/livenews/3200063",
           "source": "华尔街见闻-快讯",
@@ -192,7 +216,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -268,8 +292,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 10时03分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超3%，全市场逾4700股收绿，算力硬件股持续调整",
@@ -280,11 +304,12 @@
             8,
             7,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 10时03分]"
         },
         {
           "title": "港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链",
@@ -312,29 +337,31 @@
           "time_info": "[01时02分 ~ 07时03分]"
         },
         {
+          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
+          "url": "https://www.cls.cn/detail/2534350",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 10时03分]"
+        },
+        {
           "title": "马斯克旗下太空探索公SpaceX宣布，超重型助推器在近海着陆，发生爆炸，半空中捕获任务取消。 该公司股价美股盘后跌1.5%。",
           "url": "https://wallstreetcn.com/livenews/3200050",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             8,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 09时02分]"
-        },
-        {
-          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-          "url": "https://www.cls.cn/detail/2534350",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 10时03分]"
         },
         {
           "title": "周五（11月13日），半导体ETF收跌2.99%，领跌美股行业ETF，科技行业ETF跌2.01%，全球科技股指数ETF、网络股指数ETF至多跌1.67%，能源业ETF涨0.98%。",
@@ -466,11 +493,12 @@
           "ranks": [
             6,
             11,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时03分 ~ 09时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时03分 ~ 10时03分]"
         },
         {
           "title": "美联储报告：部分受访者担忧，持续财政赤字和大量美国国债发行可能引发收益率无序上涨。",
@@ -540,11 +568,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 10时03分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶95.84美元，上涨2美分，涨幅0.02%。",
@@ -639,11 +668,12 @@
           "url": "https://flash.jin10.com/detail/20261114083013548800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时02分 ~ 10时03分]"
         },
         {
           "title": "报道：通用大模型已可操控机器人，OpenAI 解散独立机器人团队",
@@ -751,8 +781,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 10时03分]"
         },
         {
           "title": "金价再度跌破3900美元",
@@ -766,6 +796,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时04分 ~ 03时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek开放全家桶应用API",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%94%BE%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%BA%94%E7%94%A8API",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "怎么看 DeepSeek 发布全家桶 API，这个价格你接受吗？",
+          "url": "https://www.zhihu.com/question/2104704747362054197",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         }
       ]
     },
