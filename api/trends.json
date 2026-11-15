@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T18:02:51.620843+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-11-15T19:02:41.350963+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[02时02分 ~ 18时02分]"
+          "appearance_count": 22,
+          "time_info": "[02时02分 ~ 19时02分]"
         },
         {
           "title": "特朗普：空管系统故障无关网络攻击",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时02分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[11时02分 ~ 19时02分]"
         },
         {
           "title": "报道：特朗普考虑暂缓对伊朗军事打击",
@@ -232,8 +232,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时02分]"
         }
       ]
     },
@@ -266,8 +266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 18时02分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 19时02分]"
         },
         {
           "title": "吴清：A股市情在全球独一无二",
@@ -403,9 +403,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         }
       ]
     },
@@ -438,8 +438,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时02分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek翻唱说谎的马卡龙",
@@ -468,11 +468,12 @@
             16,
             17,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时03分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时03分 ~ 19时02分]"
         },
         {
           "title": "美国中央司令部：在美国的保护下，海湾伙伴国家已通过霍尔木兹海峡运输超过17亿桶原油。",
@@ -529,8 +530,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时02分 ~ 18时02分]"
+          "appearance_count": 24,
+          "time_info": "[01时02分 ~ 19时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 国债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本周市场的“意外”：美债收益率与科技股债同涨",
+          "url": "https://wallstreetcn.com/articles/3785953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     }
